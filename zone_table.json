@@ -575,6 +575,30 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "act33sre_zone1": {
+      "zoneID": "act33sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "我贈予未來",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act33sre_zone2": {
+      "zoneID": "act33sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "我駐留往昔",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act33sre_zone3": {
+      "zoneID": "act33sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "我始終如一",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "act1multi_zone1": {
       "zoneID": "act1multi_zone1",
       "zoneIndex": 0,
@@ -3026,6 +3050,18 @@
     }
   },
   "zoneValidInfo": {
+    "act33sre_zone1": {
+      "startTs": 1763107200,
+      "endTs": 1763927999
+    },
+    "act33sre_zone2": {
+      "startTs": 1763107200,
+      "endTs": 1763927999
+    },
+    "act33sre_zone3": {
+      "startTs": 1763107200,
+      "endTs": 1763927999
+    },
     "act2mainss_zone1": {
       "startTs": 1761897600,
       "endTs": 1763063999

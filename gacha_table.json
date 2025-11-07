@@ -2844,6 +2844,32 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "SINGLE_TC_35_0_6",
+      "gachaIndex": 902,
+      "openTime": 1763107200,
+      "endTime": 1764273599,
+      "gachaPoolName": "如死亦終",
+      "gachaPoolSummary": "結束於11月28日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "定向選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "SINGLE"
+    },
+    {
+      "gachaPoolId": "DOUBLE_TC_35_0_7",
+      "gachaIndex": 903,
+      "openTime": 1763409600,
+      "endTime": 1764619199,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於12月2日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -3947,6 +3973,36 @@
       "gachaRuleType": "CLASSIC_DOUBLE",
       "dynMeta": {
         "base64": "vQAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8xODBfYW1nb2F0AAJzdWI2UmFyaXR5Q2hhcklkABAAAABjaGFyXzE3OV9jZ2JpcmQABHJhcmU1Q2hhckxpc3QARwAAAAIwABAAAABjaGFyXzMyNl9nbGFjdXMAAjEADwAAAGNoYXJfMjQxX3BhbmRhAAIyAA4AAABjaGFyXzI5NF9heWVyAAASc2Nyb2xsSW5kZXgACAAAAAAAAAAA"
+      }
+    },
+    {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_35_0_2",
+      "gachaIndex": 9954,
+      "openTime": 1762977600,
+      "endTime": 1764187199,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於11月27日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8yNTBfcGhhdG9tAAJzdWI2UmFyaXR5Q2hhcklkABAAAABjaGFyXzIxM19tb3N0bWEABHJhcmU1Q2hhckxpc3QASAAAAAIwABAAAABjaGFyXzE0MF93aGl0ZXcAAjEAEAAAAGNoYXJfMTA4X3NpbGVudAACMgAOAAAAY2hhcl8xNThfbWlsdQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_35_0_3",
+      "gachaIndex": 9953,
+      "openTime": 1764187200,
+      "endTime": 1765396799,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於12月11日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "uwAAAAJtYWluNlJhcml0eUNoYXJJZAAOAAAAY2hhcl8zNjJfc2FnYQACc3ViNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8zNDBfc2h3YXoABHJhcmU1Q2hhckxpc3QASAAAAAIwAA4AAABjaGFyXzIyNl9obWF1AAIxABAAAABjaGFyXzI2MV9zZGRyYWcAAjIAEAAAAGNoYXJfMjE4X2N1dHRsZQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
       }
     },
     {
@@ -6549,6 +6605,20 @@
       "startTime": 1762200000,
       "endTime": 1763409599,
       "spriteId": "picDouble_tc_35_0_5"
+    },
+    {
+      "poolId": "SINGLE_TC_35_0_6",
+      "index": 902,
+      "startTime": 1763107200,
+      "endTime": 1764273599,
+      "spriteId": "picSingle_tc_35_0_6"
+    },
+    {
+      "poolId": "DOUBLE_TC_35_0_7",
+      "index": 903,
+      "startTime": 1763409600,
+      "endTime": 1764619199,
+      "spriteId": "picDouble_tc_35_0_7"
     },
     {
       "poolId": "FESCLASSIC_TC_23_0_4",
