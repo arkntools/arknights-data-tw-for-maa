@@ -575,6 +575,37 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "act42side_zone1": {
+      "zoneID": "act42side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "瞻望聖堂",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act42side_zone2": {
+      "zoneID": "act42side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "謁見神祇",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act42side_zone3": {
+      "zoneID": "act42side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "息止安所",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1enemyduel_zone1": {
+      "zoneID": "act1enemyduel_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "act33sre_zone1": {
       "zoneID": "act33sre_zone1",
       "zoneIndex": 0,
@@ -3050,6 +3081,22 @@
     }
   },
   "zoneValidInfo": {
+    "act42side_zone1": {
+      "startTs": 1764309600,
+      "endTs": 1766087999
+    },
+    "act42side_zone2": {
+      "startTs": 1764921600,
+      "endTs": 1766087999
+    },
+    "act42side_zone3": {
+      "startTs": 1765526400,
+      "endTs": 1766087999
+    },
+    "act1enemyduel_zone1": {
+      "startTs": 1764309600,
+      "endTs": 1765655999
+    },
     "act33sre_zone1": {
       "startTs": 1763107200,
       "endTs": 1763927999

@@ -1030,6 +1030,7 @@
     "vc.attention": "<color=#FFD800>{0}</color>",
     "act.missiontips": "<color=#d9bd6a>{0}</color>",
     "lv.hdbg": "<color=#7ba61f>{0}</color>",
+    "vecbreakv2.highlight": "<color=#d8741a>{0}</color>",
     "duel.ping.low": "<color=#7fa826>{0}</color>",
     "duel.ping.medium": "<color=#ec7a00>{0}</color>",
     "duel.ping.high": "<color=#ff3d3d>{0}</color>",
@@ -1099,7 +1100,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 20,
+  "recruitPoolVersion": 21,
   "v006RecruitTimeStep1Refresh": 1577172600,
   "v006RecruitTimeStep2Check": 1577154600,
   "v006RecruitTimeStep2Flush": 1577649600,
@@ -1200,7 +1201,7 @@
     "ba.buffres": {
       "termId": "ba.buffres",
       "termName": "抵抗",
-      "description": "<$ba.stun>暈眩</>、<$ba.cold>寒冷</>、<$ba.frozen>凍結</>等異常狀態的持續時間減半（同名效果不疊加）"
+      "description": "<$ba.stun>暈眩</>、<$ba.cold>寒冷</>、<$ba.frozen>凍結</>等異常狀態的持續時間減半，<$ba.palsy>麻痺</>等效果每5秒流失1層（同名效果不疊加）"
     },
     "ba.invisible": {
       "termId": "ba.invisible",
@@ -1412,6 +1413,21 @@
       "termName": "物理脆弱",
       "description": "受到的物理傷害提升相應比例（同名效果取最高）"
     },
+    "ba.dt.neural2": {
+      "termId": "ba.dt.neural2",
+      "termName": "神經損傷·我方",
+      "description": "累計滿時爆發（普通、精英敵人1000點、領袖2000點累計值），敵人立即受到6000點元素傷害且獲得3層<$ba.palsy>麻痺</>。10秒冷卻"
+    },
+    "ba.palsy": {
+      "termId": "ba.palsy",
+      "termName": "麻痺",
+      "description": "每層麻痺可以使敵人在普通攻擊時打斷本次攻擊，上限3層；麻痺未被消耗時持續時間無限，擁有抵抗的單位每5秒流失1層"
+    },
+    "ba.addbullet": {
+      "termId": "ba.addbullet",
+      "termName": "補彈",
+      "description": "為其他人的彈藥類技能補充彈藥。單次彈藥類技能的持續時間內，最多被補充該次技能所裝有彈藥數量上限的彈藥"
+    },
     "cc.bd_A_1": {
       "termId": "cc.bd_A_1",
       "termName": "念力",
@@ -1622,6 +1638,11 @@
       "termName": "敘拉古",
       "description": "包含以下幹員\n安潔莉娜、拉普蘭德、普羅旺斯、紅雲、布洛卡、巫戀、鈴蘭、賈維、奧斯塔、斥罪、子月、伺夜、阿羅瑪、忍冬、裁度、荒蕪拉普蘭德"
     },
+    "cc.g.laterano": {
+      "termId": "cc.g.laterano",
+      "termName": "拉特蘭",
+      "description": "包含以下幹員\n翎羽、安德切爾、送葬人、莫斯提馬、安比爾、芳汀、空弦、菲亞梅塔、見行者、空構、隱現、塑心、蕾繆安、信仰攪拌機、CONFESS-47"
+    },
     "cc.c.abyssal2_1": {
       "termId": "cc.c.abyssal2_1",
       "termName": "特殊加成",
@@ -1725,7 +1746,7 @@
     "cc.tag.op": {
       "termId": "cc.tag.op",
       "termName": "作業平台",
-      "description": "包含以下幹員\nLancet-2、Castle-3、THRM-EX、正義騎士號、Friston-3、PhonoR-0"
+      "description": "包含以下幹員\nLancet-2、Castle-3、THRM-EX、正義騎士號、Friston-3、PhonoR-0、CONFESS-47"
     },
     "cc.tag.knight": {
       "termId": "cc.tag.knight",
@@ -1752,6 +1773,11 @@
       "termName": "嘉維爾",
       "description": "包含以下幹員\n百煉嘉維爾、嘉維爾"
     },
+    "cc.angel": {
+      "termId": "cc.angel",
+      "termName": "能天使",
+      "description": "包含以下幹員\n新約能天使、能天使"
+    },
     "cc.tra.pepe": {
       "termId": "cc.tra.pepe",
       "termName": "特別獨占訂單",
@@ -1759,8 +1785,8 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "45.4.0",
-  "resPrefVersion": "60d4d0",
+  "dataVersion": "46.1.0",
+  "resPrefVersion": "61d0d0",
   "announceWebBusType": "ak_announcement",
   "videoPlayerWebBusType": "ak_video_player",
   "gachaLogBusType": "ak_gacha_log",
@@ -1837,7 +1863,8 @@
     "alchemist": "PHYSICAL",
     "primprotector": "PHYSICAL",
     "skywalker": "PHYSICAL",
-    "soulcaster": "MAGICAL"
+    "soulcaster": "MAGICAL",
+    "primguard": "PHYSICAL"
   },
   "classicProtectChar": [
     "char_252_bibeak",
@@ -1851,5 +1878,5 @@
   "leapBirthdayRewardMonth": 2,
   "leapBirthdayRewardDay": 28,
   "birthdaySettingShowStageId": "tr_05",
-  "isBirthdayFuncEnabled": false
+  "isBirthdayFuncEnabled": true
 }
