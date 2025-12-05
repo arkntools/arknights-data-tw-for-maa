@@ -4037,6 +4037,20 @@
       }
     },
     {
+      "gachaPoolId": "FESCLASSIC_TC_36_0_1",
+      "gachaIndex": 9952,
+      "openTime": 1765396800,
+      "endTime": 1766606399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於12月25日 03:59",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "FESCLASSIC",
+      "dynMeta": {
+        "base64": "rAgAAANyYXJpdHlQaWNrQ2hhckRpY3QAWAMAAARUSUVSXzUALAIAAAIwABAAAABjaGFyXzEyOF9wbG9zaXMAAjEADwAAAGNoYXJfMTAyX3RleGFzAAIyAA8AAABjaGFyXzEyOV9ibHVlcAACMwAQAAAAY2hhcl8yMDRfcGxhdG5tAAI0AA8AAABjaGFyXzI0Ml9vdHRlcgACNQANAAAAY2hhcl8xNDRfcmVkAAI2ABAAAABjaGFyXzIwMV9tb2VzaGQAAjcAEAAAAGNoYXJfMTk1X2dsYXNzYgACOAAQAAAAY2hhcl8yNDNfd2FhaWZ1AAI5ABAAAABjaGFyXzI2MV9zZGRyYWcAAjEwAA8AAABjaGFyXzM1Nl9icm9jYQACMTEADwAAAGNoYXJfMzA2X2xlaXppAAIxMgAQAAAAY2hhcl8yNTRfdm9kZm94AAIxMwAQAAAAY2hhcl8zNzNfbGlvbmhkAAIxNAAQAAAAY2hhcl8zNzhfYXNiZXN0AAIxNQAQAAAAY2hhcl8zNDlfY2hpYXZlAAIxNgAPAAAAY2hhcl80MDFfZWx5c20AAjE3AA8AAABjaGFyXzQxNV9mbGludAACMTgADwAAAGNoYXJfMzQ2X2Fvc3RhAAIxOQAPAAAAY2hhcl8yMTRfa2Fma2EAAjIwAA4AAABjaGFyXzMzOF9pcmlzAAIyMQAPAAAAY2hhcl8zNjNfdG9kZGkAAjIyABAAAABjaGFyXzQ3NV9ha2FmeXUAAjIzABAAAABjaGFyXzQyMl9hdXJvcmEAAARUSUVSXzYAFwEAAAIwAA8AAABjaGFyXzEzNF9pZnJpdAACMQAQAAAAY2hhcl8yOTFfYWdsaW5hAAIyABAAAABjaGFyXzE3OV9jZ2JpcmQAAjMADwAAAGNoYXJfMjYzX3NrYWRpAAI0AA8AAABjaGFyXzIyMl9icGlwZQACNQAPAAAAY2hhcl80MDBfd2VlZHkAAjYAEAAAAGNoYXJfMzExX211ZHJvawACNwAQAAAAY2hhcl8yNjRfZjEyeWluAAI4ABAAAABjaGFyXzMzMl9hcmNoZXQAAjkAEAAAAGNoYXJfNDM3X21penVraQACMTAAEAAAAGNoYXJfNDc5X3NsZWFjaAACMTEAEAAAAGNoYXJfMjA2X2dub3NpcwAAAAJob21lRGVzY0NvbnN0ANYAAADkuK3loIXnlITpgbjlj688Y29sb3I9IzAwYThmZj7oh6rnlLHpgbjmk4fkuKbpjpblrpo8L2NvbG9yPuacrOacn+apn+eOh+aPkOWNh+W5ueWToe+8gemBuOWumuW+jOacrOasoeWwi+ioqjxjb2xvcj0jMDBhOGZmPuS4jeWPr+iuiuabtDwvY29sb3I+44CC5YmNMTDmrKHlsIvoqKrlv4XlrprnjbLlvpc8Y29sb3I9IzAwYThmZj415pifPC9jb2xvcj7ku6XkuIrlubnlk6HvvIEAAmNob29zZVJ1bGVDb25zdAB9AgAAPGNvbG9yPSMwMGE4ZmY+44CQ5Lit5aCF55SE6YG444CRPC9jb2xvcj7mnJ/plpPvvIzlj6/lnKg8Y29sb3I9IzAwYThmZj7nlITpgbjnr4TlnI3lhafpgbjmk4fkuKbpjpblrpo8L2NvbG9yPuacrOacn+WHuueOh+aPkOWNh+eahDxjb2xvcj0jMDBhOGZmPjLlkI025pif5bm55ZOhPC9jb2xvcj7lkow8Y29sb3I9IzAwYThmZj4z5ZCNNeaYn+W5ueWToTwvY29sb3I+44CCCumBuOWumueahOmBjueoi+S4re+8jOWPr+mAsuS4gOatpemFjee9rjxjb2xvcj0jMDBhOGZmPjHlkI025pif5bm55ZOhPC9jb2xvcj7lkow8Y29sb3I9IzAwYThmZj4x5ZCNNeaYn+W5ueWToTwvY29sb3I+6YCy5YWlPGNvbG9yPSMwMGE4ZmY+5o6h6LO85Lit5b+D5Y+v5L6b5YWM5o+bPC9jb2xvcj7vvIzkuJTkuIrov7DpgbjlrprnmoTlubnlk6HlsIflnKg8Y29sb3I9I2ZmZDgwMD7jgJDpq5jntJrmhpHorYnljYDjgJE8L2NvbG9yPuWSjDxjb2xvcj0jMDBhOGZmPuOAkOmAmueUqOaGkeitieWNgOOAkTwvY29sb3I+5L6b5YWM5o+b44CCCuacrOasoeS4reWgheeUhOmBuOWNoeaxoOacn+mWk++8jOapn+eOh+aPkOWNh+eahOW5ueWToemBuOWumuW+jDxjb2xvcj0jMDBhOGZmPuacrOWRqOacn+WFp+S4jeWPr+WGjeW6puiuiuabtDwvY29sb3I+44CCAAJzdGFyNkNob29zZVJ1bGVDb25zdACeAAAA5pys5pyf5Lit5aCF55SE6YG45Y+v5b6e5Lul5LiLNuaYn+W5ueWToeevhOWcjeWFp+iHqumBuDxjb2xvcj0jMDBhOGZmPjLlkI3lubnlk6E8L2NvbG9yPu+8jOS9v+WFtjxjb2xvcj0jMDBhOGZmPuWQiOioiOWHuuePvuapn+eOh+WNoDbmmJ/lh7rnjofnmoQ1MCU8L2NvbG9yPgACc3RhcjVDaG9vc2VSdWxlQ29uc3QAngAAAOacrOacn+S4reWgheeUhOmBuOWPr+W+nuS7peS4izXmmJ/lubnlk6Hnr4TlnI3lhafoh6rpgbg8Y29sb3I9IzAwYThmZj4z5ZCN5bm55ZOhPC9jb2xvcj7vvIzkvb/lhbY8Y29sb3I9IzAwYThmZj7lkIjoqIjlh7rnj77mqZ/njofljaA15pif5Ye6546H55qENTAlPC9jb2xvcj4AEnNjcm9sbEluZGV4AAgAAAAAAAAAA3BpY2tVcFBlckNoYXJQZXJjZW50ACUAAAABVElFUl81ANobfGEyVcU/AVRJRVJfNgAAAAAAAADQPwAA"
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_TC_33_0_3",
       "gachaIndex": 40,
       "openTime": 1752220800,
@@ -6994,6 +7008,10 @@
     "FESCLASSIC_TC_34_0_4": {
       "rarityRank5ItemId": "classic_fes_pick_tier_5_5801",
       "rarityRank6ItemId": "classic_fes_pick_tier_6_5801"
+    },
+    "FESCLASSIC_TC_36_0_1": {
+      "rarityRank5ItemId": "classic_fes_pick_tier_5_6101",
+      "rarityRank6ItemId": "classic_fes_pick_tier_6_6101"
     }
   },
   "dicRecruit6StarHint": [],

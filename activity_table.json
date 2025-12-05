@@ -183134,7 +183134,8 @@
             "isRoom": false,
             "modeType": "OPERATION",
             "stageIds": [
-              "act1enemyduel_01a"
+              "act1enemyduel_01a",
+              "act1enemyduel_01b"
             ],
             "pageId": 1,
             "innerSortId": 3,
@@ -183165,7 +183166,8 @@
             "isRoom": false,
             "modeType": "OPERATION",
             "stageIds": [
-              "act1enemyduel_02a"
+              "act1enemyduel_02a",
+              "act1enemyduel_02b"
             ],
             "pageId": 1,
             "innerSortId": 2,
@@ -183197,7 +183199,8 @@
             "isRoom": false,
             "modeType": "STAND",
             "stageIds": [
-              "act1enemyduel_02a"
+              "act1enemyduel_02a",
+              "act1enemyduel_02b"
             ],
             "pageId": 1,
             "innerSortId": 1,
@@ -183229,7 +183232,8 @@
             "isRoom": true,
             "modeType": "OPERATION",
             "stageIds": [
-              "act1enemyduel_02a"
+              "act1enemyduel_02a",
+              "act1enemyduel_02b"
             ],
             "pageId": 2,
             "innerSortId": 2,
@@ -183260,7 +183264,8 @@
             "isRoom": true,
             "modeType": "STAND",
             "stageIds": [
-              "act1enemyduel_02a"
+              "act1enemyduel_02a",
+              "act1enemyduel_02b"
             ],
             "pageId": 2,
             "innerSortId": 1,
@@ -184871,6 +184876,10 @@
                 "score": 35
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 25
+              },
+              {
                 "enemyId": "enemy_15002_dqwing",
                 "score": 15
               },
@@ -184881,6 +184890,18 @@
               {
                 "enemyId": "enemy_15004_dqdhdt",
                 "score": 14
+              },
+              {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 21
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 16
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
+                "score": 20
               },
               {
                 "enemyId": "enemy_15008_dqspsb",
@@ -184903,16 +184924,36 @@
                 "score": 3
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 4
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 30
+              },
+              {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 9
               },
               {
                 "enemyId": "enemy_15016_dqdkma",
                 "score": 16
               },
               {
+                "enemyId": "enemy_15017_dqdwlo",
+                "score": 8
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
+                "score": 27
+              },
+              {
                 "enemyId": "enemy_15019_dqharc",
                 "score": 15
+              },
+              {
+                "enemyId": "enemy_15021_dqdurg",
+                "score": 36
               },
               {
                 "enemyId": "enemy_15022_dqhvys",
@@ -184929,6 +184970,38 @@
               {
                 "enemyId": "enemy_15024_dqreid",
                 "score": 125
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 26
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 15
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 10
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 18
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
+                "score": 8
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 15
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 32
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
+                "score": 25
               }
             ]
           },
@@ -185032,6 +185105,10 @@
                 "score": 25
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 15
+              },
+              {
                 "enemyId": "enemy_15002_dqwing",
                 "score": 5
               },
@@ -185042,6 +185119,18 @@
               {
                 "enemyId": "enemy_15004_dqdhdt",
                 "score": 4
+              },
+              {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 11
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 6
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
+                "score": 10
               },
               {
                 "enemyId": "enemy_15008_dqspsb",
@@ -185064,16 +185153,36 @@
                 "score": -2
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": -2
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 20
+              },
+              {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 0
               },
               {
                 "enemyId": "enemy_15016_dqdkma",
                 "score": 6
               },
               {
+                "enemyId": "enemy_15017_dqdwlo",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
+                "score": 17
+              },
+              {
                 "enemyId": "enemy_15019_dqharc",
                 "score": 5
+              },
+              {
+                "enemyId": "enemy_15021_dqdurg",
+                "score": 26
               },
               {
                 "enemyId": "enemy_15022_dqhvys",
@@ -185090,6 +185199,38 @@
               {
                 "enemyId": "enemy_15024_dqreid",
                 "score": 25
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 16
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 5
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 8
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 5
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 22
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
+                "score": 15
               }
             ]
           },
@@ -185153,11 +185294,23 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15003_dqltsw",
                 "score": 100
               },
               {
                 "enemyId": "enemy_15004_dqdhdt",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
                 "score": 100
               },
               {
@@ -185173,7 +185326,19 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15021_dqdurg",
                 "score": 100
               },
               {
@@ -185186,6 +185351,34 @@
               },
               {
                 "enemyId": "enemy_15024_dqreid",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
                 "score": 100
               }
             ]
@@ -185238,6 +185431,10 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15009_dqmgcs",
                 "score": 100
               },
@@ -185246,7 +185443,15 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15016_dqdkma",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15017_dqdwlo",
                 "score": 100
               },
               {
@@ -185255,6 +185460,10 @@
               },
               {
                 "enemyId": "enemy_5054_dqxi",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
                 "score": 100
               }
             ]
@@ -185295,6 +185504,10 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 100
               },
@@ -185305,6 +185518,18 @@
               {
                 "enemyId": "enemy_15023_dqwlfm",
                 "score": 10000
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
+                "score": 100
               }
             ]
           },
@@ -185394,12 +185619,24 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 300
+              },
+              {
                 "enemyId": "enemy_15003_dqltsw",
                 "score": 300
               },
               {
                 "enemyId": "enemy_15004_dqdhdt",
                 "score": 100
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 300
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
+                "score": 300
               },
               {
                 "enemyId": "enemy_15008_dqspsb",
@@ -185414,6 +185651,10 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15021_dqdurg",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15022_dqhvys",
                 "score": 300
               },
@@ -185423,6 +185664,34 @@
               },
               {
                 "enemyId": "enemy_15024_dqreid",
+                "score": 300
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 300
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 300
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 300
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
                 "score": 300
               }
             ]
@@ -185459,7 +185728,19 @@
                 "score": 300
               },
               {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 300
+              },
+              {
                 "enemyId": "enemy_15019_dqharc",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
                 "score": 100
               }
             ]
@@ -185488,6 +185769,10 @@
                 "score": 300
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 300
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 300
               },
@@ -185498,6 +185783,19 @@
               {
                 "enemyId": "enemy_15023_dqwlfm",
                 "score": 100
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
+                "score": 300
+              }
+            ]
+          },
+          "act1enemyduel_npc_21": {
+            "npcId": "act1enemyduel_npc_21",
+            "data": [
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 300
               }
             ]
           },
@@ -185601,6 +185899,10 @@
                 "score": 0
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15002_dqwing",
                 "score": 0
               },
@@ -185611,6 +185913,18 @@
               {
                 "enemyId": "enemy_15004_dqdhdt",
                 "score": 0
+              },
+              {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
+                "score": -300
               },
               {
                 "enemyId": "enemy_15008_dqspsb",
@@ -185633,15 +185947,35 @@
                 "score": 0
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 0
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 0
+              },
+              {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 100
               },
               {
                 "enemyId": "enemy_15016_dqdkma",
                 "score": 0
               },
               {
+                "enemyId": "enemy_15017_dqdwlo",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
+                "score": 0
+              },
+              {
                 "enemyId": "enemy_15019_dqharc",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15021_dqdurg",
                 "score": 0
               },
               {
@@ -185658,6 +185992,38 @@
               },
               {
                 "enemyId": "enemy_15024_dqreid",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 0
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
                 "score": 0
               }
             ]
@@ -185734,6 +186100,10 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15002_dqwing",
                 "score": 100
               },
@@ -185742,11 +186112,23 @@
                 "score": 100
               },
               {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15010_dqcadk",
                 "score": 100
               },
               {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 100
+              },
+              {
                 "enemyId": "enemy_15016_dqdkma",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15017_dqdwlo",
                 "score": 100
               },
               {
@@ -185755,6 +186137,35 @@
               },
               {
                 "enemyId": "enemy_15024_dqreid",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 100
+              }
+            ]
+          },
+          "act1enemyduel_npc_24": {
+            "npcId": "act1enemyduel_npc_24",
+            "data": [
+              {
+                "enemyId": "enemy_15021_dqdurg",
                 "score": 100
               }
             ]
@@ -185802,6 +186213,14 @@
               },
               {
                 "enemyId": "enemy_15016_dqdkma",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15017_dqdwlo",
+                "score": 100
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
                 "score": 100
               }
             ]
@@ -185906,6 +186325,10 @@
                 "score": 50000
               },
               {
+                "enemyId": "enemy_15001_dqsmwa",
+                "score": 20000
+              },
+              {
                 "enemyId": "enemy_15002_dqwing",
                 "score": 10000
               },
@@ -185916,6 +186339,18 @@
               {
                 "enemyId": "enemy_15004_dqdhdt",
                 "score": 19000
+              },
+              {
+                "enemyId": "enemy_15005_dqdsbs",
+                "score": 20000
+              },
+              {
+                "enemyId": "enemy_15006_dqkrgm",
+                "score": 15000
+              },
+              {
+                "enemyId": "enemy_15007_dqbear",
+                "score": 30000
               },
               {
                 "enemyId": "enemy_15008_dqspsb",
@@ -185938,16 +186373,36 @@
                 "score": 2460
               },
               {
+                "enemyId": "enemy_15013_dqsnsl",
+                "score": 3250
+              },
+              {
                 "enemyId": "enemy_15014_dqmmka",
                 "score": 65000
+              },
+              {
+                "enemyId": "enemy_15015_dqmerr",
+                "score": 3200
               },
               {
                 "enemyId": "enemy_15016_dqdkma",
                 "score": 12000
               },
               {
+                "enemyId": "enemy_15017_dqdwlo",
+                "score": 12000
+              },
+              {
+                "enemyId": "enemy_15018_dqskzc",
+                "score": 50000
+              },
+              {
                 "enemyId": "enemy_15019_dqharc",
                 "score": 15000
+              },
+              {
+                "enemyId": "enemy_15021_dqdurg",
+                "score": 18000
               },
               {
                 "enemyId": "enemy_15022_dqhvys",
@@ -185964,6 +186419,38 @@
               {
                 "enemyId": "enemy_15024_dqreid",
                 "score": 50000
+              },
+              {
+                "enemyId": "enemy_15026_dqmtrf",
+                "score": 18000
+              },
+              {
+                "enemyId": "enemy_15027_dqmtrs",
+                "score": 4000
+              },
+              {
+                "enemyId": "enemy_15028_dqmtrb",
+                "score": 9500
+              },
+              {
+                "enemyId": "enemy_15029_dqfrtu",
+                "score": 4000
+              },
+              {
+                "enemyId": "enemy_15030_dqsgpr",
+                "score": 12500
+              },
+              {
+                "enemyId": "enemy_15031_dqhlti",
+                "score": 10500
+              },
+              {
+                "enemyId": "enemy_15032_dqhrgr",
+                "score": 40000
+              },
+              {
+                "enemyId": "enemy_15033_dqclif",
+                "score": 17000
               }
             ]
           }
@@ -186069,6 +186556,10 @@
             "enemyId": "enemy_5055_dqkill",
             "originalEnemyId": "enemy_1516_jakill"
           },
+          "enemy_15001_dqsmwa": {
+            "enemyId": "enemy_15001_dqsmwa",
+            "originalEnemyId": "enemy_2046_smwar"
+          },
           "enemy_15002_dqwing": {
             "enemyId": "enemy_15002_dqwing",
             "originalEnemyId": "enemy_1388_wingnt"
@@ -186080,6 +186571,18 @@
           "enemy_15004_dqdhdt": {
             "enemyId": "enemy_15004_dqdhdt",
             "originalEnemyId": "enemy_1396_dhdts"
+          },
+          "enemy_15005_dqdsbs": {
+            "enemyId": "enemy_15005_dqdsbs",
+            "originalEnemyId": "enemy_1235_dsbskr"
+          },
+          "enemy_15006_dqkrgm": {
+            "enemyId": "enemy_15006_dqkrgm",
+            "originalEnemyId": "enemy_1194_krgmtr"
+          },
+          "enemy_15007_dqbear": {
+            "enemyId": "enemy_15007_dqbear",
+            "originalEnemyId": "enemy_2002_bearmi"
           },
           "enemy_15008_dqspsb": {
             "enemyId": "enemy_15008_dqspsb",
@@ -186101,13 +186604,29 @@
             "enemyId": "enemy_15012_dqbsli",
             "originalEnemyId": "enemy_1021_bslime"
           },
+          "enemy_15013_dqsnsl": {
+            "enemyId": "enemy_15013_dqsnsl",
+            "originalEnemyId": "enemy_1067_snslime"
+          },
           "enemy_15014_dqmmka": {
             "enemyId": "enemy_15014_dqmmka",
             "originalEnemyId": "enemy_1415_mmkabi"
           },
+          "enemy_15015_dqmerr": {
+            "enemyId": "enemy_15015_dqmerr",
+            "originalEnemyId": "enemy_1143_merrpg"
+          },
           "enemy_15016_dqdkma": {
             "enemyId": "enemy_15016_dqdkma",
             "originalEnemyId": "enemy_1225_dkmage"
+          },
+          "enemy_15017_dqdwlo": {
+            "enemyId": "enemy_15017_dqdwlo",
+            "originalEnemyId": "enemy_1275_dwlock"
+          },
+          "enemy_15018_dqskzc": {
+            "enemyId": "enemy_15018_dqskzc",
+            "originalEnemyId": "enemy_2067_skzcy"
           },
           "enemy_15019_dqharc": {
             "enemyId": "enemy_15019_dqharc",
@@ -186116,6 +186635,10 @@
           "enemy_15020_dqplas": {
             "enemyId": "enemy_15020_dqplas",
             "originalEnemyId": "enemy_1137_plasm"
+          },
+          "enemy_15021_dqdurg": {
+            "enemyId": "enemy_15021_dqdurg",
+            "originalEnemyId": "enemy_1264_durgrd_2"
           },
           "enemy_15022_dqhvys": {
             "enemyId": "enemy_15022_dqhvys",
@@ -186132,6 +186655,38 @@
           "enemy_15024_dqreid": {
             "enemyId": "enemy_15024_dqreid",
             "originalEnemyId": "enemy_1539_reid"
+          },
+          "enemy_15026_dqmtrf": {
+            "enemyId": "enemy_15026_dqmtrf",
+            "originalEnemyId": "enemy_1035_haxe_2"
+          },
+          "enemy_15027_dqmtrs": {
+            "enemyId": "enemy_15027_dqmtrs",
+            "originalEnemyId": "enemy_1060_emouse_2"
+          },
+          "enemy_15028_dqmtrb": {
+            "enemyId": "enemy_15028_dqmtrb",
+            "originalEnemyId": "enemy_1097_cclmbjk_2"
+          },
+          "enemy_15029_dqfrtu": {
+            "enemyId": "enemy_15029_dqfrtu",
+            "originalEnemyId": "enemy_1134_diamd"
+          },
+          "enemy_15030_dqsgpr": {
+            "enemyId": "enemy_15030_dqsgpr",
+            "originalEnemyId": "enemy_1153_dsexcu_2"
+          },
+          "enemy_15031_dqhlti": {
+            "enemyId": "enemy_15031_dqhlti",
+            "originalEnemyId": "enemy_10044_wintun_2"
+          },
+          "enemy_15032_dqhrgr": {
+            "enemyId": "enemy_15032_dqhrgr",
+            "originalEnemyId": "enemy_4014_mugnfu"
+          },
+          "enemy_15033_dqclif": {
+            "enemyId": "enemy_15033_dqclif",
+            "originalEnemyId": "enemy_7015_xbcrab2"
           }
         },
         "extraScoreData": {

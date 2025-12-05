@@ -190238,6 +190238,58 @@
       }
     ]
   },
+  "sktok_dqcrsbow": {
+    "skillId": "sktok_dqcrsbow",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "清債程式",
+        "rangeId": "1-1",
+        "description": "向前方連續射出3顆子彈，每顆子彈對碰到的第一個單位造成物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_crsbow",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1
+        }
+      }
+    ]
+  },
+  "sktok_dqelec": {
+    "skillId": "sktok_dqelec",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "通電！",
+        "rangeId": "x-2",
+        "description": "啟動：每<@ba.vup>{interval}</>秒激發電流對經過的敵人造成<@ba.vup>{attack@value}</>點法術傷害，並使其<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_dqelec",
+        "duration": -1,
+        "blackboard": {
+          "interval": 2.3,
+          "attack@value": 250,
+          "attack@sluggish": 1.5
+        }
+      }
+    ]
+  },
   "sktok_hlnpcb_1": {
     "skillId": "sktok_hlnpcb_1",
     "iconId": "sktok_hlnpcb",
