@@ -519,6 +519,13 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "tower_n_18": {
+      "zoneID": "tower_n_18",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "tower_n_01": {
       "zoneID": "tower_n_01",
       "zoneIndex": 0,
@@ -572,6 +579,30 @@
       "zoneID": "rogue_4",
       "zoneIndex": 4,
       "type": "ROGUELIKE",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1break_zone1": {
+      "zoneID": "act1break_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "核心突破",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1break_zone2": {
+      "zoneID": "act1break_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "全力以赴",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1break_zone3": {
+      "zoneID": "act1break_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "特別戰線",
       "canPreview": false,
       "hasAdditionalPanel": false
     },
@@ -3081,6 +3112,18 @@
     }
   },
   "zoneValidInfo": {
+    "act1break_zone1": {
+      "startTs": 1765785600,
+      "endTs": 1767556799
+    },
+    "act1break_zone2": {
+      "startTs": 1766390400,
+      "endTs": 1767556799
+    },
+    "act1break_zone3": {
+      "startTs": 1765785600,
+      "endTs": 1767556799
+    },
     "act42side_zone1": {
       "startTs": 1764309600,
       "endTs": 1766087999

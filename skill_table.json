@@ -183453,6 +183453,88 @@
       }
     ]
   },
+  "sktok_supspt": {
+    "skillId": "sktok_supspt",
+    "iconId": "sktok_supspt",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天工夜行",
+        "rangeId": "0-1",
+        "description": "使用後立即獲得<@ba.vup>10</>點部署費用並隨機調用<@ba.vup>1</>名幹員，若該幹員職業為【特種】，則再次觸發主動效果，待部署區擁擠時不會生效",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_supspt",
+        "duration": 0,
+        "blackboard": {
+          "cost": 10,
+          "interval": 1
+        }
+      }
+    ]
+  },
+  "sktok_supspta": {
+    "skillId": "sktok_supspta",
+    "iconId": "sktok_supspt",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天工夜行",
+        "rangeId": "0-1",
+        "description": "使用後立即獲得<@ba.vup>10</>點部署費用並隨機調用<@ba.vup>1</>名幹員，若該幹員職業為【特種】，則再次觸發主動效果，待部署區擁擠時不會生效",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_supspta",
+        "duration": 0,
+        "blackboard": {
+          "cost": 10,
+          "interval": 1
+        }
+      }
+    ]
+  },
+  "sktok_supsptb": {
+    "skillId": "sktok_supsptb",
+    "iconId": "sktok_supspt",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天工夜行",
+        "rangeId": "0-1",
+        "description": "使用後立即獲得<@ba.vup>30</>點部署費用並隨機調用<@ba.vup>3</>名幹員，若至少有1名幹員職業為【特種】，則再次觸發主動效果，待部署區擁擠時不會生效",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_supsptb",
+        "duration": 0,
+        "blackboard": {
+          "cost": 30,
+          "interval": 1,
+          "cnt": 3
+        }
+      }
+    ]
+  },
   "sktok_dhtl_1": {
     "skillId": "sktok_dhtl_1",
     "iconId": "sktok_dhtl",
