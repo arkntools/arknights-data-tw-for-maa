@@ -81657,6 +81657,3382 @@
       "advancedRuneIdList1": [],
       "advancedRuneIdList2": []
     },
+    "act5bossrush_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_01",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_01",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-1",
+      "name": "嚴寒驟血",
+      "description": "刺骨的風雪夾道，為他獻上喝彩。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_02",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_02",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-2",
+      "name": "無聲破裂",
+      "description": "失去聲音者抗拒一個結局猶如抗拒死亡本身，但那縈繞不散的歌聲依然將她拖向生命的淺灘。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_03",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_03",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-3",
+      "name": "幕間重影",
+      "description": "無人報幕，無人攻訐，無人知曉。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act5bossrush_02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act5bossrush_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_04",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_04",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-4",
+      "name": "沸海遮日",
+      "description": "那從無窮的海中升起的巨影遮盡了光亮，在它背後熊熊燃燒的，究竟是太陽還是海洋？\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_tm01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_tm01",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_01",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-1",
+      "name": "嚴寒驟血",
+      "description": "刺骨的風雪夾道，為他獻上喝彩。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_tm02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_tm02",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_02",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-2",
+      "name": "無聲破裂",
+      "description": "失去聲音者抗拒一個結局猶如抗拒死亡本身，但那縈繞不散的歌聲依然將她拖向生命的淺灘。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_tm03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_tm03",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_03",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-3",
+      "name": "幕間重影",
+      "description": "無人報幕，無人攻訐，無人知曉。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_tm04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_tm04",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_04",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-4",
+      "name": "沸海遮日",
+      "description": "那從無窮的海中升起的巨影遮盡了光亮，在它背後熊熊燃燒的，究竟是太陽還是海洋？\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_tm01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_ex01",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_ex01",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-1",
+      "name": "嚴寒驟血",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<“霜牡”、“雪牝”>在彼此死亡後的攻擊速度額外提升\n\n<盧西恩，“猩紅血鑽”>未被阻擋時閃避物理與法術攻擊的機率提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_tm02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_ex02",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_ex02",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-2",
+      "name": "無聲破裂",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<延命塑路者>塑路者分形獲得和本體相同的防禦力和法術抗性\n\n<接潮主教和接潮斥亡體>接潮斥亡體復活速度提升\n\n<“偏執泡影”>攻擊力和最大生命值提升，防禦力大幅提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_tm03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_ex03",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_ex03",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-3",
+      "name": "幕間重影",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<傷心的大鎖>最大生命值大幅提升\n\n<“劇團喉舌”>攻擊範圍增加\n\n<“劇作家”>釋放法術使幹員離場後的再部署時間大幅延長",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_ex01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act5bossrush_ex02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act5bossrush_ex03",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act5bossrush_tm04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_ex04",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_ex04",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-4",
+      "name": "沸海遮日",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<最後的騎士>防禦力和法術抗性大幅提升\n\n<伊莎瑪拉，腐化之心><伊莎瑪拉之淚>的攻擊力和召喚頻率提升\n\n<伊祖米克，生態泉源>出現更多<伊祖米克的子代>\n\n所有領袖敵人最大生命值提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act5bossrush_fin04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act5bossrush_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act5bossrush_fin04",
+      "levelId": "Activities/ACT5BOSSRUSH/level_bossrush5_fin04",
+      "zoneId": "act5bossrush_zone1",
+      "code": "TN-4",
+      "name": "沸海遮日",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<伊莎瑪拉，腐化之心>攻擊力大幅上升的生命值閾值提升\n\n<伊祖米克，生態泉源>最大生命值、攻擊力、防禦力和法術抗性提升，<伊祖米克的子代>的防禦力和法術抗性提升\n\n所有領袖敵人最大生命值提升，所有敵人的攻擊力和最大生命值進一步提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act5bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_st01",
+      "zoneId": "act43side_zone1",
+      "code": "AD-ST-1",
+      "name": "唆使一場死亡",
+      "description": "彎腰向台下無比期待的觀眾們致禮吧，一場好戲已然開場。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_tr01",
+      "levelId": "Activities/act43side/level_act43side_tr01",
+      "zoneId": "act43side_zone1",
+      "code": "AD-TR-1",
+      "name": "幕間曲",
+      "description": "入戲者們，請盡情表演，如癡如醉！\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_01",
+      "levelId": "Activities/act43side/level_act43side_01",
+      "zoneId": "act43side_zone1",
+      "code": "AD-1",
+      "name": "彩排日",
+      "description": "如心中情緒一般沉重的匕首，從未褪色的回憶，倒下的屍體……都是無聲的邀請。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_02",
+      "levelId": "Activities/act43side/level_act43side_02",
+      "zoneId": "act43side_zone1",
+      "code": "AD-2",
+      "name": "排演一齣悲劇",
+      "description": "看，踏著死亡的節拍，他們開始一步步地走向已經敲定的、最終的結局。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_03",
+      "levelId": "Activities/act43side/level_act43side_03",
+      "zoneId": "act43side_zone1",
+      "code": "AD-3",
+      "name": "戲劇性",
+      "description": "挑選適當的困境，欣賞角色沉溺其中，為其輾轉反側，為其嘔心瀝血……這難道不令人著迷嗎？\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "dangerLevel": "精英1 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_04",
+      "levelId": "Activities/act43side/level_act43side_04",
+      "zoneId": "act43side_zone1",
+      "code": "AD-4",
+      "name": "一個荒唐的早晨",
+      "description": "“荒唐”？不，不要急著現在就給出評價。這齣劇目仍未完成，死亡會賦予角色們新生。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "dangerLevel": "精英1 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_st02",
+      "zoneId": "act43side_zone1",
+      "code": "AD-ST-2",
+      "name": "焦點",
+      "description": "我筆下的角色，會被人所銘記。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_05",
+      "levelId": "Activities/act43side/level_act43side_05",
+      "zoneId": "act43side_zone1",
+      "code": "AD-5",
+      "name": "終將重逢",
+      "description": "我最青睞的主角……你曾離開，但我們終會重逢。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "精英1 LV.30",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_06",
+      "levelId": "Activities/act43side/level_act43side_06",
+      "zoneId": "act43side_zone1",
+      "code": "AD-6",
+      "name": "倒帶獨白",
+      "description": "她在起舞。無論結局為何，她的靈魂已體悟過千百種人生。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30063",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30063",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_07",
+      "levelId": "Activities/act43side/level_act43side_07",
+      "zoneId": "act43side_zone1",
+      "code": "AD-7",
+      "name": "“血鑽”的歌聲",
+      "description": "我已迫不及待。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30033",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30033",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_08",
+      "levelId": "Activities/act43side/level_act43side_08",
+      "zoneId": "act43side_zone1",
+      "code": "AD-8",
+      "name": "登台致禮",
+      "description": "盧西恩，我的“血鑽”，我的孩子——與我登台，與我謝幕，與我共赴新生。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31023",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "31023",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_st03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_st03",
+      "zoneId": "act43side_zone1",
+      "code": "AD-ST-3",
+      "name": "致觀眾",
+      "description": "演出從未落幕。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_st03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex01",
+      "levelId": "Activities/act43side/level_act43side_ex01",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-1",
+      "name": "灰塵道具間",
+      "description": "勞累了一整天的工作人員會在這裡蹲下，拌著遙不可及的夢想，咀嚼自己早已冰涼的晚餐。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "hardStagedId": "act43side_ex01#f#",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex01#f#",
+      "levelId": "Activities/act43side/level_act43side_ex01",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-1",
+      "name": "灰塵道具間",
+      "description": "<@lv.fs>附加條件：</>\n部署費用的回復速度降低",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex02",
+      "levelId": "Activities/act43side/level_act43side_ex02",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-2",
+      "name": "演員化妝間",
+      "description": "從這裡走出去的演員，只會展現出他們最好的那一面。真實與虛假早已不重要，重要的只是吸引觀眾的目光。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "hardStagedId": "act43side_ex02#f#",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex02#f#",
+      "levelId": "Activities/act43side/level_act43side_ex02",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-2",
+      "name": "演員化妝間",
+      "description": "<@lv.fs>附加條件：</>\n特種幹員的部署費用提升至1.5倍",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex03",
+      "levelId": "Activities/act43side/level_act43side_ex03",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-3",
+      "name": "攝影棚廠區",
+      "description": "主角與反派在鏡頭前激烈地爭鬥，莫伊拉被工作人員們擠到一角，踮起腳欣喜地發現，自己製作的道具有了一秒鐘的鏡頭。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "hardStagedId": "act43side_ex03#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex03#f#",
+      "levelId": "Activities/act43side/level_act43side_ex03",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-3",
+      "name": "攝影棚廠區",
+      "description": "<@lv.fs>附加條件：</>\n出現額外的順從內心的設計師",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex04",
+      "levelId": "Activities/act43side/level_act43side_ex04",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-4",
+      "name": "外景拍攝區",
+      "description": "米蘭妮有時會想，外景地裡散落一地的汗水，它們的結晶比領獎台上的聚光燈更加耀眼。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "hardStagedId": "act43side_ex04#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex04#f#",
+      "levelId": "Activities/act43side/level_act43side_ex04",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-4",
+      "name": "外景拍攝區",
+      "description": "<@lv.fs>附加條件：</>\n出現額外的沉浸藝術的臨演，且沉浸藝術的臨演獲得隱匿",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex05",
+      "levelId": "Activities/act43side/level_act43side_ex05",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-5",
+      "name": "電影放映室",
+      "description": "也許是少有的，眾人會不分彼此一同端坐凝神觀看電影的地方。平日裡雙眼會被其他污濁侵佔，但此時眼中的光很難作假。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "hardStagedId": "act43side_ex05#f#",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex05#f#",
+      "levelId": "Activities/act43side/level_act43side_ex05",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-5",
+      "name": "電影放映室",
+      "description": "<@lv.fs>附加條件：</>\n戰場上額外出現<打光道具>",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_outside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex06",
+      "levelId": "Activities/act43side/level_act43side_ex06",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-6",
+      "name": "自助移動酒吧",
+      "description": "令人感到迷狂與歡愉的液體下肚，在這個充滿著夢想與黑暗的地方，也許不用旁人撥弄，人們也會輕而易舉地下墜，墜入無盡深淵。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "hardStagedId": "act43side_ex06#f#",
+      "dangerLevel": "精英2 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex06#f#",
+      "levelId": "Activities/act43side/level_act43side_ex06",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-6",
+      "name": "自助移動酒吧",
+      "description": "<@lv.fs>附加條件：</>\n<打光道具>的生命值提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex07",
+      "levelId": "Activities/act43side/level_act43side_ex07",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-7",
+      "name": "臨演集合區",
+      "description": "這裡從來不缺乏下一個渺小的夢想。一點微小的“鼓勵”，足以讓一個靈魂對憑空捏造的悲喜，生出無窮的渴望。\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。",
+      "hardStagedId": "act43side_ex07#f#",
+      "dangerLevel": "精英2 LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex07#f#",
+      "levelId": "Activities/act43side/level_act43side_ex07",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-7",
+      "name": "臨演集合區",
+      "description": "<@lv.fs>附加條件：</>\n場上有1個位置無法部署，且意識自由的假人移動速度提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act43side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act43side_ex08",
+      "levelId": "Activities/act43side/level_act43side_ex08",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-8",
+      "name": "舞台與無盡的階梯",
+      "description": "舞台永遠可望而不可及，即使無盡的追隨者們都已經倒下，它也會將那混雜著美夢的一切，傳播，傳播……\n<@lv.item><攝影機></>幹員面向攝影機部署在其周圍四格，即可沿幹員面向的方向照射出攝影區域。\n<@lv.item><打光道具></>會遮擋攝影區域，需要10次傷害拆除。",
+      "hardStagedId": "act43side_ex08#f#",
+      "dangerLevel": "精英2 LV.40",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act43side_token_phantom",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act43side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act43side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act43side_ex08#f#",
+      "levelId": "Activities/act43side/level_act43side_ex08",
+      "zoneId": "act43side_zone2",
+      "code": "AD-EX-8",
+      "name": "舞台與無盡的階梯",
+      "description": "<@lv.fs>附加條件：</>\n部分敵人有所不同",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AD_inside",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act43side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
     "act1break_01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -124861,7 +128237,7 @@
         }
       ],
       "stageId": "act34side_st01",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-ST-1",
       "name": "浪潮守望者",
       "description": "在親眼看見之前，人們對浪潮之下的城市有過無數種怪奇的想像。",
@@ -124934,7 +128310,7 @@
       ],
       "stageId": "act34side_01",
       "levelId": "Activities/act34side/level_act34side_01",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-1",
       "name": "第一次接觸",
       "description": "在親眼看見之後，人們發現，不論多麼異樣，那終歸也只是另一群人的故鄉。",
@@ -124970,12 +128346,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125018,13 +128394,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125095,7 +128471,7 @@
       ],
       "stageId": "act34side_tr01",
       "levelId": "Activities/act34side/level_act34side_tr01",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-TR-1",
       "name": "信標投放演習",
       "description": "熟悉海嗣的“結殼”習性與信標的操作方式。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -125168,7 +128544,7 @@
       ],
       "stageId": "act34side_02",
       "levelId": "Activities/act34side/level_act34side_02",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-2",
       "name": "評議式迎接",
       "description": "在重逢時，人們總會試圖確認事物還是熟悉的模樣，彷彿忘記了時間的存在。\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -125204,12 +128580,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125252,13 +128628,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125329,7 +128705,7 @@
       ],
       "stageId": "act34side_03",
       "levelId": "Activities/act34side/level_act34side_03",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-3",
       "name": "如海雪紛散",
       "description": "當同胞的血與海嗣的肉一同在水中飄散，能維繫人性的唯有意志。\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -125365,12 +128741,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125393,13 +128769,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125446,7 +128822,7 @@
       ],
       "stageId": "act34side_04",
       "levelId": "Activities/act34side/level_act34side_04",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-4",
       "name": "犧牲與代價",
       "description": "自願獻身者的死謂之“犧牲”，無辜殞命者的死謂之“代價”。決策之人理應承受犧牲與代價的重量。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -125482,12 +128858,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125510,13 +128886,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125563,7 +128939,7 @@
       ],
       "stageId": "act34side_05",
       "levelId": "Activities/act34side/level_act34side_05",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-5",
       "name": "不治的命運",
       "description": "阿戈爾人一度遺忘了“命運”的概念，但當事態超出人類所能掌控的範圍，每個人都將再度面對自己的命運。\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -125599,12 +128975,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125622,13 +128998,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125669,7 +129045,7 @@
       ],
       "stageId": "act34side_06",
       "levelId": "Activities/act34side/level_act34side_06",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-6",
       "name": "阿戈爾失格",
       "description": "“阿戈爾”所代表的從來都不是一種正義，而是為人的尊嚴。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><小幫手></>可清除<贅生甲殼>和<溟痕>",
@@ -125705,12 +129081,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125728,13 +129104,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125774,10 +129150,10 @@
         }
       ],
       "stageId": "act34side_st02",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-ST-2",
       "name": "如海流倒灌",
-      "description": "海的子嗣平靜地在城市中蔓延，它們不容許大海中有一片不屬於大海的空間。",
+      "description": "海的子嗣平靜地在城市中蔓延，牠們不容許大海中有一片不屬於大海的空間。",
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_PL_square",
@@ -125847,10 +129223,10 @@
       ],
       "stageId": "act34side_07",
       "levelId": "Activities/act34side/level_act34side_07",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-7",
       "name": "從歷史中來",
-      "description": "於是先哲沒入歷史，而“海嗣”從中走來，它第一次理解了他曾經寫下的箴言。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
+      "description": "於是先哲沒入歷史，而“海嗣”從中走來，牠第一次理解了他曾經寫下的箴言。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
       "dangerLevel": "精英2 LV.10",
       "dangerPoint": -1,
       "loadingPicId": "loading_PL_square",
@@ -125883,12 +129259,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125906,13 +129282,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -125953,7 +129329,7 @@
       ],
       "stageId": "act34side_08",
       "levelId": "Activities/act34side/level_act34side_08",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-8",
       "name": "“何謂存續？”",
       "description": "在談論存續的手段之前，首先應談論存續的主體。值得存續的是文明，還是生命？\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -125989,7 +129365,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126002,7 +129378,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126037,7 +129413,7 @@
       ],
       "stageId": "act34side_09",
       "levelId": "Activities/act34side/level_act34side_09",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-9",
       "name": "文明的壁壘",
       "description": "沒有高牆壁壘，就沒有文明。\n<@lv.fs>全體軍團單位注意，迎擊海嗣集群的下一次衝擊！\n機動單位，在艦隊每輪齊射的間隙堅守防線！</>",
@@ -126073,7 +129449,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126086,7 +129462,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126120,7 +129496,7 @@
         }
       ],
       "stageId": "act34side_st03",
-      "zoneId": "act34side_zone1",
+      "zoneId": "act34sre_zone1",
       "code": "BP-ST-3",
       "name": "歧路者與同行者",
       "description": "志向相同之人走上歧路，理念相悖之人一路同行。",
@@ -126193,7 +129569,7 @@
       ],
       "stageId": "act34side_ex01",
       "levelId": "Activities/act34side/level_act34side_ex01",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-1",
       "name": "紀恥柱-無謂的紛爭",
       "description": "不論落後還是先進，混亂與衝突是文明的必經之路。阿戈爾人只是在銘記代價的同時，意識到了紛爭本無意義。\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -126230,7 +129606,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126243,7 +129619,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126282,7 +129658,7 @@
       ],
       "stageId": "act34side_ex01#f#",
       "levelId": "Activities/act34side/level_act34side_ex01",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-1",
       "name": "紀恥柱-無謂的紛爭",
       "description": "<@lv.fs>附加條件：</>\n出現額外的敵人",
@@ -126355,7 +129731,7 @@
       ],
       "stageId": "act34side_ex02",
       "levelId": "Activities/act34side/level_act34side_ex02",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-2",
       "name": "紀念壇-阿戈爾和平",
       "description": "阿戈爾人達成共識，他們坐擁足夠豐盈的資源，而資源應當被用於人類文明的發展，而非人類文明的毀滅。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -126392,7 +129768,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126405,7 +129781,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126444,7 +129820,7 @@
       ],
       "stageId": "act34side_ex02#f#",
       "levelId": "Activities/act34side/level_act34side_ex02",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-2",
       "name": "紀念壇-阿戈爾和平",
       "description": "<@lv.fs>附加條件：</>\n異光體飼育者的攻擊速度、移動速度、生命值提升",
@@ -126517,7 +129893,7 @@
       ],
       "stageId": "act34side_ex03",
       "levelId": "Activities/act34side/level_act34side_ex03",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-3",
       "name": "大浴場-智識交會處",
       "description": "阿戈爾人渴求創造，視創造性活動為人類的天職。哪怕在洗浴時，阿戈爾人也未有一刻停止思想的碰撞。\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -126554,7 +129930,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126567,7 +129943,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126606,7 +129982,7 @@
       ],
       "stageId": "act34side_ex03#f#",
       "levelId": "Activities/act34side/level_act34side_ex03",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-3",
       "name": "大浴場-智識交會處",
       "description": "<@lv.fs>附加條件：</>\n部分敵人有所不同",
@@ -126679,7 +130055,7 @@
       ],
       "stageId": "act34side_ex04",
       "levelId": "Activities/act34side/level_act34side_ex04",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-4",
       "name": "熔岩導橋-地幔脈搏",
       "description": "每一代阿戈爾人都在向下探尋，在挖掘先史文明遺產的同時，他們也從地幔層泵出了這顆星球熾熱的血液。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -126716,7 +130092,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126729,7 +130105,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126768,7 +130144,7 @@
       ],
       "stageId": "act34side_ex04#f#",
       "levelId": "Activities/act34side/level_act34side_ex04",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-4",
       "name": "熔岩導橋-地幔脈搏",
       "description": "<@lv.fs>附加條件：</>\n初始出現額外的敵人",
@@ -126841,7 +130217,7 @@
       ],
       "stageId": "act34side_ex05",
       "levelId": "Activities/act34side/level_act34side_ex05",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-5",
       "name": "水脈中樞-洋流噴泉",
       "description": "水脈中樞誕生的目的是矯正過度開發海洋造成的洋流紊亂。偶爾，阿戈爾人也會用它來辦一場無害的噴泉演出。\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -126878,7 +130254,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126891,7 +130267,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -126930,7 +130306,7 @@
       ],
       "stageId": "act34side_ex05#f#",
       "levelId": "Activities/act34side/level_act34side_ex05",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-5",
       "name": "水脈中樞-洋流噴泉",
       "description": "<@lv.fs>附加條件：</>\n初始存在的贅生甲殼數量減少",
@@ -127003,7 +130379,7 @@
       ],
       "stageId": "act34side_ex06",
       "levelId": "Activities/act34side/level_act34side_ex06",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-6",
       "name": "探測基地-謎題之門",
       "description": "阿戈爾從未停止過向陸地投放探測器，但他們發現的不是值得利用的資源，而是這顆行星尚待解答的謎題。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -127040,7 +130416,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127053,7 +130429,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127092,7 +130468,7 @@
       ],
       "stageId": "act34side_ex06#f#",
       "levelId": "Activities/act34side/level_act34side_ex06",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-6",
       "name": "探測基地-謎題之門",
       "description": "<@lv.fs>附加條件：</>\n“受詛者”的攻擊力、生命值提升",
@@ -127165,7 +130541,7 @@
       ],
       "stageId": "act34side_ex07",
       "levelId": "Activities/act34side/level_act34side_ex07",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-7",
       "name": "基因種質庫-萬物殿",
       "description": "人類之後，海嗣是第二個能改造其他生物的物種。所謂“生態保護”，或許只是在與海嗣爭奪生命形態的定義權。\n<@lv.item><贅生甲殼></>可部署高台幹員\n<@lv.item><航道信標></>需要高台單位充能；開啟後使我方單位獲得灼燃損傷能力",
@@ -127202,7 +130578,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127215,7 +130591,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127254,7 +130630,7 @@
       ],
       "stageId": "act34side_ex07#f#",
       "levelId": "Activities/act34side/level_act34side_ex07",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-7",
       "name": "基因種質庫-萬物殿",
       "description": "<@lv.fs>附加條件：</>\n場上有1個位置無法部署",
@@ -127327,7 +130703,7 @@
       ],
       "stageId": "act34side_ex08",
       "levelId": "Activities/act34side/level_act34side_ex08",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-8",
       "name": "瑪利圖斯的鬥智場",
       "description": "先哲瑪利圖斯總在衡量，總在躊躇。在鬥智場中踱步時，他可曾想過自己終有一日將對所有生命做出判決？\n<@lv.item><贅生甲殼></>可部署高台幹員",
@@ -127364,7 +130740,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127377,7 +130753,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act34side_token_chip",
+            "id": "act34side_token_chip_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -127416,7 +130792,7 @@
       ],
       "stageId": "act34side_ex08#f#",
       "levelId": "Activities/act34side/level_act34side_ex08",
-      "zoneId": "act34side_zone2",
+      "zoneId": "act34sre_zone2",
       "code": "BP-EX-8",
       "name": "瑪利圖斯的鬥智場",
       "description": "<@lv.fs>附加條件：</>\n瑪利圖斯，“海嗣”釋放【引導演化】提供的神經損傷能力大幅提升、釋放【人性之囚】的頻率增加",
@@ -433271,6 +436647,170 @@
       "startTs": 1741852800,
       "endTs": -1
     },
+    "act5bossrush_01": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_02": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_03": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_04": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_tm01": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_tm02": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_tm03": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_tm04": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_ex01": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_ex02": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_ex03": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_ex04": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act5bossrush_fin04": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act43side_st01": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_tr01": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_01": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_02": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_03": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_04": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_st02": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_05": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_06": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_07": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_08": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_st03": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_ex01": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex01#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex02": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex02#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex03": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex03#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex04": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex04#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex05": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex05#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex06": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex06#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex07": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex07#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex08": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act43side_ex08#f#": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
     "act1break_01": {
       "startTs": 1765785600,
       "endTs": 1767556799
@@ -435116,120 +438656,120 @@
       "endTs": 1747252799
     },
     "act34side_st01": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_01": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_tr01": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_02": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_03": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_04": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_05": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_06": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_st02": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_07": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_08": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_09": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_st03": {
-      "startTs": 1743400800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex01": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex01#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex02": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex02#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex03": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex03#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex04": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex04#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex05": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex05#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex06": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex06#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex07": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex07#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex08": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act34side_ex08#f#": {
-      "startTs": 1744012800,
-      "endTs": 1744574399
+      "startTs": 1768204800,
+      "endTs": 1769025599
     },
     "act2vmulti-tr01": {
       "startTs": 1741852800,
@@ -443306,6 +446846,15 @@
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act28side"
         },
+        "ssLine_act43side": {
+          "locationId": "ssLine_act43side",
+          "locationType": "STORY_SET",
+          "sortId": 12030,
+          "startTime": 1766995200,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act43side"
+        },
         "ssLine_act4d0_before1": {
           "locationId": "ssLine_act4d0_before1",
           "locationType": "BEFORE",
@@ -444404,6 +447953,8 @@
           "tag_13",
           "tag_16"
         ],
+        "reopenActivityId": "act34sre",
+        "retroActivityId": "permanent_sidestory_26_Path_Of_Life",
         "isRecommended": false
       }
     },
@@ -444779,6 +448330,28 @@
         ],
         "reopenActivityId": "act28sre",
         "retroActivityId": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures",
+        "isRecommended": false
+      }
+    },
+    "setId_ssLine_act43side": {
+      "storySetId": "setId_ssLine_act43side",
+      "storySetType": "SS",
+      "sortByYear": 6,
+      "sortWithinYear": 15,
+      "kvImageId": "kv_act_or_die",
+      "titleImageId": "title_act_or_die",
+      "gameMusicId": "music_3in1bg_act43side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_4198_christ",
+      "relevantActivityId": "act43side",
+      "ssData": {
+        "name": "紅絲絨",
+        "desc": "藍卡塢拍攝地塊駛向荒野，眾人受困其中，無法離開。\n一場多年前的舊案正在如今的人們心中作祟。\n喜悅、恐懼、惶惑、懷疑、憤怒和仇恨輪番登場——\n直到淋漓的鮮血為這一切畫上一個濃墨重彩的句點。\n在這一切背後，是誰以情緒做筆，撰寫這齣荒誕的悲劇？\n盧西恩掀開幕布，他將登台，他將領銜。",
+        "backgroundId": "storybg_act_or_die",
+        "tags": [
+          "tag_13",
+          "tag_16"
+        ],
         "isRecommended": false
       }
     },

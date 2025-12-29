@@ -54156,6 +54156,448 @@
       }
     ]
   },
+  "skchr_christ_1": {
+    "skillId": "skchr_christ_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.1,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.15,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.15,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.15,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.2,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.3,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.4,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      },
+      {
+        "name": "自由用餐禮儀",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，同時攻擊<@ba.vup>2</>名敵人，攻擊附帶造成法術傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_1",
+        "duration": 25,
+        "blackboard": {
+          "atk": 0.5,
+          "attack@max_target": 2,
+          "attack@ep_damage_ratio": 0.15
+        }
+      }
+    ]
+  },
+  "skchr_christ_2": {
+    "skillId": "skchr_christ_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.5,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.65
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.5,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.65
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.5,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.65
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.6,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.75
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.6,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.75
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.6,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.75
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.75,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.85
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 0.85,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 0.95
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 1,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 1.05
+        }
+      },
+      {
+        "name": "狂飲之宴",
+        "description": "停止攻擊，向目標所在的位置釋放感知靈體，感知靈體每秒對周圍所有敵人造成一次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害且對處於<$ba.dt.neural2>神經損傷</>爆發期間的目標額外造成相當於攻擊力<@ba.vup>{atk_scale_ep:0%}</>的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_christ_2",
+        "duration": 20,
+        "blackboard": {
+          "atk": 0,
+          "projectile_delay_time": 20,
+          "atk_scale_ep": 1.15,
+          "interval": 1,
+          "projectile_range": 1.5,
+          "atk_scale": 1.15
+        }
+      }
+    ]
+  },
   "skchr_lionhd_2": {
     "skillId": "skchr_lionhd_2",
     "hidden": false,
@@ -93560,6 +94002,418 @@
       }
     ]
   },
+  "skchr_tippi_1": {
+    "skillId": "skchr_tippi_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.3,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.35,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.4,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 32,
+        "blackboard": {
+          "atk": 0.45,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 32,
+        "blackboard": {
+          "atk": 0.5,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 32,
+        "blackboard": {
+          "atk": 0.55,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 34,
+        "blackboard": {
+          "atk": 0.6,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 7,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 36,
+        "blackboard": {
+          "atk": 0.75,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 38,
+        "blackboard": {
+          "atk": 0.9,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "專業噴繪技巧",
+        "rangeId": "2-3",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_1",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1,
+          "attack@height_offset": 0.8
+        }
+      }
+    ]
+  },
+  "skchr_tippi_2": {
+    "skillId": "skchr_tippi_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.1,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.13,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.16,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.2,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.23,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.26,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.3,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.35,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.4,
+          "attack@height_offset": 0.8
+        }
+      },
+      {
+        "name": "緊急趕場通知",
+        "rangeId": "y-1",
+        "description": "立刻<$ba.liftoff>起飛</>，攻擊範圍<@ba.vup>擴大</>，攻擊力<@ba.vup>+{atk:0%}</>，攻擊變為<@ba.vup>3</>連射\n<@ba.rem>受到攻擊後觸發，並閃避本次物理或法術傷害</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_tippi_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.5,
+          "attack@height_offset": 0.8
+        }
+      }
+    ]
+  },
   "skchr_angel_1": {
     "skillId": "skchr_angel_1",
     "hidden": false,
@@ -132193,6 +133047,1147 @@
           "cello_s_3[atk].atk": 0.3,
           "cello_s_3[def].def": 0.3
         }
+      }
+    ]
+  },
+  "skchr_phatm2_1": {
+    "skillId": "skchr_phatm2_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.9,
+          "ep_damage_scale": 1.2,
+          "unmove": 1.5,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.95,
+          "ep_damage_scale": 1.2,
+          "unmove": 1.5,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1,
+          "ep_damage_scale": 1.2,
+          "unmove": 1.5,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.05,
+          "ep_damage_scale": 1.3,
+          "unmove": 2,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.1,
+          "ep_damage_scale": 1.3,
+          "unmove": 2,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.15,
+          "ep_damage_scale": 1.3,
+          "unmove": 2,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.2,
+          "ep_damage_scale": 1.5,
+          "unmove": 3,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.3,
+          "ep_damage_scale": 1.6,
+          "unmove": 3,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.4,
+          "ep_damage_scale": 1.7,
+          "unmove": 3,
+          "times": 2
+        }
+      },
+      {
+        "name": "暗夜回聲",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.5,
+          "ep_damage_scale": 1.8,
+          "unmove": 3,
+          "times": 2
+        }
+      }
+    ]
+  },
+  "skchr_phatm2_2": {
+    "skillId": "skchr_phatm2_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.85,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 15,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.9,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 15,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.95,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 15,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 20,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.05,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 20,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.1,
+          "ep_damage_ratio_token": 0.15,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 20,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.2,
+          "ep_damage_ratio_token": 0.2,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 25,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.3,
+          "ep_damage_ratio_token": 0.2,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 30,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.4,
+          "ep_damage_ratio_token": 0.2,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 30,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      },
+      {
+        "name": "群體性譫妄",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，第一天賦濺射範圍<@ba.vup>擴大</>；期間可以使用一個本能的召喚，部署後<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先精英或領袖）<@ba.vup>10</>秒，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>持續時間無限，本能的召喚有獨立再部署時間</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.5,
+          "ep_damage_ratio_token": 0.25,
+          "cnt": 1,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "attack_speed": 35,
+          "talent@range_radius": 1.5,
+          "attack@projectile_range": 0
+        }
+      }
+    ]
+  },
+  "sktok_phatm2_encdool_2": {
+    "skillId": "sktok_phatm2_encdool_2",
+    "iconId": "sktok_phatm2_encdool",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.85,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.9,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.95,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.05,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.1,
+          "ep_damage_ratio_token": 0.15,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.2,
+          "ep_damage_ratio_token": 0.2,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.3,
+          "ep_damage_ratio_token": 0.2,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.4,
+          "ep_damage_ratio_token": 0.2,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      },
+      {
+        "name": "本能的召喚",
+        "description": "<$ba.attract>誘導</>最多<@ba.vup>{max_target}</>名進入範圍的可達敵人（優先選擇精英或領袖）在<@ba.vup>10</>秒內走向其所在位置，首個目標到達後撤退並使周圍所有敵人在<@ba.vup>{buff_time}</>秒內<$ba.sluggish>停頓</>、每<@ba.vup>{interval_damage}</>秒受到酒神攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害和攻擊力<@ba.vup>{ep_damage_ratio_token:0%}</>的<$ba.dt.neural2>神經損傷</>\n<@ba.rem>10秒後自動撤退，擁有獨立再部署時間</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_encdool_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.5,
+          "ep_damage_ratio_token": 0.25,
+          "ability_range_radius": 0.4,
+          "buff_time": 6,
+          "sluggish": 6,
+          "interval_damage": 0.5,
+          "max_target": 4,
+          "interval": 10
+        }
+      }
+    ]
+  },
+  "skchr_phatm2_3": {
+    "skillId": "skchr_phatm2_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.6,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.65,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.7,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 9,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.75,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 12,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.8,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.85,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 0.95,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 1.05,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 26,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 1.15,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      },
+      {
+        "name": "空劇場",
+        "rangeId": "y-8",
+        "description": "攻擊範圍擴大，攻擊力<@ba.vup>+{atk:0%}</>，優先攻擊未處於損傷爆發期間的敵人，技能期間酒神造成過<$ba.dt.neural2>神經損傷</>的敵人每秒受到攻擊力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>直至爆發；範圍內敵人<$ba.dt.neural2>神經損傷</>冷卻恢復速度<@ba.vup>+{talent@ep_break_recover_speed:0%}</>，<$ba.dt.neural2>神經損傷</>爆發時在其地面位置生成/更新一個迷狂牢籠",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 30,
+          "increment": 1
+        },
+        "prefabId": "skchr_phatm2_3",
+        "duration": 30,
+        "blackboard": {
+          "atk": 1.25,
+          "ep_damage_ratio": 0.1,
+          "interval": 1,
+          "phatm2_s_3[token_cooldown].interval": 30,
+          "talent@ep_break_recover_speed": 0.5
+        }
+      }
+    ]
+  },
+  "sktok_phatm2_mndclv_3": {
+    "skillId": "sktok_phatm2_mndclv_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
+      },
+      {
+        "name": "迷狂牢籠",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_phatm2_mndclv_3",
+        "duration": -1,
+        "blackboard": []
       }
     ]
   },

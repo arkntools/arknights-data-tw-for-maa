@@ -582,6 +582,46 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "act5bossrush_zone1": {
+      "zoneID": "act5bossrush_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "強敵當前",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act43side_zone1": {
+      "zoneID": "act43side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "演出開始",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act43side_zone2": {
+      "zoneID": "act43side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "為戲劇，為永恆",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act34sre_zone1": {
+      "zoneID": "act34sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "信標投放",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act34sre_zone2": {
+      "zoneID": "act34sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "防線鞏固",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "act1break_zone1": {
       "zoneID": "act1break_zone1",
       "zoneIndex": 0,
@@ -3023,6 +3063,22 @@
       "zoneNameSecond": "大江北岸",
       "canPreview": false,
       "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_26_zone1": {
+      "zoneID": "permanent_sidestory_26_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "信標投放",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_26_zone2": {
+      "zoneID": "permanent_sidestory_26_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "防線鞏固",
+      "canPreview": false,
+      "hasAdditionalPanel": false
     }
   },
   "weeklyAdditionInfo": {
@@ -3112,6 +3168,26 @@
     }
   },
   "zoneValidInfo": {
+    "act5bossrush_zone1": {
+      "startTs": 1768550400,
+      "endTs": 1769716799
+    },
+    "act43side_zone1": {
+      "startTs": 1766995200,
+      "endTs": 1768161599
+    },
+    "act43side_zone2": {
+      "startTs": 1767600000,
+      "endTs": 1768161599
+    },
+    "act34sre_zone1": {
+      "startTs": 1768204800,
+      "endTs": 1769025599
+    },
+    "act34sre_zone2": {
+      "startTs": 1768204800,
+      "endTs": 1769025599
+    },
     "act1break_zone1": {
       "startTs": 1765785600,
       "endTs": 1767556799
