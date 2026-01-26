@@ -59678,6 +59678,418 @@
       }
     ]
   },
+  "skchr_reckpr_1": {
+    "skillId": "skchr_reckpr_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1,
+          "max_target": 2,
+          "cnt": 1
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.05,
+          "max_target": 2,
+          "cnt": 1
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.1,
+          "max_target": 2,
+          "cnt": 1
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.15,
+          "max_target": 2,
+          "cnt": 2
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.2,
+          "max_target": 2,
+          "cnt": 2
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.25,
+          "max_target": 2,
+          "cnt": 2
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.3,
+          "max_target": 2,
+          "cnt": 3
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.35,
+          "max_target": 2,
+          "cnt": 3
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.45,
+          "max_target": 2,
+          "cnt": 3
+        }
+      },
+      {
+        "name": "觸類旁通",
+        "description": "下次治療可以恢復相當於攻擊力<@ba.vup>{heal_scale:0%}</>的生命，並額外治療一個目標\n<@ba.rem>可充能{cnt}次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_1",
+        "duration": 0,
+        "blackboard": {
+          "heal_scale": 1.55,
+          "max_target": 2,
+          "cnt": 3
+        }
+      }
+    ]
+  },
+  "skchr_reckpr_2": {
+    "skillId": "skchr_reckpr_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 50,
+          "atk": 0.3
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 60,
+          "atk": 0.35
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 70,
+          "atk": 0.4
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 80,
+          "atk": 0.45
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 90,
+          "atk": 0.5
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 100,
+          "atk": 0.55
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 120,
+          "atk": 0.6
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 130,
+          "atk": 0.7
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 140,
+          "atk": 0.75
+        }
+      },
+      {
+        "name": "一點關竅",
+        "description": "攻擊力<@ba.vup>+{atk:0%}</>，治療幹員後為其施加一個增益，使其在{attack@buff_duration}秒內每次受到傷害時恢復<@ba.vup>{attack@fixed_heal_value}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_reckpr_2",
+        "duration": 25,
+        "blackboard": {
+          "attack@buff_duration": 10,
+          "attack@fixed_heal_value": 150,
+          "atk": 0.8
+        }
+      }
+    ]
+  },
   "skchr_ceylon_1": {
     "skillId": "skchr_ceylon_1",
     "hidden": false,
@@ -133056,7 +133468,7 @@
     "levels": [
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133077,7 +133489,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133098,7 +133510,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133119,7 +133531,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133140,7 +133552,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133161,7 +133573,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133182,7 +133594,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133203,7 +133615,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133224,7 +133636,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -133245,7 +133657,7 @@
       },
       {
         "name": "暗夜回聲",
-        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</><@ba.vup>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
+        "description": "下次攻擊造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並使目標<$ba.root>束縛</><@ba.vup>{unmove}</>秒，該次<$ba.root>束縛</>期間目標受到的<$ba.dt.neural2>神經損傷</>提升至<@ba.vup>{ep_damage_scale}</>倍，優先攻擊未處於爆發期間的敵人",
         "skillType": "AUTO",
         "durationType": "NONE",
         "spData": {
@@ -178490,6 +178902,664 @@
       }
     ]
   },
+  "skchr_leizi2_1": {
+    "skillId": "skchr_leizi2_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 15,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.3
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 15,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.4
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 15,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.5
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 14,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.6
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 14,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.7
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 14,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 2.85
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 13,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 3
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 13,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 3.15
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 13,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 3.35
+        }
+      },
+      {
+        "name": "浩氣長存",
+        "rangeId": "3-19",
+        "description": "攻擊範圍<@ba.vup>朝前方和兩側擴大</>。對三個方向的地面敵人各造成相當於攻擊力<@ba.vup>{attack@atk_scale_s1:0%}</>的物理傷害\n<@ba.rem>可充能3次，充能耗盡前特性不重置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 3,
+          "spCost": 11,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_1",
+        "duration": -1,
+        "blackboard": {
+          "attack@atk_scale_s1": 3.55
+        }
+      }
+    ]
+  },
+  "skchr_leizi2_2": {
+    "skillId": "skchr_leizi2_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.03,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 51,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.07,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.1,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.15,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.2,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.25,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.3,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.4,
+          "attack@max_target_s2": 3,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      },
+      {
+        "name": "正霆攝威",
+        "description": "攻擊範圍<@ba.vup>沿地面地塊擴展至最遠三格</>，攻擊對<@ba.vup>{attack@max_target_s2}</>個目標造成相當於攻擊力<@ba.vup>{attack@atk_scale_s2:0%}</>的物理傷害。技能期間每次落雷使攻擊力<@ba.vup>+{thunder_atk:0%}</>（最多可疊加25次）",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_2",
+        "duration": 36,
+        "blackboard": {
+          "attack@atk_scale_s2": 1.5,
+          "attack@max_target_s2": 4,
+          "thunder_atk": 0.1,
+          "thunder_max_stack_cnt": 25
+        }
+      }
+    ]
+  },
+  "skchr_leizi2_3": {
+    "skillId": "skchr_leizi2_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 1.8,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.35,
+          "prob": 0.05,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 1.9,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.38,
+          "prob": 0.05,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.42,
+          "prob": 0.05,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.1,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.45,
+          "prob": 0.07,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.2,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.48,
+          "prob": 0.07,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.3,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.52,
+          "prob": 0.07,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.4,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.56,
+          "prob": 0.1,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.6,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.6,
+          "prob": 0.1,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 2.8,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.65,
+          "prob": 0.1,
+          "not_combat": 3
+        }
+      },
+      {
+        "name": "天地通明",
+        "rangeId": "2-1",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊間隔<@ba.vdown>大幅延長</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale_s3:0%}</>的範圍物理傷害，目標位置產生朝四周<@ba.vup>流動三格</>的電流。電流碰到自身或高台時<@ba.vup>反彈</>，電流所在地塊上所有敵人每0.6秒受到司霆驚蟄攻擊力<@ba.vup>{attack@atk_scale_current:0%}</>的法術傷害，且有<@ba.vup>{prob:0%}</>機率<$ba.tremble>戰慄</><@ba.vup>3秒</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_leizi2_3",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_s3": 3,
+          "base_attack_time": 1.7,
+          "attack@range_radius": 1.65,
+          "attack@atk_scale_current": 0.7,
+          "prob": 0.15,
+          "not_combat": 3
+        }
+      }
+    ]
+  },
   "skcom_withdraw": {
     "skillId": "skcom_withdraw",
     "hidden": false,
@@ -192332,7 +193402,7 @@
           "initSp": 0,
           "increment": 1
         },
-        "prefabId": "sktok_crsbow",
+        "prefabId": "sktok_dqcrsbow",
         "duration": 0,
         "blackboard": {
           "atk_scale": 1
