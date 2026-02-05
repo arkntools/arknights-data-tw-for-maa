@@ -582,6 +582,13 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "rogue_5": {
+      "zoneID": "rogue_5",
+      "zoneIndex": 5,
+      "type": "ROGUELIKE",
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "act19mini_zone1": {
       "zoneID": "act19mini_zone1",
       "zoneIndex": 0,
