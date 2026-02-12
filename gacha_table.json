@@ -2987,6 +2987,31 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "NORM_TC_37_0_4",
+      "gachaIndex": 888,
+      "openTime": 1770883200,
+      "endTime": 1772049599,
+      "gachaPoolName": "聯合行動",
+      "gachaPoolSummary": "結束於2月26日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "NORMAL"
+    },
+    {
+      "gachaPoolId": "DOUBLE_TC_37_0_5",
+      "gachaIndex": 890,
+      "openTime": 1771876800,
+      "endTime": 1773086399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於3月10日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -4230,6 +4255,21 @@
       "gachaRuleType": "CLASSIC_DOUBLE",
       "dynMeta": {
         "base64": "ugAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8xMTJfc2llZ2UAAnN1YjZSYXJpdHlDaGFySWQADgAAAGNoYXJfMjI1X2hhYWsABHJhcmU1Q2hhckxpc3QARwAAAAIwABAAAABjaGFyXzE5NV9nbGFzc2IAAjEADgAAAGNoYXJfMzM4X2lyaXMAAjIADwAAAGNoYXJfMzYzX3RvZGRpAAASc2Nyb2xsSW5kZXgACAAAAAAAAAAA"
+      }
+    },
+    {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_37_0_2",
+      "gachaIndex": 9947,
+      "openTime": 1771444800,
+      "endTime": 1772654399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於3月5日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vQAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8yMjJfYnBpcGUAAnN1YjZSYXJpdHlDaGFySWQAEAAAAGNoYXJfMTg4X2hlbGFnZQAEcmFyZTVDaGFyTGlzdABIAAAAAjAAEAAAAGNoYXJfMjQzX3dhYWlmdQACMQAPAAAAY2hhcl8zNDZfYW9zdGEAAjIADwAAAGNoYXJfMzA4X3N3aXJlAAASc2Nyb2xsSW5kZXgACAAAAAAAAAAA"
       }
     },
     {
@@ -6930,6 +6970,20 @@
       "startTime": 1770667200,
       "endTime": 1771876799,
       "spriteId": "picDouble_tc_37_0_3"
+    },
+    {
+      "poolId": "NORM_TC_37_0_4",
+      "index": 888,
+      "startTime": 1770883200,
+      "endTime": 1772049599,
+      "spriteId": "picNorm_tc_37_0_4"
+    },
+    {
+      "poolId": "DOUBLE_TC_37_0_5",
+      "index": 890,
+      "startTime": 1771876800,
+      "endTime": 1773086399,
+      "spriteId": "picDouble_tc_37_0_5"
     },
     {
       "poolId": "LIMITED_TC_37_0_6",

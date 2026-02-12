@@ -126927,7 +126927,7 @@
         }
       ],
       "stageId": "act35side_st01",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-ST-1",
       "name": "輝煌之城",
       "description": "輝煌的米納特哈瑪儀又迎來了看似平靜的一日。",
@@ -127000,7 +127000,7 @@
       ],
       "stageId": "act35side_01",
       "levelId": "Activities/act35side/level_act35side_01",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-1",
       "name": "節前熱身",
       "description": "節日在即，博物館中卻發生了異變——當然，對於見慣了大場面的市民來說，這也是生活的一部分。",
@@ -127010,7 +127010,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127022,7 +127022,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -127036,12 +127036,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127084,13 +127084,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127161,7 +127161,7 @@
       ],
       "stageId": "act35side_tr01",
       "levelId": "Activities/act35side/level_act35side_tr01",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-TR-1",
       "name": "護衛隊演練",
       "description": "城市護衛隊的訓練涉及許多關於結晶的基礎知識。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊",
@@ -127234,7 +127234,7 @@
       ],
       "stageId": "act35side_02",
       "levelId": "Activities/act35side/level_act35side_02",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-2",
       "name": "館中特別行動",
       "description": "許多人正在行動，他們或相向而行，或背道而馳。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊",
@@ -127244,7 +127244,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127256,7 +127256,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -127270,12 +127270,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127318,13 +127318,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127395,7 +127395,7 @@
       ],
       "stageId": "act35side_03",
       "levelId": "Activities/act35side/level_act35side_03",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-3",
       "name": "相約大巴扎",
       "description": "我們有了一些新的夥伴，而他們有了一些古怪的訴求。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊",
@@ -127405,7 +127405,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127417,7 +127417,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -127431,12 +127431,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127479,13 +127479,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127556,7 +127556,7 @@
       ],
       "stageId": "act35side_04",
       "levelId": "Activities/act35side/level_act35side_04",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-4",
       "name": "家傳金拖鞋",
       "description": "恰到好處地進行展示，只為獲取自己需要的那一部分。",
@@ -127566,7 +127566,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127578,7 +127578,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -127592,12 +127592,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127620,13 +127620,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127673,7 +127673,7 @@
       ],
       "stageId": "act35side_05",
       "levelId": "Activities/act35side/level_act35side_05",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-5",
       "name": "文物也上班",
       "description": "活著的文物也得上班，所以它們能休假嗎？\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶",
@@ -127683,7 +127683,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127695,7 +127695,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -127709,12 +127709,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127737,13 +127737,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127789,7 +127789,7 @@
         }
       ],
       "stageId": "act35side_st02",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-ST-2",
       "name": "甦醒的城市",
       "description": "城市生活是鮮活的，但從沒有人說過城市裡的東西是可以突然活動的。",
@@ -127862,7 +127862,7 @@
       ],
       "stageId": "act35side_06",
       "levelId": "Activities/act35side/level_act35side_06",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-6",
       "name": "過往雲煙",
       "description": "哪怕是一時的遺憾，也有人願意永遠背負。\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶",
@@ -127872,7 +127872,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -127884,7 +127884,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -127898,12 +127898,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127926,13 +127926,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -127979,7 +127979,7 @@
       ],
       "stageId": "act35side_07",
       "levelId": "Activities/act35side/level_act35side_07",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-7",
       "name": "誰是寵物？",
       "description": "你覺得你是寵物嗎？",
@@ -127989,7 +127989,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128001,7 +128001,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -128015,12 +128015,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128038,13 +128038,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128085,7 +128085,7 @@
       ],
       "stageId": "act35side_08",
       "levelId": "Activities/act35side/level_act35side_08",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-8",
       "name": "黃沙盡頭",
       "description": "再過千年、萬年，血脈與精神依然不會磨滅，傳承者仍需面對。",
@@ -128095,7 +128095,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128107,7 +128107,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -128121,12 +128121,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128144,13 +128144,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128191,7 +128191,7 @@
       ],
       "stageId": "act35side_09",
       "levelId": "Activities/act35side/level_act35side_09",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-9",
       "name": "向過去告別",
       "description": "夢寐以求的目標近在眼前，但她們選擇跨過。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶",
@@ -128201,7 +128201,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128213,7 +128213,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -128227,12 +128227,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128250,13 +128250,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -128296,7 +128296,7 @@
         }
       ],
       "stageId": "act35side_st03",
-      "zoneId": "act35side_zone1",
+      "zoneId": "act35sre_zone1",
       "code": "AS-ST-3",
       "name": "十字路口，再出發",
       "description": "輝煌依舊，經歷了巨變的人們則各自踏上了屬於自己的路。",
@@ -128369,10 +128369,10 @@
       ],
       "stageId": "act35side_ex01",
       "levelId": "Activities/act35side/level_act35side_ex01",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-1",
       "name": "小偷與收款人",
-      "description": "有兩種人平民是不能惹的，一種是竊賊，一種是收款人。\n<@lv.item><障礙物></>部署以後可以阻擋敵人的行進路線\n<@lv.rem>本次行動中遠程幹員可部署於近戰位</>",
+      "description": "有兩種人是平民不能惹的，一種是竊賊，一種是收款人。\n<@lv.item><障礙物></>部署以後可以阻擋敵人的行進路線\n<@lv.rem>本次行動中遠程幹員可部署於近戰位</>",
       "hardStagedId": "act35side_ex01#f#",
       "dangerLevel": "精英1 LV.50",
       "dangerPoint": -1,
@@ -128380,7 +128380,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128392,7 +128392,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -128406,7 +128406,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128419,7 +128419,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128458,7 +128458,7 @@
       ],
       "stageId": "act35side_ex01#f#",
       "levelId": "Activities/act35side/level_act35side_ex01",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-1",
       "name": "小偷與收款人",
       "description": "<@lv.fs>附加條件：</>\n持有的障礙物數量大幅減少",
@@ -128468,7 +128468,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128480,7 +128480,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -128531,7 +128531,7 @@
       ],
       "stageId": "act35side_ex02",
       "levelId": "Activities/act35side/level_act35side_ex02",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-2",
       "name": "被吹碎的鏡子",
       "description": "哦，河，不要讓風撼動你。\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶",
@@ -128542,7 +128542,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128554,7 +128554,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -128568,7 +128568,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128581,7 +128581,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128620,7 +128620,7 @@
       ],
       "stageId": "act35side_ex02#f#",
       "levelId": "Activities/act35side/level_act35side_ex02",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-2",
       "name": "被吹碎的鏡子",
       "description": "<@lv.fs>附加條件：</>\n淨化結晶的效率大幅降低",
@@ -128630,7 +128630,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128642,7 +128642,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -128693,7 +128693,7 @@
       ],
       "stageId": "act35side_ex03",
       "levelId": "Activities/act35side/level_act35side_ex03",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-3",
       "name": "一捧寶石",
       "description": "要求一切，就會失去一切。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊",
@@ -128704,7 +128704,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128716,7 +128716,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -128730,7 +128730,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128743,7 +128743,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128782,7 +128782,7 @@
       ],
       "stageId": "act35side_ex03#f#",
       "levelId": "Activities/act35side/level_act35side_ex03",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-3",
       "name": "一捧寶石",
       "description": "<@lv.fs>附加條件：</>\n“彈跳獨輪車”的攻擊速度大幅增加",
@@ -128792,7 +128792,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128804,7 +128804,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -128855,7 +128855,7 @@
       ],
       "stageId": "act35side_ex04",
       "levelId": "Activities/act35side/level_act35side_ex04",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-4",
       "name": "被盜的錢包",
       "description": "問問你的錢包，你應該買什麼。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊",
@@ -128866,7 +128866,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128878,7 +128878,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -128892,7 +128892,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128905,7 +128905,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -128944,7 +128944,7 @@
       ],
       "stageId": "act35side_ex04#f#",
       "levelId": "Activities/act35side/level_act35side_ex04",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-4",
       "name": "被盜的錢包",
       "description": "<@lv.fs>附加條件：</>\n初始出現額外的“彈跳獨輪車”",
@@ -128954,7 +128954,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -128966,7 +128966,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129017,7 +129017,7 @@
       ],
       "stageId": "act35side_ex05",
       "levelId": "Activities/act35side/level_act35side_ex05",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-5",
       "name": "不幸的士兵",
       "description": "獨處總比和壞人在一起好。",
@@ -129028,7 +129028,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129040,7 +129040,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129054,7 +129054,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129067,7 +129067,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129106,7 +129106,7 @@
       ],
       "stageId": "act35side_ex05#f#",
       "levelId": "Activities/act35side/level_act35side_ex05",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-5",
       "name": "不幸的士兵",
       "description": "<@lv.fs>附加條件：</>\n出現額外的工蟻組長",
@@ -129116,7 +129116,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129128,7 +129128,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129179,7 +129179,7 @@
       ],
       "stageId": "act35side_ex06",
       "levelId": "Activities/act35side/level_act35side_ex06",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-6",
       "name": "假帕夏",
       "description": "謊言是一種疾病，而公布真相是一種治療方式。",
@@ -129190,7 +129190,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129202,7 +129202,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129216,7 +129216,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129229,7 +129229,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129268,7 +129268,7 @@
       ],
       "stageId": "act35side_ex06#f#",
       "levelId": "Activities/act35side/level_act35side_ex06",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-6",
       "name": "假帕夏",
       "description": "<@lv.fs>附加條件：</>\n風情區大型車輦獲得<隱匿>",
@@ -129278,7 +129278,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129290,7 +129290,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129341,7 +129341,7 @@
       ],
       "stageId": "act35side_ex07",
       "levelId": "Activities/act35side/level_act35side_ex07",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-7",
       "name": "瘋狂的寵物",
       "description": "憤怒的開始是瘋狂，結束是後悔。",
@@ -129352,7 +129352,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129364,7 +129364,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -129378,7 +129378,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129391,7 +129391,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129430,7 +129430,7 @@
       ],
       "stageId": "act35side_ex07#f#",
       "levelId": "Activities/act35side/level_act35side_ex07",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-7",
       "name": "瘋狂的寵物",
       "description": "<@lv.fs>附加條件：</>\n淨化結晶的效率大幅降低",
@@ -129440,7 +129440,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129452,7 +129452,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -129503,7 +129503,7 @@
       ],
       "stageId": "act35side_ex08",
       "levelId": "Activities/act35side/level_act35side_ex08",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-8",
       "name": "無冕之王與朝聖者",
       "description": "風與船的願景背道而馳。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶",
@@ -129514,7 +129514,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129526,7 +129526,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -129540,7 +129540,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129553,7 +129553,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129592,7 +129592,7 @@
       ],
       "stageId": "act35side_ex08#f#",
       "levelId": "Activities/act35side/level_act35side_ex08",
-      "zoneId": "act35side_zone2",
+      "zoneId": "act35sre_zone2",
       "code": "AS-EX-8",
       "name": "無冕之王與朝聖者",
       "description": "<@lv.fs>附加條件：</>\n禁止部署特種幹員",
@@ -129602,7 +129602,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129614,7 +129614,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -129665,7 +129665,7 @@
       ],
       "stageId": "act35side_s01",
       "levelId": "Activities/act35side/level_act35side_sub-1-1",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-1",
       "name": "哲理在新生中傳唱",
       "description": "在薩爾貢詩人的傳唱中，每一次故事的演繹都讓哲理又新了一些。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用",
@@ -129676,7 +129676,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129688,7 +129688,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129702,7 +129702,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129715,7 +129715,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129754,7 +129754,7 @@
       ],
       "stageId": "act35side_s01#f#",
       "levelId": "Activities/act35side/level_act35side_sub-1-1",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-1",
       "name": "哲理在新生中傳唱",
       "description": "<@lv.fs>附加條件：</>\n結晶為米奧，熱烈的考驗者提供的增益效果大幅增強，大型破碎器皿損失的生命值減少",
@@ -129764,7 +129764,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129776,7 +129776,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129827,7 +129827,7 @@
       ],
       "stageId": "act35side_s02",
       "levelId": "Activities/act35side/level_act35side_sub-1-2",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-2",
       "name": "精神在富饒中綻放",
       "description": "越是靠近輝煌之城的老城區，故事的版本就越是樸素。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用",
@@ -129838,7 +129838,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129850,7 +129850,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129864,7 +129864,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129877,7 +129877,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -129916,7 +129916,7 @@
       ],
       "stageId": "act35side_s02#f#",
       "levelId": "Activities/act35side/level_act35side_sub-1-2",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-2",
       "name": "精神在富饒中綻放",
       "description": "<@lv.fs>附加條件：</>\n初始大型破碎器皿的行動路線有所不同，場上有2個位置無法部署",
@@ -129926,7 +129926,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129938,7 +129938,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -129989,10 +129989,10 @@
       ],
       "stageId": "act35side_s03",
       "levelId": "Activities/act35side/level_act35side_sub-1-3",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-3",
       "name": "筆尖凝聚著願景",
-      "description": "薩爾貢人對未來充滿期待，和那些憂心忡忡的核心圈國家的市民相比，完全是兩種面貌。\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用\n<@lv.rem>本次行動中遠程幹員可部署於近戰位</>",
+      "description": "薩爾貢人對未來充滿期待，和那些憂心忡忡的核心圈國家的民眾相比，完全是兩種面貌。\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用\n<@lv.rem>本次行動中遠程幹員可部署於近戰位</>",
       "hardStagedId": "act35side_s03#f#",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -130000,7 +130000,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130012,7 +130012,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -130026,7 +130026,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130039,7 +130039,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130078,7 +130078,7 @@
       ],
       "stageId": "act35side_s03#f#",
       "levelId": "Activities/act35side/level_act35side_sub-1-3",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-3",
       "name": "筆尖凝聚著願景",
       "description": "<@lv.fs>附加條件：</>\n“彈跳獨輪車”獲得<隱匿>，場上有1個位置無法部署",
@@ -130088,7 +130088,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130100,7 +130100,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -130151,7 +130151,7 @@
       ],
       "stageId": "act35side_s04",
       "levelId": "Activities/act35side/level_act35side_sub-1-4",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-4",
       "name": "修辭流淌著期望",
       "description": "在許多關於薩爾貢歷史的書籍中，即便是講述戰爭的章節，作者也總會迫不及待地講述戰後恢復和發展的境況。\n<@lv.item><純淨結晶></>可連通周圍的結晶區塊\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用",
@@ -130162,7 +130162,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130174,7 +130174,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -130188,7 +130188,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130201,7 +130201,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130240,7 +130240,7 @@
       ],
       "stageId": "act35side_s04#f#",
       "levelId": "Activities/act35side/level_act35side_sub-1-4",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-S-4",
       "name": "修辭流淌著期望",
       "description": "<@lv.fs>附加條件：</>\n部署在結晶上的單位攻擊速度進一步降低",
@@ -130250,7 +130250,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130262,7 +130262,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -130313,7 +130313,7 @@
       ],
       "stageId": "act35side_mo01",
       "levelId": "Activities/act35side/level_act35side_mo01",
-      "zoneId": "act35side_zone3",
+      "zoneId": "act35sre_zone3",
       "code": "AS-MO-1",
       "name": "願我們尋得安詳",
       "description": "歷史終歸是當下對過去的印象的集合體，而活在當下需要更具體的規劃。\n<@lv.item><結晶消除樁></>可消除一條直線上的所有結晶\n<@lv.rem>額外條件：</>無法自然回復部署費用，每消除一顆結晶獲得3點費用",
@@ -130349,7 +130349,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130362,7 +130362,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act35side_token_dust",
+            "id": "act35side_token_dust_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -267595,6 +267595,65 @@
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_ZT_street",
+      "canPractice": false,
+      "canBattleReplay": true,
+      "apCost": 25,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "camp_r_28": {
+      "stageType": "CAMPAIGN",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "camp_r_28",
+      "levelId": "Obt/Campaign/level_camp_r_28",
+      "zoneId": "camp_zone_7",
+      "code": "薩爾貢",
+      "name": "大巴扎",
+      "description": "一群膽大包天的沙盜闖入了博物館，他們誤觸機關，居然使得沉睡的展品們甦醒了過來。城裡現在一片混亂，快讓街道恢復原本的秩序吧！\n<@lv.rem><特殊條件></>部署費用不會自然回復",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AS_sgMuseum",
       "canPractice": false,
       "canBattleReplay": true,
       "apCost": 25,
@@ -447687,156 +447746,156 @@
       "endTs": 1747857599
     },
     "act35side_st01": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_01": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_tr01": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_02": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_03": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_04": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_05": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_st02": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_06": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_07": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_08": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_09": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_st03": {
-      "startTs": 1745481600,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex01": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex01#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex02": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex02#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex03": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex03#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex04": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex04#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex05": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex05#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex06": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex06#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex07": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex07#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex08": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_ex08#f#": {
-      "startTs": 1746086400,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s01": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s01#f#": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s02": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s02#f#": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s03": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s03#f#": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s04": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_s04#f#": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act35side_mo01": {
-      "startTs": 1746691200,
-      "endTs": 1747252799
+      "startTs": 1770883200,
+      "endTs": 1771703999
     },
     "act34side_st01": {
       "startTs": 1768204800,
@@ -457491,6 +457550,8 @@
           "tag_14",
           "tag_12"
         ],
+        "reopenActivityId": "act35sre",
+        "retroActivityId": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
         "isRecommended": false
       }
     },
