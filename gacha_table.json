@@ -3012,6 +3012,19 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "DOUBLE_TC_37_0_7",
+      "gachaIndex": 889,
+      "openTime": 1773086400,
+      "endTime": 1774295999,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於3月24日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -4273,6 +4286,20 @@
       }
     },
     {
+      "gachaPoolId": "FESCLASSIC_TC_37_0_3",
+      "gachaIndex": 9946,
+      "openTime": 1772654400,
+      "endTime": 1773863999,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於3月19日 03:59",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "FESCLASSIC",
+      "dynMeta": {
+        "base64": "qwgAAANyYXJpdHlQaWNrQ2hhckRpY3QAVwMAAARUSUVSXzUAKwIAAAIwABAAAABjaGFyXzEwNl9mcmFua2EAAjEADwAAAGNoYXJfMTQzX2dob3N0AAIyAA8AAABjaGFyXzEyOV9ibHVlcAACMwAPAAAAY2hhcl8yMTlfbWV0ZW8AAjQAEAAAAGNoYXJfMTA4X3NpbGVudAACNQAQAAAAY2hhcl8xMDdfbGlza2FtAAI2ABAAAABjaGFyXzIwMV9tb2VzaGQAAjcADgAAAGNoYXJfMTU4X21pbHUAAjgAEAAAAGNoYXJfMTc0X3NsYmVsbAACOQAPAAAAY2hhcl8yNDFfcGFuZGEAAjEwABAAAABjaGFyXzI3NF9hc3Rlc2kAAjExABAAAABjaGFyXzM2N19zd2xsb3cAAjEyAA4AAABjaGFyXzIyNl9obWF1AAIxMwAPAAAAY2hhcl8zMDZfbGVpemkAAjE0AA4AAABjaGFyXzM3OV9zZXNhAAIxNQAQAAAAY2hhcl8yNTRfdm9kZm94AAIxNgAOAAAAY2hhcl8yOTRfYXllcgACMTcAEAAAAGNoYXJfMzQzX3Rrbm9naQACMTgAEAAAAGNoYXJfMzQ0X2JlZXdheAACMTkAEAAAAGNoYXJfMjE4X2N1dHRsZQACMjAADgAAAGNoYXJfMzY1X2FwcmwAAjIxABAAAABjaGFyXzQzNl93aGlzcHIAAjIyABAAAABjaGFyXzQ3OF9raXJhcmEAAjIzAA8AAABjaGFyXzQ4OV9zZXJ1bQAABFRJRVJfNgAXAQAAAjAAEQAAAGNoYXJfMTQ3X3NoaW5pbmcAAjEAEAAAAGNoYXJfMTM2X2hzZ3VtYQACMgAPAAAAY2hhcl8zNDBfc2h3YXoAAjMAEQAAAGNoYXJfMjAxM19jZXJiZXIAAjQAEAAAAGNoYXJfMjUwX3BoYXRvbQACNQAOAAAAY2hhcl8xOTdfcG9jYQACNgAPAAAAY2hhcl80MDBfd2VlZHkAAjcADwAAAGNoYXJfMzUwX3N1cnRyAAI4ABAAAABjaGFyXzI2NF9mMTJ5aW4AAjkAEAAAAGNoYXJfNDIzX2JsZW1zaAACMTAADwAAAGNoYXJfMDAzX2thbHRzAAIxMQAQAAAAY2hhcl80MjBfZmxhbXRsAAAAAmhvbWVEZXNjQ29uc3QA1gAAAOS4reWgheeUhOmBuOWPrzxjb2xvcj0jMDBhOGZmPuiHqueUsemBuOaTh+S4pumOluWumjwvY29sb3I+5pys5pyf5qmf546H5o+Q5Y2H5bm55ZOh77yB6YG45a6a5b6M5pys5qyh5bCL6KiqPGNvbG9yPSMwMGE4ZmY+5LiN5Y+v6K6K5pu0PC9jb2xvcj7jgILliY0xMOasoeWwi+ioquW/heWumueNsuW+lzxjb2xvcj0jMDBhOGZmPjXmmJ88L2NvbG9yPuS7peS4iuW5ueWToe+8gQACY2hvb3NlUnVsZUNvbnN0AH0CAAA8Y29sb3I9IzAwYThmZj7jgJDkuK3loIXnlITpgbjjgJE8L2NvbG9yPuacn+mWk++8jOWPr+WcqDxjb2xvcj0jMDBhOGZmPueUhOmBuOevhOWcjeWFp+mBuOaTh+S4pumOluWumjwvY29sb3I+5pys5pyf5Ye6546H5o+Q5Y2H55qEPGNvbG9yPSMwMGE4ZmY+MuWQjTbmmJ/lubnlk6E8L2NvbG9yPuWSjDxjb2xvcj0jMDBhOGZmPjPlkI015pif5bm55ZOhPC9jb2xvcj7jgIIK6YG45a6a55qE6YGO56iL5Lit77yM5Y+v6YCy5LiA5q2l6YWN572uPGNvbG9yPSMwMGE4ZmY+MeWQjTbmmJ/lubnlk6E8L2NvbG9yPuWSjDxjb2xvcj0jMDBhOGZmPjHlkI015pif5bm55ZOhPC9jb2xvcj7pgLLlhaU8Y29sb3I9IzAwYThmZj7mjqHos7zkuK3lv4Plj6/kvpvlhYzmj5s8L2NvbG9yPu+8jOS4lOS4iui/sOmBuOWumueahOW5ueWToeWwh+WcqDxjb2xvcj0jZmZkODAwPuOAkOmrmOe0muaGkeitieWNgOOAkTwvY29sb3I+5ZKMPGNvbG9yPSMwMGE4ZmY+44CQ6YCa55So5oaR6K2J5Y2A44CRPC9jb2xvcj7kvpvlhYzmj5vjgIIK5pys5qyh5Lit5aCF55SE6YG45Y2h5rGg5pyf6ZaT77yM5qmf546H5o+Q5Y2H55qE5bm55ZOh6YG45a6a5b6MPGNvbG9yPSMwMGE4ZmY+5pys5ZGo5pyf5YWn5LiN5Y+v5YaN5bqm6K6K5pu0PC9jb2xvcj7jgIIAAnN0YXI2Q2hvb3NlUnVsZUNvbnN0AJ4AAADmnKzmnJ/kuK3loIXnlITpgbjlj6/lvp7ku6XkuIs25pif5bm55ZOh56+E5ZyN5YWn6Ieq6YG4PGNvbG9yPSMwMGE4ZmY+MuWQjeW5ueWToTwvY29sb3I+77yM5L2/5YW2PGNvbG9yPSMwMGE4ZmY+5ZCI6KiI5Ye654++5qmf546H5Y2gNuaYn+WHuueOh+eahDUwJTwvY29sb3I+AAJzdGFyNUNob29zZVJ1bGVDb25zdACeAAAA5pys5pyf5Lit5aCF55SE6YG45Y+v5b6e5Lul5LiLNeaYn+W5ueWToeevhOWcjeWFp+iHqumBuDxjb2xvcj0jMDBhOGZmPjPlkI3lubnlk6E8L2NvbG9yPu+8jOS9v+WFtjxjb2xvcj0jMDBhOGZmPuWQiOioiOWHuuePvuapn+eOh+WNoDXmmJ/lh7rnjofnmoQ1MCU8L2NvbG9yPgASc2Nyb2xsSW5kZXgACAAAAAAAAAADcGlja1VwUGVyQ2hhclBlcmNlbnQAJQAAAAFUSUVSXzUA2ht8YTJVxT8BVElFUl82AAAAAAAAANA/AAA="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_TC_33_0_3",
       "gachaIndex": 40,
       "openTime": 1752220800,
@@ -5015,7 +5042,7 @@
       4
     ]
   },
-  "recruitDetail": "<@rc.title>公開招募說明</>\n\n<@rc.em>※稀有職業需求招募說明※</>\n<@rc.em>當職業需求包含高級資深幹員，且招募時限為9小時，招募必得6星幹員</>\n<@rc.em>當職業需求包含資深幹員同時不包含高級資深幹員，且招募時限為9小時，則該次招募必得5星幹員</>\n\n<@rc.subtitle>※全部可能出現的幹員※</>\n<@rc.eml>綠色亮起的不可尋訪幹員，可以在此招募</>\n\n★\n<@rc.eml>Lancet-2</> / <@rc.eml>Castle-3</> / <@rc.eml>THRM-EX</> / <@rc.eml>正義騎士號</> / <@rc.eml>Friston-3</> / <@rc.eml>PhonoR-0</> / <@rc.eml>CONFESS-47</>\n--------------------\n★★\n<@rc.eml>夜刀</> / <@rc.eml>黑角</> / <@rc.eml>巡林者</> / <@rc.eml>杜林</> / <@rc.eml>12F</>\n--------------------\n★★★\n<@rc.eml>安德切爾</> / 芬 / 香草 / 翎羽 / 玫蘭莎 / 米格魯 / 克洛絲 / 炎熔 / 芙蓉 / 安賽爾 / 史都華德 / 梓蘭 / 空爆 / 月見夜 / 泡普卡 / 斑點\n--------------------\n★★★★\n<@rc.eml>艾絲黛爾</> / <@rc.eml>清流</> / 夜煙 / 遠山 / 潔西卡 / 流星 / 白雪 / 清道夫 / 紅豆 / 杜賓 / 纏丸 / 霜葉 / 慕斯 / 礫 / 暗索 / 末藥 / 調香師 / 角峰 / 蛇屠箱 / 古米 / 地靈 / 阿消 / 獵蜂 / 格雷伊 / 蘇蘇洛 / 桃金娘 / 紅雲 / 梅 / 安比爾 / 宴 / 刻刀 / 波登可 / 卡達 / 孑 / 酸糖 / 芳汀 / 泡泡 / 傑克 / 松果 / 豆苗\n--------------------\n★★★★★\n<@rc.eml>因陀羅</> / <@rc.eml>火神</> / 白面鴞 / 凜冬 / 德克薩斯 / 幽靈鯊 / 藍毒 / 白金 / 隕星 / 梅爾 / 赫默 / 華法琳 / 臨光 / 紅 / 雷蛇 / 可頌 / 普羅旺斯 / 守林人 / 崖心 / 初雪 / 真理 / 獅蠍 / 食鐵獸 / 夜魔 / 詩懷雅 / 格勞克斯 / 星極 / 送葬人 / 槐琥 / 灰喉 / 葦草 / 布洛卡 / 吽 / 驚蟄 / 懾砂 / 巫戀 / 極境 / 石棉 / 月禾 / 萊恩哈特 / 斷崖 / 安哲拉 / 賈維 / 蜜蠟 / 燧石 /四月 / 奧斯塔 / 絮雨 / 卡夫卡 / 愛麗絲 / 烏有\n--------------------\n★★★★★★\n能天使 / 推進之王 / 伊芙利特 / 閃靈 / 夜鶯 / 星熊 / 塞雷婭 / 銀灰 / 斯卡蒂 / 陳 / 黑 / 赫拉格 / 麥哲倫 / 莫斯提馬 / 煌 / 阿 / 刻俄柏 / 風笛 / 傀影 / 溫蒂 / 早露 / 鈴蘭 / 棘刺 / 森蚺 / 史爾特爾 / 瑕光 / 泥岩 / 山 / 空弦 / 嵯峨",
+  "recruitDetail": "<@rc.title>公開招募說明</>\n\n<@rc.em>※稀有職業需求招募說明※</>\n<@rc.em>當職業需求包含高級資深幹員，且招募時限為9小時時，招募必得6星幹員</>\n<@rc.em>當職業需求包含資深幹員同時不包含高級資深幹員，且招募時限為9小時，則該次招募必得5星幹員</>\n\n<@rc.subtitle>※全部可能出現的幹員※</>\n<@rc.eml>綠色亮起的不可尋訪幹員，可以在此招募</>\n\n★\n<@rc.eml>Lancet-2</> / <@rc.eml>Castle-3</> / <@rc.eml>THRM-EX</> / <@rc.eml>正義騎士號</> / <@rc.eml>Friston-3</> / <@rc.eml>PhonoR-0 /</> <@rc.eml>CONFESS-47</>\n--------------------\n★★\n<@rc.eml>夜刀</> / <@rc.eml>黑角</> / <@rc.eml>巡林者</> / <@rc.eml>杜林</> / <@rc.eml>12F</>\n--------------------\n★★★\n<@rc.eml>安德切爾</> / 芬 / 香草 / 翎羽 / 玫蘭莎 / 米格魯 / 克洛絲 / 炎熔 / 芙蓉 / 安賽爾 / 史都華德 / 梓蘭 / 空爆 / 月見夜 / 泡普卡 / 斑點\n--------------------\n★★★★\n<@rc.eml>艾絲黛爾</> / <@rc.eml>清流</> / 夜煙 / 遠山 / 潔西卡 / 流星 / 白雪 / 清道夫 / 紅豆 / 杜賓 / 纏丸 / 霜葉 / 慕斯 / 礫 / 暗索 / 末藥 / 調香師 / 角峰 / 蛇屠箱 / 古米 / 地靈 / 阿消 / 獵蜂 / 格雷伊 / 蘇蘇洛 / 桃金娘 / 紅雲 / 梅 / 安比爾 / 宴 / 刻刀 / 波登可 / 卡達 / 孑 / 酸糖 / 芳汀 / 泡泡 / 傑克 / 松果 / 豆苗\n--------------------\n★★★★★\n<@rc.eml>因陀羅</> / <@rc.eml>火神</> / 白面鴞 / 凜冬 / 德克薩斯 / 幽靈鯊 / 藍毒 / 白金 / 隕星 / 梅爾 / 赫默 / 華法琳 / 臨光 / 紅 / 雷蛇 / 可頌 / 普羅旺斯 / 守林人 / 崖心 / 初雪 / 真理 / 獅蠍 / 食鐵獸 / 夜魔 / 詩懷雅 / 格勞克斯 / 星極 / 送葬人 / 槐琥 / 灰喉 / 葦草 / 布洛卡 / 吽 / 驚蟄 / 懾砂 / 巫戀 / 極境 / 石棉 / 月禾 / 萊恩哈特 / 斷崖 / 安哲拉 / 賈維 / 蜜蠟 / 燧石 /四月 / 奧斯塔 / 絮雨 / 卡夫卡 / 愛麗絲 / 烏有 / 熔泉\n--------------------\n★★★★★★\n能天使 / 推進之王 / 伊芙利特 / 閃靈 / 夜鶯 / 星熊 / 塞雷婭 / 銀灰 / 斯卡蒂 / 陳 / 黑 / 赫拉格 / 麥哲倫 / 莫斯提馬 / 煌 / 阿 / 刻俄柏 / 風笛 / 傀影 / 溫蒂 / 早露 / 鈴蘭 / 棘刺 / 森蚺 / 史爾特爾 / 瑕光 / 泥岩 / 山 / 空弦 / 嵯峨 / 異客",
   "showGachaLogEntry": true,
   "carousel": [
     {
@@ -6993,6 +7020,13 @@
       "spriteId": "picLimited_tc_37_0_6"
     },
     {
+      "poolId": "DOUBLE_TC_37_0_7",
+      "index": 889,
+      "startTime": 1773086400,
+      "endTime": 1774295999,
+      "spriteId": "picDouble_tc_37_0_7"
+    },
+    {
       "poolId": "FESCLASSIC_TC_23_0_4",
       "index": 9999,
       "startTime": 1712174400,
@@ -7228,6 +7262,10 @@
     {
       "itemId": "LIMITED_TKT_GACHA_10_6101",
       "endTime": 1765483199
+    },
+    {
+      "itemId": "LIMITED_TKT_GACHA_10_6401",
+      "endTime": 1773259199
     }
   ],
   "linkageTenGachaItem": [
@@ -7331,6 +7369,10 @@
     "FESCLASSIC_TC_36_0_1": {
       "rarityRank5ItemId": "classic_fes_pick_tier_5_6101",
       "rarityRank6ItemId": "classic_fes_pick_tier_6_6101"
+    },
+    "FESCLASSIC_TC_37_0_3": {
+      "rarityRank5ItemId": "classic_fes_pick_tier_5_6401",
+      "rarityRank6ItemId": "classic_fes_pick_tier_6_6401"
     }
   },
   "dicRecruit6StarHint": [],

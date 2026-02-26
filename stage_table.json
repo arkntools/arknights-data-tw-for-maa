@@ -81657,6 +81657,3643 @@
       "advancedRuneIdList1": [],
       "advancedRuneIdList2": []
     },
+    "act44side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_st01",
+      "zoneId": "act44side_zone1",
+      "code": "AT-ST-1",
+      "name": "鬼之影",
+      "description": "“你不是原來那個鬼姐……你是鬼，是惡鬼。”",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_tr01",
+      "levelId": "Activities/act44side/level_act44side_tr01",
+      "zoneId": "act44side_zone1",
+      "code": "AT-TR-1",
+      "name": "天命滾滾",
+      "description": "每一聲“叮噹”都是它替人間輕按一次刪除鍵。你聽不懂這輕響的語法，但總會在翌日的街角發現，昨夜那條本該通向你的人生岔路，已被悄悄擦去。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_01",
+      "levelId": "Activities/act44side/level_act44side_01",
+      "zoneId": "act44side_zone1",
+      "code": "AT-1",
+      "name": "極道作風",
+      "description": "清掃結束，將目標人物的殘餘裝入後車箱，上車，離開。查看後視鏡，安全，沒有被跟蹤。等等，為什麼背後還有呼吸聲？\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_02",
+      "levelId": "Activities/act44side/level_act44side_02",
+      "zoneId": "act44side_zone1",
+      "code": "AT-2",
+      "name": "靈異特輯",
+      "description": "和無數個尋常夜晚一樣，剪輯師尋常地加班，尋常地檢閱素材，卻發現畫面中始終有一個黑影。逐格播放，黑影漸近，面帶微笑。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_03",
+      "levelId": "Activities/act44side/level_act44side_03",
+      "zoneId": "act44side_zone1",
+      "code": "AT-3",
+      "name": "夜逃通告",
+      "description": "喧囂街巷，碎磚忽然錯落移動，人行道上冒出一圈黑洞，只等逃亡者一躍而下。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "精英1 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_04",
+      "levelId": "Activities/act44side/level_act44side_04",
+      "zoneId": "act44side_zone1",
+      "code": "AT-4",
+      "name": "百物語",
+      "description": "每翻開一頁風化日記，便有一位參與者的名字映入眼簾。在最後一個故事講完，最後一頁日記翻過，最後一根蠟燭吹熄時——\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "精英1 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_tr02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_tr02",
+      "levelId": "Activities/act44side/level_act44side_tr02",
+      "zoneId": "act44side_zone1",
+      "code": "AT-TR-2",
+      "name": "雪花雜訊",
+      "description": "細雪般的小點翻湧，彷彿被禁錮的記憶仍在螢幕內不斷敲打，尋找出路。躁動倏然止息，冷冽的面孔自裂痕中悄然顯現。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力舒緩幫手></>反彈“某種天命”，一段時間後啟動",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_tr02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_05",
+      "levelId": "Activities/act44side/level_act44side_05",
+      "zoneId": "act44side_zone1",
+      "code": "AT-5",
+      "name": "遺禍",
+      "description": "種子既已種下，那麼其後種種，都只能是為了更盛大、更美的犧牲。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力舒緩幫手></>反彈“某種天命”，一段時間後啟動",
+      "dangerLevel": "精英1 LV.30",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_st02",
+      "zoneId": "act44side_zone1",
+      "code": "AT-ST-2",
+      "name": "對稱",
+      "description": "觀眾在舞台上流乾鮮血，演員在包廂中嗚咽悲鳴。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_06",
+      "levelId": "Activities/act44side/level_act44side_06",
+      "zoneId": "act44side_zone1",
+      "code": "AT-6",
+      "name": "漩渦",
+      "description": "被捲入、被吞噬，無法可依、無路可走、無處可逃……為什麼逃？\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力舒緩幫手></>反彈“某種天命”，一段時間後啟動",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30013",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30013",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_07",
+      "levelId": "Activities/act44side/level_act44side_07",
+      "zoneId": "act44side_zone1",
+      "code": "AT-7",
+      "name": "冷月",
+      "description": "或許全心全意地冷血無情才是最好的選擇，或許那個“家”從一開始就不該存在。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_08",
+      "levelId": "Activities/act44side/level_act44side_08",
+      "zoneId": "act44side_zone1",
+      "code": "AT-8",
+      "name": "逝川",
+      "description": "流水會將一切沖刷殆盡，但水淹沒一切之前的樣子，總會有人在乎、有人懷念、有人記得。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力舒緩幫手></>反彈“某種天命”，一段時間後啟動",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_town",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31093",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_information",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "31093",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_st03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_st03",
+      "zoneId": "act44side_zone1",
+      "code": "AT-ST-3",
+      "name": "過客",
+      "description": "她是她故鄉的過客，她以過客之身找到了故鄉。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_st03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex01",
+      "levelId": "Activities/act44side/level_act44side_ex01",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-1",
+      "name": "青葉撞球場",
+      "description": "舊街的撞球場。綠色球桌在昏燈下呈舊茶色，據說午夜若是聽見撞球輕碰，那是舊友在替你補上最後一桿。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_ex01#f#",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex01#f#",
+      "levelId": "Activities/act44side/level_act44side_ex01",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-1",
+      "name": "青葉撞球場",
+      "description": "<@lv.fs>附加條件：</>\n“某種天命”撞擊敵人獲得的“眷顧”大幅下降",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex02",
+      "levelId": "Activities/act44side/level_act44side_ex02",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-2",
+      "name": "疾風速滑道",
+      "description": "舊街的速滑道。傳說滑過其盡頭就能見到“反向的街景”，只不過在盡頭處回首的人，再也沒有找到起點。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_ex02#f#",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex02#f#",
+      "levelId": "Activities/act44side/level_act44side_ex02",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-2",
+      "name": "疾風速滑道",
+      "description": "<@lv.fs>附加條件：</>\n風遁宗師更快起飛",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex03",
+      "levelId": "Activities/act44side/level_act44side_ex03",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-3",
+      "name": "浪切浴場",
+      "description": "舊街的浴場。你正欲離去，熱泉突然湧動成手掌，纏住你的腳踝，逼你與池心的幽影共舞。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_ex03#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex03#f#",
+      "levelId": "Activities/act44side/level_act44side_ex03",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-3",
+      "name": "浪切浴場",
+      "description": "<@lv.fs>附加條件：</>\n觸發“強運”所需的“眷顧”增加",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex04",
+      "levelId": "Activities/act44side/level_act44side_ex04",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-4",
+      "name": "鳴瓶坂保齡球館",
+      "description": "舊街的保齡球館。最後一支球瓶應聲倒下時，你發現自己抬不起腳步，抬眼望見對面竟是正準備丟球的自己。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力歸零幫手></>反彈“某種天命”，一段時間後啟動",
+      "hardStagedId": "act44side_ex04#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex04#f#",
+      "levelId": "Activities/act44side/level_act44side_ex04",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-4",
+      "name": "鳴瓶坂保齡球館",
+      "description": "<@lv.fs>附加條件：</>\n天命來襲開啟時所需技力增加",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex05",
+      "levelId": "Activities/act44side/level_act44side_ex05",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-5",
+      "name": "鍛魂遊藝場",
+      "description": "舊街的遊藝場。即便切斷了電源，機台裡仍在敲打節拍，彷彿有個身影被永遠鎖在虛擬關卡中。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力歸零幫手></>反彈“某種天命”，一段時間後啟動",
+      "hardStagedId": "act44side_ex05#f#",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex05#f#",
+      "levelId": "Activities/act44side/level_act44side_ex05",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-5",
+      "name": "鍛魂遊藝場",
+      "description": "<@lv.fs>附加條件：</>\n出現額外敵人",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex06",
+      "levelId": "Activities/act44side/level_act44side_ex06",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-6",
+      "name": "在你的時代之上",
+      "description": "舊街的一切都帶著舊街的氣息，而新時代不需要這樣的氣息。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力歸零幫手></>反彈“某種天命”，一段時間後啟動",
+      "hardStagedId": "act44side_ex06#f#",
+      "dangerLevel": "精英2 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex06#f#",
+      "levelId": "Activities/act44side/level_act44side_ex06",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-6",
+      "name": "在你的時代之上",
+      "description": "<@lv.fs>附加條件：</>\n水遁宗師的生命值大幅提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex07",
+      "levelId": "Activities/act44side/level_act44side_ex07",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-7",
+      "name": "盛放的泡沫",
+      "description": "舊街總是要被拆掉的，明天也總會無可避免地到來。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_ex07#f#",
+      "dangerLevel": "精英2 LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex07#f#",
+      "levelId": "Activities/act44side/level_act44side_ex07",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-7",
+      "name": "盛放的泡沫",
+      "description": "<@lv.fs>附加條件：</>\n澪的攻擊力與生命值提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_ex08",
+      "levelId": "Activities/act44side/level_act44side_ex08",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-8",
+      "name": "碎裂的夢",
+      "description": "僅僅只是他一個人的夢。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_ex08#f#",
+      "dangerLevel": "精英2 LV.40",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_town",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_ex08#f#",
+      "levelId": "Activities/act44side/level_act44side_ex08",
+      "zoneId": "act44side_zone2",
+      "code": "AT-EX-8",
+      "name": "碎裂的夢",
+      "description": "<@lv.fs>附加條件：</>\n“斬”所需費用提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_town",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_st03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_s01",
+      "levelId": "Activities/act44side/level_act44side_sub-1-1",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-1",
+      "name": "神籤",
+      "description": "籤落為塵，諸緣已定。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_s01#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_s01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_s01#f#",
+      "levelId": "Activities/act44side/level_act44side_sub-1-1",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-1",
+      "name": "神籤",
+      "description": "<@lv.fs>附加條件：</>\n土遁宗師更早行動",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_s01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_s02",
+      "levelId": "Activities/act44side/level_act44side_sub-1-2",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-2",
+      "name": "祓雨",
+      "description": "清雨過身，心塵難祓。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”",
+      "hardStagedId": "act44side_s02#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_s02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_s02#f#",
+      "levelId": "Activities/act44side/level_act44side_sub-1-2",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-2",
+      "name": "祓雨",
+      "description": "<@lv.fs>附加條件：</>\n雷遁宗師獲得隱匿",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_s02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_s03",
+      "levelId": "Activities/act44side/level_act44side_sub-1-3",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-3",
+      "name": "逢魔",
+      "description": "晝夜交隙，百魅爭途。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力歸零幫手></>反彈“某種天命”，一段時間後啟動",
+      "hardStagedId": "act44side_s03#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_s03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_s03#f#",
+      "levelId": "Activities/act44side/level_act44side_sub-1-3",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-3",
+      "name": "逢魔",
+      "description": "<@lv.fs>附加條件：</>\n場上兩個位置不可部署",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_s03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_s04",
+      "levelId": "Activities/act44side/level_act44side_sub-1-4",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-4",
+      "name": "罪業",
+      "description": "燈火既熄，業焰自明。\n<@lv.item><天命來襲></>開啟後不斷召喚“某種天命”\n<@lv.item><壓力歸零幫手></>反彈“某種天命”，一段時間後啟動",
+      "hardStagedId": "act44side_s04#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_town",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_s04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act44side_s04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act44side_s04#f#",
+      "levelId": "Activities/act44side/level_act44side_sub-1-4",
+      "zoneId": "act44side_zone3",
+      "code": "AT-S-4",
+      "name": "罪業",
+      "description": "<@lv.fs>附加條件：</>\n三船光平更頻繁地使用“握籌布畫”",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_town",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_sp01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_sp01",
+      "levelId": "Activities/act44side/level_act44side_sp01",
+      "zoneId": "act44side_zone1",
+      "code": "AT-P-1",
+      "name": "起點",
+      "description": "鬆開發射桿的瞬間，你分明聽到彈簧說了聲“再見”。\n<@lv.item>將敵人推入坑中取得高分！</>\n<@lv.item>我方單位再部署時間大幅降低</>",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_sp02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_sp01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_sp02",
+      "levelId": "Activities/act44side/level_act44side_sp02",
+      "zoneId": "act44side_zone1",
+      "code": "AT-P-2",
+      "name": "反彈角",
+      "description": "你以為角度算盡，命運卻折向背後，精準敲擊空椅的木背，打出心跳的節拍。\n<@lv.item>將敵人推入坑中取得高分！</>\n<@lv.item>我方單位再部署時間大幅降低</>",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
+    "act44side_sp03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act44side_sp02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act44side_sp03",
+      "levelId": "Activities/act44side/level_act44side_sp03",
+      "zoneId": "act44side_zone1",
+      "code": "AT-P-3",
+      "name": "滿弧閉環",
+      "description": "你祈求的所有，都如天命一般降臨，計分燈一齊熄滅，只有寫著你名字的那一格在漆黑裡閃個不停。\n<@lv.item>將敵人推入坑中取得高分！</>\n<@lv.item>我方單位再部署時間大幅降低</>",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_AT_street",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act44side_token_ticket",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act44side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": []
+    },
     "act19mini_01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -279317,6 +282954,12 @@
       "name": "化境地塊",
       "description": "會有更高的機率出現各種奇妙的玩意",
       "isFunctional": true
+    },
+    "tile_bnspck_road": {
+      "tileKey": "tile_bnspck_road",
+      "name": "幸運寶座",
+      "description": "置於其中的幹員可以吸收“某種天命”",
+      "isFunctional": true
     }
   },
   "forceOpenTable": {
@@ -445817,6 +449460,166 @@
       "startTs": 1741852800,
       "endTs": -1
     },
+    "act44side_st01": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_tr01": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_01": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_02": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_03": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_04": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_tr02": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_05": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_st02": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_06": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_07": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_08": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_st03": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_ex01": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex01#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex02": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex02#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex03": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex03#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex04": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex04#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex05": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex05#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex06": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex06#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex07": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex07#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex08": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_ex08#f#": {
+      "startTs": 1772697600,
+      "endTs": 1773863999
+    },
+    "act44side_s01": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s01#f#": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s02": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s02#f#": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s03": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s03#f#": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s04": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_s04#f#": {
+      "startTs": 1773302400,
+      "endTs": 1773863999
+    },
+    "act44side_sp01": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_sp02": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
+    "act44side_sp03": {
+      "startTs": 1772092800,
+      "endTs": 1773863999
+    },
     "act19mini_01": {
       "startTs": 1769407200,
       "endTs": 1769975999
@@ -456058,6 +459861,15 @@
           "presentStageId": "main_01-10",
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act35side"
+        },
+        "ssLine_act44side": {
+          "locationId": "ssLine_act44side",
+          "locationType": "STORY_SET",
+          "sortId": 11070,
+          "startTime": 1772092800,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act44side"
         }
       }
     },
@@ -457552,6 +461364,29 @@
         ],
         "reopenActivityId": "act35sre",
         "retroActivityId": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
+        "isRecommended": false
+      }
+    },
+    "setId_ssLine_act44side": {
+      "storySetId": "setId_ssLine_act44side",
+      "storySetType": "SS",
+      "sortByYear": 7,
+      "sortWithinYear": 2,
+      "kvImageId": "kv_ato",
+      "titleImageId": "title_ato",
+      "gameMusicId": "music_3in1bg_act44side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_4199_makiri",
+      "relevantActivityId": "act44side",
+      "ssData": {
+        "name": "墟",
+        "desc": "鍛冶町的夜，很長。\n燈未滅，牌未散，街口的風都繞著走。\n有些名字只能低聲問候，有些規矩從沒人敢改。\n一封信，喚回了不該回的人。\n她們未曾應邀，卻早在局中落座。\n當喧囂褪去，城市只剩下一地冷卻的餘灰。\n仁田街，最後一台電視，在花火落盡前停電。",
+        "backgroundId": "storybg_ato",
+        "tags": [
+          "tag_13",
+          "tag_11",
+          "tag_15"
+        ],
         "isRecommended": false
       }
     },

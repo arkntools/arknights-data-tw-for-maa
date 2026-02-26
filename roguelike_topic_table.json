@@ -2498,6 +2498,28 @@
         "canBeFree": true,
         "uniEquipId": "uniequip_002_leizi2",
         "recruitType": "FREE"
+      },
+      "char_1044_hsgma2": {
+        "charId": "char_1044_hsgma2",
+        "canBeFree": true,
+        "recruitType": "FREE"
+      },
+      "char_4199_makiri": {
+        "charId": "char_4199_makiri",
+        "canBeFree": true,
+        "recruitType": "FREE"
+      },
+      "char_4203_kichi": {
+        "charId": "char_4203_kichi",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_kichi",
+        "recruitType": "FREE"
+      },
+      "char_4202_haruka": {
+        "charId": "char_4202_haruka",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_haruka",
+        "recruitType": "FREE"
       }
     }
   },
@@ -171905,6 +171927,11 @@
           "updateId": "rogue_5_update_1",
           "topicUpdateTime": -62135625600,
           "topicEndTime": 1772308800
+        },
+        {
+          "updateId": "rogue_5_update_2",
+          "topicUpdateTime": 1772308800,
+          "topicEndTime": 1774987200
         }
       ],
       "enrolls": [],
@@ -172632,6 +172659,13 @@
           "maxBpLevel": 50,
           "maxBpCount": 13000,
           "maxDisplayBpCount": 13000
+        },
+        {
+          "updateTime": 1772308800,
+          "endTime": 1774987200,
+          "maxBpLevel": 65,
+          "maxBpCount": 19000,
+          "maxDisplayBpCount": 19000
         }
       ],
       "grandPrizes": [
@@ -173166,6 +173200,53 @@
           "startTime": 0,
           "endTime": 1772308800,
           "taskDes": "累計開啟10次左樂的“佑序有炎”"
+        },
+        "month_team_2": {
+          "id": "month_team_2",
+          "teamName": "小玩意",
+          "teamFlavorDesc": "xiao wan yi",
+          "teamDes": "當年順手送出的禮，竟換來了回禮。為“人”之道，還蠻有趣的。",
+          "teamColor": "16bb9f",
+          "teamMonth": "03",
+          "teamYear": "2026",
+          "teamIndex": "2",
+          "teamChars": [
+            {
+              "teamCharId": "char_2014_nian"
+            }
+          ],
+          "chatId": "month_chat_rogue_5_2",
+          "tokenRewardNum": 1000,
+          "items": [
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "32001",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "3222",
+              "count": 4,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2004",
+              "count": 15,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 30000,
+              "type": "GOLD"
+            }
+          ],
+          "startTime": 1772308800,
+          "endTime": 1774987200,
+          "taskDes": "累計部署10次年"
         }
       },
       "challenges": [],
@@ -175253,6 +175334,29 @@
                   "chatZoneId": "zone_5",
                   "chatDesc": "昔日之困苦，亦是今日之答案。",
                   "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_1_3"
+                }
+              ]
+            },
+            "month_chat_rogue_5_2": {
+              "sortId": 2,
+              "chatItemList": [
+                {
+                  "floor": 1,
+                  "chatZoneId": "zone_1",
+                  "chatDesc": "求人還是求己，有時並不是什麼原則問題。",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_2_1"
+                },
+                {
+                  "floor": 3,
+                  "chatZoneId": "zone_3",
+                  "chatDesc": "此等挑燈夜戰，不足為外人道也。",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_2_2"
+                },
+                {
+                  "floor": 5,
+                  "chatZoneId": "zone_5",
+                  "chatDesc": "仙人撫孰頂？",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_2_3"
                 }
               ]
             }
@@ -178003,6 +178107,34 @@
           ],
           "initialRecruitGroup": [
             "recruit_group_m1"
+          ],
+          "initialHp": 8,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 8,
+          "initialKey": 0
+        },
+        {
+          "modeId": "MONTH_TEAM",
+          "modeGrade": 0,
+          "predefinedId": "month_team_2",
+          "predefinedStyle": "rogue_5_style_default",
+          "initialBandRelic": [
+            "rogue_5_band_1",
+            "rogue_5_band_5",
+            "rogue_5_band_10",
+            "rogue_5_band_11",
+            "rogue_5_band_15",
+            "rogue_5_band_16",
+            "rogue_5_band_17",
+            "rogue_5_band_18",
+            "rogue_5_band_19",
+            "rogue_5_band_20"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_m2"
           ],
           "initialHp": 8,
           "initialPopulation": 6,

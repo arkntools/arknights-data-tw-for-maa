@@ -20,6 +20,98 @@
       "picGroup": [],
       "usePicGroup": false
     },
+    "act50sign": {
+      "id": "act50sign",
+      "type": "CHECKIN_ONLY",
+      "displayType": "NONE",
+      "name": "風物留痕簽到活動",
+      "startTime": 1772092800,
+      "endTime": 1773259199,
+      "rewardEndTime": 1773259199,
+      "displayOnHome": false,
+      "hasStage": false,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "CAN_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
+    "act2unique": {
+      "id": "act2unique",
+      "type": "UNIQUE_ONLY",
+      "displayType": "NONE",
+      "name": "假日嘉年華特別活動",
+      "startTime": 1772092800,
+      "endTime": 1776196799,
+      "rewardEndTime": 1776196799,
+      "displayOnHome": false,
+      "hasStage": false,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "CAN_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
+    "act24login": {
+      "id": "act24login",
+      "type": "LOGIN_ONLY",
+      "displayType": "NONE",
+      "name": "登入領取獎勵",
+      "startTime": 1772092800,
+      "endTime": 1773259199,
+      "rewardEndTime": 1773259199,
+      "displayOnHome": false,
+      "hasStage": false,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "CAN_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
+    "act12pray": {
+      "id": "act12pray",
+      "type": "PRAY_ONLY",
+      "displayType": "NONE",
+      "name": "幸運牆登入活動",
+      "startTime": 1772092800,
+      "endTime": 1773259199,
+      "rewardEndTime": 1773259199,
+      "displayOnHome": false,
+      "hasStage": false,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "CANNOT_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
+    "act44side": {
+      "id": "act44side",
+      "type": "ENUM",
+      "displayType": "NONE",
+      "name": "墟",
+      "startTime": 1772092800,
+      "endTime": 1773863999,
+      "rewardEndTime": 1774468799,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act44side",
+      "medalGroupId": "medalGroupActivity44side",
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "SPECIAL",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
     "act19mini": {
       "id": "act19mini",
       "type": "MINISTORY",
@@ -4553,6 +4645,34 @@
     }
   },
   "homeActConfig": {
+    "act50sign": {
+      "actId": "act50sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ae1b31",
+      "actTopBarText": "風物留痕簽到活動"
+    },
+    "act2unique": {
+      "actId": "act2unique",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "e8720d",
+      "actTopBarText": "嘉年華\n特別活動"
+    },
+    "act24login": {
+      "actId": "act24login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "00bc91",
+      "actTopBarText": "浪客行歌登入活動"
+    },
+    "act12pray": {
+      "actId": "act12pray",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "e04831",
+      "actTopBarText": "御籤結緣許願牆"
+    },
     "act5collection": {
       "actId": "act5collection",
       "isPopupAfterCheckin": false,
@@ -5366,6 +5486,9 @@
     "act35sre_zone1": "act35sre",
     "act35sre_zone2": "act35sre",
     "act35sre_zone3": "act35sre",
+    "act44side_zone1": "act44side",
+    "act44side_zone2": "act44side",
+    "act44side_zone3": "act44side",
     "act19mini_zone1": "act19mini",
     "act5bossrush_zone1": "act5bossrush",
     "act43side_zone1": "act43side",
@@ -6391,6 +6514,726 @@
         {
           "type": "ACTIVITY_ITEM",
           "id": "act35side_token_dust_rep_1",
+          "count": 120
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_1",
+      "sortId": 1,
+      "description": "通關AT-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 50
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_2",
+      "sortId": 2,
+      "description": "通關AT-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_02",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 50
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_3",
+      "sortId": 3,
+      "description": "通關AT-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_03",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_4",
+      "sortId": 4,
+      "description": "通關AT-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_04",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4199_makiri",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_5",
+      "sortId": 5,
+      "description": "通關AT-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_05",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_6",
+      "sortId": 6,
+      "description": "以3星評價完成AT-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_05",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_7",
+      "sortId": 7,
+      "description": "通關AT-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_06",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_ceilingLight_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_8",
+      "sortId": 8,
+      "description": "以3星評價完成AT-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_06",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_ceilingLight_02",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_9",
+      "sortId": 9,
+      "description": "通關AT-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_07",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_cart_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_10",
+      "sortId": 10,
+      "description": "以3星評價完成AT-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_07",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_billBoard_02",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_11",
+      "sortId": 11,
+      "description": "通關AT-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_08",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_odenShop_floor_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_12",
+      "sortId": 12,
+      "description": "以3星評價完成AT-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_08",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_13",
+      "sortId": 13,
+      "description": "通關AT-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex01",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 40
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_14",
+      "sortId": 14,
+      "description": "通關AT-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex02",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 40
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_15",
+      "sortId": 15,
+      "description": "通關AT-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex03",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_16",
+      "sortId": 16,
+      "description": "通關AT-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex04",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_17",
+      "sortId": 17,
+      "description": "通關AT-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex05",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_18",
+      "sortId": 18,
+      "description": "通關AT-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex06",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_19",
+      "sortId": 19,
+      "description": "通關AT-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex07",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_20",
+      "sortId": 20,
+      "description": "通關AT-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex08",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_21",
+      "sortId": 21,
+      "description": "通關AT-EX-8突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_ex08#f#",
+        "2"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_terratimes_Higashi_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_22",
+      "sortId": 22,
+      "description": "以3星評價完成AT-S-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s01",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_23",
+      "sortId": 23,
+      "description": "以3星評價完成AT-S-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s02",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_24",
+      "sortId": 24,
+      "description": "以3星評價完成AT-S-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s03",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_25",
+      "sortId": 25,
+      "description": "以3星評價完成AT-S-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_s04",
+        "3"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_26",
+      "sortId": 26,
+      "description": "通關活動關卡15次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "15"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_27",
+      "sortId": 27,
+      "description": "通關活動關卡45次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "45"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "44sideActivity_28",
+      "sortId": 28,
+      "description": "通關活動關卡85次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act44side_01^act44side_02^act44side_03^act44side_04^act44side_05^act44side_06^act44side_07^act44side_08^act44side_ex01^act44side_ex01#f#^act44side_ex02^act44side_ex02#f#^act44side_ex03^act44side_ex03#f#^act44side_ex04^act44side_ex04#f#^act44side_ex05^act44side_ex05#f#^act44side_ex06^act44side_ex06#f#^act44side_ex07^act44side_ex07#f#^act44side_ex08^act44side_ex08#f#^act44side_s01^act44side_s01#f#^act44side_s02^act44side_s02#f#^act44side_s03^act44side_s03#f#^act44side_s04^act44side_s04#f#",
+        "85"
+      ],
+      "missionGroup": "act44side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act44side_token_ticket",
           "count": 120
         }
       ],
@@ -77929,6 +78772,43 @@
       "endTs": 1772049599
     },
     {
+      "id": "act44side",
+      "type": "ACTIVITY",
+      "rewards": [],
+      "missionIds": [
+        "44sideActivity_1",
+        "44sideActivity_2",
+        "44sideActivity_3",
+        "44sideActivity_4",
+        "44sideActivity_5",
+        "44sideActivity_6",
+        "44sideActivity_7",
+        "44sideActivity_8",
+        "44sideActivity_9",
+        "44sideActivity_10",
+        "44sideActivity_11",
+        "44sideActivity_12",
+        "44sideActivity_13",
+        "44sideActivity_14",
+        "44sideActivity_15",
+        "44sideActivity_16",
+        "44sideActivity_17",
+        "44sideActivity_18",
+        "44sideActivity_19",
+        "44sideActivity_20",
+        "44sideActivity_21",
+        "44sideActivity_22",
+        "44sideActivity_23",
+        "44sideActivity_24",
+        "44sideActivity_25",
+        "44sideActivity_26",
+        "44sideActivity_27",
+        "44sideActivity_28"
+      ],
+      "startTs": 1772092800,
+      "endTs": 1774468799
+    },
+    {
       "id": "act5bossrush",
       "type": "ACTIVITY",
       "rewards": [],
@@ -81591,6 +82471,203 @@
       }
     },
     "CHECKIN_ONLY": {
+      "act50sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "furni_terracommericials_ScreamingCherry_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "furni_act64d5_motorcycle_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "3003",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "mod_update_token_2",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "7": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 8,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "8": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "3401",
+                "count": 300,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 9,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "9": {
+            "itemList": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 10,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_120": 1774209599
+        }
+      },
       "act49sign": {
         "checkInList": {
           "0": {
@@ -135494,6 +136571,17 @@
       }
     },
     "LOGIN_ONLY": {
+      "act24login": {
+        "description": "<color value=#bfbfbf>該物品過期時間</color>\n<color value=#bfbfbf>2026/03/12 03:59</color>",
+        "itemList": [
+          {
+            "id": "LIMITED_TKT_GACHA_10_6401",
+            "count": 1,
+            "type": "LIMITED_TKT_GACHA_10"
+          }
+        ],
+        "apSupplyOutOfDateDict": []
+      },
       "act23login": {
         "description": "<color value=#bfbfbf>該物品過期時間</color>\n<color value=#bfbfbf>2025/09/30 03:59</color>",
         "itemList": [
@@ -199883,6 +200971,11 @@
     "act35sre": [
       "act35side_token_dust_rep_1"
     ],
+    "act44side": [
+      "act44side_token_ticket",
+      "act44side_token_information",
+      "act44side_token_treasure"
+    ],
     "act19mini": [
       "act19mini_token_sweetie"
     ],
@@ -200604,6 +201697,9 @@
     ]
   },
   "dynActs": {
+    "act12pray": {
+      "base64": "6QAAABJzbG90Q291bnQADAAAAAAAAAACcnVsZTEAbgAAAOeUqOeboeeVtuaXpeasoeaVuOmBuOWPlueahOaJgOacieiosemhmOexpOS4re+8jOWQiOaIkOeOieaVuOmHj+acgOWkmueahDHlvLXoqLHpoZjnsaTngrrnlbbml6XmnIDntYLnjY7li7XjgIIAAnJ1bGUyAE0AAADnlbbml6XoqLHpoZjnsaTlkIjmiJDnjonnjY7li7XkuI3otrM0MDDmmYLvvIzmrKHml6Xlj6/pgbjmk4cz5by16Kix6aGY57Gk44CCAAA="
+    },
     "act11pray": {
       "base64": "6QAAABJzbG90Q291bnQADAAAAAAAAAACcnVsZTEAbgAAAOeUqOeboeeVtuaXpeasoeaVuOmBuOWPlueahOaJgOacieiosemhmOexpOS4re+8jOWQiOaIkOeOieaVuOmHj+acgOWkmueahDHlvLXoqLHpoZjnsaTngrrnlbbml6XmnIDntYLnjY7li7XjgIIAAnJ1bGUyAE0AAADnlbbml6XoqLHpoZjnsaTlkIjmiJDnjonnjY7li7XkuI3otrM0MDDmmYLvvIzmrKHml6Xlj6/pgbjmk4cz5by16Kix6aGY57Gk44CCAAA="
     },
@@ -200657,6 +201753,9 @@
     },
     "act1flip": {
       "base64": "4QEAAAJydWxlRGVzYwCFAAAA5q+P5pel55m75YWl5Y+v6YCy6KGM5LiA5qyh56WI6aGY77yM5Zyo56WI6aGY5Lit5pyJ5qmf546H542y5b6X5LiA5qyh6aGN5aSW55qE56WI6aGY5qmf5pyD44CC56WI6aGY5qmf5pyD5q+P5pel5Yi35paw5LiN5Y+v57Sv6KiI44CCAAJncmFuZFByaXplRGVzYwAuAAAA57+76ZaL5YWo6YOo56WI6aGY54mM5b6M5Y+v542y5b6X56WI6aGY5aSn542OAARpZ25vcmVQb3MAMQAAABIwAA4AAAAAAAAAEjEADwAAAAAAAAASMgATAAAAAAAAABIzABQAAAAAAAAAABJncmlkQW1vdW50ABQAAAAAAAAABHNob3dQcml6ZUlkACUAAAACMAAJAAAAcHJpemVfMTYAAjEACQAAAHByaXplXzE1AAADZ3JhbmRSZXdhcmRzAEEAAAACaWQAEQAAAGl0ZW1wYWNrX2dhY2hhXzEAEmNvdW50AAEAAAAAAAAAAnR5cGUACgAAAElURU1fUEFDSwAAA2FwU3VwcGx5T3V0T2ZEYXRlRGljdAAfAAAAEmFwX3N1cHBseV9sdF8xMjAAP8iRZQAAAAAAAA=="
+    },
+    "act2unique": {
+      "base64": "NAEAAARpdGVtTGlzdAAlAQAAAzAAlAAAAANyZXdhcmRJdGVtAE4AAAACaWQAGwAAAHZvdWNoZXJfcmVjcnVpdFI2X3BpY2s2NDAxABJjb3VudAABAAAAAAAAAAJ0eXBlAA0AAABWT1VDSEVSX1BJQ0sAAAhuZWVkU3RvcmFnZUNoZWNrAAAIdXNlSXRlbU5hbWVJY29uAAAKaXRlbU5hbWVJY29uSWQAAAMxAIYAAAADcmV3YXJkSXRlbQBAAAAAAmlkAA0AAAB2b3VjaGVyX3NraW4AEmNvdW50AAEAAAAAAAAAAnR5cGUADQAAAFZPVUNIRVJfU0tJTgAACG5lZWRTdG9yYWdlQ2hlY2sAAAh1c2VJdGVtTmFtZUljb24AAAppdGVtTmFtZUljb25JZAAAAAA="
     },
     "act1unique": {
       "base64": "TwEAAARpdGVtTGlzdABAAQAAAzAAkgAAAANyZXdhcmRJdGVtADwAAAACaWQAEQAAAGNoYXJfNDAxOV9uY2RlZXIAEmNvdW50AAEAAAAAAAAAAnR5cGUABQAAAENIQVIAAAhuZWVkU3RvcmFnZUNoZWNrAAEIdXNlSXRlbU5hbWVJY29uAAECaXRlbU5hbWVJY29uSWQADAAAAG5hbWVfbmNkZWVyAAADMQCjAAAAA3Jld2FyZEl0ZW0ARQAAAAJpZAAaAAAAZnVybmlfYWN0MjRkMF9kdW5odWFuZ18wMQASY291bnQAAQAAAAAAAAACdHlwZQAFAAAARlVSTgAACG5lZWRTdG9yYWdlQ2hlY2sAAQh1c2VJdGVtTmFtZUljb24AAQJpdGVtTmFtZUljb25JZAAUAAAAbmFtZV9mdXJuaV9kdW5odWFuZwAAAAA="
@@ -205016,6 +206115,30 @@
       ],
       "picGroups": [],
       "startTs": 1770278400
+    },
+    {
+      "id": "dis_side_44",
+      "type": "ACTIVITY",
+      "funcId": "act44side",
+      "endTs": 1773863999,
+      "sortId": 122,
+      "itemId": "act44side_token_ticket",
+      "timeNodes": [
+        {
+          "title": "<墟>活動已開放",
+          "ts": 1772092800
+        },
+        {
+          "title": "“鍛冶舊跡”內關卡已開放",
+          "ts": 1772697600
+        },
+        {
+          "title": "“絕緣石階”內關卡已開放",
+          "ts": 1773302400
+        }
+      ],
+      "picGroups": [],
+      "startTs": 1772092800
     },
     {
       "id": "dis_crisisc_v2_4",
@@ -226810,6 +227933,9 @@
     }
   },
   "dynEntrySwitchData": {
+    "act44side": {
+      "entrySwitchInfo": []
+    },
     "act2mainss": {
       "entrySwitchInfo": {
         "act2mainss_entry_01": {
@@ -229842,6 +230968,23 @@
       "titleType": "COMMON",
       "coinType": "COMMON",
       "coinBackColor": "8f45d6"
+    },
+    "act44side": {
+      "bigRewardType": "ILLUST_CHAR_REWARD",
+      "bigRewardParamList": [
+        "char_4199_makiri",
+        "通關AT-4後可招募此幹員",
+        "4a7b50",
+        "60,14"
+      ],
+      "isMissionListCommonType": true,
+      "isMissionItemCommonType": false,
+      "isMissionItemCompleteUseMainColor": false,
+      "isMissionRewardItemCommonType": true,
+      "isClaimAllBtnCommonType": false,
+      "titleType": "COMMON",
+      "coinType": "COMMON",
+      "coinBackColor": "313131"
     },
     "act43side": {
       "bigRewardType": "ILLUST_CHAR_REWARD",
