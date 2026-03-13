@@ -4300,6 +4300,21 @@
       }
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_37_0_4",
+      "gachaIndex": 9945,
+      "openTime": 1773864000,
+      "endTime": 1775073599,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於4月2日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "uwAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8wMTdfaHVhbmcAAnN1YjZSYXJpdHlDaGFySWQADgAAAGNoYXJfMzU4X2xpc2EABHJhcmU1Q2hhckxpc3QASAAAAAIwABAAAABjaGFyXzIxNV9tYW50aWMAAjEAEAAAAGNoYXJfMTY0X25pZ2h0bQACMgAOAAAAY2hhcl8xMDFfc29yYQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_TC_33_0_3",
       "gachaIndex": 40,
       "openTime": 1752220800,
