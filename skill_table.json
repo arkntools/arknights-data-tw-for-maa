@@ -196423,7 +196423,7 @@
     "levels": [
       {
         "name": "加油哦！",
-        "description": "部署後<@ba.vup>{buff_duration}</>秒內，使雙方所有在場幹員攻擊力提升攻擊力<@ba.vup>+{atk:0%}</>",
+        "description": "部署後<@ba.vup>{buff_duration}</>秒內，使雙方所有在場幹員攻擊力<@ba.vup>+{atk:0%}</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {

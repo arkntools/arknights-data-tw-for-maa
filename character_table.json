@@ -186625,7 +186625,7 @@
             "atk": 0,
             "max_hp": 0
           },
-          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
           "prefabKey": "-1"
         }
       ]
@@ -187414,7 +187414,7 @@
             "max_hp": 0,
             "talent_override_rangeid_flag": 1
           },
-          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
           "prefabKey": "-1",
           "rangeId": "x-4"
         }
@@ -188209,7 +188209,7 @@
             "max_hp": 0,
             "talent_override_rangeid_flag": 1
           },
-          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20s後自身再次替換<替身>",
+          "overrideDescripton": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
           "prefabKey": "-1",
           "rangeId": "x-1"
         }
@@ -215427,7 +215427,7 @@
             "requiredPotentialRank": 0,
             "prefabKey": "2",
             "name": "亂火",
-            "description": "部署後立即隨機獲得一定的技力",
+            "description": "部署後立即隨機獲得7~15點技力",
             "blackboard": {
               "sp_min": 7,
               "sp_max": 16
@@ -215442,7 +215442,7 @@
             "requiredPotentialRank": 2,
             "prefabKey": "2",
             "name": "亂火",
-            "description": "部署後立即隨機獲得較多的技力",
+            "description": "部署後立即隨機獲得10<@ba.talpu>（+3）</>~19<@ba.talpu>（+4）</>點技力",
             "blackboard": {
               "sp_min": 10,
               "sp_max": 20
@@ -384119,7 +384119,6 @@
             },
             "requiredPotentialRank": 0,
             "prefabKey": "Boom",
-            "rangeId": "x-7",
             "blackboard": {
               "delay_time": 0.2,
               "value": 3000
