@@ -43136,6 +43136,408 @@
       }
     ]
   },
+  "skchr_amoris_1": {
+    "skillId": "skchr_amoris_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.3,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.32,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.35,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 1,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.38,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.41,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.44,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.47,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.51,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.55,
+          "attack@atk_scale_light": 0.2
+        }
+      },
+      {
+        "name": "如焰般熱烈",
+        "description": "攻擊變為特殊的三連擊，其中第一次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>且濺射範圍<@ba.vup>擴大</>；後兩次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_1",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.6,
+          "attack@atk_scale_light": 0.2
+        }
+      }
+    ]
+  },
+  "skchr_amoris_2": {
+    "skillId": "skchr_amoris_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 19,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.02,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.04,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.07,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.09,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.12,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.15,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.18,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.22,
+          "attack@atk_scale_light": 0.1
+        }
+      },
+      {
+        "name": "如麥般生長",
+        "rangeId": "x-4",
+        "description": "攻擊範圍<@ba.vup>擴大</>，攻擊變為特殊的八連擊，其中第一、五次攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_heavy:0%}</>；其餘攻擊的攻擊力變為<@ba.vup>{attack@atk_scale_light:0%}</>。隨機攻擊範圍內的目標",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_amoris_2",
+        "duration": 24,
+        "blackboard": {
+          "attack@atk_scale_heavy": 1.25,
+          "attack@atk_scale_light": 0.1
+        }
+      }
+    ]
+  },
   "skchr_bluep_1": {
     "skillId": "skchr_bluep_1",
     "hidden": false,
@@ -86674,6 +87076,438 @@
       }
     ]
   },
+  "skchr_dolris_1": {
+    "skillId": "skchr_dolris_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.2,
+          "attack@def": 0.2,
+          "attack@heal_value_s1": 50
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.23,
+          "attack@def": 0.23,
+          "attack@heal_value_s1": 55
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.27,
+          "attack@def": 0.27,
+          "attack@heal_value_s1": 60
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.3,
+          "attack@def": 0.3,
+          "attack@heal_value_s1": 65
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.33,
+          "attack@def": 0.33,
+          "attack@heal_value_s1": 70
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.37,
+          "attack@def": 0.37,
+          "attack@heal_value_s1": 75
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.4,
+          "attack@def": 0.4,
+          "attack@heal_value_s1": 80
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.45,
+          "attack@def": 0.45,
+          "attack@heal_value_s1": 85
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.5,
+          "attack@def": 0.5,
+          "attack@heal_value_s1": 90
+        }
+      },
+      {
+        "name": "我思念的",
+        "rangeId": "x-2",
+        "description": "攻擊範圍擴大，攻擊範圍內所有友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力與防禦力的<$ba.inspire>鼓舞</>效果，目標受到傷害時三角初華會為其治療<@ba.vup>{attack@heal_value_s1}</>點生命",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_1",
+        "duration": 30,
+        "blackboard": {
+          "attack@atk": 0.55,
+          "attack@def": 0.55,
+          "attack@heal_value_s1": 100
+        }
+      }
+    ]
+  },
+  "skchr_dolris_2": {
+    "skillId": "skchr_dolris_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.7,
+          "interval": 0.3,
+          "attack@atk_scale": 0.6,
+          "attack@heal_scale": 0.1
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.7,
+          "interval": 0.3,
+          "attack@atk_scale": 0.6,
+          "attack@heal_scale": 0.1
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 11,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.7,
+          "interval": 0.3,
+          "attack@atk_scale": 0.6,
+          "attack@heal_scale": 0.1
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 12,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.8,
+          "interval": 0.3,
+          "attack@atk_scale": 0.7,
+          "attack@heal_scale": 0.15
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 13,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.8,
+          "interval": 0.3,
+          "attack@atk_scale": 0.7,
+          "attack@heal_scale": 0.15
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.8,
+          "interval": 0.3,
+          "attack@atk_scale": 0.7,
+          "attack@heal_scale": 0.15
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.9,
+          "interval": 0.3,
+          "attack@atk_scale": 0.8,
+          "attack@heal_scale": 0.2
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.9,
+          "interval": 0.3,
+          "attack@atk_scale": 0.85,
+          "attack@heal_scale": 0.2
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 0.9,
+          "interval": 0.3,
+          "attack@atk_scale": 0.9,
+          "attack@heal_scale": 0.25
+        }
+      },
+      {
+        "name": "我悲憫的",
+        "description": "技能期間特性不再恢復生命，每{interval}秒對攻擊範圍內隨機一名敵人造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並為一名友方治療相當於攻擊力<@ba.vup>{attack@heal_scale:0%}</>的生命；攻擊範圍內所有其他友方單位獲得相當於三角初華<@ba.vup>{attack@atk:0%}</>攻擊力的鼓舞效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_dolris_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk": 1,
+          "interval": 0.3,
+          "attack@atk_scale": 1,
+          "attack@heal_scale": 0.25
+        }
+      }
+    ]
+  },
   "skchr_tknogi_1": {
     "skillId": "skchr_tknogi_1",
     "hidden": false,
@@ -89846,6 +90680,418 @@
           "talent_scale": 3,
           "attack@atk_scale": 1,
           "attack@duration": 1
+        }
+      }
+    ]
+  },
+  "skchr_tmoris_1": {
+    "skillId": "skchr_tmoris_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.55,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.57,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.6,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.61,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.62,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.63,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.65,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.67,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.68,
+          "times": 5
+        }
+      },
+      {
+        "name": "戰慄之弦",
+        "description": "發動一次<@ba.vup>{times}連擊</>，對攻擊範圍內的地面敵人每次造成相當於<@ba.vup>{atk_scale:0%}</>攻擊力的法術傷害。\n<@ba.rem>其他<$ba.mujica>Ave Mujica</>成員開啟技能時，額外釋放一次</>\n<@ba.rem>可充能2次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_1",
+        "duration": 2.1,
+        "blackboard": {
+          "atk_scale": 0.7,
+          "times": 5
+        }
+      }
+    ]
+  },
+  "skchr_tmoris_2": {
+    "skillId": "skchr_tmoris_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.7,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.5
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.73,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.5
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.75,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.6
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.78,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.7
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.82,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.7
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.85,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 1.8
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.88,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 2
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.92,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 2.1
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 0.95,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 2.1
+        }
+      },
+      {
+        "name": "無存之所",
+        "description": "立即使攻擊範圍內的敵人<$ba.fear>恐懼</>1.5秒，每秒對攻擊範圍內的敵人造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害，第一天賦造成<$ba.sluggish>停頓</>的機率提升至<@ba.vup>{talent_scale}</>倍",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_tmoris_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 1,
+          "attack@interval": 1,
+          "fear": 1.5,
+          "talent_scale": 2.2
         }
       }
     ]
@@ -94430,6 +95676,428 @@
         "blackboard": {
           "attack_speed": 300,
           "anti_invisible_duration": 10
+        }
+      }
+    ]
+  },
+  "skchr_mortis_1": {
+    "skillId": "skchr_mortis_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 13,
+        "blackboard": {
+          "def": 0.5,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 13,
+        "blackboard": {
+          "def": 0.55,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 13,
+        "blackboard": {
+          "def": 0.6,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 14,
+        "blackboard": {
+          "def": 0.65,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 14,
+        "blackboard": {
+          "def": 0.7,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 14,
+        "blackboard": {
+          "def": 0.75,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 15,
+        "blackboard": {
+          "def": 0.8,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 15,
+        "blackboard": {
+          "def": 0.9,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 15,
+        "blackboard": {
+          "def": 1,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      },
+      {
+        "name": "多首野獸",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，阻擋數<@ba.vup>+{block_cnt}</>，更容易成為敵人的攻擊目標；技能期間被擊倒後，<替身>也能阻擋敵人且享受技能效果，直到<替身>退場",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_1",
+        "duration": 15,
+        "blackboard": {
+          "def": 1.2,
+          "block_cnt": 2,
+          "taunt_level": 1
+        }
+      }
+    ]
+  },
+  "skchr_mortis_2": {
+    "skillId": "skchr_mortis_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.6,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.65,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.7,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 7,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.75,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 7,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.8,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 7,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": 0,
+          "attack@atk_scale": 0.85,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，攻擊間隔略微縮短，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": -0.3,
+          "attack@atk_scale": 0.9,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，攻擊間隔略微縮短，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 9,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": -0.3,
+          "attack@atk_scale": 1,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，攻擊間隔略微縮短，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": -0.3,
+          "attack@atk_scale": 1.1,
+          "value": 20
+        }
+      },
+      {
+        "name": "破壞與滋養",
+        "rangeId": "2-1",
+        "description": "攻擊範圍擴大，攻擊間隔略微縮短，每次攻擊變為攻擊力<@ba.vup>{attack@atk_scale:0%}</>法術傷害的三連發，隨機攻擊範圍內的目標，每次攻擊到敵人時自身受到<@ba.vdown>{value}</>點法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 11,
+          "increment": 1
+        },
+        "prefabId": "skchr_mortis_2",
+        "duration": 15,
+        "blackboard": {
+          "base_attack_time": -0.3,
+          "attack@atk_scale": 1.2,
+          "value": 20
         }
       }
     ]
@@ -171214,6 +172882,684 @@
       }
     ]
   },
+  "skchr_oblvns_1": {
+    "skillId": "skchr_oblvns_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.5,
+          "atk_scale_2": 0.46,
+          "atk_scale_3": 0.38,
+          "atk_scale_4": 0.29,
+          "atk_scale_5": 0.21,
+          "atk_scale_6": 0.17,
+          "atk_scale_7": 0.08,
+          "atk_scale_8": 0.03,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.55,
+          "atk_scale_2": 0.5,
+          "atk_scale_3": 0.42,
+          "atk_scale_4": 0.32,
+          "atk_scale_5": 0.23,
+          "atk_scale_6": 0.19,
+          "atk_scale_7": 0.09,
+          "atk_scale_8": 0.03,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.6,
+          "atk_scale_2": 0.55,
+          "atk_scale_3": 0.45,
+          "atk_scale_4": 0.35,
+          "atk_scale_5": 0.25,
+          "atk_scale_6": 0.2,
+          "atk_scale_7": 0.1,
+          "atk_scale_8": 0.03,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.65,
+          "atk_scale_2": 0.6,
+          "atk_scale_3": 0.49,
+          "atk_scale_4": 0.38,
+          "atk_scale_5": 0.27,
+          "atk_scale_6": 0.22,
+          "atk_scale_7": 0.11,
+          "atk_scale_8": 0.04,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.7,
+          "atk_scale_2": 0.64,
+          "atk_scale_3": 0.53,
+          "atk_scale_4": 0.41,
+          "atk_scale_5": 0.29,
+          "atk_scale_6": 0.24,
+          "atk_scale_7": 0.12,
+          "atk_scale_8": 0.04,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.75,
+          "atk_scale_2": 0.69,
+          "atk_scale_3": 0.57,
+          "atk_scale_4": 0.44,
+          "atk_scale_5": 0.31,
+          "atk_scale_6": 0.25,
+          "atk_scale_7": 0.12,
+          "atk_scale_8": 0.04,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.8,
+          "atk_scale_2": 0.73,
+          "atk_scale_3": 0.6,
+          "atk_scale_4": 0.47,
+          "atk_scale_5": 0.33,
+          "atk_scale_6": 0.27,
+          "atk_scale_7": 0.13,
+          "atk_scale_8": 0.04,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.85,
+          "atk_scale_2": 0.78,
+          "atk_scale_3": 0.64,
+          "atk_scale_4": 0.5,
+          "atk_scale_5": 0.35,
+          "atk_scale_6": 0.29,
+          "atk_scale_7": 0.14,
+          "atk_scale_8": 0.05,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 0.9,
+          "atk_scale_2": 0.83,
+          "atk_scale_3": 0.68,
+          "atk_scale_4": 0.53,
+          "atk_scale_5": 0.38,
+          "atk_scale_6": 0.3,
+          "atk_scale_7": 0.15,
+          "atk_scale_8": 0.05,
+          "angle": 15
+        }
+      },
+      {
+        "name": "新月的甦醒",
+        "description": "演奏出<@ba.vup>8</>個音符。每個音符造成的法術傷害依次從攻擊力的<@ba.vup>{atk_scale:0%}</>逐漸降低至<@ba.vup>{atk_scale_8:0%}</>。\n<@ba.rem>可充能2次，充能至最大層數時自動釋放一次</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 2,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1,
+          "atk_scale_2": 0.92,
+          "atk_scale_3": 0.75,
+          "atk_scale_4": 0.58,
+          "atk_scale_5": 0.42,
+          "atk_scale_6": 0.33,
+          "atk_scale_7": 0.17,
+          "atk_scale_8": 0.05,
+          "angle": 15
+        }
+      }
+    ]
+  },
+  "skchr_oblvns_2": {
+    "skillId": "skchr_oblvns_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 60,
+          "attack@atk": 0.4,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 65,
+          "attack@atk": 0.45,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 70,
+          "attack@atk": 0.5,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 80,
+          "attack@atk": 0.6,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 90,
+          "attack@atk": 0.65,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 100,
+          "attack@atk": 0.7,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 110,
+          "attack@atk": 0.75,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 120,
+          "attack@atk": 0.8,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 130,
+          "attack@atk": 0.95,
+          "attack@passby_delay": 0.5
+        }
+      },
+      {
+        "name": "滿月的舞會",
+        "description": "<@ba.rem>可以切換<@ba.vup>鋼琴（初始）</>或<@ba.vup>風琴</>音色演奏：</>\n<@ba.vup>鋼琴</>：攻擊力<@ba.vup>+{attack@atk:0%}</>，音符飛行速度加快，命中目標後穿過敵人造成<@ba.vup>物理傷害</>\n<@ba.vup>風琴</>：攻擊速度<@ba.vup>+{attack@attack_speed}</>，音符造成<@ba.vup>法術傷害</>且飛行速度減緩\n<@ba.rem><$ba.fever>Fever</>期間變為目前音色的二連擊</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_2",
+        "duration": -1,
+        "blackboard": {
+          "attack@attack_speed": 140,
+          "attack@atk": 1.1,
+          "attack@passby_delay": 0.5
+        }
+      }
+    ]
+  },
+  "skchr_oblvns_3": {
+    "skillId": "skchr_oblvns_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 28,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.4
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 28,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.45
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 28,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.5
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 28,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.55
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 29,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.6
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 29,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.7
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 30,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.8
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 31,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 1.9
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 32,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 2.05
+        }
+      },
+      {
+        "name": "殘月的餘響",
+        "rangeId": "3-21",
+        "description": "攻擊範圍擴大，攻擊同時使用<@ba.vup>鋼琴</>和<@ba.vup>風琴</>音色演奏，各自演奏<@ba.vup>2</>個造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>物理和法術傷害的音符，且分別追蹤法術抗性和防禦力最高的敵人。\n<@ba.rem><$ba.fever>Fever</>期間<$ba.mujica>Ave Mujica</>成員受到致命傷害時不撤退，<$ba.fever>Fever</>結束後退場</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 34,
+          "increment": 1
+        },
+        "prefabId": "skchr_oblvns_3",
+        "duration": 25,
+        "blackboard": {
+          "attack@attack_speed": 0,
+          "attack@atk_scale": 2.2
+        }
+      }
+    ]
+  },
   "skchr_hodrer_1": {
     "skillId": "skchr_hodrer_1",
     "hidden": false,
@@ -197264,6 +199610,61 @@
         },
         "duration": -1,
         "blackboard": []
+      }
+    ]
+  },
+  "sktok_mjcsdw": {
+    "skillId": "sktok_mjcsdw",
+    "iconId": "sktok_mjcsdw",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "破繭倒數",
+        "description": "可以阻擋月光",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 999,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_mjcsdw",
+        "duration": -1,
+        "blackboard": {
+          "sp": 1,
+          "interval": 1,
+          "sp_moon": 1,
+          "damage_resistance": 0.8,
+          "sp_warning": 900,
+          "show_fx": 1,
+          "branch_id": 0
+        }
+      },
+      {
+        "name": "破繭倒數",
+        "description": "可以阻擋月光。一段時間後敵人會破繭而出",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 999,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_mjcsdw",
+        "duration": -1,
+        "blackboard": {
+          "sp": 1,
+          "interval": 1,
+          "sp_moon": 1,
+          "damage_resistance": 0.8,
+          "sp_warning": 900,
+          "show_fx": 1,
+          "branch_id": 0
+        }
       }
     ]
   }

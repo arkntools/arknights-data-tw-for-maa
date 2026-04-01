@@ -3051,6 +3051,19 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "DOUBLE_TC_38_0_4",
+      "gachaIndex": 884,
+      "openTime": 1775505600,
+      "endTime": 1776715199,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於4月21日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -3497,6 +3510,21 @@
       "endTime": 1750103999,
       "gachaPoolName": "泰拉飯，嗚呼，泰拉飯",
       "gachaPoolSummary": "結束於6月17日 03:59",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "LINKAGE",
+      "linkageRuleId": "LINKAGE_R6_01",
+      "linkageParam": {
+        "base64": "JAAAABJndWFyYW50ZWVUYXJnZXQ2Q291bnQAeAAAAAAAAAAA"
+      }
+    },
+    {
+      "gachaPoolId": "LINKAGE_TC_38_0_3",
+      "gachaIndex": 20,
+      "openTime": 1775030400,
+      "endTime": 1776196799,
+      "gachaPoolName": "人偶的歌謠",
+      "gachaPoolSummary": "結束於4月15日03:59",
       "guarantee5Avail": 1,
       "guarantee5Count": 10,
       "gachaRuleType": "LINKAGE",
@@ -4338,6 +4366,21 @@
       "gachaRuleType": "CLASSIC_DOUBLE",
       "dynMeta": {
         "base64": "uwAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8wMTdfaHVhbmcAAnN1YjZSYXJpdHlDaGFySWQADgAAAGNoYXJfMzU4X2xpc2EABHJhcmU1Q2hhckxpc3QASAAAAAIwABAAAABjaGFyXzIxNV9tYW50aWMAAjEAEAAAAGNoYXJfMTY0X25pZ2h0bQACMgAOAAAAY2hhcl8xMDFfc29yYQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_38_0_1",
+      "gachaIndex": 9944,
+      "openTime": 1775073600,
+      "endTime": 1776283199,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於4月16日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8yNjRfZjEyeWluAAJzdWI2UmFyaXR5Q2hhcklkABAAAABjaGFyXzEzNl9oc2d1bWEABHJhcmU1Q2hhckxpc3QASAAAAAIwAA8AAABjaGFyXzEwMl90ZXhhcwACMQAPAAAAY2hhcl8zMDZfbGVpemkAAjIAEAAAAGNoYXJfMjAxX21vZXNoZAAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
       }
     },
     {
@@ -7082,6 +7125,20 @@
       "spriteId": "picDouble_tc_38_0_2"
     },
     {
+      "poolId": "LINKAGE_TC_38_0_3",
+      "index": 878,
+      "startTime": 1775030400,
+      "endTime": 1776196799,
+      "spriteId": "picLinkage_tc_38_0_3"
+    },
+    {
+      "poolId": "DOUBLE_TC_38_0_4",
+      "index": 884,
+      "startTime": 1775505600,
+      "endTime": 1776715199,
+      "spriteId": "picDouble_tc_38_0_4"
+    },
+    {
       "poolId": "FESCLASSIC_TC_23_0_4",
       "index": 9999,
       "startTime": 1712174400,
@@ -7348,6 +7405,11 @@
       "itemId": "LINKAGE_TKT_GACHA_10_5401",
       "endTime": 1750103999,
       "gachaPoolId": "LINKAGE_TC_32_0_4"
+    },
+    {
+      "itemId": "LINKAGE_TKT_GACHA_10_6501",
+      "endTime": 1776196799,
+      "gachaPoolId": "LINKAGE_TC_38_0_3"
     }
   ],
   "normalGachaItem": [
