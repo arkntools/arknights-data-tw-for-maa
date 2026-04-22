@@ -11569,6 +11569,408 @@
       }
     ]
   },
+  "skchr_wintim_1": {
+    "skillId": "skchr_wintim_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 1.5
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 1.6
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 1.7
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 1.8
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 1.9
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 2
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 2.1
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 2.3
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 2.5
+        }
+      },
+      {
+        "name": "數據分析",
+        "description": "下次攻擊造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害，並獲得<@ba.vup>{cost}</>點部署費用",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 2,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_1",
+        "duration": 0,
+        "blackboard": {
+          "cost": 3,
+          "atk_scale": 2.8
+        }
+      }
+    ]
+  },
+  "skchr_wintim_2": {
+    "skillId": "skchr_wintim_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 5,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 8,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 11,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 16,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 19,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 22,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 25,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 30,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 19,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 35,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      },
+      {
+        "name": "循理歸因",
+        "description": "攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊獲得<@ba.vup>{cost}</>點部署費用，並使目標<$ba.sluggish>停頓</><@ba.vup>{attack@sluggish}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_wintim_2",
+        "duration": 9,
+        "blackboard": {
+          "attack_speed": 40,
+          "attack@sluggish": 1,
+          "cost": 1
+        }
+      }
+    ]
+  },
   "skchr_doberm_1": {
     "skillId": "skchr_doberm_1",
     "iconId": "skcom_powerstrike[2]",
@@ -72188,6 +72590,418 @@
       }
     ]
   },
+  "skchr_branch_1": {
+    "skillId": "skchr_branch_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.6,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.65,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.7,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 4,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.75,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.8,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.85,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 6,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 0.9,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 1,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 8,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 1.1,
+          "one_minus_status_resistance": -0.5
+        }
+      },
+      {
+        "name": "絕境抵抗",
+        "description": "防禦力<@ba.vup>+{def:0%}</>，獲得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_TAKEN_DAMAGE",
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 10,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_1",
+        "duration": 12,
+        "blackboard": {
+          "def": 1.2,
+          "one_minus_status_resistance": -0.5
+        }
+      }
+    ]
+  },
+  "skchr_branch_2": {
+    "skillId": "skchr_branch_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.8,
+          "not_combat": 5,
+          "def": 0.3
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.85,
+          "not_combat": 5,
+          "def": 0.3
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 0.9,
+          "not_combat": 5,
+          "def": 0.3
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1,
+          "not_combat": 5,
+          "def": 0.3
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.05,
+          "not_combat": 5,
+          "def": 0.4
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.1,
+          "not_combat": 5,
+          "def": 0.4
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 3,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.2,
+          "not_combat": 5,
+          "def": 0.4
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.3,
+          "not_combat": 5,
+          "def": 0.5
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.4,
+          "not_combat": 5,
+          "def": 0.5
+        }
+      },
+      {
+        "name": "生存決心",
+        "rangeId": "x-4",
+        "description": "技能開啟時使自身周圍的地面敵人<$ba.tremble>戰慄</><@ba.vup>{not_combat}</>秒；攻擊力<@ba.vup>+{atk:0%}</>，防禦力<@ba.vup>+{def:0%}</>，同時攻擊阻擋的所有敵人",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 5,
+          "increment": 1
+        },
+        "prefabId": "skchr_branch_2",
+        "duration": 15,
+        "blackboard": {
+          "atk": 1.5,
+          "not_combat": 5,
+          "def": 0.5
+        }
+      }
+    ]
+  },
   "skchr_asbest_1": {
     "skillId": "skchr_asbest_1",
     "hidden": false,
@@ -126031,6 +126845,724 @@
           "lose_hp_scale": 0.03,
           "ammo_recover": 2,
           "skill_max_trigger_time": -1
+        }
+      }
+    ]
+  },
+  "skchr_mantra_1": {
+    "skillId": "skchr_mantra_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.9,
+          "ep_damage_ratio": 0.1,
+          "element_atk_scale": 1.5
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.1,
+          "ep_damage_ratio": 0.1,
+          "element_atk_scale": 1.5
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.3,
+          "ep_damage_ratio": 0.1,
+          "element_atk_scale": 1.5
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.3,
+          "ep_damage_ratio": 0.15,
+          "element_atk_scale": 1.5
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.5,
+          "ep_damage_ratio": 0.15,
+          "element_atk_scale": 1.6
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.5,
+          "ep_damage_ratio": 0.2,
+          "element_atk_scale": 1.6
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.75,
+          "ep_damage_ratio": 0.2,
+          "element_atk_scale": 1.6
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.75,
+          "ep_damage_ratio": 0.25,
+          "element_atk_scale": 1.8
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 3,
+          "ep_damage_ratio": 0.3,
+          "element_atk_scale": 1.8
+        }
+      },
+      {
+        "name": "共鳴潰縮",
+        "description": "下次攻擊造成攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害並附帶傷害<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則額外造成<@ba.vup>{element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 3.25,
+          "ep_damage_ratio": 0.3,
+          "element_atk_scale": 2
+        }
+      }
+    ]
+  },
+  "skchr_mantra_2": {
+    "skillId": "skchr_mantra_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.5,
+          "attack@atk_scale": 1.6,
+          "attack@chain.atk_scale": 0.9,
+          "attack@ep_damage_ratio": 0.12,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.16
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.5,
+          "attack@atk_scale": 1.6,
+          "attack@chain.atk_scale": 0.9,
+          "attack@ep_damage_ratio": 0.12,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.16
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 15,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.5,
+          "attack@atk_scale": 1.6,
+          "attack@chain.atk_scale": 1,
+          "attack@ep_damage_ratio": 0.12,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.16
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.6,
+          "attack@atk_scale": 1.7,
+          "attack@chain.atk_scale": 1,
+          "attack@ep_damage_ratio": 0.13,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.18
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.6,
+          "attack@atk_scale": 1.7,
+          "attack@chain.atk_scale": 1,
+          "attack@ep_damage_ratio": 0.13,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.18
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>小幅度縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間則附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 16,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.6,
+          "attack@atk_scale": 1.9,
+          "attack@chain.atk_scale": 1,
+          "attack@ep_damage_ratio": 0.13,
+          "attack@times": 3,
+          "chain_times": 2,
+          "attack@element_atk_scale": 0.18
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並以短暫間隔跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.7,
+          "attack@atk_scale": 2.1,
+          "attack@chain.atk_scale": 1.1,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@times": 4,
+          "chain_times": 3,
+          "attack@element_atk_scale": 0.2
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並以短暫間隔跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.7,
+          "attack@atk_scale": 2.1,
+          "attack@chain.atk_scale": 1.2,
+          "attack@ep_damage_ratio": 0.15,
+          "attack@times": 4,
+          "chain_times": 3,
+          "attack@element_atk_scale": 0.22
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並以短暫間隔跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.7,
+          "attack@atk_scale": 2.1,
+          "attack@chain.atk_scale": 1.2,
+          "attack@ep_damage_ratio": 0.18,
+          "attack@times": 4,
+          "chain_times": 3,
+          "attack@element_atk_scale": 0.25
+        }
+      },
+      {
+        "name": "意識聯協",
+        "description": "攻擊間隔<@ba.vup>縮短</>，攻擊造成攻擊力<@ba.vup>{attack@atk_scale:0%}</>的法術傷害並以短暫間隔跳躍至其他<@ba.vup>{chain_times}</>名敵人造成攻擊力<@ba.vup>{attack@chain.atk_scale:0%}</>的法術傷害，均附帶傷害<@ba.vup>{attack@ep_damage_ratio:0%}</>的<$ba.dt.neural2>神經損傷</>，若目標處於<$ba.dt.neural2>神經損傷</>爆發期間附帶<@ba.vup>{attack@element_atk_scale:0%}</>攻擊力的元素傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_2",
+        "duration": 25,
+        "blackboard": {
+          "base_attack_time": -0.8,
+          "attack@atk_scale": 2.4,
+          "attack@chain.atk_scale": 1.2,
+          "attack@ep_damage_ratio": 0.18,
+          "attack@times": 4,
+          "chain_times": 3,
+          "attack@element_atk_scale": 0.25
+        }
+      }
+    ]
+  },
+  "skchr_mantra_3": {
+    "skillId": "skchr_mantra_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 55,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.45,
+          "attack@max_target": 2,
+          "atk_scale": 0.8,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 54,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.5,
+          "attack@max_target": 2,
+          "atk_scale": 0.9,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 53,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.6,
+          "attack@max_target": 2,
+          "atk_scale": 1,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 52,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.7,
+          "attack@max_target": 2,
+          "atk_scale": 1.1,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.8,
+          "attack@max_target": 2,
+          "atk_scale": 1.2,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 1.9,
+          "attack@max_target": 2,
+          "atk_scale": 1.3,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 26,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 2.1,
+          "attack@max_target": 2,
+          "atk_scale": 1.45,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 26,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 2.3,
+          "attack@max_target": 2,
+          "atk_scale": 1.65,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 28,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 2.5,
+          "attack@max_target": 2,
+          "atk_scale": 1.65,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
+        }
+      },
+      {
+        "name": "無言為真",
+        "rangeId": "3-17",
+        "description": "攻擊範圍<@ba.vup>擴大</>，範圍內敵人<$ba.invisible>隱匿</>失效且<$ba.palsy>麻痺</>層數上限<@ba.vdown>降為2</>，攻擊力<@ba.vup>+{atk:0%}</>同時攻擊<@ba.vup>{attack@max_target}</>個目標，範圍中幹員開啟技能時（包括自身）使範圍內敵人獲得{per_active}層<$ba.palsy>麻痺</>（最多{max_trigger_cnt}次），範圍內敵人<$ba.palsy>麻痺</>層數每<@ba.vup>超過上限</>1層在目標及{chain_times}名敵人間跳躍1次<@ba.vup>{atk_scale:0%}</>攻擊力的元素傷害，跳躍間存在短暫間隔",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 31,
+          "increment": 1
+        },
+        "prefabId": "skchr_mantra_3",
+        "duration": 40,
+        "blackboard": {
+          "atk": 2.75,
+          "attack@max_target": 2,
+          "atk_scale": 1.85,
+          "max_target": 2,
+          "chain_times": 1,
+          "max_trigger_cnt": 3,
+          "interval_projectile_trigger": 1.5,
+          "per_active": 2
         }
       }
     ]
@@ -199775,6 +201307,35 @@
           "sp_warning": 900,
           "show_fx": 1,
           "branch_id": 0
+        }
+      }
+    ]
+  },
+  "sktok_spawnp": {
+    "skillId": "sktok_spawnp",
+    "iconId": "sktok_spawnp",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "協同指令",
+        "description": "啟動後，切換在此集結的礦工游擊隊的出擊/待命指令",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_spawnp",
+        "duration": -1,
+        "blackboard": {
+          "talent@max_mcreep_count": 5,
+          "talent@action_index": 0,
+          "talent@interval": 15,
+          "talent@max_mcreep_near_count": 3,
+          "talent@branch_id": 0
         }
       }
     ]
