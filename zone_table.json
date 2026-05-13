@@ -680,6 +680,24 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "act39sre_zone1": {
+      "zoneID": "act39sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "鹽漠開航",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act39sre_zone2": {
+      "zoneID": "act39sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "穿越骸礁",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "act2multi_zone1": {
       "zoneID": "act2multi_zone1",
       "zoneIndex": 0,
@@ -3665,6 +3683,24 @@
       "canPreview": false,
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
+    },
+    "permanent_sidestory_29_zone1": {
+      "zoneID": "permanent_sidestory_29_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "鹽漠開航",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "permanent_sidestory_29_zone2": {
+      "zoneID": "permanent_sidestory_29_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "穿越骸礁",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
     }
   },
   "weeklyAdditionInfo": {
@@ -3754,6 +3790,14 @@
     }
   },
   "zoneValidInfo": {
+    "act39sre_zone1": {
+      "startTs": 1778648400,
+      "endTs": 1779479999
+    },
+    "act39sre_zone2": {
+      "startTs": 1778648400,
+      "endTs": 1779479999
+    },
     "act3mainss_zone1": {
       "startTs": 1776844800,
       "endTs": 1778011199

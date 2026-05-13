@@ -138815,6 +138815,744 @@
       }
     ]
   },
+  "sktok_nasti_nstdef": {
+    "skillId": "sktok_nasti_nstdef",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.35,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.36,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.38,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.4,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.42,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.44,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.46,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.49,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.52,
+          "talent@block_cnt": 1
+        }
+      },
+      {
+        "name": "“拱衛”",
+        "description": "娜斯提技能開啟時，裝置天賦效果改為使前方幹員阻擋數<@ba.vup>+1</>，防禦力<@ba.vup>+{talent@def:0%}</>，裝置每秒流失2%最大生命值",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1,
+        "blackboard": {
+          "talent@hp_ratio": 0.02,
+          "talent@def": 0.55,
+          "talent@block_cnt": 1
+        }
+      }
+    ]
+  },
+  "sktok_nasti_nstchr": {
+    "skillId": "sktok_nasti_nstchr",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.32,
+          "talent@shield_each_hp_rate": 0.02
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.32,
+          "talent@shield_each_hp_rate": 0.02
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.32,
+          "talent@shield_each_hp_rate": 0.02
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.48,
+          "talent@shield_each_hp_rate": 0.03
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.48,
+          "talent@shield_each_hp_rate": 0.03
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.48,
+          "talent@shield_each_hp_rate": 0.03
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.64,
+          "talent@shield_each_hp_rate": 0.04
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.64,
+          "talent@shield_each_hp_rate": 0.04
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.64,
+          "talent@shield_each_hp_rate": 0.04
+        }
+      },
+      {
+        "name": "“執行”",
+        "description": "開啟技能時回復<@ba.vup>1</>點生命值；啟動後每0.5秒流失1點生命值，使前方幹員獲得<@ba.vup>1</>點技力和相當於娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超過生命上限{talent@shield_max_hp_rate:0%}），啟動的裝置在娜斯提技能結束時離場",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1,
+        "blackboard": {
+          "value": 1,
+          "talent@hp": 1,
+          "talent@sp": 1,
+          "talent@interval": 0.5,
+          "talent@shield_max_hp_rate": 0.8,
+          "talent@shield_each_hp_rate": 0.05
+        }
+      }
+    ]
+  },
+  "sktok_nasti_nstbld": {
+    "skillId": "sktok_nasti_nstbld",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.06,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.06,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.12,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.12,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.18,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.18,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.08,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.08,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.16,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.16,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.24,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.24,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.1,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.1,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.2,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.2,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.3,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.3,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.12,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.12,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.24,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.24,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.36,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.36,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.13,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.13,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.26,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.26,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.39,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.39,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.14,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.14,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.28,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.28,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.42,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.42,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.15,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.15,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.3,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.3,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.45,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.45,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.16,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.16,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.32,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.32,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.48,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.48,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.18,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.18,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.36,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.36,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.54,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.54,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      },
+      {
+        "name": "棲腳地",
+        "description": "小工程師形態：每秒使前方高台裝置獲得<@ba.vup>1</>點技力，娜斯提技能期間效果翻倍\n高台形態：技力滿時升級（最多3次），首次升級後可阻擋1名敵人且裝置上可部署幹員，每次升級都可為裝置上部署的幹員提供一層生命上限與攻擊力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升級3次後娜斯提撤退時自身仍保留在場上",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1,
+        "blackboard": {
+          "attack@nasti_nstbld[m4_bonus].max_hp": 0.2,
+          "attack@nasti_nstbld[m4_bonus].atk": 0.2,
+          "attack@nasti_nstbld[m5_bonus].max_hp": 0.4,
+          "attack@nasti_nstbld[m5_bonus].atk": 0.4,
+          "attack@nasti_nstbld[m6_bonus].max_hp": 0.6,
+          "attack@nasti_nstbld[m6_bonus].atk": 0.6,
+          "attack@nasti_nstbld_m5[attribute_up].max_hp": 1000,
+          "attack@nasti_nstbld_m5[attribute_up].def": 100,
+          "attack@nasti_nstbld_m5[attribute_up].magic_resistance": 5,
+          "attack@nasti_nstbld_m6[attribute_up].max_hp": 2000,
+          "attack@nasti_nstbld_m6[attribute_up].def": 200,
+          "attack@nasti_nstbld_m6[attribute_up].magic_resistance": 10
+        }
+      }
+    ]
+  },
   "skchr_cello_1": {
     "skillId": "skchr_cello_1",
     "hidden": false,
@@ -202559,6 +203297,110 @@
         "prefabId": "sktok_empty",
         "duration": 0,
         "blackboard": []
+      }
+    ]
+  },
+  "sktok_xdplat": {
+    "skillId": "sktok_xdplat",
+    "iconId": "sktok_xdplat",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "伊斯貝塔高台",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_xdplat",
+        "duration": -1,
+        "blackboard": {
+          "duration": 999999,
+          "branch_id": 0
+        }
+      }
+    ]
+  },
+  "sktok_xdice1": {
+    "skillId": "sktok_xdice1",
+    "iconId": "sktok_xdice1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "雪崩",
+        "description": "對禁區內所有敵人造成真實傷害並<@ba.vup>特大力地</>推動；\n對禁區內所有我方單位造成真實傷害並<@ba.vup>推動一格</>，若<@ba.vup>無法推動</>則造成更多真實傷害並暈眩；\n<@ba.rem>推動方向為聖女像所指朝向</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 5,
+          "increment": 0
+        },
+        "prefabId": "sktok_xdice1",
+        "duration": 2,
+        "blackboard": {
+          "sp_ratio": 0.8
+        }
+      },
+      {
+        "name": "雪崩",
+        "description": "對禁區內所有敵人造成真實傷害並<@ba.vup>特大力地</>推動；\n對禁區內所有我方單位造成真實傷害並<@ba.vup>推動一格</>，若<@ba.vup>無法推動</>則造成更多真實傷害並暈眩；\n<@ba.rem>推動方向為聖女像所指朝向</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_xdice1",
+        "duration": 2,
+        "blackboard": {
+          "sp_ratio": 0.8
+        }
+      },
+      {
+        "name": "雪崩",
+        "description": "對禁區內所有敵人造成真實傷害並<@ba.vup>特大力地</>推動；\n對禁區內所有我方單位造成真實傷害並<@ba.vup>推動一格</>，若<@ba.vup>無法推動</>則造成更多真實傷害並暈眩；\n<@ba.rem>推動方向為聖女像所指朝向</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 8,
+          "increment": 0
+        },
+        "prefabId": "sktok_xdice1",
+        "duration": 2,
+        "blackboard": {
+          "sp_ratio": 0.8
+        }
+      },
+      {
+        "name": "雪崩",
+        "description": "對禁區內所有敵人造成真實傷害並<@ba.vup>特大力地</>推動；\n對禁區內所有我方單位造成真實傷害並<@ba.vup>推動一格</>，若<@ba.vup>無法推動</>則造成更多真實傷害並暈眩；\n<@ba.rem>推動方向為聖女像所指朝向</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 12,
+          "increment": 0
+        },
+        "prefabId": "sktok_xdice1",
+        "duration": 2,
+        "blackboard": {
+          "sp_ratio": 0.8
+        }
       }
     ]
   }

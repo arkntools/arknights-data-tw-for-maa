@@ -129428,7 +129428,7 @@
         }
       ],
       "stageId": "act39side_st01",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-ST-1",
       "name": "永別了，鹽漠",
       "description": "棚屋關不住的人，從鹽漠出逃。",
@@ -129502,7 +129502,7 @@
       ],
       "stageId": "act39side_tr01",
       "levelId": "Activities/act39side/level_act39side_tr01",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-TR-1",
       "name": "海盜基本素養",
       "description": "在航船上行動自如是一名海盜最基本的素養，哪怕船身之下不是水，而是鹽。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -129576,7 +129576,7 @@
       ],
       "stageId": "act39side_01",
       "levelId": "Activities/act39side/level_act39side_01",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-1",
       "name": "倒懸蒼白海上",
       "description": "一天之內第三次上下顛倒地注視這片蒼白的海時，他意識到自己捲入了麻煩。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -129586,7 +129586,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129598,7 +129598,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -129612,12 +129612,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -129660,13 +129660,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -129738,7 +129738,7 @@
       ],
       "stageId": "act39side_02",
       "levelId": "Activities/act39side/level_act39side_02",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-2",
       "name": "腿部拆卸療法",
       "description": "不必為那條傷腿而憂心，它在鹽漠裡是沒有疼痛感的。會感到痛的，只有活下來的人。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -129748,7 +129748,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129760,7 +129760,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -129774,12 +129774,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -129822,13 +129822,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -129900,7 +129900,7 @@
       ],
       "stageId": "act39side_03",
       "levelId": "Activities/act39side/level_act39side_03",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-3",
       "name": "大出血的舞步",
       "description": "一人一獸灑下的鮮血在蒼白的鹽漠中潑出一幅狂草，只有她會把這當成一種舞步。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -129910,7 +129910,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -129922,7 +129922,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -129936,12 +129936,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -129964,13 +129964,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130018,7 +130018,7 @@
       ],
       "stageId": "act39side_04",
       "levelId": "Activities/act39side/level_act39side_04",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-4",
       "name": "重逢不乏意外",
       "description": "再相見時，他已肩負起整支船隊的命運，而他，也被以三天份鹹鱗汁的“高價”賣出了。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -130028,7 +130028,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130040,7 +130040,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -130054,12 +130054,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130082,13 +130082,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130136,7 +130136,7 @@
       ],
       "stageId": "act39side_05",
       "levelId": "Activities/act39side/level_act39side_05",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-5",
       "name": "熄滅過去的燈",
       "description": "那是一個用於引誘獵物的發光器官，還是一盞燃燒了太久的燈？\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -130146,7 +130146,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130158,7 +130158,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -130172,12 +130172,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130200,13 +130200,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130254,7 +130254,7 @@
       ],
       "stageId": "act39side_06",
       "levelId": "Activities/act39side/level_act39side_06",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-6",
       "name": "若退路在燃燒",
       "description": "他總想減少投入，控制損失，留下退路，直到那些退路都陷入火海。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -130264,7 +130264,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130276,7 +130276,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -130290,12 +130290,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130313,13 +130313,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130360,7 +130360,7 @@
         }
       ],
       "stageId": "act39side_st02",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-ST-2",
       "name": "傾瀉腐朽的花",
       "description": "活物亦會腐朽。虔誠之人越是試圖贖罪，罪孽就越深重。",
@@ -130434,7 +130434,7 @@
       ],
       "stageId": "act39side_07",
       "levelId": "Activities/act39side/level_act39side_07",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-7",
       "name": "我的羅盤",
       "description": "真正伸出手的那一刻，他才意識到，伸手抓握是如此本能的行為。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -130444,7 +130444,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130456,7 +130456,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -130470,12 +130470,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130493,13 +130493,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130541,7 +130541,7 @@
       ],
       "stageId": "act39side_08",
       "levelId": "Activities/act39side/level_act39side_08",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-8",
       "name": "見證，征服，定義",
       "description": "“我想要親眼見證，親手征服，親自定義——”\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -130551,7 +130551,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130563,7 +130563,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -130577,12 +130577,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130600,13 +130600,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -130647,7 +130647,7 @@
         }
       ],
       "stageId": "act39side_st03",
-      "zoneId": "act39side_zone1",
+      "zoneId": "act39sre_zone1",
       "code": "EP-ST-3",
       "name": "永別了，大地",
       "description": "深陷恐懼的人們，與大地作別。",
@@ -130721,7 +130721,7 @@
       ],
       "stageId": "act39side_ex01",
       "levelId": "Activities/act39side/level_act39side_ex01",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-1",
       "name": "雅隆舊址",
       "description": "偶爾，海盜們會趁夜色摸進雅隆鎮之下的廢墟，尋找黃金時代的工藝品——那是鎮民棄置於此的“不潔之物”。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -130732,7 +130732,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130744,7 +130744,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -130758,7 +130758,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130771,7 +130771,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130811,7 +130811,7 @@
       ],
       "stageId": "act39side_ex01#f#",
       "levelId": "Activities/act39side/level_act39side_ex01",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-1",
       "name": "雅隆舊址",
       "description": "<@lv.fs>附加條件：</>\n歷險水手獲得隱匿",
@@ -130821,7 +130821,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130833,7 +130833,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -130885,7 +130885,7 @@
       ],
       "stageId": "act39side_ex02",
       "levelId": "Activities/act39side/level_act39side_ex02",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-2",
       "name": "陸港遺跡",
       "description": "雅隆的鎮民從不離開雅隆，所以他們看不見自己腳下的山體中，還嵌著曾經伊比利亞最繁華的陸上商港的殘骸。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -130896,7 +130896,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130908,7 +130908,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -130922,7 +130922,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130935,7 +130935,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -130975,7 +130975,7 @@
       ],
       "stageId": "act39side_ex02#f#",
       "levelId": "Activities/act39side/level_act39side_ex02",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-2",
       "name": "陸港遺跡",
       "description": "<@lv.fs>附加條件：</>\n鹽坨子炮攻擊力大幅提升",
@@ -130985,7 +130985,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -130997,7 +130997,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -131049,7 +131049,7 @@
       ],
       "stageId": "act39side_ex03",
       "levelId": "Activities/act39side/level_act39side_ex03",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-3",
       "name": "鹽花田地",
       "description": "西爾弗帶領鎮民開拓過的田地之一，如今結滿了玫瑰色的鹽晶。帕斯卡拉後來發現，這種鹽晶在國外能賣出天價。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒",
@@ -131060,7 +131060,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131072,7 +131072,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131086,7 +131086,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131099,7 +131099,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131139,7 +131139,7 @@
       ],
       "stageId": "act39side_ex03#f#",
       "levelId": "Activities/act39side/level_act39side_ex03",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-3",
       "name": "鹽花田地",
       "description": "<@lv.fs>附加條件：</>\n所有敵人生命值大幅提升",
@@ -131149,7 +131149,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131161,7 +131161,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131213,7 +131213,7 @@
       ],
       "stageId": "act39side_ex04",
       "levelId": "Activities/act39side/level_act39side_ex04",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-4",
       "name": "鳴鱗原野",
       "description": "看似空無一物的鹽地上，總有微小的鹽鱗發出尖銳的鳴叫。常有船員扯開嗓子，想與鹽鱗來一場歌喉之間的對決。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -131224,7 +131224,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131236,7 +131236,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131250,7 +131250,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131263,7 +131263,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131303,7 +131303,7 @@
       ],
       "stageId": "act39side_ex04#f#",
       "levelId": "Activities/act39side/level_act39side_ex04",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-4",
       "name": "鳴鱗原野",
       "description": "<@lv.fs>附加條件：</>\n場上額外出現2個恐怖廚師",
@@ -131313,7 +131313,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131325,7 +131325,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131377,7 +131377,7 @@
       ],
       "stageId": "act39side_ex05",
       "levelId": "Activities/act39side/level_act39side_ex05",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-5",
       "name": "星河水鏡",
       "description": "當鹽漠極為罕見地下起雨，就會短暫地積起一灘灘倒映星空的水鏡。胡安娜說，海便是“整個星空都湧向大地”。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -131388,7 +131388,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131400,7 +131400,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131414,7 +131414,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131427,7 +131427,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131467,7 +131467,7 @@
       ],
       "stageId": "act39side_ex05#f#",
       "levelId": "Activities/act39side/level_act39side_ex05",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-5",
       "name": "星河水鏡",
       "description": "<@lv.fs>附加條件：</>\n恐怖廚師減少物理與法術傷害的比例提升",
@@ -131477,7 +131477,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131489,7 +131489,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131541,7 +131541,7 @@
       ],
       "stageId": "act39side_ex06",
       "levelId": "Activities/act39side/level_act39side_ex06",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-6",
       "name": "鹽鱗墳場",
       "description": "似乎知曉鹽漠的養分正在枯竭，瀕死的鹽鱗總會竭力游回骸礁峽谷，讓殘軀化為鹽漠生態的源泉。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -131552,7 +131552,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131564,7 +131564,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131578,7 +131578,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131591,7 +131591,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131631,7 +131631,7 @@
       ],
       "stageId": "act39side_ex06#f#",
       "levelId": "Activities/act39side/level_act39side_ex06",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-6",
       "name": "鹽鱗墳場",
       "description": "<@lv.fs>附加條件：</>\n禁止部署重裝和特種幹員",
@@ -131641,7 +131641,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131653,7 +131653,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -131705,7 +131705,7 @@
       ],
       "stageId": "act39side_ex07",
       "levelId": "Activities/act39side/level_act39side_ex07",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-7",
       "name": "鹽船殘骸",
       "description": "如今的鹽船脆弱、遲緩，卻更適合長久的鹽漠生活。而胡安娜原先那些更激進的設計，都沉寂在了骸礁峽谷深處。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -131716,7 +131716,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131728,7 +131728,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -131742,7 +131742,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131755,7 +131755,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131795,7 +131795,7 @@
       ],
       "stageId": "act39side_ex07#f#",
       "levelId": "Activities/act39side/level_act39side_ex07",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-7",
       "name": "鹽船殘骸",
       "description": "<@lv.fs>附加條件：</>\n場上三個位置不可部署",
@@ -131805,7 +131805,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131817,7 +131817,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -131869,7 +131869,7 @@
       ],
       "stageId": "act39side_ex08",
       "levelId": "Activities/act39side/level_act39side_ex08",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-8",
       "name": "鹽海盡頭",
       "description": "許多年輕的船員甚至都沒有注意到自己是何時來到了海邊。他們驚訝地發現，陸與海之間並沒有斷崖或高牆相隔。\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
@@ -131880,7 +131880,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131892,7 +131892,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -131906,7 +131906,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131919,7 +131919,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act39side_token_garum",
+            "id": "act39side_token_garum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -131959,7 +131959,7 @@
       ],
       "stageId": "act39side_ex08#f#",
       "levelId": "Activities/act39side/level_act39side_ex08",
-      "zoneId": "act39side_zone2",
+      "zoneId": "act39sre_zone2",
       "code": "EP-EX-8",
       "name": "鹽海盡頭",
       "description": "<@lv.fs>附加條件：</>\n美聲水手長召喚歷險水手的間隔縮短",
@@ -131969,7 +131969,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -131981,7 +131981,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -299607,6 +299607,18 @@
       "tileKey": "tile_bnspck_road",
       "name": "幸運寶座",
       "description": "置於其中的幹員可以吸收“某種天命”",
+      "isFunctional": true
+    },
+    "tile_balloon": {
+      "tileKey": "tile_balloon",
+      "name": "“可浮空區塊”",
+      "description": "浮空時置於其中的我方單位可以阻擋空中敵人",
+      "isFunctional": true
+    },
+    "tile_balloon_fbd": {
+      "tileKey": "tile_balloon_fbd",
+      "name": "“可浮空區塊”",
+      "description": "浮空時置於其中的我方單位可以阻擋空中敵人",
       "isFunctional": true
     }
   },
@@ -475490,116 +475502,116 @@
       "endTs": 1757966399
     },
     "act39side_st01": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_tr01": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_01": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_02": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_03": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_04": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_05": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_06": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_st02": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_07": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_08": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_st03": {
-      "startTs": 1754892000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex01": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex01#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex02": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex02#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex03": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex03#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex04": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex04#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex05": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex05#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex06": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex06#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex07": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex07#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex08": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act39side_ex08#f#": {
-      "startTs": 1755504000,
-      "endTs": 1756065599
+      "startTs": 1778648400,
+      "endTs": 1779479999
     },
     "act1vautochess_m01": {
       "startTs": 1754294400,
@@ -484855,8 +484867,8 @@
     "setId_mainline_1_4": {
       "storySetId": "setId_mainline_1_4",
       "storySetType": "MAINLINE",
-      "sortByYear": 2,
-      "sortWithinYear": 6,
+      "sortByYear": 1,
+      "sortWithinYear": 15,
       "kvImageId": "kv_the_birth_of_tragedy",
       "titleImageId": "title_the_birth_of_tragedy",
       "haveVideoToPlay": true,
@@ -484871,7 +484883,7 @@
       "storySetId": "setId_mainline_1_5",
       "storySetType": "MAINLINE",
       "sortByYear": 2,
-      "sortWithinYear": 10,
+      "sortWithinYear": 3,
       "kvImageId": "kv_roaring_flare",
       "titleImageId": "title_roaring_flare",
       "haveVideoToPlay": true,
@@ -484885,8 +484897,8 @@
     "setId_mainline_2_1": {
       "storySetId": "setId_mainline_2_1",
       "storySetType": "MAINLINE",
-      "sortByYear": 3,
-      "sortWithinYear": 6,
+      "sortByYear": 2,
+      "sortWithinYear": 12,
       "kvImageId": "kv_stormwatch",
       "titleImageId": "title_stormwatch",
       "haveVideoToPlay": true,
@@ -484900,8 +484912,8 @@
     "setId_mainline_2_2": {
       "storySetId": "setId_mainline_2_2",
       "storySetType": "MAINLINE",
-      "sortByYear": 4,
-      "sortWithinYear": 1,
+      "sortByYear": 3,
+      "sortWithinYear": 7,
       "kvImageId": "kv_shatterpoint",
       "titleImageId": "title_shatterpoint",
       "haveVideoToPlay": true,
@@ -484916,7 +484928,7 @@
       "storySetId": "setId_mainline_2_3",
       "storySetType": "MAINLINE",
       "sortByYear": 4,
-      "sortWithinYear": 8,
+      "sortWithinYear": 2,
       "kvImageId": "kv_return_to_mist",
       "titleImageId": "title_return_to_mist",
       "haveVideoToPlay": true,
@@ -484930,8 +484942,8 @@
     "setId_mainline_2_4": {
       "storySetId": "setId_mainline_2_4",
       "storySetType": "MAINLINE",
-      "sortByYear": 5,
-      "sortWithinYear": 2,
+      "sortByYear": 4,
+      "sortWithinYear": 7,
       "kvImageId": "kv_all_quiet_under_the_thunder",
       "titleImageId": "title_all_quiet_under_the_thunder",
       "haveVideoToPlay": true,
@@ -484946,7 +484958,7 @@
       "storySetId": "setId_mainline_2_5",
       "storySetType": "MAINLINE",
       "sortByYear": 5,
-      "sortWithinYear": 8,
+      "sortWithinYear": 2,
       "kvImageId": "kv_the_whirlpool_that_is_passion",
       "titleImageId": "title_the_whirlpool_that_is_passion",
       "haveVideoToPlay": true,
@@ -484960,8 +484972,8 @@
     "setId_mainline_2_6": {
       "storySetId": "setId_mainline_2_6",
       "storySetType": "MAINLINE",
-      "sortByYear": 6,
-      "sortWithinYear": 3,
+      "sortByYear": 5,
+      "sortWithinYear": 8,
       "kvImageId": "kv_absolved_will_be_the_seekers",
       "titleImageId": "title_absolved_will_be_the_seekers",
       "haveVideoToPlay": true,
@@ -484977,7 +484989,7 @@
       "storySetId": "setId_mainline_3_1",
       "storySetType": "MAINLINE",
       "sortByYear": 6,
-      "sortWithinYear": 13,
+      "sortWithinYear": 5,
       "kvImageId": "kv_dissociative_recombination",
       "titleImageId": "title_dissociative_recombination",
       "haveVideoToPlay": true,
@@ -484992,8 +485004,8 @@
     "setId_mainline_3_2": {
       "storySetId": "setId_mainline_3_2",
       "storySetType": "MAINLINE",
-      "sortByYear": 7,
-      "sortWithinYear": 3,
+      "sortByYear": 6,
+      "sortWithinYear": 10,
       "kvImageId": "kv_abnormal_spectrum",
       "titleImageId": "title_abnormal_spectrum",
       "haveVideoToPlay": true,
@@ -485008,8 +485020,8 @@
     "setId_ssLine_act9d0": {
       "storySetId": "setId_ssLine_act9d0",
       "storySetType": "SS",
-      "sortByYear": 2,
-      "sortWithinYear": 5,
+      "sortByYear": 1,
+      "sortWithinYear": 14,
       "kvImageId": "kv_darknights_memoir",
       "titleImageId": "title_darknights_memoir",
       "haveVideoToPlay": false,
@@ -485034,8 +485046,8 @@
     "setId_ssLine_act18d0": {
       "storySetId": "setId_ssLine_act18d0",
       "storySetType": "SS",
-      "sortByYear": 3,
-      "sortWithinYear": 1,
+      "sortByYear": 2,
+      "sortWithinYear": 7,
       "kvImageId": "kv_a_walk_in_the_dusk",
       "titleImageId": "title_a_walk_in_the_dusk",
       "haveVideoToPlay": false,
@@ -485060,8 +485072,8 @@
     "setId_ssLine_act8mini": {
       "storySetId": "setId_ssLine_act8mini",
       "storySetType": "COLLECT",
-      "sortByYear": 3,
-      "sortWithinYear": 4,
+      "sortByYear": 2,
+      "sortWithinYear": 10,
       "kvImageId": "kv_vigilo",
       "titleImageId": "title_vigilo",
       "haveVideoToPlay": false,
@@ -485078,8 +485090,8 @@
     "setId_ssLine_act33side": {
       "storySetId": "setId_ssLine_act33side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 2,
+      "sortByYear": 5,
+      "sortWithinYear": 7,
       "kvImageId": "kv_babel",
       "titleImageId": "title_babel",
       "haveVideoToPlay": false,
@@ -485104,8 +485116,8 @@
     "setId_ssLine_act37side": {
       "storySetId": "setId_ssLine_act37side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 8,
+      "sortByYear": 5,
+      "sortWithinYear": 12,
       "kvImageId": "kv_ending_a_grand_overture",
       "titleImageId": "title_ending_a_grand_overture",
       "haveVideoToPlay": false,
@@ -485129,7 +485141,7 @@
       "storySetId": "setId_ssLine_act18mini",
       "storySetType": "COLLECT",
       "sortByYear": 6,
-      "sortWithinYear": 10,
+      "sortWithinYear": 3,
       "kvImageId": "kv_see_you_soon",
       "titleImageId": "title_see_you_soon",
       "haveVideoToPlay": false,
@@ -485147,7 +485159,7 @@
       "storySetId": "setId_ssLine_act16side",
       "storySetType": "SS",
       "sortByYear": 3,
-      "sortWithinYear": 12,
+      "sortWithinYear": 6,
       "kvImageId": "kv_guiding_ahead",
       "titleImageId": "title_guiding_ahead",
       "haveVideoToPlay": false,
@@ -485170,8 +485182,8 @@
     "setId_ssLine_act26side": {
       "storySetId": "setId_ssLine_act26side",
       "storySetType": "SS",
-      "sortByYear": 5,
-      "sortWithinYear": 4,
+      "sortByYear": 4,
+      "sortWithinYear": 9,
       "kvImageId": "kv_hortus_de_escapismo",
       "titleImageId": "title_hortus_de_escapismo",
       "haveVideoToPlay": false,
@@ -485200,7 +485212,7 @@
       "storySetId": "setId_ssLine_act42side",
       "storySetType": "SS",
       "sortByYear": 6,
-      "sortWithinYear": 14,
+      "sortWithinYear": 6,
       "kvImageId": "kv_the_masses_travels",
       "titleImageId": "title_the_masses_travels",
       "haveVideoToPlay": false,
@@ -485223,7 +485235,7 @@
       "storySetId": "setId_ssLine_act14side",
       "storySetType": "SS",
       "sortByYear": 3,
-      "sortWithinYear": 9,
+      "sortWithinYear": 3,
       "kvImageId": "kv_break_the_ice",
       "titleImageId": "title_break_the_ice",
       "haveVideoToPlay": false,
@@ -485248,7 +485260,7 @@
       "storySetId": "setId_ssLine_act30side",
       "storySetType": "SS",
       "sortByYear": 5,
-      "sortWithinYear": 10,
+      "sortWithinYear": 4,
       "kvImageId": "kv_the_rides_to_lake_silberneherze",
       "titleImageId": "title_the_rides_to_lake_silberneherze",
       "haveVideoToPlay": false,
@@ -485273,7 +485285,7 @@
       "storySetId": "setId_ssLine_act21side",
       "storySetType": "SS",
       "sortByYear": 4,
-      "sortWithinYear": 9,
+      "sortWithinYear": 3,
       "kvImageId": "kv_il_siracusano",
       "titleImageId": "title_il_siracusano",
       "haveVideoToPlay": false,
@@ -485335,8 +485347,8 @@
     "setId_ssLine_act38side": {
       "storySetId": "setId_ssLine_act38side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 7,
+      "sortByYear": 5,
+      "sortWithinYear": 13,
       "kvImageId": "kv_i_portatori_dei_velluti",
       "titleImageId": "title_i_portatori_dei_velluti",
       "haveVideoToPlay": false,
@@ -485362,7 +485374,7 @@
       "storySetId": "setId_ssLine_act13d5",
       "storySetType": "SS",
       "sortByYear": 2,
-      "sortWithinYear": 9,
+      "sortWithinYear": 2,
       "kvImageId": "kv_maria_nearl",
       "titleImageId": "title_maria_nearl",
       "haveVideoToPlay": false,
@@ -485388,7 +485400,7 @@
       "storySetId": "setId_ssLine_act9mini",
       "storySetType": "COLLECT",
       "sortByYear": 3,
-      "sortWithinYear": 7,
+      "sortWithinYear": 1,
       "kvImageId": "kv_pinus_sylvestris",
       "titleImageId": "title_pinus_sylvestris",
       "haveVideoToPlay": false,
@@ -485406,7 +485418,7 @@
       "storySetId": "setId_ssLine_act13side",
       "storySetType": "SS",
       "sortByYear": 3,
-      "sortWithinYear": 8,
+      "sortWithinYear": 2,
       "kvImageId": "kv_near_light",
       "titleImageId": "title_near_light",
       "haveVideoToPlay": false,
@@ -485432,7 +485444,7 @@
       "storySetId": "setId_ssLine_act12mini",
       "storySetType": "COLLECT",
       "sortByYear": 4,
-      "sortWithinYear": 6,
+      "sortWithinYear": 1,
       "kvImageId": "kv_an_obscure_wanderer",
       "titleImageId": "title_an_obscure_wanderer",
       "haveVideoToPlay": false,
@@ -485449,8 +485461,8 @@
     "setId_ssLine_act6d5": {
       "storySetId": "setId_ssLine_act6d5",
       "storySetType": "COLLECT",
-      "sortByYear": 2,
-      "sortWithinYear": 2,
+      "sortByYear": 1,
+      "sortWithinYear": 12,
       "kvImageId": "kv_ancient_forge",
       "titleImageId": "title_ancient_forge",
       "haveVideoToPlay": false,
@@ -485468,7 +485480,7 @@
       "storySetId": "setId_ssLine_act16d5",
       "storySetType": "SS",
       "sortByYear": 2,
-      "sortWithinYear": 13,
+      "sortWithinYear": 6,
       "kvImageId": "kv_who_is_real",
       "titleImageId": "title_who_is_real",
       "haveVideoToPlay": false,
@@ -485493,7 +485505,7 @@
       "storySetId": "setId_ssLine_act15side",
       "storySetType": "SS",
       "sortByYear": 3,
-      "sortWithinYear": 10,
+      "sortWithinYear": 4,
       "kvImageId": "kv_invitation_to_wine",
       "titleImageId": "title_invitation_to_wine",
       "haveVideoToPlay": false,
@@ -485515,7 +485527,7 @@
       "storySetId": "setId_ssLine_act23side",
       "storySetType": "SS",
       "sortByYear": 4,
-      "sortWithinYear": 11,
+      "sortWithinYear": 5,
       "kvImageId": "kv_where_vernal_winds_will_never_blow",
       "titleImageId": "title_where_vernal_winds_will_never_blow",
       "haveVideoToPlay": false,
@@ -485539,8 +485551,8 @@
     "setId_ssLine_act14mini": {
       "storySetId": "setId_ssLine_act14mini",
       "storySetType": "COLLECT",
-      "sortByYear": 5,
-      "sortWithinYear": 1,
+      "sortByYear": 4,
+      "sortWithinYear": 6,
       "kvImageId": "kv_a_death_in_chunfen",
       "titleImageId": "title_a_death_in_chunfen",
       "haveVideoToPlay": false,
@@ -485557,8 +485569,8 @@
     "setId_ssLine_act31side": {
       "storySetId": "setId_ssLine_act31side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 1,
+      "sortByYear": 5,
+      "sortWithinYear": 6,
       "kvImageId": "kv_here_a_people_sows",
       "titleImageId": "title_here_a_people_sows",
       "haveVideoToPlay": false,
@@ -485584,7 +485596,7 @@
       "storySetId": "setId_ssLine_act40side",
       "storySetType": "SS",
       "sortByYear": 6,
-      "sortWithinYear": 11,
+      "sortWithinYear": 2,
       "kvImageId": "kv_such_is_the_joy_of_our_reunion",
       "titleImageId": "title_such_is_the_joy_of_our_reunion",
       "haveVideoToPlay": false,
@@ -485606,8 +485618,8 @@
     "setId_ssLine_act19mini": {
       "storySetId": "setId_ssLine_act19mini",
       "storySetType": "COLLECT",
-      "sortByYear": 7,
-      "sortWithinYear": 1,
+      "sortByYear": 6,
+      "sortWithinYear": 8,
       "kvImageId": "kv_fantasy_in_the_mirage",
       "titleImageId": "title_fantasy_in_the_mirage",
       "haveVideoToPlay": false,
@@ -485625,7 +485637,7 @@
       "storySetId": "setId_ssLine_act15d0",
       "storySetType": "SS",
       "sortByYear": 2,
-      "sortWithinYear": 11,
+      "sortWithinYear": 4,
       "kvImageId": "kv_mansfield_break",
       "titleImageId": "title_mansfield_break",
       "haveVideoToPlay": false,
@@ -485650,8 +485662,8 @@
     "setId_ssLine_act19side": {
       "storySetId": "setId_ssLine_act19side",
       "storySetType": "SS",
-      "sortByYear": 4,
-      "sortWithinYear": 4,
+      "sortByYear": 3,
+      "sortWithinYear": 10,
       "kvImageId": "kv_dorothys_vision",
       "titleImageId": "title_dorothys_vision",
       "haveVideoToPlay": false,
@@ -485675,8 +485687,8 @@
     "setId_ssLine_act25side": {
       "storySetId": "setId_ssLine_act25side",
       "storySetType": "SS",
-      "sortByYear": 5,
-      "sortWithinYear": 3,
+      "sortByYear": 4,
+      "sortWithinYear": 8,
       "kvImageId": "kv_lone_trail",
       "titleImageId": "title_lone_trail",
       "haveVideoToPlay": false,
@@ -485726,8 +485738,8 @@
     "setId_ssLine_act18d3": {
       "storySetId": "setId_ssLine_act18d3",
       "storySetType": "SS",
-      "sortByYear": 3,
-      "sortWithinYear": 2,
+      "sortByYear": 2,
+      "sortWithinYear": 8,
       "kvImageId": "kv_under_tides",
       "titleImageId": "title_under_tides",
       "haveVideoToPlay": false,
@@ -485751,8 +485763,8 @@
     "setId_ssLine_act17side": {
       "storySetId": "setId_ssLine_act17side",
       "storySetType": "SS",
-      "sortByYear": 4,
-      "sortWithinYear": 2,
+      "sortByYear": 3,
+      "sortWithinYear": 8,
       "kvImageId": "kv_stultifera_navis",
       "titleImageId": "title_stultifera_navis",
       "haveVideoToPlay": false,
@@ -485778,8 +485790,8 @@
     "setId_ssLine_act34side": {
       "storySetId": "setId_ssLine_act34side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 4,
+      "sortByYear": 5,
+      "sortWithinYear": 9,
       "kvImageId": "kv_path_of_life",
       "titleImageId": "title_path_of_life",
       "haveVideoToPlay": false,
@@ -485804,7 +485816,7 @@
       "storySetId": "setId_ssLine_act39side",
       "storySetType": "SS",
       "sortByYear": 6,
-      "sortWithinYear": 9,
+      "sortWithinYear": 1,
       "kvImageId": "kv_exodus_from_the_pale_sea",
       "titleImageId": "title_exodus_from_the_pale_sea",
       "haveVideoToPlay": false,
@@ -485820,14 +485832,16 @@
           "tag_12",
           "tag_13"
         ],
+        "reopenActivityId": "act39sre",
+        "retroActivityId": "permanent_sidestory_29_Exodus_From_The_Pale_Sea",
         "isRecommended": false
       }
     },
     "setId_ssLine_act11d0": {
       "storySetId": "setId_ssLine_act11d0",
       "storySetType": "SS",
-      "sortByYear": 2,
-      "sortWithinYear": 4,
+      "sortByYear": 1,
+      "sortWithinYear": 17,
       "kvImageId": "kv_twilight_of_wolumonde",
       "titleImageId": "title_twilight_of_wolumonde",
       "haveVideoToPlay": false,
@@ -485852,8 +485866,8 @@
     "setId_ssLine_act18side": {
       "storySetId": "setId_ssLine_act18side",
       "storySetType": "SS",
-      "sortByYear": 4,
-      "sortWithinYear": 3,
+      "sortByYear": 3,
+      "sortWithinYear": 9,
       "kvImageId": "kv_lingering_echoes",
       "titleImageId": "title_lingering_echoes",
       "haveVideoToPlay": false,
@@ -485879,13 +485893,13 @@
       "storySetId": "setId_ssLine_act29side",
       "storySetType": "SS",
       "sortByYear": 5,
-      "sortWithinYear": 9,
+      "sortWithinYear": 3,
       "kvImageId": "kv_zwillingsturme_im_herbst",
       "titleImageId": "title_zwillingsturme_im_herbst",
       "haveVideoToPlay": false,
       "gameMusicId": "music_3in1bg_act29side",
       "coreRewardType": "CHAR",
-      "coreRewardId": "char_4109_baslin",
+      "coreRewardId": "char_4011_lessng",
       "relevantActivityId": "act29side",
       "ssData": {
         "name": "崔林特爾梅之金",
@@ -485905,7 +485919,7 @@
       "storySetId": "setId_ssLine_act22side",
       "storySetType": "SS",
       "sortByYear": 4,
-      "sortWithinYear": 10,
+      "sortWithinYear": 4,
       "kvImageId": "kv_what_the_firelight_casts",
       "titleImageId": "title_what_the_firelight_casts",
       "haveVideoToPlay": false,
@@ -485930,7 +485944,7 @@
       "storySetId": "setId_ssLine_act41side",
       "storySetType": "SS",
       "sortByYear": 6,
-      "sortWithinYear": 12,
+      "sortWithinYear": 4,
       "kvImageId": "kv_when_elegies_are_ashes",
       "titleImageId": "title_when_elegies_are_ashes",
       "haveVideoToPlay": false,
@@ -485979,8 +485993,8 @@
     "setId_ssLine_act12d0": {
       "storySetId": "setId_ssLine_act12d0",
       "storySetType": "SS",
-      "sortByYear": 2,
-      "sortWithinYear": 7,
+      "sortByYear": 1,
+      "sortWithinYear": 18,
       "kvImageId": "kv_the_great_chief_returns",
       "titleImageId": "title_the_great_chief_returns",
       "haveVideoToPlay": false,
@@ -486004,8 +486018,8 @@
     "setId_ssLine_act12side": {
       "storySetId": "setId_ssLine_act12side",
       "storySetType": "SS",
-      "sortByYear": 3,
-      "sortWithinYear": 5,
+      "sortByYear": 2,
+      "sortWithinYear": 11,
       "kvImageId": "kv_dossoles_holiday",
       "titleImageId": "title_dossoles_holiday",
       "haveVideoToPlay": false,
@@ -486030,8 +486044,8 @@
     "setId_ssLine_act20side": {
       "storySetId": "setId_ssLine_act20side",
       "storySetType": "SS",
-      "sortByYear": 4,
-      "sortWithinYear": 7,
+      "sortByYear": 3,
+      "sortWithinYear": 12,
       "kvImageId": "kv_ideal_city_carnival_in_the_endless_summer",
       "titleImageId": "title_ideal_city_carnival_in_the_endless_summer",
       "haveVideoToPlay": false,
@@ -486092,8 +486106,8 @@
     "setId_ssLine_act27side": {
       "storySetId": "setId_ssLine_act27side",
       "storySetType": "SS",
-      "sortByYear": 5,
-      "sortWithinYear": 6,
+      "sortByYear": 4,
+      "sortWithinYear": 11,
       "kvImageId": "kv_so_long_adele",
       "titleImageId": "title_so_long_adele",
       "haveVideoToPlay": false,
@@ -486119,8 +486133,8 @@
     "setId_ssLine_act35side": {
       "storySetId": "setId_ssLine_act35side",
       "storySetType": "SS",
-      "sortByYear": 6,
-      "sortWithinYear": 5,
+      "sortByYear": 5,
+      "sortWithinYear": 11,
       "kvImageId": "kv_adventure_that_cannot_waits_for_the_sun",
       "titleImageId": "title_adventure_that_cannot_waits_for_the_sun",
       "haveVideoToPlay": false,
@@ -486144,8 +486158,8 @@
     "setId_ssLine_act44side": {
       "storySetId": "setId_ssLine_act44side",
       "storySetType": "SS",
-      "sortByYear": 7,
-      "sortWithinYear": 2,
+      "sortByYear": 6,
+      "sortWithinYear": 9,
       "kvImageId": "kv_ato",
       "titleImageId": "title_ato",
       "haveVideoToPlay": false,
@@ -486195,7 +486209,7 @@
       "storySetId": "setId_ssLine_act28side",
       "storySetType": "SS",
       "sortByYear": 5,
-      "sortWithinYear": 7,
+      "sortWithinYear": 1,
       "kvImageId": "kv_come_catastrophes_or_wakes_of_vultures",
       "titleImageId": "title_come_catastrophes_or_wakes_of_vultures",
       "haveVideoToPlay": false,
@@ -486219,7 +486233,7 @@
       "storySetId": "setId_ssLine_act43side",
       "storySetType": "SS",
       "sortByYear": 6,
-      "sortWithinYear": 15,
+      "sortWithinYear": 7,
       "kvImageId": "kv_act_or_die",
       "titleImageId": "title_act_or_die",
       "haveVideoToPlay": false,
@@ -486259,8 +486273,8 @@
     "setId_ssLine_act7d5": {
       "storySetId": "setId_ssLine_act7d5",
       "storySetType": "COLLECT",
-      "sortByYear": 2,
-      "sortWithinYear": 1,
+      "sortByYear": 1,
+      "sortWithinYear": 13,
       "kvImageId": "kv_stories_of_afternoon",
       "titleImageId": "title_stories_of_afternoon",
       "haveVideoToPlay": false,
@@ -486277,8 +486291,8 @@
     "setId_ssLine_act10d5": {
       "storySetId": "setId_ssLine_act10d5",
       "storySetType": "COLLECT",
-      "sortByYear": 2,
-      "sortWithinYear": 3,
+      "sortByYear": 1,
+      "sortWithinYear": 16,
       "kvImageId": "kv_children_of_ursus",
       "titleImageId": "title_children_of_ursus",
       "haveVideoToPlay": false,
@@ -486296,7 +486310,7 @@
       "storySetId": "setId_ssLine_act13d0",
       "storySetType": "COLLECT",
       "sortByYear": 2,
-      "sortWithinYear": 8,
+      "sortWithinYear": 1,
       "kvImageId": "kv_rewinding_breeze",
       "titleImageId": "title_rewinding_breeze",
       "haveVideoToPlay": false,
@@ -486314,7 +486328,7 @@
       "storySetId": "setId_ssLine_act15d5",
       "storySetType": "COLLECT",
       "sortByYear": 2,
-      "sortWithinYear": 12,
+      "sortWithinYear": 5,
       "kvImageId": "kv_beyond_here",
       "titleImageId": "title_beyond_here",
       "haveVideoToPlay": false,
@@ -486331,8 +486345,8 @@
     "setId_ssLine_act7mini": {
       "storySetId": "setId_ssLine_act7mini",
       "storySetType": "COLLECT",
-      "sortByYear": 3,
-      "sortWithinYear": 3,
+      "sortByYear": 2,
+      "sortWithinYear": 9,
       "kvImageId": "kv_preludinglights",
       "titleImageId": "title_preludinglights",
       "haveVideoToPlay": false,
@@ -486350,7 +486364,7 @@
       "storySetId": "setId_ssLine_act10mini",
       "storySetType": "COLLECT",
       "sortByYear": 3,
-      "sortWithinYear": 11,
+      "sortWithinYear": 5,
       "kvImageId": "kv_a_light_spark_in_darkness",
       "titleImageId": "title_a_light_spark_in_darkness",
       "haveVideoToPlay": false,
@@ -486367,8 +486381,8 @@
     "setId_ssLine_act11mini": {
       "storySetId": "setId_ssLine_act11mini",
       "storySetType": "COLLECT",
-      "sortByYear": 4,
-      "sortWithinYear": 5,
+      "sortByYear": 3,
+      "sortWithinYear": 11,
       "kvImageId": "kv_to_be_continued",
       "titleImageId": "title_to_be_continued",
       "haveVideoToPlay": false,
@@ -486385,8 +486399,8 @@
     "setId_ssLine_act15mini": {
       "storySetId": "setId_ssLine_act15mini",
       "storySetType": "COLLECT",
-      "sortByYear": 5,
-      "sortWithinYear": 5,
+      "sortByYear": 4,
+      "sortWithinYear": 10,
       "kvImageId": "kv_the_black_forest_wills_a_dream",
       "titleImageId": "title_the_black_forest_wills_a_dream",
       "haveVideoToPlay": false,
@@ -486404,7 +486418,7 @@
       "storySetId": "setId_ssLine_act16mini",
       "storySetType": "COLLECT",
       "sortByYear": 5,
-      "sortWithinYear": 11,
+      "sortWithinYear": 5,
       "kvImageId": "kv_to_the_grinning_valley",
       "titleImageId": "title_to_the_grinning_valley",
       "haveVideoToPlay": false,
@@ -486421,8 +486435,8 @@
     "setId_ssLine_act17mini": {
       "storySetId": "setId_ssLine_act17mini",
       "storySetType": "COLLECT",
-      "sortByYear": 6,
-      "sortWithinYear": 6,
+      "sortByYear": 5,
+      "sortWithinYear": 10,
       "kvImageId": "kv_a_kazdelian_rescue",
       "titleImageId": "title_a_kazdelian_rescue",
       "haveVideoToPlay": false,
