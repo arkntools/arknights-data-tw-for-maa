@@ -82375,6 +82375,819 @@
       "advancedRuneIdList2": [],
       "useSpecialSizeMapPreview": false
     },
+    "act6bossrush_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_01",
+      "levelId": "Activities/act6bossrush/level_bossrush6_01",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-1",
+      "name": "睥睨夜幕",
+      "description": "濃濃的黑夜之中，上演著沒有觀眾的決鬥。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_02",
+      "levelId": "Activities/act6bossrush/level_bossrush6_02",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-2",
+      "name": "深度產業",
+      "description": "就算是吞噬一切的深淵，也無法阻止鴨爵過去賺上一筆。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_03",
+      "levelId": "Activities/act6bossrush/level_bossrush6_03",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-3",
+      "name": "荒沙劍影",
+      "description": "當視野之中只有蒸氣和沙海，殺戮的腳步就將不期而至。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act6bossrush_02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act6bossrush_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_04",
+      "levelId": "Activities/act6bossrush/level_bossrush6_04",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-4",
+      "name": "凋零奏鳴",
+      "description": "那令人悚然的和弦進行，依然蝕刻著每一個膽敢靠近的靈魂。\n\n<color=#FFA300><危險區域></color>危險區域內的幹員會在波次轉換時撤退\n\n<color=#FFA300><實體程式></color>已完成波次再次挑戰時可以啟動，啟動後本波次內我方幹員獲得大幅強化",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_tm01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_tm01",
+      "levelId": "Activities/act6bossrush/level_bossrush6_01",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-1",
+      "name": "睥睨夜幕",
+      "description": "濃濃的黑夜之中，上演著沒有觀眾的決鬥。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_tm02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_tm02",
+      "levelId": "Activities/act6bossrush/level_bossrush6_02",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-2",
+      "name": "深度產業",
+      "description": "就算是吞噬一切的深淵，也無法阻止鴨爵過去賺上一筆。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_tm03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_tm03",
+      "levelId": "Activities/act6bossrush/level_bossrush6_03",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-3",
+      "name": "荒沙劍影",
+      "description": "當視野之中只有蒸氣和沙海，殺戮的腳步就將不期而至。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_tm04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_tm04",
+      "levelId": "Activities/act6bossrush/level_bossrush6_04",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-4",
+      "name": "凋零奏鳴",
+      "description": "那令人悚然的和弦進行，依然蝕刻著每一個膽敢靠近的靈魂。\n\n<color=#FFA300><定向試煉></color>定向試煉提供3名預選幹員組成的小隊",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_tm01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_ex01",
+      "levelId": "Activities/act6bossrush/level_bossrush6_ex01",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-1",
+      "name": "睥睨夜幕",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<“左手”泰特斯·白楊>降低攻擊力的效果持續時間延長\n\n<翠夢祭司>每次攻擊攻擊力提升幅度增加",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_tm02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_ex02",
+      "levelId": "Activities/act6bossrush/level_bossrush6_ex02",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-2",
+      "name": "深度產業",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<流淚小子>、<高普尼克>以及<鴨爵>基礎屬性大幅提升\n\n<鴨爵>等待時間縮短",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_tm03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_ex03",
+      "levelId": "Activities/act6bossrush/level_bossrush6_ex03",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-3",
+      "name": "荒沙劍影",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<圓岩巨像>的移動速度及攻擊力提升\n\n<晶瓏獸>與<晶玲獸>的最大生命值提升\n\n<安納斯塔西奧，贖罪者>的最大生命值及攻擊力提升，且首次被擊倒後會躍至不同的位置",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_ex01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act6bossrush_ex02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act6bossrush_ex03",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act6bossrush_tm04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_ex04",
+      "levelId": "Activities/act6bossrush/level_bossrush6_ex04",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-4",
+      "name": "凋零奏鳴",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n<赫爾昏佐倫，“巫王”>的攻擊力與最大生命值提升\n\n<“放逐的黑棺”>的最大生命值提升\n\n場上留聲機初始狀態改變",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act6bossrush_fin04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act6bossrush_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act6bossrush_fin04",
+      "levelId": "Activities/act6bossrush/level_bossrush6_fin04",
+      "zoneId": "act6bossrush_zone1",
+      "code": "TN-4",
+      "name": "凋零奏鳴",
+      "description": "<color=#EC1F1FFF>附加條件：</color>\n\n場上出現額外敵人，所有敵人的攻擊力和最大生命值提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_bossrush",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act6bossrush_01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
     "st_16-01": {
       "stageType": "MAIN",
       "difficulty": "NORMAL",
@@ -134995,7 +135808,7 @@
         }
       ],
       "stageId": "act38side_st01",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-ST-1",
       "name": "《新都市管理法案》",
       "description": "“新沃爾西尼都市管理法即日施行。歡迎各位市民，進入敘拉古的新時代。”",
@@ -135069,7 +135882,7 @@
       ],
       "stageId": "act38side_tr01",
       "levelId": "Activities/act38side/level_act38side_tr01",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-TR-1",
       "name": "《煙火燃放須知》",
       "description": "狂歡節現場熱鬧，小心別把自己點燃。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135143,7 +135956,7 @@
       ],
       "stageId": "act38side_01",
       "levelId": "Activities/act38side/level_act38side_01",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-1",
       "name": "失途",
       "description": "在泥潭當中航行，小心迷失方向。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135153,7 +135966,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135165,7 +135978,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -135179,12 +135992,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135227,13 +136040,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135305,7 +136118,7 @@
       ],
       "stageId": "act38side_02",
       "levelId": "Activities/act38side/level_act38side_02",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-2",
       "name": "擇路",
       "description": "何處可行，何人同行？敘拉古從未給予選擇。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135315,7 +136128,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135327,7 +136140,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -135341,12 +136154,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135389,13 +136202,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135467,7 +136280,7 @@
       ],
       "stageId": "act38side_03",
       "levelId": "Activities/act38side/level_act38side_03",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-3",
       "name": "惡客盈門",
       "description": "“都什麼年代了還想混黑幫？我們都已經登記過了，現在是守法的民眾！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135477,7 +136290,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135489,7 +136302,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -135503,12 +136316,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135551,13 +136364,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135629,7 +136442,7 @@
       ],
       "stageId": "act38side_04",
       "levelId": "Activities/act38side/level_act38side_04",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-4",
       "name": "體面來賓",
       "description": "舊規範、老體面，總有人還沒拋棄這些。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135639,7 +136452,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135651,7 +136464,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -135665,12 +136478,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135693,13 +136506,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135746,7 +136559,7 @@
         }
       ],
       "stageId": "act38side_st02",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-ST-2",
       "name": "《復仇禁制令》",
       "description": "揮刀斬向過往，恩仇一併斷絕。",
@@ -135820,7 +136633,7 @@
       ],
       "stageId": "act38side_05",
       "levelId": "Activities/act38side/level_act38side_05",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-5",
       "name": "“致新生活”",
       "description": "我們的力量，我們的弱點——我們的生活。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135830,7 +136643,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135842,7 +136655,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -135856,12 +136669,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135884,13 +136697,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -135938,7 +136751,7 @@
       ],
       "stageId": "act38side_06",
       "levelId": "Activities/act38side/level_act38side_06",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-6",
       "name": "“復仇於我”",
       "description": "新生活墜入塵霾，舊仇敵意外歸來。落難者的怒火再度點燃。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -135948,7 +136761,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135960,7 +136773,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135974,12 +136787,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136002,13 +136815,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136056,7 +136869,7 @@
       ],
       "stageId": "act38side_07",
       "levelId": "Activities/act38side/level_act38side_07",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-7",
       "name": "揭幕時刻",
       "description": "皮毛易改，惡念難除，只是有待揭幕。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -136066,7 +136879,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136078,7 +136891,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -136092,12 +136905,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136120,13 +136933,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136174,7 +136987,7 @@
       ],
       "stageId": "act38side_08",
       "levelId": "Activities/act38side/level_act38side_08",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-8",
       "name": "無私鐵棘",
       "description": "審判務必迅速，裁決務必無情。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -136184,7 +136997,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136196,7 +137009,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -136210,12 +137023,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136233,13 +137046,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136280,7 +137093,7 @@
         }
       ],
       "stageId": "act38side_st03",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-ST-3",
       "name": "《狂歡節章程》",
       "description": "“現在就要結束了？你們真的是最不能狂歡的一群人！”",
@@ -136354,7 +137167,7 @@
       ],
       "stageId": "act38side_09",
       "levelId": "Activities/act38side/level_act38side_09",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-9",
       "name": "狼群與群狼",
       "description": "群狼之力是狼群，狼群之力是群狼。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -136364,7 +137177,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136376,7 +137189,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -136390,12 +137203,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136413,13 +137226,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136461,7 +137274,7 @@
       ],
       "stageId": "act38side_10",
       "levelId": "Activities/act38side/level_act38side_10",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-10",
       "name": "銃響",
       "description": "這座城市仍在等待一聲銃響。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -136471,7 +137284,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136483,7 +137296,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -136497,12 +137310,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136520,13 +137333,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -136567,10 +137380,10 @@
         }
       ],
       "stageId": "act38side_st04",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-ST-4",
       "name": "《管理法修正案》",
-      "description": "將血污和泥濘從身軀上剔除，我們如何知道要將什麼填入？",
+      "description": "將血汙和泥濘從身軀上剔除，我們如何知道要將什麼填入？",
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_PV_dayCity",
@@ -136641,7 +137454,7 @@
       ],
       "stageId": "act38side_sp01",
       "levelId": "Activities/act38side/level_act38side_sp01",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-SP-1",
       "name": "試演煙火秀",
       "description": "“喂喂喂，只是試演而已，要看的好好排隊，一個一個入場！”\n<@lv.fs>勝利條件：</>\n保護<煙火發射器>並擊敗所有敵人\n<@lv.fs>附加條件：</>\n<煙火發射器>的攻擊力提升，生命值大幅度提升",
@@ -136677,7 +137490,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ],
@@ -136685,7 +137498,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ]
@@ -136715,7 +137528,7 @@
       ],
       "stageId": "act38side_sp02",
       "levelId": "Activities/act38side/level_act38side_sp02",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-SP-2",
       "name": "即興煙火秀",
       "description": "“引線這麼短，不符合安全——”“怕什麼，我點火，我們馬上跑！”\n<@lv.fs>勝利條件：</>\n保護<煙火發射器>並擊敗所有敵人\n<@lv.fs>附加條件：</>\n<煙火發射器>的攻擊力大幅度提升，生命值提升",
@@ -136751,7 +137564,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ],
@@ -136759,7 +137572,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ]
@@ -136789,7 +137602,7 @@
       ],
       "stageId": "act38side_sp03",
       "levelId": "Activities/act38side/level_act38side_sp03",
-      "zoneId": "act38side_zone1",
+      "zoneId": "act38sre_zone1",
       "code": "PV-SP-3",
       "name": "狂歡之夜煙火秀",
       "description": "“狂——歡——時——間——到！”\n<@lv.fs>勝利條件：</>\n保護<煙火發射器>並擊敗所有敵人\n<@lv.fs>附加條件：</>\n<煙火發射器>攻擊力大幅度降低，生命值提升，引線火苗變弱",
@@ -136825,7 +137638,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ],
@@ -136833,7 +137646,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           }
         ]
@@ -136863,7 +137676,7 @@
       ],
       "stageId": "act38side_ex01",
       "levelId": "Activities/act38side/level_act38side_ex01",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-1",
       "name": "零食派送",
       "description": "“挑點零食，吃飽喝飽，遊行馬上開始了，這一路很漫長的！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -136874,7 +137687,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136886,7 +137699,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -136900,7 +137713,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136913,7 +137726,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136953,7 +137766,7 @@
       ],
       "stageId": "act38side_ex01#f#",
       "levelId": "Activities/act38side/level_act38side_ex01",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-1",
       "name": "零食派送",
       "description": "<@lv.fs>附加條件：</>\n<煙火發射器>生命值大幅度降低",
@@ -136963,7 +137776,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136975,7 +137788,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -137027,7 +137840,7 @@
       ],
       "stageId": "act38side_ex02",
       "levelId": "Activities/act38side/level_act38side_ex02",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-2",
       "name": "熱烈遊行",
       "description": "“他們燃起烈火要燒掉什麼？是虛偽，還是真相？”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -137038,7 +137851,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137050,7 +137863,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -137064,7 +137877,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137077,7 +137890,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137117,7 +137930,7 @@
       ],
       "stageId": "act38side_ex02#f#",
       "levelId": "Activities/act38side/level_act38side_ex02",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-2",
       "name": "熱烈遊行",
       "description": "<@lv.fs>附加條件：</>\n場上有3個位置無法部署",
@@ -137127,7 +137940,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137139,7 +137952,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -137191,7 +138004,7 @@
       ],
       "stageId": "act38side_ex03",
       "levelId": "Activities/act38side/level_act38side_ex03",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-3",
       "name": "遊樂集市",
       "description": "“遊樂集市，孩子們玩耍的地方，真懷念啊——大多數敘拉古人在這裡學會了使刀。”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -137202,7 +138015,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137214,7 +138027,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137228,7 +138041,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137241,7 +138054,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137281,7 +138094,7 @@
       ],
       "stageId": "act38side_ex03#f#",
       "levelId": "Activities/act38side/level_act38side_ex03",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-3",
       "name": "遊樂集市",
       "description": "<@lv.fs>附加條件：</>\n<巡遊零食車>攻擊力大幅度提升",
@@ -137291,7 +138104,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137303,7 +138116,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137355,10 +138168,10 @@
       ],
       "stageId": "act38side_ex04",
       "levelId": "Activities/act38side/level_act38side_ex04",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-4",
       "name": "窮街陋巷",
-      "description": "“看看這窮街陋巷，看看敘拉古'秩序'誕生的地方！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
+      "description": "“看看這窮街陋巷，看看敘拉古‘秩序’誕生的地方！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
       "hardStagedId": "act38side_ex04#f#",
       "dangerLevel": "精英2 LV.1",
       "dangerPoint": -1,
@@ -137366,7 +138179,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137378,7 +138191,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137392,7 +138205,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137405,7 +138218,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137445,7 +138258,7 @@
       ],
       "stageId": "act38side_ex04#f#",
       "levelId": "Activities/act38side/level_act38side_ex04",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-4",
       "name": "窮街陋巷",
       "description": "<@lv.fs>附加條件：</>\n我方單位阻擋數-1",
@@ -137455,7 +138268,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137467,7 +138280,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137519,7 +138332,7 @@
       ],
       "stageId": "act38side_ex05",
       "levelId": "Activities/act38side/level_act38side_ex05",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-5",
       "name": "火花進行曲",
       "description": "“他們吹吹打打，歌頌的並不是和平友愛，靠近聽——惡狼的嘶吼就在耳邊！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -137530,7 +138343,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137542,7 +138355,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137556,7 +138369,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137569,7 +138382,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137609,7 +138422,7 @@
       ],
       "stageId": "act38side_ex05#f#",
       "levelId": "Activities/act38side/level_act38side_ex05",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-5",
       "name": "火花進行曲",
       "description": "<@lv.fs>附加條件：</>\n初始場上出現<“美食快遞”>",
@@ -137619,7 +138432,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137631,7 +138444,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137683,7 +138496,7 @@
       ],
       "stageId": "act38side_ex06",
       "levelId": "Activities/act38side/level_act38side_ex06",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-6",
       "name": "巡演大街",
       "description": "“歡迎來到狂歡節！歡迎來到罪惡的心臟！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -137694,7 +138507,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137706,7 +138519,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137720,7 +138533,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137733,7 +138546,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137773,7 +138586,7 @@
       ],
       "stageId": "act38side_ex06#f#",
       "levelId": "Activities/act38side/level_act38side_ex06",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-6",
       "name": "巡演大街",
       "description": "<@lv.fs>附加條件：</>\n<煙火發射器>引線火苗變弱",
@@ -137783,7 +138596,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137795,7 +138608,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -137847,7 +138660,7 @@
       ],
       "stageId": "act38side_ex07",
       "levelId": "Activities/act38side/level_act38side_ex07",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-7",
       "name": "煙火觀景台",
       "description": "“怎麼，你也怕了？你的正義感也要作壁上觀嗎？”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -137858,7 +138671,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137870,7 +138683,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -137884,7 +138697,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137897,7 +138710,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -137937,7 +138750,7 @@
       ],
       "stageId": "act38side_ex07#f#",
       "levelId": "Activities/act38side/level_act38side_ex07",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-7",
       "name": "煙火觀景台",
       "description": "<@lv.fs>附加條件：</>\n初始場上的<專業競演者>路線改變",
@@ -137947,7 +138760,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -137959,7 +138772,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138011,7 +138824,7 @@
       ],
       "stageId": "act38side_ex08",
       "levelId": "Activities/act38side/level_act38side_ex08",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-8",
       "name": "狂歡之主",
       "description": "“看吧，這就是敘拉古——狂歡之主邀你共賞！”\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害",
@@ -138022,7 +138835,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138034,7 +138847,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138048,7 +138861,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138061,7 +138874,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138101,7 +138914,7 @@
       ],
       "stageId": "act38side_ex08#f#",
       "levelId": "Activities/act38side/level_act38side_ex08",
-      "zoneId": "act38side_zone2",
+      "zoneId": "act38sre_zone2",
       "code": "PV-EX-8",
       "name": "狂歡之主",
       "description": "<@lv.fs>附加條件：</>\n我方單位再部署時間延長",
@@ -138111,7 +138924,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138123,7 +138936,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138175,7 +138988,7 @@
       ],
       "stageId": "act38side_s01",
       "levelId": "Activities/act38side/level_act38side_sub-1-1",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-1",
       "name": "無盡玩笑",
       "description": "我與這片泥潭嬉鬧，沉溺在無盡的玩笑。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害\n<@lv.rem>額外條件：</>所有敵人重量提升一個等級",
@@ -138186,7 +138999,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138198,7 +139011,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -138212,7 +139025,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138225,7 +139038,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138265,7 +139078,7 @@
       ],
       "stageId": "act38side_s01#f#",
       "levelId": "Activities/act38side/level_act38side_sub-1-1",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-1",
       "name": "無盡玩笑",
       "description": "<@lv.fs>附加條件：</>\n所有<“美食快遞”>替換為<“醉後狂歡”>，且我方單位阻擋數-1",
@@ -138275,7 +139088,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138287,7 +139100,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -138339,7 +139152,7 @@
       ],
       "stageId": "act38side_s02",
       "levelId": "Activities/act38side/level_act38side_sub-1-2",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-2",
       "name": "荒唐共謀",
       "description": "我與家族起舞，他們是這片荒唐的共謀。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害\n<@lv.rem>額外條件：</>所有敵人攻擊力大幅度提升",
@@ -138350,7 +139163,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138362,7 +139175,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -138376,7 +139189,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138389,7 +139202,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138429,7 +139242,7 @@
       ],
       "stageId": "act38side_s02#f#",
       "levelId": "Activities/act38side/level_act38side_sub-1-2",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-2",
       "name": "荒唐共謀",
       "description": "<@lv.fs>附加條件：</>\n所有<巡遊爵士樂手>替換為<“美食快遞”>",
@@ -138439,7 +139252,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138451,7 +139264,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -138503,7 +139316,7 @@
       ],
       "stageId": "act38side_s03",
       "levelId": "Activities/act38side/level_act38side_sub-1-3",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-3",
       "name": "倉皇步法",
       "description": "我與文明做戲，看他們的步法可笑倉皇。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害\n<@lv.rem>額外條件：</>敵方基礎屬性提升",
@@ -138514,7 +139327,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138526,7 +139339,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138540,7 +139353,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138553,7 +139366,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138593,7 +139406,7 @@
       ],
       "stageId": "act38side_s03#f#",
       "levelId": "Activities/act38side/level_act38side_sub-1-3",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-3",
       "name": "倉皇步法",
       "description": "<@lv.fs>附加條件：</>\n<煙火發射器>引線燃燒速度降低",
@@ -138603,7 +139416,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138615,7 +139428,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138667,7 +139480,7 @@
       ],
       "stageId": "act38side_s04",
       "levelId": "Activities/act38side/level_act38side_sub-1-4",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-4",
       "name": "遊戲終結",
       "description": "我邀惡狼共舞，牠們的無聊遊戲差不多該結束了。\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害\n<@lv.rem>額外條件：</>敵方基礎屬性提升",
@@ -138678,7 +139491,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138690,7 +139503,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138704,7 +139517,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138717,7 +139530,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138757,7 +139570,7 @@
       ],
       "stageId": "act38side_s04#f#",
       "levelId": "Activities/act38side/level_act38side_sub-1-4",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-4",
       "name": "遊戲終結",
       "description": "<@lv.fs>附加條件：</>\n場上出現額外的<巡遊零食車>",
@@ -138767,7 +139580,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138779,7 +139592,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -138831,7 +139644,7 @@
       ],
       "stageId": "act38side_s05",
       "levelId": "Activities/act38side/level_act38side_sub-1-5",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-5",
       "name": "荒蕪謝幕",
       "description": "與我狂歡吧，敘拉古！這是我送給你們的禮物，這是我送給你們的謝幕！\n<@lv.item><煙火發射器></>點燃後開啟狂歡時刻，週期性對攻擊範圍內所有我方與敵方單位造成法術傷害\n<@lv.rem>額外條件：</>敵方基礎屬性提升",
@@ -138842,7 +139655,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 25,
-      "apFailReturn": 24,
+      "apFailReturn": 25,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138854,7 +139667,7 @@
       "goldGain": 250,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 24,
+      "passFavor": 25,
       "completeFavor": 25,
       "slProgress": 0,
       "hilightMark": false,
@@ -138868,7 +139681,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138881,7 +139694,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act38side_token_ticket",
+            "id": "act38side_token_ticket_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -138921,7 +139734,7 @@
       ],
       "stageId": "act38side_s05#f#",
       "levelId": "Activities/act38side/level_act38side_sub-1-5",
-      "zoneId": "act38side_zone3",
+      "zoneId": "act38sre_zone3",
       "code": "PV-S-5",
       "name": "荒蕪謝幕",
       "description": "<@lv.fs>附加條件：</>\n場上出現額外的<熱烈舞團領舞者>，且所有<專業競演者>替換為<巡遊零食車>",
@@ -138931,7 +139744,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 25,
-      "apFailReturn": 24,
+      "apFailReturn": 25,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -138943,7 +139756,7 @@
       "goldGain": 250,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 24,
+      "passFavor": 25,
       "completeFavor": 25,
       "slProgress": 0,
       "hilightMark": false,
@@ -287062,6 +287875,66 @@
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_AS_sgMuseum",
+      "canPractice": false,
+      "canBattleReplay": true,
+      "apCost": 25,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "camp_r_29": {
+      "stageType": "CAMPAIGN",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "camp_r_29",
+      "levelId": "Obt/Campaign/level_camp_r_29",
+      "zoneId": "camp_zone_6",
+      "code": "伊比利亞",
+      "name": "鱗骸鹽漠 ",
+      "description": "尋找黃金時代遺物的商隊誤闖了鹽鱗的巢穴，兇暴的鹽鱗將他們圍困在鹽漠中，不懷好意的海盜們也正駕駛著鹽船逼近。向羅德島求援的訊號不斷傳來，即刻啟航前往吧！\n<@lv.rem><特殊條件></>部署費用不會自然回復\n<@lv.item><鹽漠></>經過的敵人移動速度降低，停留一段時間後會摔落至遠處並直接被擊倒\n<@lv.item><鹽坨子炮></>週期性發射炮彈，造成物理濺射傷害，可將周圍1名重量小於等於3的地面敵人傳送至爆炸中心",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_EP_canyon",
       "canPractice": false,
       "canBattleReplay": true,
       "apCost": 25,
@@ -473549,6 +474422,58 @@
       "startTs": 1741852800,
       "endTs": -1
     },
+    "act6bossrush_01": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_02": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_03": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_04": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_tm01": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_tm02": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_tm03": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_tm04": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_ex01": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_ex02": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_ex03": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_ex04": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
+    "act6bossrush_fin04": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
     "st_16-01": {
       "startTs": 1776844800,
       "endTs": 1778011199
@@ -475746,180 +476671,180 @@
       "endTs": 1774814399
     },
     "act38side_st01": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_tr01": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_01": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_02": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_03": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_04": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_st02": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_05": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_06": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_07": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_08": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_st03": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_09": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_10": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_st04": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_sp01": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_sp02": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_sp03": {
-      "startTs": 1751004000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex01": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex01#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex02": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex02#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex03": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex03#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex04": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex04#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex05": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex05#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex06": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex06#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex07": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex07#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex08": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_ex08#f#": {
-      "startTs": 1751616000,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s01": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s01#f#": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s02": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s02#f#": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s03": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s03#f#": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s04": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s04#f#": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s05": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act38side_s05#f#": {
-      "startTs": 1752220800,
-      "endTs": 1752782399
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act1vecb_01": {
       "startTs": 1752220800,
@@ -485367,6 +486292,8 @@
           "tag_16",
           "tag_15"
         ],
+        "reopenActivityId": "act38sre",
+        "retroActivityId": "permanent_sidestory_28_i_portatori_dei_velluti",
         "isRecommended": false
       }
     },

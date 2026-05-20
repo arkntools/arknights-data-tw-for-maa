@@ -680,6 +680,15 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "act6bossrush_zone1": {
+      "zoneID": "act6bossrush_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "強敵當前",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "act39sre_zone1": {
       "zoneID": "act39sre_zone1",
       "zoneIndex": 0,
@@ -694,6 +703,33 @@
       "zoneIndex": 1,
       "type": "ACTIVITY",
       "zoneNameSecond": "穿越骸礁",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act38sre_zone1": {
+      "zoneID": "act38sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "四幕匯演",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act38sre_zone2": {
+      "zoneID": "act38sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "彩車遊行",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act38sre_zone3": {
+      "zoneID": "act38sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "荒蕪之舞",
       "canPreview": false,
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
@@ -3684,6 +3720,33 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "permanent_sidestory_28_zone1": {
+      "zoneID": "permanent_sidestory_28_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "四幕匯演",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "permanent_sidestory_28_zone2": {
+      "zoneID": "permanent_sidestory_28_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "彩車遊行",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "permanent_sidestory_28_zone3": {
+      "zoneID": "permanent_sidestory_28_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameSecond": "荒蕪之舞",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "permanent_sidestory_29_zone1": {
       "zoneID": "permanent_sidestory_29_zone1",
       "zoneIndex": 0,
@@ -3790,6 +3853,10 @@
     }
   },
   "zoneValidInfo": {
+    "act6bossrush_zone1": {
+      "startTs": 1779264000,
+      "endTs": 1780430399
+    },
     "act39sre_zone1": {
       "startTs": 1778648400,
       "endTs": 1779479999
@@ -3797,6 +3864,18 @@
     "act39sre_zone2": {
       "startTs": 1778648400,
       "endTs": 1779479999
+    },
+    "act38sre_zone1": {
+      "startTs": 1779825600,
+      "endTs": 1780689599
+    },
+    "act38sre_zone2": {
+      "startTs": 1779825600,
+      "endTs": 1780689599
+    },
+    "act38sre_zone3": {
+      "startTs": 1779825600,
+      "endTs": 1780689599
     },
     "act3mainss_zone1": {
       "startTs": 1776844800,
