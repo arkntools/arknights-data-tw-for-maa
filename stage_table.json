@@ -83188,6 +83188,3750 @@
       "advancedRuneIdList2": [],
       "useSpecialSizeMapPreview": false
     },
+    "act46side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_st01",
+      "zoneId": "act46side_zone1",
+      "code": "OS-ST-1",
+      "name": "崩落",
+      "description": "祂說，此後的路你們必將獨行。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_tr01",
+      "levelId": "Activities/act46side/level_act46side_tr01",
+      "zoneId": "act46side_zone1",
+      "code": "OS-TR-1",
+      "name": "第一片雪",
+      "description": "第一片雪花落下的時候，沒有人意識到會發生什麼。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_01",
+      "levelId": "Activities/act46side/level_act46side_01",
+      "zoneId": "act46side_zone1",
+      "code": "OS-1",
+      "name": "呼號聲中",
+      "description": "報喪的羽獸哀鳴著，在雪地之上久久盤桓。不幸之中的不幸仍在降臨。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_02",
+      "levelId": "Activities/act46side/level_act46side_02",
+      "zoneId": "act46side_zone1",
+      "code": "OS-2",
+      "name": "甜蜜的鄰人",
+      "description": "來者叩響門扉。他手捧佳餚與美酒，呼朋且引伴。只求片刻鬆懈，使其深入脆弱的裂痕。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_03",
+      "levelId": "Activities/act46side/level_act46side_03",
+      "zoneId": "act46side_zone1",
+      "code": "OS-3",
+      "name": "雪灌木中",
+      "description": "新朋友總代表新機遇，是否抓住它們只在你的一念之間。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英1 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_04",
+      "levelId": "Activities/act46side/level_act46side_04",
+      "zoneId": "act46side_zone1",
+      "code": "OS-4",
+      "name": "並蒂生",
+      "description": "無論曾有過何種鬥爭隔閡，如今，我們握手而言，走向同樣的前路。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英1 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_RS_lake",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_st02",
+      "zoneId": "act46side_zone1",
+      "code": "OS-ST-2",
+      "name": "聖巡與喪鐘",
+      "description": "你踏著眾人的哭泣聲上路，風雪從不等待，也不急於掩埋。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_05",
+      "levelId": "Activities/act46side/level_act46side_05",
+      "zoneId": "act46side_zone1",
+      "code": "OS-5",
+      "name": "雪夜獨行",
+      "description": "信任者離散，她與她勇敢的心獨自踏上旅程。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英1 LV.30",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_06",
+      "levelId": "Activities/act46side/level_act46side_06",
+      "zoneId": "act46side_zone1",
+      "code": "OS-6",
+      "name": "綠翡翠",
+      "description": "耐心是獵人般的美德。它會帶你找到縫隙、機會、蠶食的開端與相互體恤的黎明。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_07",
+      "levelId": "Activities/act46side/level_act46side_07",
+      "zoneId": "act46side_zone1",
+      "code": "OS-7",
+      "name": "焚心灼影",
+      "description": "一個煙霧繚繞中的秘密，一支燃燒殆盡的焚香，一段轟鳴的咆哮，兩位愛侶，三個孩子。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_08",
+      "levelId": "Activities/act46side/level_act46side_08",
+      "zoneId": "act46side_zone1",
+      "code": "OS-8",
+      "name": "宣告在途",
+      "description": "人們相信什麼，取決於他們聽到與見到什麼。而欺騙與愚弄的藝術恰在其中。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30103",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30103",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_st03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_st03",
+      "zoneId": "act46side_zone1",
+      "code": "OS-ST-3",
+      "name": "尋心道途",
+      "description": "給正確者的道路是窄小的，充滿磨難與風雪的，遍布鬼怪與妖邪的。因為心從不是易得之物，因為心必將在千錘百鍊中鍛造。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_09": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_st03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_09",
+      "levelId": "Activities/act46side/level_act46side_09",
+      "zoneId": "act46side_zone1",
+      "code": "OS-9",
+      "name": "凜刃出匣",
+      "description": "仍有人徒勞地期待一個溫暖的春天。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31053",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "31053",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_10": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_09",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_10",
+      "levelId": "Activities/act46side/level_act46side_10",
+      "zoneId": "act46side_zone1",
+      "code": "OS-10",
+      "name": "耶拉岡德在上",
+      "description": "耶拉岡德在上，耶拉岡德在上，耶拉岡德在上！\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_cave",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": true
+    },
+    "act46side_st04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_st04",
+      "zoneId": "act46side_zone1",
+      "code": "OS-ST-4",
+      "name": "“降臨”",
+      "description": "最終與最末的隻言片語，洪水滔天之中出逃的死舟一葉。無論如何——祝你好運，泰拉。",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_st01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_st04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex01",
+      "levelId": "Activities/act46side/level_act46side_ex01",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-1",
+      "name": "飲淨水",
+      "description": "凡飲用之水，必探查觀瞧——渾濁者不取，與死物共流者不取，味惡異常者不取，漂浮奇異花草者亦不可取，以保體安。\n<@lv.rem>本次行動中幹員部署不受近遠程限制</>\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex01#f#",
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex01#f#",
+      "levelId": "Activities/act46side/level_act46side_ex01",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-1",
+      "name": "飲淨水",
+      "description": "<@lv.fs>附加條件：</>\n初始出現額外的<伊斯貝塔高台>",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex02",
+      "levelId": "Activities/act46side/level_act46side_ex02",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-2",
+      "name": "敬友鄰",
+      "description": "凡與人相處，必心懷善念，開放胸懷。以對待親族的態度對待鄰人，便可相敬相愛，互助互親，此為長久安康之要。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex02#f#",
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex02#f#",
+      "levelId": "Activities/act46side/level_act46side_ex02",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-2",
+      "name": "敬友鄰",
+      "description": "<@lv.fs>附加條件：</>\n堅冰翻身甲與斯托斯貝塔生命值額外提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex03",
+      "levelId": "Activities/act46side/level_act46side_ex03",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-3",
+      "name": "禦外敵",
+      "description": "凡出行或守衛宅邸，必審四方之勢，警戒潛伏之敵，規避兇獸之侵擾，妄戰者自損，怯戰者必失。無論勝敗，勿以他人名諱作歌。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex03#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex03",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex03#f#",
+      "levelId": "Activities/act46side/level_act46side_ex03",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-3",
+      "name": "禦外敵",
+      "description": "<@lv.fs>附加條件：</>\n堅冰翻身甲生命值額外提升",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex04",
+      "levelId": "Activities/act46side/level_act46side_ex04",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-4",
+      "name": "熟食而止",
+      "description": "凡食肉類，必加火烤、水煮、風乾以調製，半生半熟者不取，腐敗腥臭者不取，異樣者不取，以保身安。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex04#f#",
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex04",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex04#f#",
+      "levelId": "Activities/act46side/level_act46side_ex04",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-4",
+      "name": "熟食而止",
+      "description": "<@lv.fs>附加條件：</>\n一個雪崩禁區的初始雪崩預警增加",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex05",
+      "levelId": "Activities/act46side/level_act46side_ex05",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-5",
+      "name": "皮毛加身",
+      "description": "寒來風厲，須於春秋兩季入林狩獵，取皮毛與葷食，雪落時便可毛裘加身、熱鍋烹肉，於垂涎香氣中安度寒冬。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex05#f#",
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex05",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex05#f#",
+      "levelId": "Activities/act46side/level_act46side_ex05",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-5",
+      "name": "皮毛加身",
+      "description": "<@lv.fs>附加條件：</>\n出現額外敵人",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex06",
+      "levelId": "Activities/act46side/level_act46side_ex06",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-6",
+      "name": "順時耕作",
+      "description": "凡播種耕耘，必依雪化春來，當山溪水漫流時便可播種，而後一日一澆灌，三日一滅害，足以果腹飽餐。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex06#f#",
+      "dangerLevel": "精英2 LV.20",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex06",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex06#f#",
+      "levelId": "Activities/act46side/level_act46side_ex06",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-6",
+      "name": "順時耕作",
+      "description": "<@lv.fs>附加條件：</>\n場上5個位置不可部署",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex07",
+      "levelId": "Activities/act46side/level_act46side_ex07",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-7",
+      "name": "以石取石",
+      "description": "凡採礦取石，切勿徒手而掘，必選堅硬之器具敲擊礦脈，以色純光潔者為佳，以相鄰礦脈作引，便可取其精華。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex07#f#",
+      "dangerLevel": "精英2 LV.35",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex07",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex07#f#",
+      "levelId": "Activities/act46side/level_act46side_ex07",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-7",
+      "name": "以石取石",
+      "description": "<@lv.fs>附加條件：</>\n出現額外的雪崩禁區",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_BI",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_ex08",
+      "levelId": "Activities/act46side/level_act46side_ex08",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-8",
+      "name": "以人的名",
+      "description": "最後，我實實在在為你們留下囑託。你們已是謝拉格人，行於謝拉格的土地之上。從此往後的明日、明日、明日的明日，都將屬於你們自身。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_ex08#f#",
+      "dangerLevel": "精英2 LV.40",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_cave",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_ex08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_ex08#f#",
+      "levelId": "Activities/act46side/level_act46side_ex08",
+      "zoneId": "act46side_zone2",
+      "code": "OS-EX-8",
+      "name": "以人的名",
+      "description": "<@lv.fs>附加條件：</>\n所有我方單位的攻擊速度-20",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_cave",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_ex01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_st04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_s01",
+      "levelId": "Activities/act46side/level_act46side_sub-1-1",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-1",
+      "name": "打雪仗",
+      "description": "用你的雙手製作一個圓球，而後遠遠地拋出去，簡單的規則，愉快的體驗。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_s01#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s01",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_s01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_s01#f#",
+      "levelId": "Activities/act46side/level_act46side_sub-1-1",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-1",
+      "name": "打雪仗",
+      "description": "<@lv.fs>附加條件：</>\n一個雪崩禁區的位置變換",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_s02",
+      "levelId": "Activities/act46side/level_act46side_sub-1-2",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-2",
+      "name": "堆雪人",
+      "description": "你想要一個朋友嗎？還是另一個白茫茫的自己？\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_s02#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s02",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_s02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_s02#f#",
+      "levelId": "Activities/act46side/level_act46side_sub-1-2",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-2",
+      "name": "堆雪人",
+      "description": "<@lv.fs>附加條件：</>\n雪崩禁區內初始出現額外的雪頑童",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_s03",
+      "levelId": "Activities/act46side/level_act46side_sub-1-3",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-3",
+      "name": "雪孩子",
+      "description": "當你為雪人裝上石頭眼睛，找來樹枝作為雙手，又為它披上毛毯，它便成了和你一樣的好孩子。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_s03#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s03",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_s03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_s03#f#",
+      "levelId": "Activities/act46side/level_act46side_sub-1-3",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-3",
+      "name": "雪孩子",
+      "description": "<@lv.fs>附加條件：</>\n一個雪崩禁區內的<聖女像>朝向改變",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_s04",
+      "levelId": "Activities/act46side/level_act46side_sub-1-4",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-4",
+      "name": "雪中歌謠",
+      "description": "你可以和你的朋友一起唱歌，也可以在歌聲中尋找它的位置，春日到來之前，它都會回應你的歌聲。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_s04#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s04",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_s04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_s04#f#",
+      "levelId": "Activities/act46side/level_act46side_sub-1-4",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-4",
+      "name": "雪中歌謠",
+      "description": "<@lv.fs>附加條件：</>\n部分“噴爆罐”被替換為煥生雪傘",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act46side_s05",
+      "levelId": "Activities/act46side/level_act46side_sub-1-5",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-5",
+      "name": "雪與我與雪",
+      "description": "雪是每一個謝拉格孩子最好的朋友。\n<@lv.item><聖女像></>敵人進入禁區或在禁區內部署幹員時增加雪崩預警值，達到一定數值時觸發雪崩",
+      "hardStagedId": "act46side_s05#f#",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 25,
+      "apFailReturn": 25,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 250,
+      "goldGain": 250,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 25,
+      "completeFavor": 25,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act46side_token_detector",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act46side_s05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act46side_s05",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act46side_s05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act46side_s05#f#",
+      "levelId": "Activities/act46side/level_act46side_sub-1-5",
+      "zoneId": "act46side_zone3",
+      "code": "OS-S-5",
+      "name": "雪與我與雪",
+      "description": "<@lv.fs>附加條件：</>\n近衛與重裝幹員部署費用提升至2倍",
+      "dangerLevel": "-",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_OS_relic",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 25,
+      "apFailReturn": 25,
+      "maxSlot": -1,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 250,
+      "goldGain": 250,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 25,
+      "completeFavor": 25,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "mainStageId": "act46side_s01",
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
     "st_16-01": {
       "stageType": "MAIN",
       "difficulty": "NORMAL",
@@ -474474,6 +478218,170 @@
       "startTs": 1779264000,
       "endTs": 1780430399
     },
+    "act46side_st01": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_tr01": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_01": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_02": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_03": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_04": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_st02": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_05": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_06": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_07": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_08": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_st03": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_09": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_10": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_st04": {
+      "startTs": 1781078400,
+      "endTs": 1782849599
+    },
+    "act46side_ex01": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex01#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex02": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex02#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex03": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex03#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex04": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex04#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex05": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex05#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex06": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex06#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex07": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex07#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex08": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_ex08#f#": {
+      "startTs": 1781683200,
+      "endTs": 1782849599
+    },
+    "act46side_s01": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s01#f#": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s02": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s02#f#": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s03": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s03#f#": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s04": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s04#f#": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s05": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
+    "act46side_s05#f#": {
+      "startTs": 1782288000,
+      "endTs": 1782849599
+    },
     "st_16-01": {
       "startTs": 1776844800,
       "endTs": 1778011199
@@ -485031,6 +488939,24 @@
           "presentStageId": "main_01-10",
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act30side"
+        },
+        "ssLine_act46side_before1": {
+          "locationId": "ssLine_act46side_before1",
+          "locationType": "BEFORE",
+          "sortId": 3029,
+          "startTime": 1781078400,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act25side"
+        },
+        "ssLine_act46side": {
+          "locationId": "ssLine_act46side",
+          "locationType": "STORY_SET",
+          "sortId": 3030,
+          "startTime": 1781078400,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act46side"
         }
       }
     },
@@ -486203,6 +490129,29 @@
         ],
         "reopenActivityId": "act30sre",
         "retroActivityId": "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze",
+        "isRecommended": false
+      }
+    },
+    "setId_ssLine_act46side": {
+      "storySetId": "setId_ssLine_act46side",
+      "storySetType": "SS",
+      "sortByYear": 6,
+      "sortWithinYear": 11,
+      "kvImageId": "kv_retracing_our_steps",
+      "titleImageId": "title_retracing_our_steps",
+      "haveVideoToPlay": false,
+      "gameMusicId": "music_3in1bg_act46side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_1047_halo2",
+      "relevantActivityId": "act46side",
+      "ssData": {
+        "name": "雪山降臨1101",
+        "desc": "天災降臨謝拉格，無數人陷身災難。\n人心在惶恐中動搖，暗處覬覦者伺機而動。\n交會、分離、火光衝天，雪中尋心之旅道阻且長。\n執棋者知曉行差踏錯的代價，\n忠誠的人、堅定的人與時刻追逐真理之人並肩而行。\n此番告別之後，謝拉格的山風吹拂依舊。",
+        "backgroundId": "storybg_retracing_our_steps",
+        "tags": [
+          "tag_13",
+          "tag_14"
+        ],
         "isRecommended": false
       }
     },
