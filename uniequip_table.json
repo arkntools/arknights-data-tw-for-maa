@@ -49095,6 +49095,92 @@
       "hasUnlockMission": true,
       "isSpecialEquip": false,
       "charColor": "#6fd5d7"
+    },
+    "uniequip_001_pithst": {
+      "uniEquipId": "uniequip_001_pithst",
+      "uniEquipName": "盟約·輔助幹員證章",
+      "uniEquipIcon": "uniequip_001_pithst",
+      "uniEquipDesc": "盟約·輔助幹員證章",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_616_pithst",
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1782374400,
+      "uniEquipShowEnd": 1783324800,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false
+    },
+    "uniequip_002_pithst": {
+      "uniEquipId": "uniequip_002_pithst",
+      "uniEquipName": "盟約·輔助幹員證章",
+      "uniEquipIcon": "uniequip_002_pithst",
+      "uniEquipDesc": "盟約·輔助幹員證章",
+      "typeIcon": "rit-x",
+      "typeName1": "RIT",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_616_pithst",
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "missionList": [],
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1782374400,
+      "uniEquipShowEnd": 1783324800,
+      "charEquipOrder": 1,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false
+    },
+    "uniequip_001_sharp2": {
+      "uniEquipId": "uniequip_001_sharp2",
+      "uniEquipName": "領主·Sharp證章",
+      "uniEquipIcon": "uniequip_001_sharp2",
+      "uniEquipDesc": "領主·Sharp證章",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_617_sharp2",
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1782374400,
+      "uniEquipShowEnd": 1783324800,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false
+    },
+    "uniequip_002_sharp2": {
+      "uniEquipId": "uniequip_002_sharp2",
+      "uniEquipName": "領主·Sharp證章",
+      "uniEquipIcon": "uniequip_002_sharp2",
+      "uniEquipDesc": "領主·Sharp證章",
+      "typeIcon": "lor-x",
+      "typeName1": "LOR",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_617_sharp2",
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [],
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1782374400,
+      "uniEquipShowEnd": 1783324800,
+      "charEquipOrder": 1,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false
     }
   },
   "missionList": {
@@ -62640,6 +62726,14 @@
     "char_4211_snhunt": [
       "uniequip_001_snhunt",
       "uniequip_002_snhunt"
+    ],
+    "char_616_pithst": [
+      "uniequip_001_pithst",
+      "uniequip_002_pithst"
+    ],
+    "char_617_sharp2": [
+      "uniequip_001_sharp2",
+      "uniequip_002_sharp2"
     ]
   },
   "equipTypeInfos": [
@@ -67814,6 +67908,35 @@
         {
           "charId": "char_4211_snhunt",
           "equipId": "uniequip_002_snhunt",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": 1783324800
+        }
+      ]
+    },
+    {
+      "timeStamp": 1782374400,
+      "trackList": [
+        {
+          "charId": "char_616_pithst",
+          "equipId": "uniequip_001_pithst",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": 1783324800
+        },
+        {
+          "charId": "char_616_pithst",
+          "equipId": "uniequip_002_pithst",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": 1783324800
+        },
+        {
+          "charId": "char_617_sharp2",
+          "equipId": "uniequip_001_sharp2",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": 1783324800
+        },
+        {
+          "charId": "char_617_sharp2",
+          "equipId": "uniequip_002_sharp2",
           "type": "ADVANCED",
           "archiveShowTimeEnd": 1783324800
         }
