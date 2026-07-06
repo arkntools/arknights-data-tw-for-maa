@@ -707,6 +707,24 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "act47side_zone1": {
+      "zoneID": "act47side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "天空生活展覽",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act47side_zone2": {
+      "zoneID": "act47side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "逃離哥倫比亞",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "act1autochess_zone1": {
       "zoneID": "act1autochess_zone1",
       "zoneIndex": 0,
@@ -3899,6 +3917,14 @@
     "act39sre_zone2": {
       "startTs": 1778648400,
       "endTs": 1779479999
+    },
+    "act47side_zone1": {
+      "startTs": 1783324800,
+      "endTs": 1784491199
+    },
+    "act47side_zone2": {
+      "startTs": 1783929600,
+      "endTs": 1784491199
     },
     "act1autochess_zone1": {
       "startTs": 1782374400,

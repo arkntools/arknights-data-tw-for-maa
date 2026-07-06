@@ -3180,6 +3180,32 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "SINGLE_TC_39_0_9",
+      "gachaIndex": 39,
+      "openTime": 1783324800,
+      "endTime": 1784491199,
+      "gachaPoolName": "現實之上六百公尺",
+      "gachaPoolSummary": "結束於7月20日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "定向選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "SINGLE"
+    },
+    {
+      "gachaPoolId": "DOUBLE_TC_39_0_10",
+      "gachaIndex": 873,
+      "openTime": 1783972800,
+      "endTime": 1785182399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於7月28日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -4617,6 +4643,21 @@
       "gachaRuleType": "FESCLASSIC",
       "dynMeta": {
         "base64": "qAgAAANyYXJpdHlQaWNrQ2hhckRpY3QAVAMAAARUSUVSXzUAKQIAAAIwABAAAABjaGFyXzExNV9oZWFkYnIAAjEAEAAAAGNoYXJfMTY2X3NrZmlyZQACMgAPAAAAY2hhcl8yNDJfb3R0ZXIAAjMADwAAAGNoYXJfMTcxX2JsZHNrAAI0AA8AAABjaGFyXzE0OF9uZWFybAACNQAQAAAAY2hhcl8yMDFfbW9lc2hkAAI2AA8AAABjaGFyXzE0NV9wcm92ZQACNwAQAAAAY2hhcl8xNzNfc2xjaGFuAAI4AA4AAABjaGFyXzEwMV9zb3JhAAI5ABAAAABjaGFyXzIxNV9tYW50aWMAAjEwABAAAABjaGFyXzE2NF9uaWdodG0AAjExAA8AAABjaGFyXzMwOF9zd2lyZQACMTIAEAAAAGNoYXJfMzI2X2dsYWN1cwACMTMADgAAAGNoYXJfMjc5X2V4Y3UAAjE0AA8AAABjaGFyXzMwNl9sZWl6aQACMTUAEAAAAGNoYXJfMzc4X2FzYmVzdAACMTYAEAAAAGNoYXJfMzQ5X2NoaWF2ZQACMTcADwAAAGNoYXJfNDAxX2VseXNtAAIxOAAPAAAAY2hhcl8zNDZfYW9zdGEAAjE5AA8AAABjaGFyXzIxNF9rYWZrYQACMjAADgAAAGNoYXJfMzM4X2lyaXMAAjIxAA8AAABjaGFyXzM2M190b2RkaQACMjIADgAAAGNoYXJfNDIxX2Nyb3cAAjIzABAAAABjaGFyXzQ3M19tYmVycnkAAARUSUVSXzYAFgEAAAIwAA8AAABjaGFyXzExMl9zaWVnZQACMQAQAAAAY2hhcl8yMDJfZGVta25pAAIyABAAAABjaGFyXzE4OF9oZWxhZ2UAAjMADwAAAGNoYXJfMDE3X2h1YW5nAAI0AA8AAABjaGFyXzIyMl9icGlwZQACNQAQAAAAY2hhcl80MTZfenVtYW1hAAI2ABAAAABjaGFyXzMxMV9tdWRyb2sAAjcAEAAAAGNoYXJfMjY0X2YxMnlpbgACOAAQAAAAY2hhcl8zMzJfYXJjaGV0AAI5AA4AAABjaGFyXzM2Ml9zYWdhAAIxMAAQAAAAY2hhcl80MjZfYmlsbHJvAAIxMQAQAAAAY2hhcl80ODVfcGFsbGFzAAAAAmhvbWVEZXNjQ29uc3QA1gAAAOS4reWgheeUhOmBuOWPrzxjb2xvcj0jMDBhOGZmPuiHqueUsemBuOaTh+S4pumOluWumjwvY29sb3I+5pys5pyf5qmf546H5o+Q5Y2H5bm55ZOh77yB6YG45a6a5b6M5pys5qyh5bCL6KiqPGNvbG9yPSMwMGE4ZmY+5LiN5Y+v6K6K5pu0PC9jb2xvcj7jgILliY0xMOasoeWwi+ioquW/heWumueNsuW+lzxjb2xvcj0jMDBhOGZmPjXmmJ88L2NvbG9yPuS7peS4iuW5ueWToe+8gQACY2hvb3NlUnVsZUNvbnN0AH0CAAA8Y29sb3I9IzAwYThmZj7jgJDkuK3loIXnlITpgbjjgJE8L2NvbG9yPuacn+mWk++8jOWPr+WcqDxjb2xvcj0jMDBhOGZmPueUhOmBuOevhOWcjeWFp+mBuOaTh+S4pumOluWumjwvY29sb3I+5pys5pyf5Ye6546H5o+Q5Y2H55qEPGNvbG9yPSMwMGE4ZmY+MuWQjTbmmJ/lubnlk6E8L2NvbG9yPuWSjDxjb2xvcj0jMDBhOGZmPjPlkI015pif5bm55ZOhPC9jb2xvcj7jgIIK6YG45a6a55qE6YGO56iL5Lit77yM5Y+v6YCy5LiA5q2l6YWN572uPGNvbG9yPSMwMGE4ZmY+MeWQjTbmmJ/lubnlk6E8L2NvbG9yPuWSjDxjb2xvcj0jMDBhOGZmPjHlkI015pif5bm55ZOhPC9jb2xvcj7pgLLlhaU8Y29sb3I9IzAwYThmZj7mjqHos7zkuK3lv4Plj6/kvpvlhYzmj5s8L2NvbG9yPu+8jOS4lOS4iui/sOmBuOWumueahOW5ueWToeWwh+WcqDxjb2xvcj0jZmZkODAwPuOAkOmrmOe0muaGkeitieWNgOOAkTwvY29sb3I+5ZKMPGNvbG9yPSMwMGE4ZmY+44CQ6YCa55So5oaR6K2J5Y2A44CRPC9jb2xvcj7kvpvlhYzmj5vjgIIK5pys5qyh5Lit5aCF55SE6YG45Y2h5rGg5pyf6ZaT77yM5qmf546H5o+Q5Y2H55qE5bm55ZOh6YG45a6a5b6MPGNvbG9yPSMwMGE4ZmY+5pys5ZGo5pyf5YWn5LiN5Y+v5YaN5bqm6K6K5pu0PC9jb2xvcj7jgIIAAnN0YXI2Q2hvb3NlUnVsZUNvbnN0AJ4AAADmnKzmnJ/kuK3loIXnlITpgbjlj6/lvp7ku6XkuIs25pif5bm55ZOh56+E5ZyN5YWn6Ieq6YG4PGNvbG9yPSMwMGE4ZmY+MuWQjeW5ueWToTwvY29sb3I+77yM5L2/5YW2PGNvbG9yPSMwMGE4ZmY+5ZCI6KiI5Ye654++5qmf546H5Y2gNuaYn+WHuueOh+eahDUwJTwvY29sb3I+AAJzdGFyNUNob29zZVJ1bGVDb25zdACeAAAA5pys5pyf5Lit5aCF55SE6YG45Y+v5b6e5Lul5LiLNeaYn+W5ueWToeevhOWcjeWFp+iHqumBuDxjb2xvcj0jMDBhOGZmPjPlkI3lubnlk6E8L2NvbG9yPu+8jOS9v+WFtjxjb2xvcj0jMDBhOGZmPuWQiOioiOWHuuePvuapn+eOh+WNoDXmmJ/lh7rnjofnmoQ1MCU8L2NvbG9yPgASc2Nyb2xsSW5kZXgACAAAAAAAAAADcGlja1VwUGVyQ2hhclBlcmNlbnQAJQAAAAFUSUVSXzUA2ht8YTJVxT8BVElFUl82AAAAAAAAANA/AAA="
+      }
+    },
+    {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_39_0_5",
+      "gachaIndex": 9937,
+      "openTime": 1783540800,
+      "endTime": 1784750399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於7月23日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8yNjNfc2thZGkAAnN1YjZSYXJpdHlDaGFySWQAEAAAAGNoYXJfNDcyX3Bhc25ncgAEcmFyZTVDaGFyTGlzdABJAAAAAjAAEAAAAGNoYXJfMjYxX3NkZHJhZwACMQAPAAAAY2hhcl8yMTlfbWV0ZW8AAjIAEAAAAGNoYXJfMTA3X2xpc2thbQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
       }
     },
     {
@@ -7478,6 +7519,20 @@
       "startTime": 1782763200,
       "endTime": 1783972799,
       "spriteId": "picDouble_tc_39_0_8"
+    },
+    {
+      "poolId": "SINGLE_TC_39_0_9",
+      "index": 870,
+      "startTime": 1783324800,
+      "endTime": 1784491199,
+      "spriteId": "picSingle_tc_39_0_9"
+    },
+    {
+      "poolId": "DOUBLE_TC_39_0_10",
+      "index": 873,
+      "startTime": 1783972800,
+      "endTime": 1785182399,
+      "spriteId": "picDouble_tc_39_0_10"
     },
     {
       "poolId": "FESCLASSIC_TC_23_0_4",

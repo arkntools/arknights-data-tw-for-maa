@@ -866,7 +866,7 @@
   "char_4000_jnight": {
     "name": "正義騎士號",
     "description": "優先攻擊空中單位，且不受<@ba.kw>部署數量</>限制，但再部署時間極長",
-    "sortIndex": 1049,
+    "sortIndex": 1052,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": false,
     "canUseActivityPotentialItem": false,
@@ -1158,7 +1158,7 @@
   "char_4077_palico": {
     "name": "泰拉大陸調查團",
     "description": "攻擊對小範圍的<@ba.kw>地面</>敵人造成<@ba.kw>兩次</>物理傷害（第二次為餘震，傷害降低至攻擊力的一半），且不受<@ba.kw>部署數量</>限制，但再部署時間極長",
-    "sortIndex": 779,
+    "sortIndex": 780,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": false,
     "canUseActivityPotentialItem": false,
@@ -2647,7 +2647,7 @@
   "char_502_nblade": {
     "name": "夜刀",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 936,
+    "sortIndex": 939,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -3206,7 +3206,7 @@
   "char_503_rang": {
     "name": "巡林者",
     "description": "優先攻擊空中單位",
-    "sortIndex": 897,
+    "sortIndex": 900,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -4489,7 +4489,7 @@
   "char_240_wyvern": {
     "name": "香草",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 856,
+    "sortIndex": 858,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -4961,7 +4961,7 @@
   "char_504_rguard": {
     "name": "預備幹員-近戰",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 982,
+    "sortIndex": 985,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -6151,7 +6151,7 @@
   "char_281_popka": {
     "name": "泡普卡",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>",
-    "sortIndex": 652,
+    "sortIndex": 653,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -7602,7 +7602,7 @@
   "char_514_rdfend": {
     "name": "預備幹員-重裝",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 990,
+    "sortIndex": 993,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -9301,7 +9301,7 @@
   "char_507_rsnipe": {
     "name": "預備幹員-狙擊",
     "description": "優先攻擊空中單位",
-    "sortIndex": 983,
+    "sortIndex": 987,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -9528,7 +9528,7 @@
   "char_121_lava": {
     "name": "炎熔",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 919,
+    "sortIndex": 922,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -10989,7 +10989,7 @@
   "char_506_rmedic": {
     "name": "預備幹員-後勤",
     "description": "恢復友方單位生命",
-    "sortIndex": 980,
+    "sortIndex": 983,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -11216,7 +11216,7 @@
   "char_210_stward": {
     "name": "史都華德",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 742,
+    "sortIndex": 743,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -11693,7 +11693,7 @@
   "char_505_rcast": {
     "name": "預備幹員-術師",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 986,
+    "sortIndex": 989,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -11920,7 +11920,7 @@
   "char_278_orchid": {
     "name": "梓蘭",
     "description": "攻擊造成<@ba.kw>法術傷害</>，並對敵人造成短暫的<$ba.sluggish>停頓</>",
-    "sortIndex": 1079,
+    "sortIndex": 1082,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -12411,7 +12411,7 @@
   "char_141_nights": {
     "name": "夜煙",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 941,
+    "sortIndex": 944,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -13157,7 +13157,7 @@
   "char_604_ccast": {
     "name": "預備幹員-術師",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 985,
+    "sortIndex": 988,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -13593,7 +13593,7 @@
   "char_109_fmout": {
     "name": "遠山",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 1007,
+    "sortIndex": 1010,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -15069,7 +15069,7 @@
   "char_4051_akkord": {
     "name": "協律",
     "description": "攻擊造成<@ba.kw>超遠距離的群體法術傷害</>",
-    "sortIndex": 865,
+    "sortIndex": 868,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -16555,7 +16555,7 @@
   "char_469_indigo": {
     "name": "深靛",
     "description": "攻擊造成<@ba.kw>法術傷害</>，在找不到攻擊目標時可以將攻擊能量<@ba.kw>儲存</>起來之後一齊發射（最多3個）",
-    "sortIndex": 709,
+    "sortIndex": 710,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -21018,7 +21018,7 @@
   "char_603_csnipe": {
     "name": "預備幹員-狙擊",
     "description": "優先攻擊空中單位",
-    "sortIndex": 984,
+    "sortIndex": 986,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -22168,7 +22168,7 @@
   "char_440_pinecn": {
     "name": "松果",
     "description": "攻擊範圍內的<@ba.kw>所有敵人</>，對自己前方一橫排的敵人攻擊力提升至150%",
-    "sortIndex": 765,
+    "sortIndex": 766,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -23646,7 +23646,7 @@
   "char_366_acdrop": {
     "name": "酸糖",
     "description": "高精度的近距離射擊",
-    "sortIndex": 774,
+    "sortIndex": 775,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -24374,7 +24374,7 @@
   "char_4062_totter": {
     "name": "鉛踝",
     "description": "優先攻擊重量最重的敵人",
-    "sortIndex": 666,
+    "sortIndex": 667,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -25143,7 +25143,7 @@
   "char_4100_caper": {
     "name": "躍躍",
     "description": "持有<@ba.kw>迴旋投射物</>時才能夠攻擊（投射物需要時間回收）",
-    "sortIndex": 1011,
+    "sortIndex": 1014,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -25887,7 +25887,7 @@
   "char_198_blackd": {
     "name": "訊使",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 904,
+    "sortIndex": 907,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -26634,7 +26634,7 @@
   "char_149_scave": {
     "name": "清道夫",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 670,
+    "sortIndex": 671,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -27382,7 +27382,7 @@
   "char_600_cpione": {
     "name": "預備幹員-先鋒",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 988,
+    "sortIndex": 991,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -28583,7 +28583,7 @@
   "char_151_myrtle": {
     "name": "桃金娘",
     "description": "技能發動期間阻擋數變為0",
-    "sortIndex": 782,
+    "sortIndex": 783,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -32281,7 +32281,7 @@
   "char_159_peacok": {
     "name": "斷罪者",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 241,
+    "sortIndex": 240,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -32926,7 +32926,7 @@
   "char_601_cguard": {
     "name": "預備幹員-近衛",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 981,
+    "sortIndex": 984,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -33362,7 +33362,7 @@
   "char_193_frostl": {
     "name": "霜葉",
     "description": "可以進行<@ba.kw>遠程攻擊</>，但此時攻擊力降低至80%",
-    "sortIndex": 754,
+    "sortIndex": 755,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -36327,7 +36327,7 @@
   "char_337_utage": {
     "name": "宴",
     "description": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命",
-    "sortIndex": 924,
+    "sortIndex": 927,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -38533,7 +38533,7 @@
   "char_4063_quartz": {
     "name": "石英",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>",
-    "sortIndex": 737,
+    "sortIndex": 738,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -39277,7 +39277,7 @@
   "char_491_humus": {
     "name": "休謨斯",
     "description": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>50</>生命，最大生效數等於阻擋數",
-    "sortIndex": 885,
+    "sortIndex": 888,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -41532,7 +41532,7 @@
   "char_607_cspec": {
     "name": "預備幹員-特種",
     "description": "再部署時間大幅度<@ba.kw>減少</>",
-    "sortIndex": 987,
+    "sortIndex": 990,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -44966,7 +44966,7 @@
   "char_298_susuro": {
     "name": "蘇蘇洛",
     "description": "恢復友方單位生命",
-    "sortIndex": 768,
+    "sortIndex": 769,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -45716,7 +45716,7 @@
   "char_605_cmedic": {
     "name": "預備幹員-醫療",
     "description": "恢復友方單位生命",
-    "sortIndex": 989,
+    "sortIndex": 992,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -46898,7 +46898,7 @@
   "char_385_finlpp": {
     "name": "清流",
     "description": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
-    "sortIndex": 671,
+    "sortIndex": 672,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -49125,7 +49125,7 @@
   "char_150_snakek": {
     "name": "蛇屠箱",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 704,
+    "sortIndex": 705,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -49851,7 +49851,7 @@
   "char_381_bubble": {
     "name": "泡泡",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 651,
+    "sortIndex": 652,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -50579,7 +50579,7 @@
   "char_602_cdfend": {
     "name": "預備幹員-重裝",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 991,
+    "sortIndex": 994,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -53242,7 +53242,7 @@
   "char_110_deepcl": {
     "name": "深海色",
     "description": "攻擊造成<@ba.kw>法術傷害</>\n可以使用<@ba.kw>召喚物</>協助作戰",
-    "sortIndex": 712,
+    "sortIndex": 713,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -55476,7 +55476,7 @@
   "char_606_csuppo": {
     "name": "預備幹員-輔助",
     "description": "攻擊造成<@ba.kw>法術傷害</>，並對敵人造成短暫的<$ba.sluggish>停頓</>",
-    "sortIndex": 979,
+    "sortIndex": 982,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -57106,7 +57106,7 @@
   "char_355_ethan": {
     "name": "伊桑",
     "description": "對攻擊範圍內<@ba.kw>所有敵人</>造成傷害\n擁有50%的物理和法術閃避且不容易成為敵人的<@ba.kw>攻擊目標</>",
-    "sortIndex": 946,
+    "sortIndex": 949,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -58574,7 +58574,7 @@
   "char_4107_vrdant": {
     "name": "維荻",
     "description": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
-    "sortIndex": 816,
+    "sortIndex": 818,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -59336,7 +59336,7 @@
   "char_4165_ctrail": {
     "name": "雲跡",
     "description": "<$ba.liftoff>起飛</>後可阻擋2個飛行敵人",
-    "sortIndex": 1012,
+    "sortIndex": 1015,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -60820,7 +60820,7 @@
   "char_275_breeze": {
     "name": "微風",
     "description": "同時恢復三個友方單位的生命",
-    "sortIndex": 813,
+    "sortIndex": 815,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -64563,7 +64563,7 @@
   "char_488_buildr": {
     "name": "青枳",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 669,
+    "sortIndex": 670,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -65315,7 +65315,7 @@
   "char_513_apionr": {
     "name": "鬱金香",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 995,
+    "sortIndex": 998,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -66485,7 +66485,7 @@
   "char_4199_makiri": {
     "name": "松桐",
     "description": "能夠阻擋兩個敵人，可以支援待部署區的我方單位",
-    "sortIndex": 766,
+    "sortIndex": 767,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -67263,7 +67263,7 @@
   "char_261_sddrag": {
     "name": "葦草",
     "description": "擊殺敵人後獲得1點部署費用，撤退時返還初始部署費用",
-    "sortIndex": 822,
+    "sortIndex": 824,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -68015,7 +68015,7 @@
   "char_496_wildmn": {
     "name": "野鬃",
     "description": "擊殺敵人後獲得1點部署費用，撤退時返還初始部署費用",
-    "sortIndex": 934,
+    "sortIndex": 937,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -70275,7 +70275,7 @@
   "char_4119_wanqin": {
     "name": "萬頃",
     "description": "技能發動期間阻擋數變為0",
-    "sortIndex": 812,
+    "sortIndex": 814,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -71030,7 +71030,7 @@
   "char_476_blkngt": {
     "name": "夜半",
     "description": "可以在攻擊範圍內選擇一次<@ba.kw>戰術點</>來召喚援軍，自身攻擊援軍阻擋的敵人時攻擊力提升至150%",
-    "sortIndex": 935,
+    "sortIndex": 938,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -72560,7 +72560,7 @@
   "char_497_ctable": {
     "name": "曉歌",
     "description": "再部署時間<@ba.kw>減少</>，可使用遠程攻擊",
-    "sortIndex": 863,
+    "sortIndex": 866,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -74069,7 +74069,7 @@
   "char_4144_chilc": {
     "name": "奇爾查克",
     "description": "再部署時間<@ba.kw>減少</>，可使用遠程攻擊",
-    "sortIndex": 660,
+    "sortIndex": 661,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -74819,7 +74819,7 @@
   "char_4052_surfer": {
     "name": "尋瀾",
     "description": "再部署時間<@ba.kw>減少</>，可使用遠程攻擊",
-    "sortIndex": 901,
+    "sortIndex": 904,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -75567,7 +75567,7 @@
   "char_308_swire": {
     "name": "詩懷雅",
     "description": "可以攻擊到<@ba.kw>較遠敵人</>，攻擊自身未阻擋的敵人時攻擊力提升至120%",
-    "sortIndex": 732,
+    "sortIndex": 733,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -79528,7 +79528,7 @@
   "char_131_flameb": {
     "name": "炎客",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 918,
+    "sortIndex": 921,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -81045,7 +81045,7 @@
   "char_508_aguard": {
     "name": "Sharp",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 68,
+    "sortIndex": 67,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -82177,7 +82177,7 @@
   "char_155_tiger": {
     "name": "因陀羅",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 958,
+    "sortIndex": 961,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -82929,7 +82929,7 @@
   "char_415_flint": {
     "name": "燧石",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 777,
+    "sortIndex": 778,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -88990,7 +88990,7 @@
   "char_143_ghost": {
     "name": "幽靈鯊",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>",
-    "sortIndex": 972,
+    "sortIndex": 975,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -91246,7 +91246,7 @@
   "char_274_astesi": {
     "name": "星極",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 874,
+    "sortIndex": 877,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -91982,7 +91982,7 @@
   "char_333_sidero": {
     "name": "鑄鐵",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 1068,
+    "sortIndex": 1071,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -94338,7 +94338,7 @@
   "char_421_crow": {
     "name": "羽毛筆",
     "description": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>50</>生命，最大生效數等於阻擋數",
-    "sortIndex": 978,
+    "sortIndex": 981,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -98178,7 +98178,7 @@
   "char_4185_amoris": {
     "name": "祐天寺若麥",
     "description": "攻擊使目標周圍的其他敵人受到相當於攻擊力<@ba.kw>50%</>的<@ba.kw>群體</>物理傷害",
-    "sortIndex": 976,
+    "sortIndex": 979,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -102446,7 +102446,7 @@
   "char_365_aprl": {
     "name": "四月",
     "description": "優先攻擊空中單位",
-    "sortIndex": 764,
+    "sortIndex": 765,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -103937,7 +103937,7 @@
   "char_498_inside": {
     "name": "隱現",
     "description": "優先攻擊空中單位",
-    "sortIndex": 964,
+    "sortIndex": 967,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -104670,7 +104670,7 @@
   "char_219_meteo": {
     "name": "隕星",
     "description": "攻擊造成<@ba.kw>群體物理傷害</>",
-    "sortIndex": 1013,
+    "sortIndex": 1016,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -105404,7 +105404,7 @@
   "char_379_sesa": {
     "name": "懾砂",
     "description": "攻擊造成<@ba.kw>群體物理傷害</>",
-    "sortIndex": 708,
+    "sortIndex": 709,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -106901,7 +106901,7 @@
   "char_279_excu": {
     "name": "送葬人",
     "description": "攻擊範圍內的<@ba.kw>所有敵人</>，對自己前方一橫排的敵人攻擊力提升至150%",
-    "sortIndex": 767,
+    "sortIndex": 768,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -109193,6 +109193,750 @@
       }
     ]
   },
+  "char_4213_skybx": {
+    "name": "天空盒",
+    "description": "部署後<$ba.liftoff>起飛</>，<$ba.liftoff>起飛</>後只攻擊空中敵人；技能開啟時降落且攻擊造成<@ba.kw>群體物理傷害</>",
+    "sortIndex": 793,
+    "spTargetType": "NONE",
+    "canUseGeneralPotentialItem": true,
+    "canUseActivityPotentialItem": false,
+    "potentialItemId": "p_char_4213_skybx",
+    "nationId": "columbia",
+    "mainPower": {
+      "nationId": "columbia"
+    },
+    "displayNumber": "CB54",
+    "appellation": "Skybox",
+    "position": "RANGED",
+    "tagList": [
+      "群攻"
+    ],
+    "itemUsage": "頭銜很長的天空盒，妄圖定義天空的邊界。",
+    "itemDesc": "管理局也好，“螺旋槳天堂”也好，都只是天空盒貼圖上的一個像素。",
+    "itemObtainApproach": "活動獲得",
+    "isNotObtainable": false,
+    "isSpChar": false,
+    "maxPotentialLevel": 5,
+    "rarity": "TIER_5",
+    "profession": "SNIPER",
+    "subProfessionId": "skybreaker",
+    "phases": [
+      {
+        "characterPrefabKey": "char_4213_skybx",
+        "rangeId": "3-6",
+        "maxLevel": 50,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 691,
+              "atk": 409,
+              "def": 107,
+              "magicResistance": 0,
+              "cost": 22,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 50,
+            "data": {
+              "maxHp": 922,
+              "atk": 585,
+              "def": 139,
+              "magicResistance": 0,
+              "cost": 22,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4213_skybx",
+        "rangeId": "3-1",
+        "maxLevel": 70,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 922,
+              "atk": 585,
+              "def": 139,
+              "magicResistance": 0,
+              "cost": 24,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 70,
+            "data": {
+              "maxHp": 1168,
+              "atk": 755,
+              "def": 177,
+              "magicResistance": 0,
+              "cost": 24,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3241",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30012",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30022",
+            "count": 2,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4213_skybx",
+        "rangeId": "3-1",
+        "maxLevel": 80,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1168,
+              "atk": 755,
+              "def": 177,
+              "magicResistance": 0,
+              "cost": 24,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 80,
+            "data": {
+              "maxHp": 1558,
+              "atk": 899,
+              "def": 197,
+              "magicResistance": 0,
+              "cost": 24,
+              "blockCnt": 1,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 2.1,
+              "respawnTime": 80,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3243",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 7,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31093",
+            "count": 13,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "skillId": "skchr_skybx_1",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31014",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30073",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31044",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31094",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30155",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30104",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        }
+      },
+      {
+        "skillId": "skchr_skybx_2",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30014",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31083",
+                "count": 4,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31074",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30104",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30145",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31034",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        }
+      }
+    ],
+    "talents": [
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_1",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "開門！管理局",
+            "description": "對每個敵人首次造成傷害後，使目標的特殊能力失效，持續4秒",
+            "blackboard": {
+              "silence": 4
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "開門！管理局",
+            "description": "對每個敵人首次造成傷害後，使目標的特殊能力失效，持續7秒",
+            "blackboard": {
+              "silence": 7
+            },
+            "isHideTalent": false
+          }
+        ]
+      },
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_0",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "-1",
+            "blackboard": [],
+            "isHideTalent": true
+          }
+        ]
+      }
+    ],
+    "potentialRanks": [
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "再部署時間-10秒",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "RESPAWN_TIME",
+                "formulaItem": "ADDITION",
+                "value": -10,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "攻擊力+35",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "ATK",
+                "formulaItem": "ADDITION",
+                "value": 35,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "favorKeyFrames": [
+      {
+        "level": 0,
+        "data": {
+          "maxHp": 0,
+          "atk": 0,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      },
+      {
+        "level": 50,
+        "data": {
+          "maxHp": 0,
+          "atk": 85,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      }
+    ],
+    "allSkillLvlup": [
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30031",
+            "count": 7,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30042",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30052",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31043",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3303",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30013",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31083",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ]
+  },
   "char_002_amiya": {
     "name": "阿米婭",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
@@ -110762,7 +111506,7 @@
   "char_411_tomimi": {
     "name": "特米米",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 786,
+    "sortIndex": 787,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -111548,7 +112292,7 @@
   "char_466_qanik": {
     "name": "雪絨",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 893,
+    "sortIndex": 896,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -112294,7 +113038,7 @@
   "char_166_skfire": {
     "name": "天火",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 791,
+    "sortIndex": 792,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -113041,7 +113785,7 @@
   "char_509_acast": {
     "name": "Pith",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 59,
+    "sortIndex": 60,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -114215,7 +114959,7 @@
   "char_135_halo": {
     "name": "星源",
     "description": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>3</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>",
-    "sortIndex": 876,
+    "sortIndex": 879,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -120314,7 +121058,7 @@
   "char_1011_lava2": {
     "name": "炎獄炎熔",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 920,
+    "sortIndex": 923,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -121068,7 +121812,7 @@
   "char_489_serum": {
     "name": "蝕清",
     "description": "攻擊造成<@ba.kw>超遠距離的群體法術傷害</>",
-    "sortIndex": 739,
+    "sortIndex": 740,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -122574,7 +123318,7 @@
   "char_4013_kjera": {
     "name": "耶拉",
     "description": "操作<@ba.kw>浮游單元</>對敵人造成<@ba.kw>法術傷害</>\n浮游單元連續攻擊同一敵人時傷害提升（最高造成幹員110%攻擊力的傷害）",
-    "sortIndex": 930,
+    "sortIndex": 933,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -124123,7 +124867,7 @@
   "char_4054_malist": {
     "name": "至簡",
     "description": "操作<@ba.kw>浮游單元</>對敵人造成<@ba.kw>法術傷害</>\n浮游單元連續攻擊同一敵人時傷害提升（最高造成幹員110%攻擊力的傷害）",
-    "sortIndex": 1053,
+    "sortIndex": 1056,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -124890,7 +125634,7 @@
   "char_499_kaitou": {
     "name": "折光",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素傷害</>",
-    "sortIndex": 1038,
+    "sortIndex": 1041,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -125636,7 +126380,7 @@
   "char_4081_warmy": {
     "name": "溫米",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素傷害</>",
-    "sortIndex": 824,
+    "sortIndex": 826,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -127128,7 +127872,7 @@
   "char_4164_tecno": {
     "name": "特克諾",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以藉由擊倒敵人生成<@ba.kw>召喚物</>，可攻擊到自身<@ba.kw>召喚物</>阻擋的敵人",
-    "sortIndex": 783,
+    "sortIndex": 784,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -128660,7 +129404,7 @@
   "char_336_folivo": {
     "name": "稀音",
     "description": "攻擊造成<@ba.kw>法術傷害</>\n可以使用<@ba.kw>召喚物</>協助作戰",
-    "sortIndex": 839,
+    "sortIndex": 841,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -131651,7 +132395,7 @@
   "char_345_folnic": {
     "name": "亞葉",
     "description": "恢復友方單位生命",
-    "sortIndex": 911,
+    "sortIndex": 914,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -132391,7 +133135,7 @@
   "char_510_amedic": {
     "name": "Touch",
     "description": "恢復友方單位生命",
-    "sortIndex": 74,
+    "sortIndex": 73,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -133550,7 +134294,7 @@
   "char_348_ceylon": {
     "name": "錫蘭",
     "description": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
-    "sortIndex": 843,
+    "sortIndex": 845,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -134316,7 +135060,7 @@
   "char_436_whispr": {
     "name": "絮雨",
     "description": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
-    "sortIndex": 889,
+    "sortIndex": 892,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -135077,7 +135821,7 @@
   "char_4173_nowell": {
     "name": "諾威爾",
     "description": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
-    "sortIndex": 646,
+    "sortIndex": 647,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -135837,7 +136581,7 @@
   "char_402_tuye": {
     "name": "圖耶",
     "description": "恢復友方單位生命",
-    "sortIndex": 807,
+    "sortIndex": 808,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -136586,7 +137330,7 @@
   "char_473_mberry": {
     "name": "桑葚",
     "description": "恢復友方單位生命，並回復相當於攻擊力50%的<@ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<@ba.dt.element>元素損傷</>）",
-    "sortIndex": 689,
+    "sortIndex": 690,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -138867,7 +139611,7 @@
   "char_1024_hbisc2": {
     "name": "濯塵芙蓉",
     "description": "攻擊造成法術傷害，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於50%傷害的生命值",
-    "sortIndex": 1075,
+    "sortIndex": 1078,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -141167,7 +141911,7 @@
   "char_4139_papyrs": {
     "name": "莎草",
     "description": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低25%",
-    "sortIndex": 696,
+    "sortIndex": 697,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -143468,7 +144212,7 @@
   "char_4109_baslin": {
     "name": "深律",
     "description": "技能可以治療友方單位",
-    "sortIndex": 713,
+    "sortIndex": 714,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -144201,7 +144945,7 @@
   "char_4143_sensi": {
     "name": "先西",
     "description": "技能可以治療友方單位",
-    "sortIndex": 854,
+    "sortIndex": 856,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -147206,7 +147950,7 @@
   "char_455_nothin": {
     "name": "烏有",
     "description": "再部署時間<@ba.kw>減少</>，撤退時不返還<@ba.kw>部署費用</>，在場時每3秒<@ba.kw>消耗</>3點部署費用（不足時自動撤退）",
-    "sortIndex": 833,
+    "sortIndex": 835,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -149477,7 +150221,7 @@
   "char_4137_udflow": {
     "name": "深巡",
     "description": "能夠阻擋三個敵人，可以進行遠程攻擊",
-    "sortIndex": 714,
+    "sortIndex": 715,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -152493,7 +153237,7 @@
   "char_4207_branch": {
     "name": "折椏",
     "description": "<@ba.kw>無法</>被友方角色治療",
-    "sortIndex": 1039,
+    "sortIndex": 1042,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -153239,7 +153983,7 @@
   "char_378_asbest": {
     "name": "石棉",
     "description": "技能開啟時普通攻擊會造成法術傷害",
-    "sortIndex": 736,
+    "sortIndex": 737,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -153973,7 +154717,7 @@
   "char_512_aprot": {
     "name": "暮落",
     "description": "技能開啟時普通攻擊會造成法術傷害",
-    "sortIndex": 627,
+    "sortIndex": 626,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -154390,7 +155134,7 @@
   "char_4025_aprot2": {
     "name": "暮落",
     "description": "技能開啟時普通攻擊會造成法術傷害",
-    "sortIndex": 626,
+    "sortIndex": 627,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -159695,7 +160439,7 @@
   "char_464_cement": {
     "name": "洋灰",
     "description": "只有阻擋敵人時才能夠回復技力",
-    "sortIndex": 927,
+    "sortIndex": 930,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -161198,7 +161942,7 @@
   "char_145_prove": {
     "name": "普羅旺斯",
     "description": "高精度的近距離射擊",
-    "sortIndex": 659,
+    "sortIndex": 660,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -162698,7 +163442,7 @@
   "char_158_milu": {
     "name": "守林人",
     "description": "優先攻擊攻擊範圍內<@ba.kw>防禦力最低</>的敵方單位",
-    "sortIndex": 746,
+    "sortIndex": 747,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -164194,7 +164938,7 @@
   "char_4014_lunacu": {
     "name": "子月",
     "description": "優先攻擊攻擊範圍內<@ba.kw>防禦力最低</>的敵方單位",
-    "sortIndex": 1078,
+    "sortIndex": 1081,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -164925,7 +165669,7 @@
   "char_363_toddi": {
     "name": "熔泉",
     "description": "優先攻擊重量最重的敵人",
-    "sortIndex": 681,
+    "sortIndex": 682,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -167961,7 +168705,7 @@
   "char_4211_snhunt": {
     "name": "雪獵",
     "description": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>120%</>，不攻擊時會緩慢地裝填子彈（最多8發）",
-    "sortIndex": 892,
+    "sortIndex": 895,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -168754,7 +169498,7 @@
   "char_4177_brigid": {
     "name": "水燈心",
     "description": "持有<@ba.kw>迴旋投射物</>時才能夠攻擊（投射物需要時間回收）",
-    "sortIndex": 757,
+    "sortIndex": 758,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -170283,7 +171027,7 @@
   "char_173_slchan": {
     "name": "崖心",
     "description": "技能可以使敵人產生<@ba.kw>位移</>\n可以放置於遠程位",
-    "sortIndex": 910,
+    "sortIndex": 913,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -171040,7 +171784,7 @@
   "char_383_snsant": {
     "name": "雪雉",
     "description": "技能可以使敵人產生<@ba.kw>位移</>\n可以放置於遠程位",
-    "sortIndex": 894,
+    "sortIndex": 897,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -171790,7 +172534,7 @@
   "char_4105_almond": {
     "name": "杏仁",
     "description": "技能可以使敵人產生<@ba.kw>位移</>\n可以放置於遠程位",
-    "sortIndex": 880,
+    "sortIndex": 883,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -173311,7 +174055,7 @@
   "char_254_vodfox": {
     "name": "巫戀",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 829,
+    "sortIndex": 831,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -174840,7 +175584,7 @@
   "char_195_glassb": {
     "name": "真理",
     "description": "攻擊造成<@ba.kw>法術傷害</>，並對敵人造成短暫的<$ba.sluggish>停頓</>",
-    "sortIndex": 1040,
+    "sortIndex": 1043,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -177098,7 +177842,7 @@
   "char_4122_grabds": {
     "name": "小滿",
     "description": "攻擊造成<@ba.kw>法術傷害</>，並對敵人造成短暫的<$ba.sluggish>停頓</>",
-    "sortIndex": 862,
+    "sortIndex": 865,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -181795,7 +182539,7 @@
   "char_4184_dolris": {
     "name": "三角初華",
     "description": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒恢復相當於自身攻擊力10%的生命），自身不受<$ba.inspire>鼓舞</>影響",
-    "sortIndex": 688,
+    "sortIndex": 689,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -182640,7 +183384,7 @@
   "char_343_tknogi": {
     "name": "月禾",
     "description": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於75%攻擊力）",
-    "sortIndex": 1009,
+    "sortIndex": 1012,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -184082,7 +184826,7 @@
   "char_492_quercu": {
     "name": "夏櫟",
     "description": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於75%攻擊力）",
-    "sortIndex": 852,
+    "sortIndex": 854,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -184852,7 +185596,7 @@
   "char_4172_xingzh": {
     "name": "行箸",
     "description": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於76%攻擊力）",
-    "sortIndex": 878,
+    "sortIndex": 881,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -187113,7 +187857,7 @@
   "char_215_mantic": {
     "name": "獅蠍",
     "description": "對攻擊範圍內<@ba.kw>所有敵人</>造成傷害\n擁有50%的物理和法術閃避且不容易成為敵人的<@ba.kw>攻擊目標</>",
-    "sortIndex": 730,
+    "sortIndex": 732,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -187878,7 +188622,7 @@
   "char_478_kirara": {
     "name": "綺良",
     "description": "對攻擊範圍內<@ba.kw>所有敵人</>造成傷害\n擁有50%的物理和法術閃避且不容易成為敵人的<@ba.kw>攻擊目標</>",
-    "sortIndex": 665,
+    "sortIndex": 666,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -189460,7 +190204,7 @@
   "char_241_panda": {
     "name": "食鐵獸",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>\n可以放置於遠程位",
-    "sortIndex": 738,
+    "sortIndex": 739,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -195706,7 +196450,7 @@
   "char_4183_mortis": {
     "name": "若葉睦",
     "description": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
-    "sortIndex": 682,
+    "sortIndex": 683,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -196579,7 +197323,7 @@
   "char_4151_tinman": {
     "name": "錫人",
     "description": "可以投擲<@ba.kw>煉金單元</>協助作戰",
-    "sortIndex": 844,
+    "sortIndex": 846,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -198098,7 +198842,7 @@
   "char_103_angel": {
     "name": "能天使",
     "description": "優先攻擊空中單位",
-    "sortIndex": 633,
+    "sortIndex": 634,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -202869,7 +203613,7 @@
   "char_430_fartth": {
     "name": "遠牙",
     "description": "優先攻擊攻擊範圍內<@ba.kw>防禦力最低</>的敵方單位",
-    "sortIndex": 1008,
+    "sortIndex": 1011,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -206313,7 +207057,7 @@
   "char_197_poca": {
     "name": "早露",
     "description": "優先攻擊重量最重的敵人",
-    "sortIndex": 1015,
+    "sortIndex": 1018,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -207159,7 +207903,7 @@
   "char_2012_typhon": {
     "name": "提豐",
     "description": "優先攻擊重量最重的敵人",
-    "sortIndex": 789,
+    "sortIndex": 790,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -208886,7 +209630,7 @@
   "char_1035_wisdel": {
     "name": "維什戴爾",
     "description": "攻擊對小範圍的<@ba.kw>地面</>敵人造成<@ba.kw>兩次</>物理傷害（第二次為餘震，傷害降低至攻擊力的一半）",
-    "sortIndex": 818,
+    "sortIndex": 820,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -212436,7 +213180,7 @@
   "char_112_siege": {
     "name": "推進之王",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 809,
+    "sortIndex": 811,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -215026,7 +215770,7 @@
   "char_4026_vulpis": {
     "name": "忍冬",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 680,
+    "sortIndex": 681,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -215873,7 +216617,7 @@
   "char_479_sleach": {
     "name": "琴柳",
     "description": "技能發動期間阻擋數變為0",
-    "sortIndex": 668,
+    "sortIndex": 669,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -216734,7 +217478,7 @@
   "char_420_flamtl": {
     "name": "焰尾",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 925,
+    "sortIndex": 928,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -217574,7 +218318,7 @@
   "char_608_acpion": {
     "name": "鬱金香",
     "description": "能夠阻擋兩個敵人",
-    "sortIndex": 994,
+    "sortIndex": 997,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -220787,7 +221531,7 @@
   "char_4087_ines": {
     "name": "伊內絲",
     "description": "再部署時間<@ba.kw>減少</>，可使用遠程攻擊",
-    "sortIndex": 945,
+    "sortIndex": 948,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -221665,7 +222409,7 @@
   "char_134_ifrit": {
     "name": "伊芙利特",
     "description": "攻擊造成<@ba.kw>超遠距離的群體法術傷害</>",
-    "sortIndex": 944,
+    "sortIndex": 947,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -226852,7 +227596,7 @@
   "char_2015_dusk": {
     "name": "夕",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 838,
+    "sortIndex": 840,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -228597,7 +229341,7 @@
   "char_612_accast": {
     "name": "Pith",
     "description": "攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 60,
+    "sortIndex": 59,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -229103,7 +229847,7 @@
   "char_472_pasngr": {
     "name": "異客",
     "description": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>3</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>",
-    "sortIndex": 953,
+    "sortIndex": 957,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -231766,7 +232510,7 @@
   "char_1046_sbell2": {
     "name": "聖聆初雪",
     "description": "通常時<@ba.kw>不攻擊</>且防禦力和法術抗性大幅度<@ba.kw>提升</>，技能開啟時攻擊造成<@ba.kw>群體法術傷害</>",
-    "sortIndex": 719,
+    "sortIndex": 720,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -235355,7 +236099,7 @@
   "char_4146_nymph": {
     "name": "妮芙",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素傷害</>",
-    "sortIndex": 634,
+    "sortIndex": 635,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -236199,7 +236943,7 @@
   "char_1040_blaze2": {
     "name": "燭煌",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素傷害</>",
-    "sortIndex": 1067,
+    "sortIndex": 1070,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -237102,7 +237846,7 @@
   "char_4204_mantra": {
     "name": "真言",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素傷害</>",
-    "sortIndex": 1041,
+    "sortIndex": 1044,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -237962,7 +238706,7 @@
   "char_450_necras": {
     "name": "死芒",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以藉由擊倒敵人生成<@ba.kw>召喚物</>，可攻擊到自身<@ba.kw>召喚物</>阻擋的敵人",
-    "sortIndex": 763,
+    "sortIndex": 764,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -241979,7 +242723,7 @@
   "char_1047_halo2": {
     "name": "溯光星源",
     "description": "攻擊造成<@ba.kw>法術傷害</>，並對敵人造成短暫的<$ba.sluggish>停頓</>",
-    "sortIndex": 773,
+    "sortIndex": 774,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -244334,7 +245078,7 @@
   "char_1012_skadi2": {
     "name": "濁心斯卡蒂",
     "description": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒恢復相當於自身攻擊力10%的生命），自身不受<$ba.inspire>鼓舞</>影響",
-    "sortIndex": 1074,
+    "sortIndex": 1077,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -246938,7 +247682,7 @@
   "char_4202_haruka": {
     "name": "遙",
     "description": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於75%攻擊力）",
-    "sortIndex": 928,
+    "sortIndex": 931,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -249584,10 +250328,879 @@
       }
     ]
   },
+  "char_4212_nasti": {
+    "name": "娜斯提",
+    "description": "能夠阻擋兩個敵人，使用<支援裝置>協助作戰",
+    "sortIndex": 629,
+    "spTargetType": "NONE",
+    "canUseGeneralPotentialItem": true,
+    "canUseActivityPotentialItem": false,
+    "potentialItemId": "p_char_4212_nasti",
+    "nationId": "columbia",
+    "groupId": "rhine",
+    "mainPower": {
+      "nationId": "columbia",
+      "groupId": "rhine"
+    },
+    "displayNumber": "RL11",
+    "appellation": "Nasti",
+    "position": "MELEE",
+    "tagList": [
+      "支援",
+      "防護"
+    ],
+    "itemUsage": "萊茵生命合作幹員娜斯提，不苟言笑的工程師。",
+    "itemDesc": "她來自女妖河谷，也走過拓荒地，而她的未來高懸於天際。",
+    "itemObtainApproach": "招募尋訪",
+    "isNotObtainable": false,
+    "isSpChar": false,
+    "maxPotentialLevel": 5,
+    "rarity": "TIER_6",
+    "profession": "SUPPORT",
+    "subProfessionId": "craftsman",
+    "phases": [
+      {
+        "characterPrefabKey": "char_4212_nasti",
+        "rangeId": "1-1",
+        "maxLevel": 50,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 989,
+              "atk": 243,
+              "def": 202,
+              "magicResistance": 0,
+              "cost": 15,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 50,
+            "data": {
+              "maxHp": 1414,
+              "atk": 381,
+              "def": 291,
+              "magicResistance": 0,
+              "cost": 15,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4212_nasti",
+        "rangeId": "1-1",
+        "maxLevel": 80,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1414,
+              "atk": 381,
+              "def": 291,
+              "magicResistance": 0,
+              "cost": 17,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 80,
+            "data": {
+              "maxHp": 1938,
+              "atk": 509,
+              "def": 375,
+              "magicResistance": 0,
+              "cost": 17,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3271",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30052",
+            "count": 7,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30022",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4212_nasti",
+        "rangeId": "1-1",
+        "maxLevel": 90,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1938,
+              "atk": 509,
+              "def": 375,
+              "magicResistance": 0,
+              "cost": 19,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 90,
+            "data": {
+              "maxHp": 2585,
+              "atk": 614,
+              "def": 446,
+              "magicResistance": 0,
+              "cost": 19,
+              "blockCnt": 2,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.5,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3273",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31084",
+            "count": 5,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "skillId": "skchr_nasti_1",
+        "overrideTokenKey": "token_10059_nasti_nstdef",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31044",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31063",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 12,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31054",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30014",
+                "count": 10,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 15,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30145",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31034",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        }
+      },
+      {
+        "skillId": "skchr_nasti_2",
+        "overrideTokenKey": "token_10060_nasti_nstchr",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31074",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30103",
+                "count": 4,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 12,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31014",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31024",
+                "count": 9,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 15,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30165",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31064",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        }
+      },
+      {
+        "skillId": "skchr_nasti_3",
+        "overrideTokenKey": "token_10061_nasti_nstbld",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31094",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31043",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 12,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30014",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30054",
+                "count": 8,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 15,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30044",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_2",
+          "level": 1
+        }
+      }
+    ],
+    "displayTokenDict": {
+      "token_10059_nasti_nstdef": true,
+      "token_10060_nasti_nstchr": true,
+      "token_10061_nasti_nstbld": true
+    },
+    "talents": [
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_0",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "前方施工",
+            "description": "可以攜帶2個<支援裝置>(最多可部署1個)，效果根據技能改變而改變",
+            "blackboard": {
+              "cnt": 2
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_1",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "前方施工",
+            "description": "可以攜帶2個<支援裝置>(最多可部署2個)，效果根據技能改變而改變",
+            "blackboard": {
+              "cnt": 3
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "前方施工",
+            "description": "可以攜帶3個<支援裝置>(最多可部署2個)，效果根據技能改變而改變",
+            "blackboard": {
+              "cnt": 3
+            },
+            "isHideTalent": false
+          }
+        ]
+      },
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "2",
+            "name": "注意安全",
+            "description": "獲得10%<$ba.protect>庇護</>；遠程敵人出現後，改為使自身和場上的高台幹員獲得15%<$ba.protect>庇護</>，且每6秒獲得1點技力",
+            "blackboard": {
+              "nasti_t2[add_sp].interval": 6,
+              "nasti_t2[res_plus].damage_resistance": 0.15,
+              "nasti_t2[res].damage_resistance": 0.1
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 4,
+            "prefabKey": "2",
+            "name": "注意安全",
+            "description": "獲得12%<@ba.talpu>（+2%）</><$ba.protect>庇護</>；遠程敵人出現後，改為使自身和場上的高台幹員獲得18%<@ba.talpu>（+3%）</><$ba.protect>庇護</>，且每6秒獲得1點技力",
+            "blackboard": {
+              "nasti_t2[add_sp].interval": 6,
+              "nasti_t2[res_plus].damage_resistance": 0.18,
+              "nasti_t2[res].damage_resistance": 0.12
+            },
+            "isHideTalent": false
+          }
+        ]
+      }
+    ],
+    "potentialRanks": [
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "再部署時間-6秒",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "RESPAWN_TIME",
+                "formulaItem": "ADDITION",
+                "value": -6,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "攻擊力+25",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "ATK",
+                "formulaItem": "ADDITION",
+                "value": 25,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "CUSTOM",
+        "description": "第二天賦效果增強"
+      },
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "favorKeyFrames": [
+      {
+        "level": 0,
+        "data": {
+          "maxHp": 0,
+          "atk": 0,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      },
+      {
+        "level": 50,
+        "data": {
+          "maxHp": 280,
+          "atk": 0,
+          "def": 30,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      }
+    ],
+    "allSkillLvlup": [
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 5,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30011",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30061",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30022",
+            "count": 5,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30032",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30042",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3303",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31043",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30083",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ]
+  },
   "char_245_cello": {
     "name": "塑心",
     "description": "攻擊造成<@ba.kw>法術傷害</>，可以造成<@ba.kw>元素損傷</>",
-    "sortIndex": 772,
+    "sortIndex": 773,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -253046,7 +254659,7 @@
   "char_1029_yato2": {
     "name": "麒麟R夜刀",
     "description": "再部署時間大幅度<@ba.kw>減少</>",
-    "sortIndex": 664,
+    "sortIndex": 665,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -253910,7 +255523,7 @@
   "char_1502_crosly": {
     "name": "弒君者",
     "description": "再部署時間大幅度<@ba.kw>減少</>",
-    "sortIndex": 744,
+    "sortIndex": 745,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -257039,7 +258652,7 @@
   "char_400_weedy": {
     "name": "溫蒂",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>\n可以放置於遠程位",
-    "sortIndex": 823,
+    "sortIndex": 825,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -258770,7 +260383,7 @@
   "char_1041_angel2": {
     "name": "新約能天使",
     "description": "自身生命會不斷流失",
-    "sortIndex": 869,
+    "sortIndex": 872,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -260541,7 +262154,7 @@
   "char_437_mizuki": {
     "name": "水月",
     "description": "對攻擊範圍內<@ba.kw>所有敵人</>造成傷害\n擁有50%的物理和法術閃避且不容易成為敵人的<@ba.kw>攻擊目標</>",
-    "sortIndex": 759,
+    "sortIndex": 760,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -264992,7 +266605,7 @@
   "char_1039_thorn2": {
     "name": "引星棘刺",
     "description": "可以投擲<@ba.kw>煉金單元</>協助作戰",
-    "sortIndex": 961,
+    "sortIndex": 964,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -265892,7 +267505,7 @@
   "char_147_shining": {
     "name": "閃靈",
     "description": "恢復友方單位生命",
-    "sortIndex": 702,
+    "sortIndex": 703,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -266777,7 +268390,7 @@
   "char_613_acmedc": {
     "name": "Touch",
     "description": "恢復友方單位生命",
-    "sortIndex": 73,
+    "sortIndex": 74,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -267267,7 +268880,7 @@
   "char_179_cgbird": {
     "name": "夜鶯",
     "description": "同時恢復三個友方單位的生命",
-    "sortIndex": 942,
+    "sortIndex": 945,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -270764,7 +272377,7 @@
   "char_1020_reed2": {
     "name": "焰影葦草",
     "description": "攻擊造成法術傷害，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於50%傷害的生命值",
-    "sortIndex": 926,
+    "sortIndex": 929,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -272611,7 +274224,7 @@
   "char_136_hsguma": {
     "name": "星熊",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 875,
+    "sortIndex": 878,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -273985,7 +275598,7 @@
   "char_202_demkni": {
     "name": "塞雷婭",
     "description": "技能可以治療友方單位",
-    "sortIndex": 685,
+    "sortIndex": 686,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -274856,7 +276469,7 @@
   "char_423_blemsh": {
     "name": "瑕光",
     "description": "技能可以治療友方單位",
-    "sortIndex": 851,
+    "sortIndex": 853,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -275713,7 +277326,7 @@
   "char_2025_shu": {
     "name": "黍",
     "description": "技能可以治療友方單位",
-    "sortIndex": 749,
+    "sortIndex": 750,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -276579,7 +278192,7 @@
   "char_2014_nian": {
     "name": "年",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 639,
+    "sortIndex": 640,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -277436,7 +279049,7 @@
   "char_311_mudrok": {
     "name": "泥岩",
     "description": "<@ba.kw>無法</>被友方角色治療",
-    "sortIndex": 636,
+    "sortIndex": 637,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -279242,7 +280855,7 @@
   "char_416_zumama": {
     "name": "森蚺",
     "description": "只有阻擋敵人時才能夠回復技力",
-    "sortIndex": 691,
+    "sortIndex": 692,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -281878,7 +283491,7 @@
   "char_4194_rmixer": {
     "name": "信仰攪拌機",
     "description": "能夠阻擋三個敵人，可以進行遠程攻擊",
-    "sortIndex": 873,
+    "sortIndex": 876,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -282728,7 +284341,7 @@
   "char_2026_yu": {
     "name": "餘",
     "description": "能夠阻擋三個敵人，可以造成元素損傷",
-    "sortIndex": 977,
+    "sortIndex": 980,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -283604,7 +285217,7 @@
   "char_1044_hsgma2": {
     "name": "斬業星熊",
     "description": "技能開啟時普通攻擊會造成法術傷害",
-    "sortIndex": 1018,
+    "sortIndex": 1021,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -284492,7 +286105,7 @@
   "char_264_f12yin": {
     "name": "山",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 697,
+    "sortIndex": 698,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -285361,7 +286974,7 @@
   "char_2024_chyue": {
     "name": "重岳",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 1065,
+    "sortIndex": 1068,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -286225,7 +287838,7 @@
   "char_172_svrash": {
     "name": "銀灰",
     "description": "可以進行<@ba.kw>遠程攻擊</>，但此時攻擊力降低至80%",
-    "sortIndex": 959,
+    "sortIndex": 962,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -291085,7 +292698,7 @@
   "char_4145_ulpia": {
     "name": "烏爾比安",
     "description": "同時攻擊阻擋的<@ba.kw>所有敵人</>",
-    "sortIndex": 832,
+    "sortIndex": 834,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -297163,7 +298776,7 @@
   "char_350_surtr": {
     "name": "史爾特爾",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 743,
+    "sortIndex": 744,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -298047,7 +299660,7 @@
   "char_4098_vvana": {
     "name": "薇薇安娜",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 815,
+    "sortIndex": 817,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -298920,7 +300533,7 @@
   "char_1019_siege2": {
     "name": "維娜·維多利亞",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 817,
+    "sortIndex": 819,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -300690,7 +302303,7 @@
   "char_4121_zuole": {
     "name": "左樂",
     "description": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命",
-    "sortIndex": 1092,
+    "sortIndex": 1095,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -301594,7 +303207,7 @@
   "char_485_pallas": {
     "name": "帕拉斯",
     "description": "可以攻擊到<@ba.kw>較遠敵人</>，攻擊自身未阻擋的敵人時攻擊力提升至120%",
-    "sortIndex": 648,
+    "sortIndex": 649,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -302452,7 +304065,7 @@
   "char_1014_nearl2": {
     "name": "耀騎士臨光",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 929,
+    "sortIndex": 932,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -303305,7 +304918,7 @@
   "char_4011_lessng": {
     "name": "止頌",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 1050,
+    "sortIndex": 1053,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": true,
@@ -304148,7 +305761,7 @@
   "char_609_acguad": {
     "name": "Sharp",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 67,
+    "sortIndex": 68,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -304656,7 +306269,7 @@
   "char_1032_excu2": {
     "name": "聖約送葬人",
     "description": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>50</>生命，最大生效數等於阻擋數",
-    "sortIndex": 727,
+    "sortIndex": 728,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -305530,7 +307143,7 @@
   "char_4010_etlchi": {
     "name": "隱德來希",
     "description": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>50</>生命，最大生效數等於阻擋數",
-    "sortIndex": 963,
+    "sortIndex": 966,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -307332,7 +308945,7 @@
   "char_1043_leizi2": {
     "name": "司霆驚蟄",
     "description": "通常不攻擊且阻擋數為0，技能未開啟時<@ba.kw>{max_stack_cnt}</>秒內攻擊力逐漸提升至<@ba.kw>+{atk:0%}</>，技能結束時重置攻擊力",
-    "sortIndex": 760,
+    "sortIndex": 761,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -308264,10 +309877,756 @@
       }
     ]
   },
+  "char_4214_cairn": {
+    "name": "響石",
+    "description": "能夠阻擋三個敵人，可以造成元素損傷",
+    "sortIndex": 861,
+    "spTargetType": "NONE",
+    "canUseGeneralPotentialItem": true,
+    "canUseActivityPotentialItem": false,
+    "potentialItemId": "p_char_4214_cairn",
+    "nationId": "columbia",
+    "mainPower": {
+      "nationId": "columbia"
+    },
+    "displayNumber": "CB31",
+    "appellation": "Cairn",
+    "position": "MELEE",
+    "tagList": [
+      "元素",
+      "防護"
+    ],
+    "itemUsage": "導遊響石，準備好帶你去任何地方了。",
+    "itemDesc": "難道一個地方不存在，你就不能去看看了嗎？",
+    "itemObtainApproach": "招募尋訪",
+    "isNotObtainable": false,
+    "isSpChar": false,
+    "maxPotentialLevel": 5,
+    "rarity": "TIER_5",
+    "profession": "TANK",
+    "subProfessionId": "primprotector",
+    "phases": [
+      {
+        "characterPrefabKey": "char_4214_cairn",
+        "rangeId": "0-1",
+        "maxLevel": 50,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1391,
+              "atk": 228,
+              "def": 225,
+              "magicResistance": 10,
+              "cost": 21,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 50,
+            "data": {
+              "maxHp": 1880,
+              "atk": 327,
+              "def": 331,
+              "magicResistance": 10,
+              "cost": 21,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4214_cairn",
+        "rangeId": "0-1",
+        "maxLevel": 70,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 1880,
+              "atk": 327,
+              "def": 331,
+              "magicResistance": 10,
+              "cost": 23,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 70,
+            "data": {
+              "maxHp": 2507,
+              "atk": 436,
+              "def": 448,
+              "magicResistance": 10,
+              "cost": 23,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3231",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30062",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30022",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "characterPrefabKey": "char_4214_cairn",
+        "rangeId": "0-1",
+        "maxLevel": 80,
+        "attributesKeyFrames": [
+          {
+            "level": 1,
+            "data": {
+              "maxHp": 2507,
+              "atk": 436,
+              "def": 448,
+              "magicResistance": 10,
+              "cost": 25,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          },
+          {
+            "level": 80,
+            "data": {
+              "maxHp": 3483,
+              "atk": 546,
+              "def": 560,
+              "magicResistance": 10,
+              "cost": 25,
+              "blockCnt": 3,
+              "moveSpeed": 1,
+              "attackSpeed": 100,
+              "baseAttackTime": 1.6,
+              "respawnTime": 70,
+              "hpRecoveryPerSec": 0,
+              "spRecoveryPerSec": 1,
+              "maxDeployCount": 1,
+              "maxDeckStackCnt": 0,
+              "tauntLevel": 0,
+              "massLevel": 0,
+              "baseForceLevel": 0,
+              "stunImmune": false,
+              "silenceImmune": false,
+              "sleepImmune": false,
+              "frozenImmune": false,
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false,
+              "palsyImmune": false,
+              "attractImmune": false
+            }
+          }
+        ],
+        "evolveCost": [
+          {
+            "id": "3233",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30014",
+            "count": 9,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 11,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "skillId": "skchr_cairn_1",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31084",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31093",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31034",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30044",
+                "count": 4,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30165",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31054",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        }
+      },
+      {
+        "skillId": "skchr_cairn_2",
+        "levelUpCostCond": [
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 28800,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31044",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31053",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 57600,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 6,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31064",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31054",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          {
+            "unlockCond": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "lvlUpTime": 86400,
+            "levelUpCost": [
+              {
+                "id": "3303",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "30115",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "31014",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        ],
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        }
+      }
+    ],
+    "talents": [
+      {
+        "candidates": [
+          {
+            "unlockCondition": {
+              "phase": "PHASE_1",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "過飽和講解",
+            "description": "對自身阻擋的敵人每秒造成相當於攻擊力4%的<$ba.dt.neural2>神經損傷</>",
+            "blackboard": {
+              "ep_damage_ratio": 0.04
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_1",
+              "level": 1
+            },
+            "requiredPotentialRank": 4,
+            "prefabKey": "1",
+            "name": "過飽和講解",
+            "description": "對自身阻擋的敵人每秒造成相當於攻擊力5%<@ba.talpu>（+1%）</>的<$ba.dt.neural2>神經損傷</>",
+            "blackboard": {
+              "ep_damage_ratio": 0.05
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 0,
+            "prefabKey": "1",
+            "name": "過飽和講解",
+            "description": "對自身阻擋的敵人每秒造成相當於攻擊力9%的<$ba.dt.neural2>神經損傷</>",
+            "blackboard": {
+              "ep_damage_ratio": 0.09
+            },
+            "isHideTalent": false
+          },
+          {
+            "unlockCondition": {
+              "phase": "PHASE_2",
+              "level": 1
+            },
+            "requiredPotentialRank": 4,
+            "prefabKey": "1",
+            "name": "過飽和講解",
+            "description": "對自身阻擋的敵人每秒造成相當於攻擊力10%<@ba.talpu>（+1%）</>的<$ba.dt.neural2>神經損傷</>",
+            "blackboard": {
+              "ep_damage_ratio": 0.1
+            },
+            "isHideTalent": false
+          }
+        ]
+      }
+    ],
+    "potentialRanks": [
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "再部署時間-4秒",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "RESPAWN_TIME",
+                "formulaItem": "ADDITION",
+                "value": -4,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "BUFF",
+        "description": "攻擊力+25",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "ATK",
+                "formulaItem": "ADDITION",
+                "value": 25,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "CUSTOM",
+        "description": "第一天賦效果增強"
+      },
+      {
+        "type": "BUFF",
+        "description": "部署費用-1",
+        "buff": {
+          "attributes": {
+            "attributeModifiers": [
+              {
+                "attributeType": "COST",
+                "formulaItem": "ADDITION",
+                "value": -1,
+                "loadFromBlackboard": false,
+                "fetchBaseValueFromSourceEntity": false
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "favorKeyFrames": [
+      {
+        "level": 0,
+        "data": {
+          "maxHp": 0,
+          "atk": 0,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      },
+      {
+        "level": 50,
+        "data": {
+          "maxHp": 150,
+          "atk": 60,
+          "def": 0,
+          "magicResistance": 0,
+          "cost": 0,
+          "blockCnt": 0,
+          "moveSpeed": 0,
+          "attackSpeed": 0,
+          "baseAttackTime": 0,
+          "respawnTime": 0,
+          "hpRecoveryPerSec": 0,
+          "spRecoveryPerSec": 0,
+          "maxDeployCount": 0,
+          "maxDeckStackCnt": 0,
+          "tauntLevel": 0,
+          "massLevel": 0,
+          "baseForceLevel": 0,
+          "stunImmune": false,
+          "silenceImmune": false,
+          "sleepImmune": false,
+          "frozenImmune": false,
+          "levitateImmune": false,
+          "disarmedCombatImmune": false,
+          "fearedImmune": false,
+          "palsyImmune": false,
+          "attractImmune": false
+        }
+      }
+    ],
+    "allSkillLvlup": [
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3301",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30021",
+            "count": 7,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_0",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30032",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30042",
+            "count": 4,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3302",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      {
+        "unlockCond": {
+          "phase": "PHASE_1",
+          "level": 1
+        },
+        "lvlUpCost": [
+          {
+            "id": "3303",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30043",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30073",
+            "count": 3,
+            "type": "MATERIAL"
+          }
+        ]
+      }
+    ]
+  },
   "token_10000_silent_healrb": {
     "name": "醫療探機",
     "description": "不會受到攻擊，恢復周圍友方單位的生命",
-    "sortIndex": 948,
+    "sortIndex": 951,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -311577,7 +313936,7 @@
   "token_10006_vodfox_doll": {
     "name": "詛咒娃娃",
     "description": "不會受到攻擊",
-    "sortIndex": 1090,
+    "sortIndex": 1093,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -313217,7 +315576,7 @@
   "token_10010_folivo_car": {
     "name": "移動攝影器",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 949,
+    "sortIndex": 952,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -313661,7 +316020,7 @@
   "token_10011_beewax_oblisk": {
     "name": "沙之碑",
     "description": "能夠阻擋三個敵人",
-    "sortIndex": 695,
+    "sortIndex": 696,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -314836,7 +317195,7 @@
   "token_10014_bstalk_crab": {
     "name": "磐蟹護衛隊",
     "description": "能夠阻擋一個敵人，只能部署在召喚者攻擊範圍內",
-    "sortIndex": 650,
+    "sortIndex": 651,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -315620,7 +317979,7 @@
   "token_10016_rfrost_mine": {
     "name": "迎賓踏墊",
     "description": "不會受到攻擊，無法放置於<@ba.kw>敵人已在</>的格子中",
-    "sortIndex": 966,
+    "sortIndex": 969,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -315947,7 +318306,7 @@
   "token_10017_skadi2_dedant": {
     "name": "斯卡蒂的海嗣",
     "description": "不會受到攻擊",
-    "sortIndex": 762,
+    "sortIndex": 763,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -316454,7 +318813,7 @@
   "token_10018_robrta_mach": {
     "name": "全自動造型儀",
     "description": "不會受到攻擊",
-    "sortIndex": 678,
+    "sortIndex": 679,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -318863,7 +321222,7 @@
   "token_10052_radian_tower2": {
     "name": "賽柯",
     "description": "持續攻擊創造出飛行一段距離的子彈，子彈對碰撞到的首個地面敵方單位造成物理傷害。",
-    "sortIndex": 687,
+    "sortIndex": 688,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -319220,7 +321579,7 @@
   "token_10053_radian_tower3": {
     "name": "桑特拉",
     "description": "攻擊造成法術傷害",
-    "sortIndex": 690,
+    "sortIndex": 691,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -319986,7 +322345,7 @@
   "token_10022_kazema_shadow": {
     "name": "紙偶",
     "description": "不阻擋敵人",
-    "sortIndex": 1052,
+    "sortIndex": 1055,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -320919,7 +323278,7 @@
   "token_10041_cathy_catsld": {
     "name": "爬行號·防護單元",
     "description": "不會受到攻擊",
-    "sortIndex": 647,
+    "sortIndex": 648,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -321292,7 +323651,7 @@
   "token_10045_alanna_crane": {
     "name": "小螺帽",
     "description": "不會受到攻擊",
-    "sortIndex": 861,
+    "sortIndex": 864,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -323727,7 +326086,7 @@
   "token_10027_ironmn_pile3": {
     "name": "鐵鉗號·原型機",
     "description": "可被我方幹員攻擊但不受傷害，受到工匠幹員攻擊時回復生命",
-    "sortIndex": 799,
+    "sortIndex": 801,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -324611,7 +326970,7 @@
   "token_10029_slent2_protrb": {
     "name": "夜燈",
     "description": "不會受到攻擊",
-    "sortIndex": 937,
+    "sortIndex": 940,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -325395,7 +327754,7 @@
   },
   "token_10031_swire2_gdtrap": {
     "name": "香檳炸彈",
-    "sortIndex": 855,
+    "sortIndex": 857,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -326216,7 +328575,7 @@
   "token_10034_ray_sndbst": {
     "name": "沙地獸",
     "description": "不會受到攻擊，只能部署在召喚者攻擊範圍內",
-    "sortIndex": 694,
+    "sortIndex": 695,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -327942,7 +330301,7 @@
   "token_10037_mitm_trshrb": {
     "name": "櫻桃三號",
     "description": "能夠阻擋一個敵人，作為小車形態存在時只能部署在召喚者攻擊範圍內",
-    "sortIndex": 965,
+    "sortIndex": 968,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -330281,7 +332640,7 @@
   "token_10050_monstr_prosts": {
     "name": "重構體",
     "description": "自身生命會不斷流失",
-    "sortIndex": 1063,
+    "sortIndex": 1066,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -330774,7 +333133,7 @@
   "token_10056_angel2_target": {
     "name": "投遞座標",
     "description": "不會受到攻擊",
-    "sortIndex": 802,
+    "sortIndex": 804,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335030,7 +337389,7 @@
   },
   "trap_001_crate": {
     "name": "障礙物",
-    "sortIndex": 1031,
+    "sortIndex": 1034,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335128,7 +337487,7 @@
   },
   "trap_002_emp": {
     "name": "震撼裝置",
-    "sortIndex": 1047,
+    "sortIndex": 1050,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335226,7 +337585,7 @@
   },
   "trap_003_gate": {
     "name": "閘門",
-    "sortIndex": 1016,
+    "sortIndex": 1019,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335324,7 +337683,7 @@
   },
   "trap_005_sensor": {
     "name": "偵測器",
-    "sortIndex": 1042,
+    "sortIndex": 1045,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335620,7 +337979,7 @@
   "trap_008_farm": {
     "name": "指揮終端",
     "description": "被摧毀時扣除1點關卡生命值",
-    "sortIndex": 1051,
+    "sortIndex": 1054,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335849,7 +338208,7 @@
   },
   "trap_010_frosts": {
     "name": "源石冰晶",
-    "sortIndex": 997,
+    "sortIndex": 1000,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -335948,7 +338307,7 @@
   },
   "trap_011_ore": {
     "name": "源石祭壇",
-    "sortIndex": 1000,
+    "sortIndex": 1003,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -336166,7 +338525,7 @@
   },
   "trap_013_blower": {
     "name": "源石流發生裝置",
-    "sortIndex": 1004,
+    "sortIndex": 1007,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -336266,7 +338625,7 @@
   "trap_014_tower": {
     "name": "L-44\"留聲機\"",
     "description": "優先攻擊生命上限最高的單位",
-    "sortIndex": 46,
+    "sortIndex": 47,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -336747,7 +339106,7 @@
   "trap_019_electric": {
     "name": "梅什科線圈",
     "description": "攻擊範圍內存在其他梅什科線圈時獲得啟動效果",
-    "sortIndex": 596,
+    "sortIndex": 597,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -336847,7 +339206,7 @@
   "trap_020_roadblock": {
     "name": "道路障礙物",
     "description": "不容易受到我方單位的攻擊",
-    "sortIndex": 215,
+    "sortIndex": 216,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -336946,7 +339305,7 @@
   "trap_021_flame": {
     "name": "能量聚合體",
     "description": "容易受到我方單位的攻擊",
-    "sortIndex": 629,
+    "sortIndex": 630,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -337045,7 +339404,7 @@
   "trap_022_frosts_friend": {
     "name": "霜星的源石冰晶",
     "description": "友好單位",
-    "sortIndex": 753,
+    "sortIndex": 754,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -337543,7 +339902,7 @@
   "trap_027_stone": {
     "name": "碎石",
     "description": "改變敵人行進路線",
-    "sortIndex": 776,
+    "sortIndex": 777,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -337897,7 +340256,7 @@
   "trap_030_factory": {
     "name": "無人機工廠",
     "description": "僅受<@ba.kw>上層控制團隊</>控制",
-    "sortIndex": 835,
+    "sortIndex": 837,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -338023,7 +340382,7 @@
   },
   "trap_031_sleep": {
     "name": "雪雉的安全起重機",
-    "sortIndex": 895,
+    "sortIndex": 898,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -338143,7 +340502,7 @@
   "trap_032_mound": {
     "name": "土石結構",
     "description": "可以阻擋<@ba.kw>沙塵暴</>",
-    "sortIndex": 808,
+    "sortIndex": 810,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -338574,7 +340933,7 @@
   },
   "trap_036_storm": {
     "name": "沙塵暴",
-    "sortIndex": 693,
+    "sortIndex": 694,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -338788,7 +341147,7 @@
   "trap_038_dsbell": {
     "name": "應急救治設施",
     "description": "周圍四格存在我方單位或<自動維護機器>時啟動",
-    "sortIndex": 970,
+    "sortIndex": 973,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -338924,7 +341283,7 @@
   "trap_039_dstnta": {
     "name": "子代",
     "description": "<幼體>形態時<$ba.invisible>隱匿</>，之後解除<$ba.invisible>隱匿</>並<攝食>周圍目標；可以受到我方攻擊",
-    "sortIndex": 1077,
+    "sortIndex": 1080,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -339246,7 +341605,7 @@
   },
   "trap_042_tidectrl": {
     "name": "漲潮控制",
-    "sortIndex": 1030,
+    "sortIndex": 1033,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -339361,7 +341720,7 @@
   "trap_043_dupilr": {
     "name": "破碎支柱",
     "description": "僅可被相鄰的我方單位攻擊",
-    "sortIndex": 658,
+    "sortIndex": 659,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -339480,7 +341839,7 @@
   "trap_044_duruin": {
     "name": "戰場廢墟",
     "description": "改變敵人的行進路線",
-    "sortIndex": 1020,
+    "sortIndex": 1023,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -339916,7 +342275,7 @@
   "trap_049_candle": {
     "name": "騎士之徽",
     "description": "可部署在無視野的近戰位與遠程位",
-    "sortIndex": 663,
+    "sortIndex": 664,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -340122,7 +342481,7 @@
   },
   "trap_051_vultres": {
     "name": "無主的財富",
-    "sortIndex": 836,
+    "sortIndex": 838,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -340220,7 +342579,7 @@
   },
   "trap_052_slowfd": {
     "name": "失修舞台霧機",
-    "sortIndex": 729,
+    "sortIndex": 730,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -340537,7 +342896,7 @@
   },
   "trap_055_tileblock": {
     "name": "封印的地面",
-    "sortIndex": 282,
+    "sortIndex": 280,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -341027,7 +343386,7 @@
   "trap_059_peacokfool": {
     "name": "斷罪者",
     "description": "斷罪大師特製遊戲的主角",
-    "sortIndex": 240,
+    "sortIndex": 241,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -341174,7 +343533,7 @@
   "trap_060_bouncy": {
     "name": "聖徒之手",
     "description": "部署後向部署方向發射“聖徒之手”",
-    "sortIndex": 724,
+    "sortIndex": 725,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -341761,7 +344120,7 @@
   },
   "trap_069_buffcard": {
     "name": "戰備啟動閥",
-    "sortIndex": 1019,
+    "sortIndex": 1022,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -341860,7 +344219,7 @@
   },
   "trap_070_supplycard": {
     "name": "預備區發訊器",
-    "sortIndex": 993,
+    "sortIndex": 996,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -342057,7 +344416,7 @@
   },
   "trap_072_revivecard": {
     "name": "休整區發訊器",
-    "sortIndex": 887,
+    "sortIndex": 890,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -342155,7 +344514,7 @@
   },
   "trap_073_btauntcard": {
     "name": "污染晶石",
-    "sortIndex": 827,
+    "sortIndex": 829,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -342977,7 +345336,7 @@
   },
   "trap_080_garage": {
     "name": "自走車出發點",
-    "sortIndex": 1083,
+    "sortIndex": 1086,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -343083,7 +345442,7 @@
   },
   "trap_081_turngear": {
     "name": "自走車單行道",
-    "sortIndex": 1084,
+    "sortIndex": 1087,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -343181,7 +345540,7 @@
   },
   "trap_085_paras": {
     "name": "螢光孢子",
-    "sortIndex": 969,
+    "sortIndex": 972,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -343280,7 +345639,7 @@
   },
   "trap_090_recodr": {
     "name": "實體程式",
-    "sortIndex": 740,
+    "sortIndex": 741,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -343386,7 +345745,7 @@
   },
   "trap_091_brctrl": {
     "name": "實體程式控制",
-    "sortIndex": 741,
+    "sortIndex": 742,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -344683,7 +347042,7 @@
   "char_283_midn": {
     "name": "月見夜",
     "description": "可以進行<@ba.kw>遠程攻擊</>，但此時攻擊力降低至80%",
-    "sortIndex": 1010,
+    "sortIndex": 1013,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -346687,7 +349046,7 @@
   "char_164_nightm": {
     "name": "夜魔",
     "description": "攻擊造成<@ba.kw>法術傷害</>",
-    "sortIndex": 938,
+    "sortIndex": 941,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -348199,7 +350558,7 @@
   "char_263_skadi": {
     "name": "斯卡蒂",
     "description": "能夠阻擋一個敵人",
-    "sortIndex": 761,
+    "sortIndex": 762,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349056,7 +351415,7 @@
   },
   "trap_065_normbox": {
     "name": "寶箱",
-    "sortIndex": 119,
+    "sortIndex": 121,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349154,7 +351513,7 @@
   },
   "trap_066_rarebox": {
     "name": "尖刺寶箱",
-    "sortIndex": 421,
+    "sortIndex": 420,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349271,7 +351630,7 @@
   },
   "trap_068_badbox": {
     "name": "箱形恐魚",
-    "sortIndex": 858,
+    "sortIndex": 860,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349386,7 +351745,7 @@
   },
   "trap_083_bunker": {
     "name": "掩體",
-    "sortIndex": 923,
+    "sortIndex": 926,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -349746,7 +352105,7 @@
   },
   "trap_067_dice": {
     "name": "骰子",
-    "sortIndex": 803,
+    "sortIndex": 805,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -350220,7 +352579,7 @@
   },
   "trap_093_tbattbc": {
     "name": "鉗獸殼粉",
-    "sortIndex": 667,
+    "sortIndex": 668,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -350946,7 +353305,7 @@
   },
   "trap_098_mire": {
     "name": "沼澤控制",
-    "sortIndex": 1033,
+    "sortIndex": 1036,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -351045,7 +353404,7 @@
   "trap_096_gflag": {
     "name": "山海密語儀",
     "description": "在場時，強化所有敵軍的攻擊速度與移動速度",
-    "sortIndex": 699,
+    "sortIndex": 700,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -351367,7 +353726,7 @@
   },
   "trap_099_mhflsb": {
     "name": "眩光手榴彈",
-    "sortIndex": 890,
+    "sortIndex": 893,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -351682,7 +354041,7 @@
   },
   "trap_102_mhwrbg": {
     "name": "滯空牽引無人機",
-    "sortIndex": 1060,
+    "sortIndex": 1063,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -351797,7 +354156,7 @@
   },
   "trap_105_mhwrct": {
     "name": "滯空牽引無人機",
-    "sortIndex": 1061,
+    "sortIndex": 1064,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352209,7 +354568,7 @@
   },
   "trap_108_smbox": {
     "name": "寶箱",
-    "sortIndex": 121,
+    "sortIndex": 120,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352307,7 +354666,7 @@
   },
   "trap_109_smrbox": {
     "name": "尖刺寶箱",
-    "sortIndex": 420,
+    "sortIndex": 421,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352522,7 +354881,7 @@
   },
   "trap_700_cdabyss": {
     "name": "阿戈爾示波器",
-    "sortIndex": 78,
+    "sortIndex": 80,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352641,7 +355000,7 @@
   },
   "trap_701_cdabyssa": {
     "name": "阿戈爾示波器",
-    "sortIndex": 79,
+    "sortIndex": 78,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352760,7 +355119,7 @@
   },
   "trap_702_cdabyssb": {
     "name": "阿戈爾示波器",
-    "sortIndex": 80,
+    "sortIndex": 79,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352879,7 +355238,7 @@
   },
   "trap_703_cdcredit": {
     "name": "自適應補給元件",
-    "sortIndex": 1080,
+    "sortIndex": 1084,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -352993,7 +355352,7 @@
   },
   "trap_704_cdcredita": {
     "name": "自適應補給元件",
-    "sortIndex": 1082,
+    "sortIndex": 1083,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -353107,7 +355466,7 @@
   },
   "trap_705_cdcreditb": {
     "name": "自適應補給元件",
-    "sortIndex": 1081,
+    "sortIndex": 1085,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -353339,7 +355698,7 @@
   },
   "trap_707_cdshielda": {
     "name": "重整導能組件",
-    "sortIndex": 1066,
+    "sortIndex": 1069,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -353675,7 +356034,7 @@
   },
   "trap_710_cdbeacona": {
     "name": "阻斷波長",
-    "sortIndex": 1087,
+    "sortIndex": 1090,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -354980,7 +357339,7 @@
   "trap_409_xbwood": {
     "name": "雜木林",
     "description": "可開採資源",
-    "sortIndex": 1014,
+    "sortIndex": 1017,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -355212,7 +357571,7 @@
   "trap_411_xbiron": {
     "name": "奇異礦脈",
     "description": "可開採資源",
-    "sortIndex": 662,
+    "sortIndex": 663,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -355328,7 +357687,7 @@
   "trap_412_redtower": {
     "name": "移動戰塔",
     "description": "敵方巢穴，擊破它",
-    "sortIndex": 950,
+    "sortIndex": 953,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -355428,7 +357787,7 @@
   "trap_413_hiddenstone": {
     "name": "遺跡殘骸",
     "description": "擊破後可解鎖隱藏區域",
-    "sortIndex": 951,
+    "sortIndex": 954,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -356073,7 +358432,7 @@
   "trap_424_pushtw": {
     "name": "噴拒器",
     "description": "高低地都可部署",
-    "sortIndex": 655,
+    "sortIndex": 656,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -356506,7 +358865,7 @@
   "trap_427_xbprsh": {
     "name": "資源規劃站",
     "description": "可部署在低地",
-    "sortIndex": 1076,
+    "sortIndex": 1079,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -356968,7 +359327,7 @@
   "trap_430_wdescp": {
     "name": "逃脫點",
     "description": "部署幹員後啟動野外支援可進行逃脫",
-    "sortIndex": 781,
+    "sortIndex": 782,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -357090,7 +359449,7 @@
   "trap_431_xbgldn": {
     "name": "冶鑄台",
     "description": "可部署在低地",
-    "sortIndex": 933,
+    "sortIndex": 936,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -357381,7 +359740,7 @@
   "trap_438_xbfato2": {
     "name": "石材採集站",
     "description": "可部署在低地",
-    "sortIndex": 734,
+    "sortIndex": 735,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -357481,7 +359840,7 @@
   "trap_439_xbfato3": {
     "name": "鐵礦採集站",
     "description": "可部署在低地",
-    "sortIndex": 797,
+    "sortIndex": 799,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -357581,7 +359940,7 @@
   "trap_403_wfactory": {
     "name": "蟹蟹抽水泵",
     "description": "可部署在<清澈水域>地塊上",
-    "sortIndex": 867,
+    "sortIndex": 870,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -357881,7 +360240,7 @@
   "trap_419_enhancer": {
     "name": "醒神秘藥",
     "description": "高低地都可部署",
-    "sortIndex": 879,
+    "sortIndex": 882,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -358081,7 +360440,7 @@
   "trap_421_repairman": {
     "name": "應急修理車",
     "description": "高低地都可部署",
-    "sortIndex": 971,
+    "sortIndex": 974,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -358627,7 +360986,7 @@
   },
   "trap_435_trsrhuntr": {
     "name": "尋寶人",
-    "sortIndex": 898,
+    "sortIndex": 901,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -359060,7 +361419,7 @@
   "trap_117_ltstat": {
     "name": "聖像",
     "description": "可以安撫修道院居民情緒，範圍內居民恐慌上升速度減慢，被毀壞後則使範圍內居民恐慌上升速度加快",
-    "sortIndex": 726,
+    "sortIndex": 727,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -359195,7 +361554,7 @@
   },
   "trap_118_rockfl": {
     "name": "塌落的牆垣",
-    "sortIndex": 778,
+    "sortIndex": 779,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -359411,7 +361770,7 @@
   "trap_120_rdblock": {
     "name": "破舊的木籬",
     "description": "可以暫時阻擋修道院居民，不改變敵人的行進路線",
-    "sortIndex": 657,
+    "sortIndex": 658,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -359745,7 +362104,7 @@
   "trap_113_snflwr": {
     "name": "全自動劃帳器",
     "description": "不容易被攻擊，被擊倒後獲得5張調用憑證",
-    "sortIndex": 675,
+    "sortIndex": 676,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360078,7 +362437,7 @@
   },
   "trap_121_gractrl": {
     "name": "重力",
-    "sortIndex": 1064,
+    "sortIndex": 1067,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360177,7 +362536,7 @@
   "trap_714_cdaltar": {
     "name": "能量擾動放大器",
     "description": "高低地都可部署",
-    "sortIndex": 630,
+    "sortIndex": 632,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360277,7 +362636,7 @@
   "trap_715_cdaltara": {
     "name": "能量擾動放大器",
     "description": "高低地都可部署",
-    "sortIndex": 632,
+    "sortIndex": 633,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360476,7 +362835,7 @@
   },
   "trap_717_cddiff": {
     "name": "戰術裝備整理箱",
-    "sortIndex": 1029,
+    "sortIndex": 1030,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360575,7 +362934,7 @@
   },
   "trap_718_cddiffa": {
     "name": "戰術裝備整理箱",
-    "sortIndex": 1027,
+    "sortIndex": 1031,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -360674,7 +363033,7 @@
   },
   "trap_719_cddiffb": {
     "name": "戰術裝備整理箱",
-    "sortIndex": 1028,
+    "sortIndex": 1032,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361070,7 +363429,7 @@
   },
   "trap_723_cdcvrt": {
     "name": "溢能回收轉化器",
-    "sortIndex": 957,
+    "sortIndex": 958,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361200,7 +363559,7 @@
   },
   "trap_724_cdcvrta": {
     "name": "溢能回收轉化器",
-    "sortIndex": 956,
+    "sortIndex": 960,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361330,7 +363689,7 @@
   },
   "trap_725_cdcvrtb": {
     "name": "溢能回收轉化器",
-    "sortIndex": 955,
+    "sortIndex": 959,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361461,7 +363820,7 @@
   "trap_726_cdrone": {
     "name": "戰地援護無人機",
     "description": "高低地都可部署",
-    "sortIndex": 1023,
+    "sortIndex": 1028,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361577,7 +363936,7 @@
   "trap_727_cdronea": {
     "name": "戰地援護無人機",
     "description": "高低地都可部署",
-    "sortIndex": 1024,
+    "sortIndex": 1027,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -361693,7 +364052,7 @@
   "trap_728_cdroneb": {
     "name": "戰地援護無人機",
     "description": "高低地都可部署",
-    "sortIndex": 1025,
+    "sortIndex": 1026,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -362377,7 +364736,7 @@
   },
   "trap_732_ltnova": {
     "name": "神經再生",
-    "sortIndex": 715,
+    "sortIndex": 716,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -362589,7 +364948,7 @@
   },
   "trap_123_stmbot": {
     "name": "水汽汽水瓶",
-    "sortIndex": 758,
+    "sortIndex": 759,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -362940,7 +365299,7 @@
   },
   "trap_126_outset": {
     "name": "炸彈載荷點",
-    "sortIndex": 1017,
+    "sortIndex": 1020,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -363538,7 +365897,7 @@
   },
   "trap_131_toolgun": {
     "name": "戰場裝置LUD-99X",
-    "sortIndex": 1022,
+    "sortIndex": 1025,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -364036,7 +366395,7 @@
   "trap_135_portlent": {
     "name": "湮滅之相",
     "description": "更容易受到我方單位的攻擊；高低地都可部署；部署一段時間後消失",
-    "sortIndex": 912,
+    "sortIndex": 915,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -364549,7 +366908,7 @@
   },
   "trap_736_mercha": {
     "name": "可充能督戰音響",
-    "sortIndex": 495,
+    "sortIndex": 493,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -364773,7 +367132,7 @@
   },
   "trap_738_merchab": {
     "name": "可充能督戰音響",
-    "sortIndex": 493,
+    "sortIndex": 495,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -364885,7 +367244,7 @@
   },
   "trap_739_sniper": {
     "name": "智慧空域控制機",
-    "sortIndex": 1057,
+    "sortIndex": 1062,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365017,7 +367376,7 @@
   },
   "trap_740_snipera": {
     "name": "智慧空域控制機",
-    "sortIndex": 1058,
+    "sortIndex": 1061,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365149,7 +367508,7 @@
   },
   "trap_741_sniperb": {
     "name": "智慧空域控制機",
-    "sortIndex": 1059,
+    "sortIndex": 1060,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365411,7 +367770,7 @@
   },
   "trap_743_gasbota": {
     "name": "速冷噴霧發射台",
-    "sortIndex": 769,
+    "sortIndex": 770,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365541,7 +367900,7 @@
   },
   "trap_744_gasbotb": {
     "name": "速冷噴霧發射台",
-    "sortIndex": 770,
+    "sortIndex": 772,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365676,7 +368035,7 @@
   },
   "trap_746_cdrhine": {
     "name": "尖端研究成果共享終端",
-    "sortIndex": 423,
+    "sortIndex": 424,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365810,7 +368169,7 @@
   },
   "trap_747_cdrhinea": {
     "name": "尖端研究成果共享終端",
-    "sortIndex": 424,
+    "sortIndex": 422,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -365944,7 +368303,7 @@
   },
   "trap_748_cdrhineb": {
     "name": "尖端研究成果共享終端",
-    "sortIndex": 422,
+    "sortIndex": 423,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -366078,7 +368437,7 @@
   },
   "trap_749_cd1punch": {
     "name": "聲波記錄擴音器",
-    "sortIndex": 718,
+    "sortIndex": 717,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -366233,7 +368592,7 @@
   },
   "trap_750_cd1puncha": {
     "name": "聲波記錄擴音器",
-    "sortIndex": 717,
+    "sortIndex": 718,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -366388,7 +368747,7 @@
   },
   "trap_751_cd1punchb": {
     "name": "聲波記錄擴音器",
-    "sortIndex": 716,
+    "sortIndex": 719,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -366717,7 +369076,7 @@
   },
   "trap_753_cdcastera": {
     "name": "法術調和能量場",
-    "sortIndex": 266,
+    "sortIndex": 267,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -366873,7 +369232,7 @@
   },
   "trap_754_cdcasterb": {
     "name": "法術調和能量場",
-    "sortIndex": 267,
+    "sortIndex": 266,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -367030,7 +369389,7 @@
   },
   "trap_755_cdsoul": {
     "name": "嘯叫音響",
-    "sortIndex": 864,
+    "sortIndex": 867,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -367377,7 +369736,7 @@
   },
   "trap_139_dhtl": {
     "name": "阻流閥",
-    "sortIndex": 1089,
+    "sortIndex": 1092,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -367597,7 +369956,7 @@
   },
   "trap_146_dhdcr": {
     "name": "天樁",
-    "sortIndex": 794,
+    "sortIndex": 796,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -368164,7 +370523,7 @@
   },
   "trap_443_xbtent": {
     "name": "作戰中心",
-    "sortIndex": 1093,
+    "sortIndex": 1096,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -368378,7 +370737,7 @@
   },
   "trap_445_xbfence": {
     "name": "獸欄",
-    "sortIndex": 748,
+    "sortIndex": 749,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -369249,7 +371608,7 @@
   },
   "trap_448_xbmire": {
     "name": "污濁泥沼",
-    "sortIndex": 828,
+    "sortIndex": 830,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -369458,7 +371817,7 @@
   },
   "trap_449_xbspgun": {
     "name": "煙霧發射台",
-    "sortIndex": 914,
+    "sortIndex": 917,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -369745,7 +372104,7 @@
   },
   "trap_451_xbflare": {
     "name": "螢光棒",
-    "sortIndex": 967,
+    "sortIndex": 970,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -370009,7 +372368,7 @@
   },
   "trap_453_xbbee": {
     "name": "尋寶儀",
-    "sortIndex": 899,
+    "sortIndex": 902,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -370431,7 +372790,7 @@
   },
   "trap_456_xbfarmm": {
     "name": "種植箱集群\n",
-    "sortIndex": 1062,
+    "sortIndex": 1065,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -371667,7 +374026,7 @@
   },
   "trap_464_xbsightc": {
     "name": "休閒長椅",
-    "sortIndex": 886,
+    "sortIndex": 889,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -371927,7 +374286,7 @@
   },
   "trap_466_tzumama": {
     "name": "森蚺",
-    "sortIndex": 692,
+    "sortIndex": 693,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -372026,7 +374385,7 @@
   },
   "trap_467_ttuye": {
     "name": "圖耶",
-    "sortIndex": 806,
+    "sortIndex": 809,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -372224,7 +374583,7 @@
   },
   "trap_469_tpasngr": {
     "name": "異客",
-    "sortIndex": 954,
+    "sortIndex": 956,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -372422,7 +374781,7 @@
   },
   "trap_471_tegmaus": {
     "name": "佩佩",
-    "sortIndex": 653,
+    "sortIndex": 655,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -372727,7 +375086,7 @@
   },
   "trap_474_mailbox": {
     "name": "信使郵筒",
-    "sortIndex": 872,
+    "sortIndex": 875,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -372941,7 +375300,7 @@
   },
   "trap_476_mscskt": {
     "name": "訊息匣",
-    "sortIndex": 905,
+    "sortIndex": 908,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -373040,7 +375399,7 @@
   },
   "trap_477_xbspps": {
     "name": "失衡異香",
-    "sortIndex": 728,
+    "sortIndex": 729,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -373139,7 +375498,7 @@
   },
   "trap_478_xbcanoe": {
     "name": "特製水上平台",
-    "sortIndex": 787,
+    "sortIndex": 789,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -373336,7 +375695,7 @@
   },
   "trap_480_roadblockxb": {
     "name": "道路障礙物",
-    "sortIndex": 216,
+    "sortIndex": 215,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -373558,7 +375917,7 @@
   "trap_482_xbblure": {
     "name": "源石蟲引誘器",
     "description": "僅可部署在草叢地塊；使可捕獲的源石蟲向自身移動",
-    "sortIndex": 998,
+    "sortIndex": 1001,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -373965,7 +376324,7 @@
   },
   "trap_485_xbrandprop": {
     "name": "隨機道具盒",
-    "sortIndex": 775,
+    "sortIndex": 776,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -374336,7 +376695,7 @@
   "trap_142_barrel": {
     "name": "源石爆炸物",
     "description": "被擊破時爆炸，擊暈周圍所有單位並造成物理傷害",
-    "sortIndex": 996,
+    "sortIndex": 999,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -374765,7 +377124,7 @@
   },
   "trap_163_foolcrate": {
     "name": "障礙物",
-    "sortIndex": 1032,
+    "sortIndex": 1035,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -374864,7 +377223,7 @@
   },
   "trap_147_spblls": {
     "name": "巫術弩炮",
-    "sortIndex": 831,
+    "sortIndex": 833,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -374963,7 +377322,7 @@
   },
   "trap_148_amblls": {
     "name": "幽影門扉",
-    "sortIndex": 973,
+    "sortIndex": 976,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375082,7 +377441,7 @@
   "trap_151_muruinw": {
     "name": "折疊式堡壘模組",
     "description": "經過<折疊設施維護員>維護後方可生效",
-    "sortIndex": 1034,
+    "sortIndex": 1037,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375202,7 +377561,7 @@
   "trap_152_muruino": {
     "name": "折疊式輔助器械",
     "description": "經過<折疊設施維護員>維護後方可生效",
-    "sortIndex": 1035,
+    "sortIndex": 1038,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375321,7 +377680,7 @@
   "trap_154_mugtps": {
     "name": "陣地屏障",
     "description": "可以反彈<足球>",
-    "sortIndex": 1044,
+    "sortIndex": 1047,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375431,7 +377790,7 @@
   "trap_165_muftbl": {
     "name": "足球",
     "description": "可部署至場上以重新發球",
-    "sortIndex": 1085,
+    "sortIndex": 1088,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375548,7 +377907,7 @@
   "trap_166_muwork": {
     "name": "設施建築工",
     "description": "建設面前的<設施>使其升至更高等級。只能在<休整時間>部署",
-    "sortIndex": 706,
+    "sortIndex": 707,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375673,7 +378032,7 @@
   "trap_167_muruinf": {
     "name": "折疊式維護車",
     "description": "經過<折疊設施維護員>維護後方可生效",
-    "sortIndex": 1037,
+    "sortIndex": 1040,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -375799,7 +378158,7 @@
   "trap_169_muruinb": {
     "name": "折疊式後勤站",
     "description": "經過<折疊設施維護員>維護後方可生效",
-    "sortIndex": 1036,
+    "sortIndex": 1039,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -376682,7 +379041,7 @@
   },
   "trap_162_lrctrl": {
     "name": "十四章機制控制器",
-    "sortIndex": 733,
+    "sortIndex": 734,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -376796,7 +379155,7 @@
   },
   "trap_164_lrsiege": {
     "name": "振奮榮光",
-    "sortIndex": 1045,
+    "sortIndex": 1048,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377078,7 +379437,7 @@
   },
   "trap_156_dsshell": {
     "name": "贅生甲殼",
-    "sortIndex": 1072,
+    "sortIndex": 1075,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377194,7 +379553,7 @@
   },
   "trap_157_bounc2": {
     "name": "小幫手",
-    "sortIndex": 859,
+    "sortIndex": 862,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377310,7 +379669,7 @@
   },
   "trap_180_dsblock": {
     "name": "封印的地面",
-    "sortIndex": 280,
+    "sortIndex": 282,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377399,7 +379758,7 @@
   },
   "trap_757_skzbox": {
     "name": "寶箱",
-    "sortIndex": 120,
+    "sortIndex": 119,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377497,7 +379856,7 @@
   },
   "trap_758_skzmbx": {
     "name": "停滯巧械",
-    "sortIndex": 800,
+    "sortIndex": 802,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377695,7 +380054,7 @@
   "trap_760_skztzs": {
     "name": "年代之刺",
     "description": "更容易受到攻擊，擊敗後掉落1縷構想",
-    "sortIndex": 640,
+    "sortIndex": 641,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377803,7 +380162,7 @@
   },
   "trap_761_skzthx": {
     "name": "尊主的殘影",
-    "sortIndex": 1091,
+    "sortIndex": 1094,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -377915,7 +380274,7 @@
   "trap_762_skztxy": {
     "name": "特蕾西婭，黑冠聖賢",
     "description": "每個薩卡茲敵人死亡後回復一定技力",
-    "sortIndex": 785,
+    "sortIndex": 786,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378067,7 +380426,7 @@
   "trap_763_skzddd": {
     "name": "聖衛堅盾",
     "description": "周圍4格所有友方單位減少50%的物理與法術傷害",
-    "sortIndex": 725,
+    "sortIndex": 726,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378190,7 +380549,7 @@
   "trap_764_skzshp": {
     "name": "馱獸旅行家",
     "description": "每5秒回復2點費用",
-    "sortIndex": 810,
+    "sortIndex": 812,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378299,7 +380658,7 @@
   },
   "trap_765_bmoney": {
     "name": "無可置疑的罪證",
-    "sortIndex": 834,
+    "sortIndex": 836,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378399,7 +380758,7 @@
   "trap_766_duelwal": {
     "name": "狹路相逢",
     "description": "可部署近戰與遠程幹員",
-    "sortIndex": 849,
+    "sortIndex": 847,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378581,7 +380940,7 @@
   },
   "trap_767_duelcdt": {
     "name": "狹路相逢",
-    "sortIndex": 845,
+    "sortIndex": 848,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -378947,7 +381306,7 @@
   "trap_183_sheltk": {
     "name": "作戰專用掩體",
     "description": "不會被敵人遠程攻擊",
-    "sortIndex": 1094,
+    "sortIndex": 1097,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -379603,7 +381962,7 @@
   },
   "trap_772_bqrngea": {
     "name": "專業顯示模組",
-    "sortIndex": 1069,
+    "sortIndex": 1072,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -379863,7 +382222,7 @@
   },
   "trap_774_bqmlee": {
     "name": "攀雲機",
-    "sortIndex": 649,
+    "sortIndex": 650,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380259,7 +382618,7 @@
   },
   "trap_493_xbabal": {
     "name": "追獵發射台",
-    "sortIndex": 1071,
+    "sortIndex": 1074,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380375,7 +382734,7 @@
   },
   "trap_494_xbasky": {
     "name": "擬南盞",
-    "sortIndex": 637,
+    "sortIndex": 638,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380474,7 +382833,7 @@
   },
   "trap_499_xbaask": {
     "name": "稀有·擬南盞",
-    "sortIndex": 841,
+    "sortIndex": 843,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380672,7 +383031,7 @@
   },
   "trap_496_xbaasm": {
     "name": "稀有·草香粉",
-    "sortIndex": 840,
+    "sortIndex": 842,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380771,7 +383130,7 @@
   },
   "trap_497_xbarok": {
     "name": "岩錘",
-    "sortIndex": 915,
+    "sortIndex": 918,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380870,7 +383229,7 @@
   },
   "trap_498_xbaaro": {
     "name": "稀有·岩錘",
-    "sortIndex": 842,
+    "sortIndex": 844,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -380969,7 +383328,7 @@
   },
   "trap_488_xbtwod": {
     "name": "全自動切木站",
-    "sortIndex": 677,
+    "sortIndex": 678,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381084,7 +383443,7 @@
   },
   "trap_489_xbtrok": {
     "name": "全自動掘石站",
-    "sortIndex": 676,
+    "sortIndex": 677,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381199,7 +383558,7 @@
   },
   "trap_490_xbtiro": {
     "name": "全自動採鐵站",
-    "sortIndex": 674,
+    "sortIndex": 675,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381412,7 +383771,7 @@
   },
   "trap_491_xbtwal": {
     "name": "虛影壁障",
-    "sortIndex": 888,
+    "sortIndex": 891,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381599,7 +383958,7 @@
   },
   "trap_492_xbamai": {
     "name": "狩聞匣",
-    "sortIndex": 747,
+    "sortIndex": 748,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381698,7 +384057,7 @@
   },
   "trap_508_xbabat": {
     "name": "行動套裝",
-    "sortIndex": 877,
+    "sortIndex": 880,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381797,7 +384156,7 @@
   },
   "trap_500_xbaflu": {
     "name": "螢光棒彈射裝置",
-    "sortIndex": 968,
+    "sortIndex": 971,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -381896,7 +384255,7 @@
   },
   "trap_501_xbaarm": {
     "name": "外骨骼",
-    "sortIndex": 811,
+    "sortIndex": 813,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382193,7 +384552,7 @@
   },
   "trap_504_xbaess": {
     "name": "桶裝液香",
-    "sortIndex": 801,
+    "sortIndex": 803,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382391,7 +384750,7 @@
   },
   "trap_506_xbadiv": {
     "name": "馴獸口糧",
-    "sortIndex": 906,
+    "sortIndex": 909,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382688,7 +385047,7 @@
   },
   "trap_510_xbf2g": {
     "name": "石材採集站·採購",
-    "sortIndex": 735,
+    "sortIndex": 736,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382787,7 +385146,7 @@
   },
   "trap_511_xbf3g": {
     "name": "鐵礦採集站·採購",
-    "sortIndex": 798,
+    "sortIndex": 800,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -382886,7 +385245,7 @@
   },
   "trap_512_xbwfg": {
     "name": "蟹蟹抽水泵·採購",
-    "sortIndex": 868,
+    "sortIndex": 871,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -383110,7 +385469,7 @@
   },
   "trap_172_trbox": {
     "name": "“寶箱”",
-    "sortIndex": 0,
+    "sortIndex": 1,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -383227,7 +385586,7 @@
   },
   "trap_173_slfrut": {
     "name": "閃亮果實",
-    "sortIndex": 701,
+    "sortIndex": 702,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -383338,7 +385697,7 @@
   },
   "trap_174_smfrut": {
     "name": "奇異黑光果實",
-    "sortIndex": 661,
+    "sortIndex": 662,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -383450,7 +385809,7 @@
   },
   "trap_175_frfrut": {
     "name": "香甜烤果子",
-    "sortIndex": 857,
+    "sortIndex": 859,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -383794,7 +386153,7 @@
   },
   "trap_178_trrbox": {
     "name": "“寶箱”",
-    "sortIndex": 1,
+    "sortIndex": 0,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -384101,7 +386460,7 @@
   "trap_779_skzth": {
     "name": "尼盧火",
     "description": "治療後消失",
-    "sortIndex": 635,
+    "sortIndex": 636,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -384261,7 +386620,7 @@
   "trap_186_cnvfwks": {
     "name": "煙火發射器",
     "description": "狂歡時刻可以阻擋敵人，自身更容易受到攻擊。\n特殊效果：狂歡時刻使周圍8格的我方單位攻擊力提升50%",
-    "sortIndex": 913,
+    "sortIndex": 916,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -384461,7 +386820,7 @@
   },
   "trap_1000_acarm000": {
     "name": "小盾",
-    "sortIndex": 860,
+    "sortIndex": 863,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -384677,7 +387036,7 @@
   },
   "trap_1002_acarm002": {
     "name": "幸運幣",
-    "sortIndex": 881,
+    "sortIndex": 884,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -384893,7 +387252,7 @@
   },
   "trap_1004_acarm004": {
     "name": "壓縮餅乾",
-    "sortIndex": 909,
+    "sortIndex": 912,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385001,7 +387360,7 @@
   },
   "trap_1005_acarm005": {
     "name": "信標",
-    "sortIndex": 870,
+    "sortIndex": 873,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385109,7 +387468,7 @@
   },
   "trap_1006_acarm006": {
     "name": "源岩匕首",
-    "sortIndex": 1006,
+    "sortIndex": 1009,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385217,7 +387576,7 @@
   },
   "trap_1007_acarm007": {
     "name": "源石溶劑",
-    "sortIndex": 1005,
+    "sortIndex": 1008,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385649,7 +388008,7 @@
   },
   "trap_1011_acarm011": {
     "name": "深海獵人文件",
-    "sortIndex": 711,
+    "sortIndex": 712,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -385757,7 +388116,7 @@
   },
   "trap_1012_acarm012": {
     "name": "濃茶",
-    "sortIndex": 642,
+    "sortIndex": 643,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386189,7 +388548,7 @@
   },
   "trap_1016_acarm016": {
     "name": "預備進階許可",
-    "sortIndex": 992,
+    "sortIndex": 995,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386297,7 +388656,7 @@
   },
   "trap_1017_acarm017": {
     "name": "戰場分析儀",
-    "sortIndex": 1021,
+    "sortIndex": 1024,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386405,7 +388764,7 @@
   },
   "trap_1018_acarm018": {
     "name": "震撼彈",
-    "sortIndex": 1046,
+    "sortIndex": 1049,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386513,7 +388872,7 @@
   },
   "trap_1019_acarm019": {
     "name": "制式重裝盾",
-    "sortIndex": 1056,
+    "sortIndex": 1059,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386621,7 +388980,7 @@
   },
   "trap_1020_acarm020": {
     "name": "制式狙擊鏡",
-    "sortIndex": 1054,
+    "sortIndex": 1057,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -386729,7 +389088,7 @@
   },
   "trap_1021_acarm021": {
     "name": "制式術師杖",
-    "sortIndex": 1055,
+    "sortIndex": 1058,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -387161,7 +389520,7 @@
   },
   "trap_1025_acarm025": {
     "name": "休眠子裔",
-    "sortIndex": 884,
+    "sortIndex": 887,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -387269,7 +389628,7 @@
   },
   "trap_1026_acarm026": {
     "name": "術師無人機",
-    "sortIndex": 751,
+    "sortIndex": 752,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -387593,7 +389952,7 @@
   },
   "trap_1029_acarm029": {
     "name": "深海獵人模型",
-    "sortIndex": 710,
+    "sortIndex": 711,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -388457,7 +390816,7 @@
   },
   "trap_1037_acarm037": {
     "name": "有限加速器",
-    "sortIndex": 975,
+    "sortIndex": 978,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -388565,7 +390924,7 @@
   },
   "trap_1038_acarm038": {
     "name": "全能機械臂",
-    "sortIndex": 672,
+    "sortIndex": 673,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -388673,7 +391032,7 @@
   },
   "trap_1039_acarm039": {
     "name": "博士投影",
-    "sortIndex": 153,
+    "sortIndex": 152,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391325,7 +393684,7 @@
   "trap_778_giatow": {
     "name": "L-44\"留聲機\"",
     "description": "優先攻擊生命上限最高的單位",
-    "sortIndex": 47,
+    "sortIndex": 46,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -391499,7 +393858,7 @@
   },
   "trap_187_arcgacha": {
     "name": "扭蛋機",
-    "sortIndex": 641,
+    "sortIndex": 642,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -392416,7 +394775,7 @@
   "trap_196_cnnon": {
     "name": "鹽坨子炮",
     "description": "不容易受到我方單位的攻擊",
-    "sortIndex": 922,
+    "sortIndex": 925,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -393388,7 +395747,7 @@
   },
   "trap_200_muulcl": {
     "name": "噴射汽水機",
-    "sortIndex": 656,
+    "sortIndex": 657,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -393487,7 +395846,7 @@
   },
   "trap_201_muulco": {
     "name": "賽場啦啦隊",
-    "sortIndex": 686,
+    "sortIndex": 687,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -393711,7 +396070,7 @@
   },
   "trap_203_mufrprn": {
     "name": "坍塌的雜物堆",
-    "sortIndex": 780,
+    "sortIndex": 781,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -394325,7 +396684,7 @@
   },
   "trap_207_mufrwl": {
     "name": "液壓式高台 ",
-    "sortIndex": 943,
+    "sortIndex": 946,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -395225,7 +397584,7 @@
   "trap_218_fttree": {
     "name": "樹叢",
     "description": "不會受到攻擊，遮擋我方單位的視野",
-    "sortIndex": 752,
+    "sortIndex": 753,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -395968,7 +398327,7 @@
   },
   "trap_224_dyrbox": {
     "name": "鐵葫蘆",
-    "sortIndex": 796,
+    "sortIndex": 798,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396332,7 +398691,7 @@
   },
   "trap_239_dyffgd": {
     "name": "狹路相逢",
-    "sortIndex": 847,
+    "sortIndex": 850,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396452,7 +398811,7 @@
   },
   "trap_240_dyffdd": {
     "name": "狹路相逢",
-    "sortIndex": 846,
+    "sortIndex": 849,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396696,7 +399055,7 @@
   },
   "trap_226_dychss": {
     "name": "瑕",
-    "sortIndex": 850,
+    "sortIndex": 852,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396811,7 +399170,7 @@
   },
   "trap_251_buftrp": {
     "name": "遺物中樞",
-    "sortIndex": 952,
+    "sortIndex": 955,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -396900,7 +399259,7 @@
   },
   "trap_227_mpweak": {
     "name": "弱化節點",
-    "sortIndex": 683,
+    "sortIndex": 684,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -397019,7 +399378,7 @@
   },
   "trap_228_mptxs": {
     "name": "特雷西斯",
-    "sortIndex": 784,
+    "sortIndex": 785,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -397563,7 +399922,7 @@
   },
   "trap_233_mpmage": {
     "name": "穩定態薩卡茲術師結晶",
-    "sortIndex": 826,
+    "sortIndex": 828,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -397783,7 +400142,7 @@
   },
   "trap_780_supspt": {
     "name": "天工夜行套裝",
-    "sortIndex": 790,
+    "sortIndex": 791,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -397913,7 +400272,7 @@
   },
   "trap_781_supspta": {
     "name": "夜行斗篷模組",
-    "sortIndex": 939,
+    "sortIndex": 942,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398045,7 +400404,7 @@
   },
   "trap_782_supsptb": {
     "name": "夜行鉤爪模組",
-    "sortIndex": 940,
+    "sortIndex": 943,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398175,7 +400534,7 @@
   },
   "trap_213_dqore": {
     "name": "源石祭壇",
-    "sortIndex": 1001,
+    "sortIndex": 1004,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398274,7 +400633,7 @@
   },
   "trap_214_dqballis": {
     "name": "弩炮",
-    "sortIndex": 644,
+    "sortIndex": 646,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398471,7 +400830,7 @@
   "trap_216_dqelec": {
     "name": "梅什科線圈",
     "description": "攻擊範圍內存在其他梅什科線圈時獲得啟動效果",
-    "sortIndex": 597,
+    "sortIndex": 596,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398570,7 +400929,7 @@
   },
   "trap_235_hlnpcm": {
     "name": "聖徒像扮演者",
-    "sortIndex": 723,
+    "sortIndex": 724,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398686,7 +401045,7 @@
   "trap_236_hlnpcs": {
     "name": "聖堂射手扮演者",
     "description": "優先攻擊空中單位",
-    "sortIndex": 722,
+    "sortIndex": 723,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398781,7 +401140,7 @@
   },
   "trap_237_hlnpcb": {
     "name": "聖堂保育員扮演者",
-    "sortIndex": 721,
+    "sortIndex": 722,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398885,7 +401244,7 @@
   },
   "trap_250_hlctrl": {
     "name": "尋根聖事",
-    "sortIndex": 900,
+    "sortIndex": 903,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -398993,7 +401352,7 @@
   "trap_247_crfilm": {
     "name": "攝影機",
     "description": "周圍四格有幹員朝向攝影機部署時，向該幹員的朝向發出3格寬的“攝影區域”。",
-    "sortIndex": 707,
+    "sortIndex": 708,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399500,7 +401859,7 @@
   },
   "trap_784_tnkspka": {
     "name": "微型尖刺配件",
-    "sortIndex": 814,
+    "sortIndex": 816,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399627,7 +401986,7 @@
   },
   "trap_785_tnkspkb": {
     "name": "維生監測配件",
-    "sortIndex": 819,
+    "sortIndex": 821,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399886,7 +402245,7 @@
   },
   "trap_252_pckstp": {
     "name": "天命來襲",
-    "sortIndex": 792,
+    "sortIndex": 794,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -399985,7 +402344,7 @@
   "trap_253_boxnma": {
     "name": "壓力舒緩幫手",
     "description": "彈開“某種天命”並損失自身一定生命值",
-    "sortIndex": 908,
+    "sortIndex": 911,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -400100,7 +402459,7 @@
   "trap_254_boxmac": {
     "name": "壓力歸零幫手",
     "description": "彈開“某種天命”並損失自身一定生命值",
-    "sortIndex": 907,
+    "sortIndex": 910,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -400333,7 +402692,7 @@
   "trap_270_spawnp": {
     "name": "隱蔽礦道",
     "description": "每隔一段時間集結一名礦工游擊隊",
-    "sortIndex": 962,
+    "sortIndex": 965,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -400451,7 +402810,7 @@
   "trap_271_fowstn": {
     "name": "嚴重汙染設施",
     "description": "在攻擊範圍內瀰漫高危險汙染",
-    "sortIndex": 921,
+    "sortIndex": 924,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -400579,7 +402938,7 @@
   },
   "trap_272_nomstn": {
     "name": "阻道岩壁",
-    "sortIndex": 1086,
+    "sortIndex": 1089,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -400967,7 +403326,7 @@
   },
   "trap_1502_lhrock": {
     "name": "岩石",
-    "sortIndex": 916,
+    "sortIndex": 919,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -401095,7 +403454,7 @@
   },
   "trap_1503_lhshan": {
     "name": "山脈",
-    "sortIndex": 700,
+    "sortIndex": 701,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -401746,7 +404105,7 @@
   },
   "trap_1508_lhmine": {
     "name": "源石礦場",
-    "sortIndex": 1003,
+    "sortIndex": 1006,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -401979,7 +404338,7 @@
   },
   "trap_1510_lhplt": {
     "name": "源石晶簇",
-    "sortIndex": 1002,
+    "sortIndex": 1005,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -402251,7 +404610,7 @@
   },
   "trap_1512_lhfarm": {
     "name": "源石回收爐",
-    "sortIndex": 999,
+    "sortIndex": 1002,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -402403,7 +404762,7 @@
   },
   "trap_1513_lhshop": {
     "name": "冶鑄車",
-    "sortIndex": 932,
+    "sortIndex": 935,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -402520,7 +404879,7 @@
   },
   "trap_1514_lhpad": {
     "name": "田地",
-    "sortIndex": 795,
+    "sortIndex": 797,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403140,7 +405499,7 @@
   },
   "trap_1519_lhrift": {
     "name": "巫術村落",
-    "sortIndex": 830,
+    "sortIndex": 832,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403377,7 +405736,7 @@
   },
   "trap_1521_lhmagd": {
     "name": "術法崗哨",
-    "sortIndex": 750,
+    "sortIndex": 751,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403489,7 +405848,7 @@
   },
   "trap_1522_lhvlg": {
     "name": "先遣偵測器",
-    "sortIndex": 853,
+    "sortIndex": 855,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403606,7 +405965,7 @@
   },
   "trap_1523_lhtown": {
     "name": "偵測中心",
-    "sortIndex": 1043,
+    "sortIndex": 1046,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403724,7 +406083,7 @@
   },
   "trap_1524_lhport": {
     "name": "裝卸機",
-    "sortIndex": 1070,
+    "sortIndex": 1073,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -403839,7 +406198,7 @@
   },
   "trap_1525_lhswer": {
     "name": "水產村落",
-    "sortIndex": 756,
+    "sortIndex": 757,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -404664,7 +407023,7 @@
   },
   "trap_1532_lhcampb": {
     "name": "山地村落",
-    "sortIndex": 698,
+    "sortIndex": 699,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405124,7 +407483,7 @@
   },
   "trap_1536_lhbat": {
     "name": "噬血詛地",
-    "sortIndex": 745,
+    "sortIndex": 746,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405244,7 +407603,7 @@
   },
   "trap_1537_lhside": {
     "name": "訊號基站",
-    "sortIndex": 903,
+    "sortIndex": 906,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405343,7 +407702,7 @@
   },
   "trap_1538_lhblod": {
     "name": "血裔胞體",
-    "sortIndex": 896,
+    "sortIndex": 899,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405595,7 +407954,7 @@
   },
   "trap_1540_lhpad2": {
     "name": "溫室棚架",
-    "sortIndex": 825,
+    "sortIndex": 827,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405713,7 +408072,7 @@
   },
   "trap_1040_acarm040": {
     "name": "炎國短刀",
-    "sortIndex": 917,
+    "sortIndex": 920,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405821,7 +408180,7 @@
   },
   "trap_1041_acarm041": {
     "name": "維式重鎚",
-    "sortIndex": 820,
+    "sortIndex": 822,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -405929,7 +408288,7 @@
   },
   "trap_1042_acarm042": {
     "name": "灼燃維式重鎚",
-    "sortIndex": 1073,
+    "sortIndex": 1076,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -406253,7 +408612,7 @@
   },
   "trap_1045_acarm045": {
     "name": "戰慄維式重鎚",
-    "sortIndex": 1026,
+    "sortIndex": 1029,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -406793,7 +409152,7 @@
   },
   "trap_1050_acarm050": {
     "name": "薩爾貢濃茶",
-    "sortIndex": 684,
+    "sortIndex": 685,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -406901,7 +409260,7 @@
   },
   "trap_1051_acarm051": {
     "name": "迅捷作戰糧",
-    "sortIndex": 902,
+    "sortIndex": 905,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -407009,7 +409368,7 @@
   },
   "trap_1052_acarm052": {
     "name": "有限加速器",
-    "sortIndex": 974,
+    "sortIndex": 977,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -407333,7 +409692,7 @@
   },
   "trap_1055_acarm055": {
     "name": "偽裝服",
-    "sortIndex": 821,
+    "sortIndex": 823,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -407765,7 +410124,7 @@
   },
   "trap_1059_acarm059": {
     "name": "濃縮嗅鹽",
-    "sortIndex": 643,
+    "sortIndex": 644,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408089,7 +410448,7 @@
   },
   "trap_1062_acarm062": {
     "name": "謝拉格不融冰",
-    "sortIndex": 866,
+    "sortIndex": 869,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408305,7 +410664,7 @@
   },
   "trap_1064_acarm064": {
     "name": "突襲手榴彈",
-    "sortIndex": 805,
+    "sortIndex": 807,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408413,7 +410772,7 @@
   },
   "trap_1065_acarm065": {
     "name": "休眠子裔",
-    "sortIndex": 883,
+    "sortIndex": 886,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408521,7 +410880,7 @@
   },
   "trap_1066_acarm066": {
     "name": "幸運硬幣",
-    "sortIndex": 882,
+    "sortIndex": 885,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408629,7 +410988,7 @@
   },
   "trap_1067_acarm067": {
     "name": "雙模機械臂",
-    "sortIndex": 755,
+    "sortIndex": 756,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408845,7 +411204,7 @@
   },
   "trap_1069_acarm069": {
     "name": "擬態物質",
-    "sortIndex": 638,
+    "sortIndex": 639,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -408971,7 +411330,7 @@
   },
   "trap_1070_acarm070": {
     "name": "人事部文件",
-    "sortIndex": 679,
+    "sortIndex": 680,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409097,7 +411456,7 @@
   },
   "trap_1071_acarm071": {
     "name": "博士投影",
-    "sortIndex": 152,
+    "sortIndex": 153,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409205,7 +411564,7 @@
   },
   "trap_1072_acarm072": {
     "name": "突變細胞",
-    "sortIndex": 804,
+    "sortIndex": 806,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409439,7 +411798,7 @@
   },
   "trap_1074_acarm074": {
     "name": "商業包裝方案",
-    "sortIndex": 703,
+    "sortIndex": 704,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409781,7 +412140,7 @@
   },
   "trap_1077_acarm077": {
     "name": "天師古鼎",
-    "sortIndex": 793,
+    "sortIndex": 795,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -409997,7 +412356,7 @@
   },
   "trap_1079_acarm079": {
     "name": "蒸汽之心",
-    "sortIndex": 1048,
+    "sortIndex": 1051,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410105,7 +412464,7 @@
   },
   "trap_1102_acarm102": {
     "name": "耶拉岡德之淚",
-    "sortIndex": 931,
+    "sortIndex": 934,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410420,7 +412779,7 @@
   },
   "trap_1105_accrate": {
     "name": "阻隔工事",
-    "sortIndex": 1088,
+    "sortIndex": 1091,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410519,7 +412878,7 @@
   },
   "trap_1106_achplat": {
     "name": "射擊台",
-    "sortIndex": 705,
+    "sortIndex": 706,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -410838,7 +413197,7 @@
   },
   "trap_1109_acarm109": {
     "name": "信標",
-    "sortIndex": 871,
+    "sortIndex": 874,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -411552,7 +413911,7 @@
   "trap_259_murjet": {
     "name": "全手動推進器",
     "description": "能被自身周圍4格的我方單位攻擊",
-    "sortIndex": 673,
+    "sortIndex": 674,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -411752,7 +414111,7 @@
   "trap_261_murmag": {
     "name": "引力浮板",
     "description": "只能部署在漂流艇周圍",
-    "sortIndex": 960,
+    "sortIndex": 963,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -411870,7 +414229,7 @@
   },
   "trap_262_murtre": {
     "name": "物資浮板",
-    "sortIndex": 837,
+    "sortIndex": 839,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412097,7 +414456,7 @@
   },
   "trap_278_dyfgdd": {
     "name": "狹路相逢",
-    "sortIndex": 848,
+    "sortIndex": 851,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412217,7 +414576,7 @@
   },
   "trap_264_xdplat": {
     "name": "伊斯貝塔高台",
-    "sortIndex": 947,
+    "sortIndex": 950,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412316,7 +414675,7 @@
   "trap_265_xdice1": {
     "name": "聖女像",
     "description": "敵人進入禁區時根據其重量增加雪崩預警值\n在禁區內部署幹員時增加一定量雪崩預警值",
-    "sortIndex": 720,
+    "sortIndex": 721,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
@@ -412433,7 +414792,7 @@
   },
   "trap_267_xdmac1": {
     "name": "雪崩觸發裝置",
-    "sortIndex": 891,
+    "sortIndex": 894,
     "spTargetType": "NONE",
     "canUseGeneralPotentialItem": true,
     "canUseActivityPotentialItem": false,
