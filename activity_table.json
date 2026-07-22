@@ -1,5 +1,25 @@
 {
   "basicInfo": {
+    "act48side": {
+      "id": "act48side",
+      "type": "TYPE_ACT9D0",
+      "displayType": "SIDESTORY",
+      "name": "雅賽努斯復仇記",
+      "startTime": 1784700000,
+      "endTime": 1785873599,
+      "rewardEndTime": 1786478399,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act48side",
+      "medalGroupId": "medalGroupActivity48side",
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "SPECIAL",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
     "act57sign": {
       "id": "act57sign",
       "type": "CHECKIN_ONLY",
@@ -6131,6 +6151,8 @@
     }
   },
   "zoneToActivity": {
+    "act48side_zone1": "act48side",
+    "act48side_zone2": "act48side",
     "act6bossrush_zone1": "act6bossrush",
     "act39sre_zone1": "act39sre",
     "act39sre_zone2": "act39sre",
@@ -6392,6 +6414,641 @@
   },
   "actTimeTrackPoint": [],
   "missionData": [
+    {
+      "id": "48sideActivity_1",
+      "sortId": 1,
+      "description": "通關ME-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_01",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 40
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_2",
+      "sortId": 2,
+      "description": "通關ME-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_02",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 40
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_ceilingLight_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_3",
+      "sortId": 3,
+      "description": "通關ME-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_03",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_plant_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_4",
+      "sortId": 4,
+      "description": "通關ME-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_04",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 70
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4166_varkis",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_5",
+      "sortId": 5,
+      "description": "通關ME-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_05",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_carpet_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_6",
+      "sortId": 6,
+      "description": "以3星評價完成ME-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_05",
+        "3"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_7",
+      "sortId": 7,
+      "description": "通關ME-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_06",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_table_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_8",
+      "sortId": 8,
+      "description": "以3星評價完成ME-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_06",
+        "3"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_ceilingLight_02",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_9",
+      "sortId": 9,
+      "description": "通關ME-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_07",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_bed_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_10",
+      "sortId": 10,
+      "description": "以3星評價完成ME-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_07",
+        "3"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_stool_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_11",
+      "sortId": 11,
+      "description": "通關ME-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_08",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_minosMed_floor_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_12",
+      "sortId": 12,
+      "description": "以3星評價完成ME-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_08",
+        "3"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_13",
+      "sortId": 13,
+      "description": "通關ME-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex01",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_14",
+      "sortId": 14,
+      "description": "通關ME-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex02",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 60
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_15",
+      "sortId": 15,
+      "description": "通關ME-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex03",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_16",
+      "sortId": 16,
+      "description": "通關ME-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex04",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_17",
+      "sortId": 17,
+      "description": "通關ME-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex05",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_18",
+      "sortId": 18,
+      "description": "通關ME-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex06",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_19",
+      "sortId": 19,
+      "description": "通關ME-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex07",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_20",
+      "sortId": 20,
+      "description": "通關ME-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex08",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_21",
+      "sortId": 21,
+      "description": "通關ME-EX-8突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_ex08#f#",
+        "2"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_hardNoggin_01",
+          "count": 1
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_22",
+      "sortId": 22,
+      "description": "通關活動關卡15次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_01^act48side_02^act48side_03^act48side_04^act48side_05^act48side_06^act48side_07^act48side_08^act48side_ex01^act48side_ex01#f#^act48side_ex02^act48side_ex02#f#^act48side_ex03^act48side_ex03#f#^act48side_ex04^act48side_ex04#f#^act48side_ex05^act48side_ex05#f#^act48side_ex06^act48side_ex06#f#^act48side_ex07^act48side_ex07#f#^act48side_ex08^act48side_ex08#f#",
+        "15"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 80
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_23",
+      "sortId": 23,
+      "description": "通關活動關卡45次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_01^act48side_02^act48side_03^act48side_04^act48side_05^act48side_06^act48side_07^act48side_08^act48side_ex01^act48side_ex01#f#^act48side_ex02^act48side_ex02#f#^act48side_ex03^act48side_ex03#f#^act48side_ex04^act48side_ex04#f#^act48side_ex05^act48side_ex05#f#^act48side_ex06^act48side_ex06#f#^act48side_ex07^act48side_ex07#f#^act48side_ex08^act48side_ex08#f#",
+        "45"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 100
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
+    {
+      "id": "48sideActivity_24",
+      "sortId": 24,
+      "description": "通關活動關卡85次，不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act48side_01^act48side_02^act48side_03^act48side_04^act48side_05^act48side_06^act48side_07^act48side_08^act48side_ex01^act48side_ex01#f#^act48side_ex02^act48side_ex02#f#^act48side_ex03^act48side_ex03#f#^act48side_ex04^act48side_ex04#f#^act48side_ex05^act48side_ex05#f#^act48side_ex06^act48side_ex06#f#^act48side_ex07^act48side_ex07#f#^act48side_ex08^act48side_ex08#f#",
+        "85"
+      ],
+      "missionGroup": "act48side",
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act48side_token_ostracon",
+          "count": 120
+        }
+      ],
+      "haveSubMissionToUnlock": false,
+      "countEndTs": -1
+    },
     {
       "id": "6bossrushActivity_1",
       "sortId": 1,
@@ -90317,6 +90974,39 @@
   ],
   "missionGroup": [
     {
+      "id": "act48side",
+      "type": "ACTIVITY",
+      "rewards": [],
+      "missionIds": [
+        "48sideActivity_1",
+        "48sideActivity_2",
+        "48sideActivity_3",
+        "48sideActivity_4",
+        "48sideActivity_5",
+        "48sideActivity_6",
+        "48sideActivity_7",
+        "48sideActivity_8",
+        "48sideActivity_9",
+        "48sideActivity_10",
+        "48sideActivity_11",
+        "48sideActivity_12",
+        "48sideActivity_13",
+        "48sideActivity_14",
+        "48sideActivity_15",
+        "48sideActivity_16",
+        "48sideActivity_17",
+        "48sideActivity_18",
+        "48sideActivity_19",
+        "48sideActivity_20",
+        "48sideActivity_21",
+        "48sideActivity_22",
+        "48sideActivity_23",
+        "48sideActivity_24"
+      ],
+      "startTs": 1784700000,
+      "endTs": 1786478399
+    },
+    {
       "id": "act6bossrush",
       "type": "ACTIVITY",
       "rewards": [],
@@ -120392,6 +121082,28 @@
       }
     },
     "TYPE_ACT9D0": {
+      "act48side": {
+        "tokenItemId": "act48side_token_ostracon",
+        "zoneDescList": {
+          "act48side_zone1": {
+            "zoneId": "act48side_zone1",
+            "unlockText": "尚未解鎖",
+            "displayStartTime": 1784700000
+          },
+          "act48side_zone2": {
+            "zoneId": "act48side_zone2",
+            "unlockText": "完成[神殿儀式]後解鎖",
+            "displayStartTime": 1784700000
+          }
+        },
+        "favorUpList": [],
+        "hasSubMission": false,
+        "apSupplyOutOfDateDict": [],
+        "miscHub": [],
+        "constData": {
+          "campaignEnemyCnt": 0
+        }
+      },
       "act39sre": {
         "tokenItemId": "act39side_token_garum_rep_1",
         "zoneDescList": {
@@ -191642,7 +192354,9 @@
           "defenceBattleFinishEquipText": "{0}已啟用",
           "defenceBattleFinishActivateText": "{0}已啟動",
           "defenceBattleFinishSquadText": "駐防陣容已更新",
-          "milestoneTrackId": "milestone_expand"
+          "milestoneTrackId": "milestone_expand",
+          "themeColor": "#2727EF",
+          "subTitleName": "無機物"
         },
         "squadBuffAvailStageList": [
           "act1break_01",
@@ -191683,7 +192397,7 @@
         "defenseZoneId": "act1break_zone3",
         "offenseZoneId": "act1break_zone1",
         "hardZoneId": "act1break_zone2",
-        "firstDefenseGroupId": "spGroup01"
+        "firstDefenseStageId": "act1break_sp01"
       }
     },
     "TYPE_ACT36SIDE": {
@@ -191970,101 +192684,121 @@
         "puzzleInfoMap": {
           "puzzle_1": {
             "puzzleId": "puzzle_1",
+            "sortId": 1,
             "startTime": 1779825600,
             "puzzleGroupId": "puzzle_group_1"
           },
           "puzzle_2": {
             "puzzleId": "puzzle_2",
+            "sortId": 2,
             "startTime": 1779825600,
             "puzzleGroupId": "puzzle_group_1"
           },
           "puzzle_3": {
             "puzzleId": "puzzle_3",
+            "sortId": 3,
             "startTime": 1779825600,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_4": {
             "puzzleId": "puzzle_4",
+            "sortId": 4,
             "startTime": 1779825600,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_5": {
             "puzzleId": "puzzle_5",
+            "sortId": 5,
             "startTime": 1779825600,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_6": {
             "puzzleId": "puzzle_6",
+            "sortId": 6,
             "startTime": 1779912000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_7": {
             "puzzleId": "puzzle_7",
+            "sortId": 7,
             "startTime": 1779912000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_8": {
             "puzzleId": "puzzle_8",
+            "sortId": 8,
             "startTime": 1779912000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_9": {
             "puzzleId": "puzzle_9",
+            "sortId": 9,
             "startTime": 1779912000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_10": {
             "puzzleId": "puzzle_10",
+            "sortId": 10,
             "startTime": 1779912000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_11": {
             "puzzleId": "puzzle_11",
+            "sortId": 11,
             "startTime": 1779998400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_12": {
             "puzzleId": "puzzle_12",
+            "sortId": 12,
             "startTime": 1779998400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_13": {
             "puzzleId": "puzzle_13",
+            "sortId": 13,
             "startTime": 1779998400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_14": {
             "puzzleId": "puzzle_14",
+            "sortId": 14,
             "startTime": 1779998400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_15": {
             "puzzleId": "puzzle_15",
+            "sortId": 15,
             "startTime": 1779998400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_16": {
             "puzzleId": "puzzle_16",
+            "sortId": 16,
             "startTime": 1780084800,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_17": {
             "puzzleId": "puzzle_17",
+            "sortId": 17,
             "startTime": 1780084800,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_18": {
             "puzzleId": "puzzle_18",
+            "sortId": 18,
             "startTime": 1780084800,
             "puzzleGroupId": "puzzle_group_4"
           },
           "puzzle_19": {
             "puzzleId": "puzzle_19",
+            "sortId": 19,
             "startTime": 1780084800,
             "puzzleGroupId": "puzzle_group_4"
           },
           "puzzle_20": {
             "puzzleId": "puzzle_20",
+            "sortId": 20,
             "startTime": 1780084800,
             "puzzleGroupId": "puzzle_group_4"
           }
@@ -192225,101 +192959,121 @@
         "puzzleInfoMap": {
           "puzzle_1": {
             "puzzleId": "puzzle_1",
+            "sortId": 1,
             "startTime": 1750996800,
             "puzzleGroupId": "puzzle_group_1"
           },
           "puzzle_2": {
             "puzzleId": "puzzle_2",
+            "sortId": 2,
             "startTime": 1751054400,
             "puzzleGroupId": "puzzle_group_1"
           },
           "puzzle_3": {
             "puzzleId": "puzzle_3",
+            "sortId": 3,
             "startTime": 1751140800,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_4": {
             "puzzleId": "puzzle_4",
+            "sortId": 4,
             "startTime": 1751227200,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_5": {
             "puzzleId": "puzzle_5",
+            "sortId": 5,
             "startTime": 1751313600,
             "puzzleGroupId": "puzzle_group_2"
           },
           "puzzle_6": {
             "puzzleId": "puzzle_6",
+            "sortId": 6,
             "startTime": 1751400000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_7": {
             "puzzleId": "puzzle_7",
+            "sortId": 7,
             "startTime": 1751486400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_8": {
             "puzzleId": "puzzle_8",
+            "sortId": 8,
             "startTime": 1751572800,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_9": {
             "puzzleId": "puzzle_9",
+            "sortId": 9,
             "startTime": 1751659200,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_10": {
             "puzzleId": "puzzle_10",
+            "sortId": 10,
             "startTime": 1751745600,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_11": {
             "puzzleId": "puzzle_11",
+            "sortId": 11,
             "startTime": 1751832000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_12": {
             "puzzleId": "puzzle_12",
+            "sortId": 12,
             "startTime": 1751918400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_13": {
             "puzzleId": "puzzle_13",
+            "sortId": 13,
             "startTime": 1752004800,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_14": {
             "puzzleId": "puzzle_14",
+            "sortId": 14,
             "startTime": 1752091200,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_15": {
             "puzzleId": "puzzle_15",
+            "sortId": 15,
             "startTime": 1752177600,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_16": {
             "puzzleId": "puzzle_16",
+            "sortId": 16,
             "startTime": 1752264000,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_17": {
             "puzzleId": "puzzle_17",
+            "sortId": 17,
             "startTime": 1752350400,
             "puzzleGroupId": "puzzle_group_3"
           },
           "puzzle_18": {
             "puzzleId": "puzzle_18",
+            "sortId": 18,
             "startTime": 1752436800,
             "puzzleGroupId": "puzzle_group_4"
           },
           "puzzle_19": {
             "puzzleId": "puzzle_19",
+            "sortId": 19,
             "startTime": 1752523200,
             "puzzleGroupId": "puzzle_group_4"
           },
           "puzzle_20": {
             "puzzleId": "puzzle_20",
+            "sortId": 20,
             "startTime": 1752609600,
             "puzzleGroupId": "puzzle_group_4"
           }
@@ -203675,6 +204429,7 @@
           "solo_r01": {
             "roundId": "solo_r01",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -203692,6 +204447,7 @@
           "solo_r02": {
             "roundId": "solo_r02",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -203709,6 +204465,7 @@
           "solo_r03": {
             "roundId": "solo_r03",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -203726,6 +204483,7 @@
           "solo_r04": {
             "roundId": "solo_r04",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -203743,6 +204501,7 @@
           "solo_r05": {
             "roundId": "solo_r05",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -203760,6 +204519,7 @@
           "solo_r06": {
             "roundId": "solo_r06",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -203777,6 +204537,7 @@
           "solo_r07": {
             "roundId": "solo_r07",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -203794,6 +204555,7 @@
           "solo_r08": {
             "roundId": "solo_r08",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -203811,6 +204573,7 @@
           "solo_r09": {
             "roundId": "solo_r09",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -203828,6 +204591,7 @@
           "solo_r10": {
             "roundId": "solo_r10",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -203845,6 +204609,7 @@
           "multi_op_m_r01": {
             "roundId": "multi_op_m_r01",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -203862,6 +204627,7 @@
           "multi_op_m_r02": {
             "roundId": "multi_op_m_r02",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -203879,6 +204645,7 @@
           "multi_op_m_r03": {
             "roundId": "multi_op_m_r03",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -203896,6 +204663,7 @@
           "multi_op_m_r04": {
             "roundId": "multi_op_m_r04",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -203913,6 +204681,7 @@
           "multi_op_m_r05": {
             "roundId": "multi_op_m_r05",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -203930,6 +204699,7 @@
           "multi_op_m_r06": {
             "roundId": "multi_op_m_r06",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -203947,6 +204717,7 @@
           "multi_op_m_r07": {
             "roundId": "multi_op_m_r07",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -203964,6 +204735,7 @@
           "multi_op_m_r08": {
             "roundId": "multi_op_m_r08",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -203981,6 +204753,7 @@
           "multi_op_m_r09": {
             "roundId": "multi_op_m_r09",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -203998,6 +204771,7 @@
           "multi_op_m_r10": {
             "roundId": "multi_op_m_r10",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -204015,6 +204789,7 @@
           "multi_op_r_r01": {
             "roundId": "multi_op_r_r01",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -204032,6 +204807,7 @@
           "multi_op_r_r02": {
             "roundId": "multi_op_r_r02",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -204049,6 +204825,7 @@
           "multi_op_r_r03": {
             "roundId": "multi_op_r_r03",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -204066,6 +204843,7 @@
           "multi_op_r_r04": {
             "roundId": "multi_op_r_r04",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -204083,6 +204861,7 @@
           "multi_op_r_r05": {
             "roundId": "multi_op_r_r05",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -204100,6 +204879,7 @@
           "multi_op_r_r06": {
             "roundId": "multi_op_r_r06",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -204117,6 +204897,7 @@
           "multi_op_r_r07": {
             "roundId": "multi_op_r_r07",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -204134,6 +204915,7 @@
           "multi_op_r_r08": {
             "roundId": "multi_op_r_r08",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -204151,6 +204933,7 @@
           "multi_op_r_r09": {
             "roundId": "multi_op_r_r09",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -204168,6 +204951,7 @@
           "multi_op_r_r10": {
             "roundId": "multi_op_r_r10",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -204185,6 +204969,7 @@
           "multi_st_m_r01": {
             "roundId": "multi_st_m_r01",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204202,6 +204987,7 @@
           "multi_st_m_r02": {
             "roundId": "multi_st_m_r02",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204219,6 +205005,7 @@
           "multi_st_m_r03": {
             "roundId": "multi_st_m_r03",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204236,6 +205023,7 @@
           "multi_st_m_r04": {
             "roundId": "multi_st_m_r04",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204253,6 +205041,7 @@
           "multi_st_m_r05": {
             "roundId": "multi_st_m_r05",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204270,6 +205059,7 @@
           "multi_st_m_r06": {
             "roundId": "multi_st_m_r06",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204287,6 +205077,7 @@
           "multi_st_m_r07": {
             "roundId": "multi_st_m_r07",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204304,6 +205095,7 @@
           "multi_st_m_r08": {
             "roundId": "multi_st_m_r08",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204321,6 +205113,7 @@
           "multi_st_m_r09": {
             "roundId": "multi_st_m_r09",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204338,6 +205131,7 @@
           "multi_st_m_r10": {
             "roundId": "multi_st_m_r10",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204355,6 +205149,7 @@
           "multi_st_r_r01": {
             "roundId": "multi_st_r_r01",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204372,6 +205167,7 @@
           "multi_st_r_r02": {
             "roundId": "multi_st_r_r02",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204389,6 +205185,7 @@
           "multi_st_r_r03": {
             "roundId": "multi_st_r_r03",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204406,6 +205203,7 @@
           "multi_st_r_r04": {
             "roundId": "multi_st_r_r04",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204423,6 +205221,7 @@
           "multi_st_r_r05": {
             "roundId": "multi_st_r_r05",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204440,6 +205239,7 @@
           "multi_st_r_r06": {
             "roundId": "multi_st_r_r06",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204457,6 +205257,7 @@
           "multi_st_r_r07": {
             "roundId": "multi_st_r_r07",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204474,6 +205275,7 @@
           "multi_st_r_r08": {
             "roundId": "multi_st_r_r08",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204491,6 +205293,7 @@
           "multi_st_r_r09": {
             "roundId": "multi_st_r_r09",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204508,6 +205311,7 @@
           "multi_st_r_r10": {
             "roundId": "multi_st_r_r10",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -204530,7 +205334,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5029_dqslim": {
             "enemyId": "enemy_5029_dqslim",
@@ -204538,7 +205344,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5030_dqpro_3": {
             "enemyId": "enemy_5030_dqpro_3",
@@ -204546,7 +205354,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5031_dqrtar_2": {
             "enemyId": "enemy_5031_dqrtar_2",
@@ -204554,7 +205364,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5032_dqmon": {
             "enemyId": "enemy_5032_dqmon",
@@ -204562,7 +205374,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5033_dqmstr_2": {
             "enemyId": "enemy_5033_dqmstr_2",
@@ -204570,7 +205384,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5034_dqield": {
             "enemyId": "enemy_5034_dqield",
@@ -204578,7 +205394,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5035_dqveng_2": {
             "enemyId": "enemy_5035_dqveng_2",
@@ -204586,7 +205404,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5036_dqger_2": {
             "enemyId": "enemy_5036_dqger_2",
@@ -204594,7 +205414,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5037_dqdbox": {
             "enemyId": "enemy_5037_dqdbox",
@@ -204602,7 +205424,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5039_dqgint": {
             "enemyId": "enemy_5039_dqgint",
@@ -204610,7 +205434,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5040_dqmage": {
             "enemyId": "enemy_5040_dqmage",
@@ -204618,7 +205444,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5041_dqkght": {
             "enemyId": "enemy_5041_dqkght",
@@ -204626,7 +205454,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5042_dqkght_2": {
             "enemyId": "enemy_5042_dqkght_2",
@@ -204634,7 +205464,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5043_dqgscr": {
             "enemyId": "enemy_5043_dqgscr",
@@ -204642,7 +205474,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5044_dqzeni": {
             "enemyId": "enemy_5044_dqzeni",
@@ -204650,7 +205484,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5045_dqjedi_2": {
             "enemyId": "enemy_5045_dqjedi_2",
@@ -204658,7 +205494,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5046_dqmir": {
             "enemyId": "enemy_5046_dqmir",
@@ -204666,7 +205504,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5047_dqripr": {
             "enemyId": "enemy_5047_dqripr",
@@ -204674,7 +205514,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5048_dqingd": {
             "enemyId": "enemy_5048_dqingd",
@@ -204682,7 +205524,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5051_dqrwar": {
             "enemyId": "enemy_5051_dqrwar",
@@ -204690,7 +205534,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5053_dqllme": {
             "enemyId": "enemy_5053_dqllme",
@@ -204698,7 +205544,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5055_dqkill": {
             "enemyId": "enemy_5055_dqkill",
@@ -204706,7 +205554,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15002_dqwing": {
             "enemyId": "enemy_15002_dqwing",
@@ -204714,7 +205564,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15005_dqdsbs": {
             "enemyId": "enemy_15005_dqdsbs",
@@ -204722,7 +205574,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15007_dqbear": {
             "enemyId": "enemy_15007_dqbear",
@@ -204730,7 +205584,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15009_dqmgcs": {
             "enemyId": "enemy_15009_dqmgcs",
@@ -204738,7 +205594,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15012_dqbsli": {
             "enemyId": "enemy_15012_dqbsli",
@@ -204746,7 +205604,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15013_dqsnsl": {
             "enemyId": "enemy_15013_dqsnsl",
@@ -204754,7 +205614,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15014_dqmmka": {
             "enemyId": "enemy_15014_dqmmka",
@@ -204762,7 +205624,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5054_dqxi": {
             "enemyId": "enemy_5054_dqxi",
@@ -204770,7 +205634,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 50,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15024_dqreid": {
             "enemyId": "enemy_15024_dqreid",
@@ -204778,7 +205644,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 50,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15031_dqhlti": {
             "enemyId": "enemy_15031_dqhlti",
@@ -204786,7 +205654,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15032_dqhrgr": {
             "enemyId": "enemy_15032_dqhrgr",
@@ -204794,7 +205664,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15033_dqclif": {
             "enemyId": "enemy_15033_dqclif",
@@ -204802,7 +205674,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15034_dqdrp": {
             "enemyId": "enemy_15034_dqdrp",
@@ -204810,7 +205684,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15035_dqbone": {
             "enemyId": "enemy_15035_dqbone",
@@ -204818,7 +205694,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15036_dqalme": {
             "enemyId": "enemy_15036_dqalme",
@@ -204826,7 +205704,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15037_dqhtms": {
             "enemyId": "enemy_15037_dqhtms",
@@ -204834,7 +205714,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15038_dqhtbw": {
             "enemyId": "enemy_15038_dqhtbw",
@@ -204842,7 +205724,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15039_dqrgrd": {
             "enemyId": "enemy_15039_dqrgrd",
@@ -204850,7 +205734,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 250,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15040_dqrdmn": {
             "enemyId": "enemy_15040_dqrdmn",
@@ -204858,7 +205744,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15041_dqgrg": {
             "enemyId": "enemy_15041_dqgrg",
@@ -204866,7 +205754,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15043_dqrckm": {
             "enemyId": "enemy_15043_dqrckm",
@@ -204874,7 +205764,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15044_dqtisd": {
             "enemyId": "enemy_15044_dqtisd",
@@ -204882,7 +205774,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15045_dqrbty": {
             "enemyId": "enemy_15045_dqrbty",
@@ -204890,7 +205784,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15046_dqxts": {
             "enemyId": "enemy_15046_dqxts",
@@ -204898,7 +205794,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15047_dqwlpl": {
             "enemyId": "enemy_15047_dqwlpl",
@@ -204906,7 +205804,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15048_dqdivi": {
             "enemyId": "enemy_15048_dqdivi",
@@ -204914,7 +205814,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15049_dqfrog": {
             "enemyId": "enemy_15049_dqfrog",
@@ -204922,7 +205824,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15051_dqxjl": {
             "enemyId": "enemy_15051_dqxjl",
@@ -204930,7 +205834,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15052_dqboar": {
             "enemyId": "enemy_15052_dqboar",
@@ -204938,7 +205844,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15053_dqtrtl": {
             "enemyId": "enemy_15053_dqtrtl",
@@ -204946,7 +205854,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15054_dqprpn": {
             "enemyId": "enemy_15054_dqprpn",
@@ -204954,7 +205864,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15055_dqrhcr": {
             "enemyId": "enemy_15055_dqrhcr",
@@ -204962,7 +205874,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15057_dqmram": {
             "enemyId": "enemy_15057_dqmram",
@@ -204970,7 +205884,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15058_dqtank": {
             "enemyId": "enemy_15058_dqtank",
@@ -204978,7 +205894,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15059_dqhmmr": {
             "enemyId": "enemy_15059_dqhmmr",
@@ -204986,7 +205904,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 50,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15064_dqdru": {
             "enemyId": "enemy_15064_dqdru",
@@ -204994,7 +205914,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 500,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15066_dqdudu": {
             "enemyId": "enemy_15066_dqdudu",
@@ -205002,7 +205924,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 500,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15067_dqdidi": {
             "enemyId": "enemy_15067_dqdidi",
@@ -205010,7 +205934,9 @@
             "poolSmallEnemy": 50,
             "poolBoss": 0,
             "poolMusic": 500,
-            "poolNoSurpriseEnemy": 50
+            "poolNoSurpriseEnemy": 50,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           }
         },
         "npcData": {
@@ -207754,343 +208680,428 @@
         "enemyData": {
           "enemy_5028_dqlime_2": {
             "enemyId": "enemy_5028_dqlime_2",
-            "originalEnemyId": "enemy_1004_mslime_2"
+            "originalEnemyId": "enemy_1004_mslime_2",
+            "tagType": "tag_single"
           },
           "enemy_5030_dqpro_3": {
             "enemyId": "enemy_5030_dqpro_3",
-            "originalEnemyId": "enemy_1000_gopro_3"
+            "originalEnemyId": "enemy_1000_gopro_3",
+            "tagType": "tag_single"
           },
           "enemy_5031_dqrtar_2": {
             "enemyId": "enemy_5031_dqrtar_2",
-            "originalEnemyId": "enemy_1024_mortar_2"
+            "originalEnemyId": "enemy_1024_mortar_2",
+            "tagType": "tag_single"
           },
           "enemy_5032_dqmon": {
             "enemyId": "enemy_5032_dqmon",
-            "originalEnemyId": "enemy_1010_demon"
+            "originalEnemyId": "enemy_1010_demon",
+            "tagType": "tag_single"
           },
           "enemy_5033_dqmstr_2": {
             "enemyId": "enemy_5033_dqmstr_2",
-            "originalEnemyId": "enemy_1044_zomstr_2"
+            "originalEnemyId": "enemy_1044_zomstr_2",
+            "tagType": "tag_single"
           },
           "enemy_5034_dqield": {
             "enemyId": "enemy_5034_dqield",
-            "originalEnemyId": "enemy_1006_shield"
+            "originalEnemyId": "enemy_1006_shield",
+            "tagType": "tag_single"
           },
           "enemy_5035_dqveng_2": {
             "enemyId": "enemy_5035_dqveng_2",
-            "originalEnemyId": "enemy_1025_reveng_2"
+            "originalEnemyId": "enemy_1025_reveng_2",
+            "tagType": "tag_single"
           },
           "enemy_5036_dqger_2": {
             "enemyId": "enemy_5036_dqger_2",
-            "originalEnemyId": "enemy_1062_rager_2"
+            "originalEnemyId": "enemy_1062_rager_2",
+            "tagType": "tag_single"
           },
           "enemy_5037_dqdbox": {
             "enemyId": "enemy_5037_dqdbox",
-            "originalEnemyId": "enemy_1118_lidbox"
+            "originalEnemyId": "enemy_1118_lidbox",
+            "tagType": "tag_single"
           },
           "enemy_5038_dqiprr_2": {
             "enemyId": "enemy_5038_dqiprr_2",
-            "originalEnemyId": "enemy_1117_liiprr_2"
+            "originalEnemyId": "enemy_1117_liiprr_2",
+            "tagType": "tag_single"
           },
           "enemy_5039_dqgint": {
             "enemyId": "enemy_5039_dqgint",
-            "originalEnemyId": "enemy_1092_mdgint"
+            "originalEnemyId": "enemy_1092_mdgint",
+            "tagType": "tag_single"
           },
           "enemy_5040_dqmage": {
             "enemyId": "enemy_5040_dqmage",
-            "originalEnemyId": "enemy_1241_ltmage"
+            "originalEnemyId": "enemy_1241_ltmage",
+            "tagType": "tag_single"
           },
           "enemy_5041_dqkght": {
             "enemyId": "enemy_5041_dqkght",
-            "originalEnemyId": "enemy_1101_plkght"
+            "originalEnemyId": "enemy_1101_plkght",
+            "tagType": "tag_single"
           },
           "enemy_5042_dqkght_2": {
             "enemyId": "enemy_5042_dqkght_2",
-            "originalEnemyId": "enemy_1103_wdkght_2"
+            "originalEnemyId": "enemy_1103_wdkght_2",
+            "tagType": "tag_single"
           },
           "enemy_5043_dqgscr": {
             "enemyId": "enemy_5043_dqgscr",
-            "originalEnemyId": "enemy_1192_krgscr"
+            "originalEnemyId": "enemy_1192_krgscr",
+            "tagType": "tag_single"
           },
           "enemy_5044_dqzeni": {
             "enemyId": "enemy_5044_dqzeni",
-            "originalEnemyId": "enemy_2022_syzeni"
+            "originalEnemyId": "enemy_2022_syzeni",
+            "tagType": "tag_single"
           },
           "enemy_5045_dqjedi_2": {
             "enemyId": "enemy_5045_dqjedi_2",
-            "originalEnemyId": "enemy_1328_cbjedi_2"
+            "originalEnemyId": "enemy_1328_cbjedi_2",
+            "tagType": "tag_single"
           },
           "enemy_5046_dqmir": {
             "enemyId": "enemy_5046_dqmir",
-            "originalEnemyId": "enemy_1300_ymmir"
+            "originalEnemyId": "enemy_1300_ymmir",
+            "tagType": "tag_single"
           },
           "enemy_5047_dqripr": {
             "enemyId": "enemy_5047_dqripr",
-            "originalEnemyId": "enemy_1095_ccripr"
+            "originalEnemyId": "enemy_1095_ccripr",
+            "tagType": "tag_single"
           },
           "enemy_5048_dqingd": {
             "enemyId": "enemy_5048_dqingd",
-            "originalEnemyId": "enemy_7002_veingd"
+            "originalEnemyId": "enemy_7002_veingd",
+            "tagType": "tag_single"
           },
           "enemy_5050_dqomg": {
             "enemyId": "enemy_5050_dqomg",
-            "originalEnemyId": "enemy_1221_dzomg"
+            "originalEnemyId": "enemy_1221_dzomg",
+            "tagType": "tag_single"
           },
           "enemy_5051_dqrwar": {
             "enemyId": "enemy_5051_dqrwar",
-            "originalEnemyId": "enemy_1259_durwar"
+            "originalEnemyId": "enemy_1259_durwar",
+            "tagType": "tag_single"
           },
           "enemy_5052_dqsbr": {
             "enemyId": "enemy_5052_dqsbr",
-            "originalEnemyId": "enemy_2043_smsbr"
+            "originalEnemyId": "enemy_2043_smsbr",
+            "tagType": "tag_single"
           },
           "enemy_5053_dqllme": {
             "enemyId": "enemy_5053_dqllme",
-            "originalEnemyId": "enemy_1050_lslime"
+            "originalEnemyId": "enemy_1050_lslime",
+            "tagType": "tag_single"
           },
           "enemy_5055_dqkill": {
             "enemyId": "enemy_5055_dqkill",
-            "originalEnemyId": "enemy_1516_jakill"
+            "originalEnemyId": "enemy_1516_jakill",
+            "tagType": "tag_single"
           },
           "enemy_15001_dqsmwa": {
             "enemyId": "enemy_15001_dqsmwa",
-            "originalEnemyId": "enemy_2046_smwar"
+            "originalEnemyId": "enemy_2046_smwar",
+            "tagType": "tag_single"
           },
           "enemy_15002_dqwing": {
             "enemyId": "enemy_15002_dqwing",
-            "originalEnemyId": "enemy_1388_wingnt"
+            "originalEnemyId": "enemy_1388_wingnt",
+            "tagType": "tag_single"
           },
           "enemy_15003_dqltsw": {
             "enemyId": "enemy_15003_dqltsw",
-            "originalEnemyId": "enemy_1243_ltswar"
+            "originalEnemyId": "enemy_1243_ltswar",
+            "tagType": "tag_single"
           },
           "enemy_15004_dqdhdt": {
             "enemyId": "enemy_15004_dqdhdt",
-            "originalEnemyId": "enemy_1396_dhdts"
+            "originalEnemyId": "enemy_1396_dhdts",
+            "tagType": "tag_single"
           },
           "enemy_15005_dqdsbs": {
             "enemyId": "enemy_15005_dqdsbs",
-            "originalEnemyId": "enemy_1235_dsbskr"
+            "originalEnemyId": "enemy_1235_dsbskr",
+            "tagType": "tag_single"
           },
           "enemy_15006_dqkrgm": {
             "enemyId": "enemy_15006_dqkrgm",
-            "originalEnemyId": "enemy_1194_krgmtr"
+            "originalEnemyId": "enemy_1194_krgmtr",
+            "tagType": "tag_single"
           },
           "enemy_15007_dqbear": {
             "enemyId": "enemy_15007_dqbear",
-            "originalEnemyId": "enemy_2002_bearmi"
+            "originalEnemyId": "enemy_2002_bearmi",
+            "tagType": "tag_single"
           },
           "enemy_15008_dqspsb": {
             "enemyId": "enemy_15008_dqspsb",
-            "originalEnemyId": "enemy_1123_spsbr"
+            "originalEnemyId": "enemy_1123_spsbr",
+            "tagType": "tag_single"
           },
           "enemy_15009_dqmgcs": {
             "enemyId": "enemy_15009_dqmgcs",
-            "originalEnemyId": "enemy_1350_mgcshp"
+            "originalEnemyId": "enemy_1350_mgcshp",
+            "tagType": "tag_single"
           },
           "enemy_15010_dqcadk": {
             "enemyId": "enemy_15010_dqcadk",
-            "originalEnemyId": "enemy_1184_cadkgt"
+            "originalEnemyId": "enemy_1184_cadkgt",
+            "tagType": "tag_single"
           },
           "enemy_15011_dqnhst": {
             "enemyId": "enemy_15011_dqnhst",
-            "originalEnemyId": "enemy_1270_nhstlk"
+            "originalEnemyId": "enemy_1270_nhstlk",
+            "tagType": "tag_single"
           },
           "enemy_15012_dqbsli": {
             "enemyId": "enemy_15012_dqbsli",
-            "originalEnemyId": "enemy_1021_bslime"
+            "originalEnemyId": "enemy_1021_bslime",
+            "tagType": "tag_single"
           },
           "enemy_15013_dqsnsl": {
             "enemyId": "enemy_15013_dqsnsl",
-            "originalEnemyId": "enemy_1067_snslime"
+            "originalEnemyId": "enemy_1067_snslime",
+            "tagType": "tag_single"
           },
           "enemy_15014_dqmmka": {
             "enemyId": "enemy_15014_dqmmka",
-            "originalEnemyId": "enemy_1415_mmkabi"
+            "originalEnemyId": "enemy_1415_mmkabi",
+            "tagType": "tag_single"
           },
           "enemy_15015_dqmerr": {
             "enemyId": "enemy_15015_dqmerr",
-            "originalEnemyId": "enemy_1143_merrpg"
+            "originalEnemyId": "enemy_1143_merrpg",
+            "tagType": "tag_single"
           },
           "enemy_15016_dqdkma": {
             "enemyId": "enemy_15016_dqdkma",
-            "originalEnemyId": "enemy_1225_dkmage"
+            "originalEnemyId": "enemy_1225_dkmage",
+            "tagType": "tag_single"
           },
           "enemy_15017_dqdwlo": {
             "enemyId": "enemy_15017_dqdwlo",
-            "originalEnemyId": "enemy_1275_dwlock"
+            "originalEnemyId": "enemy_1275_dwlock",
+            "tagType": "tag_single"
           },
           "enemy_15018_dqskzc": {
             "enemyId": "enemy_15018_dqskzc",
-            "originalEnemyId": "enemy_2067_skzcy"
+            "originalEnemyId": "enemy_2067_skzcy",
+            "tagType": "tag_single"
           },
           "enemy_15019_dqharc": {
             "enemyId": "enemy_15019_dqharc",
-            "originalEnemyId": "enemy_1133_harchn"
+            "originalEnemyId": "enemy_1133_harchn",
+            "tagType": "tag_single"
           },
           "enemy_15020_dqplas": {
             "enemyId": "enemy_15020_dqplas",
-            "originalEnemyId": "enemy_1137_plasm"
+            "originalEnemyId": "enemy_1137_plasm",
+            "tagType": "tag_single"
           },
           "enemy_15021_dqdurg": {
             "enemyId": "enemy_15021_dqdurg",
-            "originalEnemyId": "enemy_1264_durgrd_2"
+            "originalEnemyId": "enemy_1264_durgrd_2",
+            "tagType": "tag_single"
           },
           "enemy_15022_dqhvys": {
             "enemyId": "enemy_15022_dqhvys",
-            "originalEnemyId": "enemy_1160_hvyslr"
+            "originalEnemyId": "enemy_1160_hvyslr",
+            "tagType": "tag_single"
           },
           "enemy_5054_dqxi": {
             "enemyId": "enemy_5054_dqxi",
-            "originalEnemyId": "enemy_1517_xi"
+            "originalEnemyId": "enemy_1517_xi",
+            "tagType": "tag_single"
           },
           "enemy_15023_dqwlfm": {
             "enemyId": "enemy_15023_dqwlfm",
-            "originalEnemyId": "enemy_1535_wlfmster"
+            "originalEnemyId": "enemy_1535_wlfmster",
+            "tagType": "tag_single"
           },
           "enemy_15024_dqreid": {
             "enemyId": "enemy_15024_dqreid",
-            "originalEnemyId": "enemy_1539_reid"
+            "originalEnemyId": "enemy_1539_reid",
+            "tagType": "tag_single"
           },
           "enemy_15026_dqmtrf": {
             "enemyId": "enemy_15026_dqmtrf",
-            "originalEnemyId": "enemy_1035_haxe_2"
+            "originalEnemyId": "enemy_1035_haxe_2",
+            "tagType": "tag_single"
           },
           "enemy_15027_dqmtrs": {
             "enemyId": "enemy_15027_dqmtrs",
-            "originalEnemyId": "enemy_1060_emouse_2"
+            "originalEnemyId": "enemy_1060_emouse_2",
+            "tagType": "tag_single"
           },
           "enemy_15028_dqmtrb": {
             "enemyId": "enemy_15028_dqmtrb",
-            "originalEnemyId": "enemy_1097_cclmbjk_2"
+            "originalEnemyId": "enemy_1097_cclmbjk_2",
+            "tagType": "tag_single"
           },
           "enemy_15029_dqfrtu": {
             "enemyId": "enemy_15029_dqfrtu",
-            "originalEnemyId": "enemy_1134_diamd"
+            "originalEnemyId": "enemy_1134_diamd",
+            "tagType": "tag_single"
           },
           "enemy_15030_dqsgpr": {
             "enemyId": "enemy_15030_dqsgpr",
-            "originalEnemyId": "enemy_1153_dsexcu_2"
+            "originalEnemyId": "enemy_1153_dsexcu_2",
+            "tagType": "tag_single"
           },
           "enemy_15031_dqhlti": {
             "enemyId": "enemy_15031_dqhlti",
-            "originalEnemyId": "enemy_10044_wintun_2"
+            "originalEnemyId": "enemy_10044_wintun_2",
+            "tagType": "tag_single"
           },
           "enemy_15032_dqhrgr": {
             "enemyId": "enemy_15032_dqhrgr",
-            "originalEnemyId": "enemy_4014_mugnfu"
+            "originalEnemyId": "enemy_4014_mugnfu",
+            "tagType": "tag_single"
           },
           "enemy_15033_dqclif": {
             "enemyId": "enemy_15033_dqclif",
-            "originalEnemyId": "enemy_7015_xbcrab2"
+            "originalEnemyId": "enemy_7015_xbcrab2",
+            "tagType": "tag_single"
           },
           "enemy_15034_dqdrp": {
             "enemyId": "enemy_15034_dqdrp",
-            "originalEnemyId": "enemy_1013_airdrp"
+            "originalEnemyId": "enemy_1013_airdrp",
+            "tagType": "tag_single"
           },
           "enemy_15035_dqbone": {
             "enemyId": "enemy_15035_dqbone",
-            "originalEnemyId": "enemy_1109_uabone"
+            "originalEnemyId": "enemy_1109_uabone",
+            "tagType": "tag_single"
           },
           "enemy_15036_dqalme": {
             "enemyId": "enemy_15036_dqalme",
-            "originalEnemyId": "enemy_1246_aslime"
+            "originalEnemyId": "enemy_1246_aslime",
+            "tagType": "tag_single"
           },
           "enemy_15037_dqhtms": {
             "enemyId": "enemy_15037_dqhtms",
-            "originalEnemyId": "enemy_1341_bthtms"
+            "originalEnemyId": "enemy_1341_bthtms",
+            "tagType": "tag_single"
           },
           "enemy_15038_dqhtbw": {
             "enemyId": "enemy_15038_dqhtbw",
-            "originalEnemyId": "enemy_1340_bthtbw"
+            "originalEnemyId": "enemy_1340_bthtbw",
+            "tagType": "tag_single"
           },
           "enemy_15039_dqrgrd": {
             "enemyId": "enemy_15039_dqrgrd",
-            "originalEnemyId": "enemy_1339_bhrgrd"
+            "originalEnemyId": "enemy_1339_bhrgrd",
+            "tagType": "tag_single"
           },
           "enemy_15040_dqrdmn": {
             "enemyId": "enemy_15040_dqrdmn",
-            "originalEnemyId": "enemy_1114_rgrdmn_2"
+            "originalEnemyId": "enemy_1114_rgrdmn_2",
+            "tagType": "tag_single"
           },
           "enemy_15041_dqgrg": {
             "enemyId": "enemy_15041_dqgrg",
-            "originalEnemyId": "enemy_1191_krgrg_2"
+            "originalEnemyId": "enemy_1191_krgrg_2",
+            "tagType": "tag_single"
           },
           "enemy_15043_dqrckm": {
             "enemyId": "enemy_15043_dqrckm",
-            "originalEnemyId": "enemy_2003_rockman"
+            "originalEnemyId": "enemy_2003_rockman",
+            "tagType": "tag_single"
           },
           "enemy_15044_dqtisd": {
             "enemyId": "enemy_15044_dqtisd",
-            "originalEnemyId": "enemy_1081_sotisd"
+            "originalEnemyId": "enemy_1081_sotisd",
+            "tagType": "tag_single"
           },
           "enemy_15045_dqrbty": {
             "enemyId": "enemy_15045_dqrbty",
-            "originalEnemyId": "enemy_1219_mtrbty"
+            "originalEnemyId": "enemy_1219_mtrbty",
+            "tagType": "tag_single"
           },
           "enemy_15046_dqxts": {
             "enemyId": "enemy_15046_dqxts",
-            "originalEnemyId": "enemy_1395_dhxts"
+            "originalEnemyId": "enemy_1395_dhxts",
+            "tagType": "tag_single"
           },
           "enemy_15047_dqwlpl": {
             "enemyId": "enemy_15047_dqwlpl",
-            "originalEnemyId": "enemy_10003_trwlpl_2"
+            "originalEnemyId": "enemy_10003_trwlpl_2",
+            "tagType": "tag_single"
           },
           "enemy_15048_dqdivi": {
             "enemyId": "enemy_15048_dqdivi",
-            "originalEnemyId": "enemy_1436_dsdivi"
+            "originalEnemyId": "enemy_1436_dsdivi",
+            "tagType": "tag_single"
           },
           "enemy_15049_dqfrog": {
             "enemyId": "enemy_15049_dqfrog",
-            "originalEnemyId": "enemy_10058_cjfrog"
+            "originalEnemyId": "enemy_10058_cjfrog",
+            "tagType": "tag_single"
           },
           "enemy_15051_dqxjl": {
             "enemyId": "enemy_15051_dqxjl",
-            "originalEnemyId": "enemy_10066_ftxjl"
+            "originalEnemyId": "enemy_10066_ftxjl",
+            "tagType": "tag_single"
           },
           "enemy_15052_dqboar": {
             "enemyId": "enemy_15052_dqboar",
-            "originalEnemyId": "enemy_1309_mhboar"
+            "originalEnemyId": "enemy_1309_mhboar",
+            "tagType": "tag_single"
           },
           "enemy_15053_dqtrtl": {
             "enemyId": "enemy_15053_dqtrtl",
-            "originalEnemyId": "enemy_1306_mhtrtl"
+            "originalEnemyId": "enemy_1306_mhtrtl",
+            "tagType": "tag_single"
           },
           "enemy_15054_dqprpn": {
             "enemyId": "enemy_15054_dqprpn",
-            "originalEnemyId": "enemy_1310_mhprpn"
+            "originalEnemyId": "enemy_1310_mhprpn",
+            "tagType": "tag_single"
           },
           "enemy_15055_dqrhcr": {
             "enemyId": "enemy_15055_dqrhcr",
-            "originalEnemyId": "enemy_1307_mhrhcr"
+            "originalEnemyId": "enemy_1307_mhrhcr",
+            "tagType": "tag_single"
           },
           "enemy_15057_dqmram": {
             "enemyId": "enemy_15057_dqmram",
-            "originalEnemyId": "enemy_1274_stmram_2"
+            "originalEnemyId": "enemy_1274_stmram_2",
+            "tagType": "tag_single"
           },
           "enemy_15058_dqtank": {
             "enemyId": "enemy_15058_dqtank",
-            "originalEnemyId": "enemy_1272_nhtank"
+            "originalEnemyId": "enemy_1272_nhtank",
+            "tagType": "tag_single"
           },
           "enemy_15059_dqhmmr": {
             "enemyId": "enemy_15059_dqhmmr",
-            "originalEnemyId": "enemy_1091_mdhmmr"
+            "originalEnemyId": "enemy_1091_mdhmmr",
+            "tagType": "tag_single"
           },
           "enemy_15064_dqdru": {
             "enemyId": "enemy_15064_dqdru",
-            "originalEnemyId": "enemy_1376_ltndru"
+            "originalEnemyId": "enemy_1376_ltndru",
+            "tagType": "tag_single"
           },
           "enemy_15066_dqdudu": {
             "enemyId": "enemy_15066_dqdudu",
-            "originalEnemyId": "enemy_1417_mmdudu"
+            "originalEnemyId": "enemy_1417_mmdudu",
+            "tagType": "tag_single"
           },
           "enemy_15067_dqdidi": {
             "enemyId": "enemy_15067_dqdidi",
-            "originalEnemyId": "enemy_1417_mmdudu_2"
+            "originalEnemyId": "enemy_1417_mmdudu_2",
+            "tagType": "tag_single"
           },
           "enemy_5029_dqslim": {
             "enemyId": "enemy_5029_dqslim",
-            "originalEnemyId": "enemy_1305_mhslim"
+            "originalEnemyId": "enemy_1305_mhslim",
+            "tagType": "tag_single"
           }
         },
         "extraScoreData": {
@@ -209263,6 +210274,7 @@
           "solo_r01": {
             "roundId": "solo_r01",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -209280,6 +210292,7 @@
           "solo_r02": {
             "roundId": "solo_r02",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -209297,6 +210310,7 @@
           "solo_r03": {
             "roundId": "solo_r03",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -209314,6 +210328,7 @@
           "solo_r04": {
             "roundId": "solo_r04",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -209331,6 +210346,7 @@
           "solo_r05": {
             "roundId": "solo_r05",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -209348,6 +210364,7 @@
           "solo_r06": {
             "roundId": "solo_r06",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -209365,6 +210382,7 @@
           "solo_r07": {
             "roundId": "solo_r07",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -209382,6 +210400,7 @@
           "solo_r08": {
             "roundId": "solo_r08",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -209399,6 +210418,7 @@
           "solo_r09": {
             "roundId": "solo_r09",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -209416,6 +210436,7 @@
           "solo_r10": {
             "roundId": "solo_r10",
             "modeId": "soloOperation",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -209433,6 +210454,7 @@
           "multi_op_m_r01": {
             "roundId": "multi_op_m_r01",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -209450,6 +210472,7 @@
           "multi_op_m_r02": {
             "roundId": "multi_op_m_r02",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -209467,6 +210490,7 @@
           "multi_op_m_r03": {
             "roundId": "multi_op_m_r03",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -209484,6 +210508,7 @@
           "multi_op_m_r04": {
             "roundId": "multi_op_m_r04",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -209501,6 +210526,7 @@
           "multi_op_m_r05": {
             "roundId": "multi_op_m_r05",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -209518,6 +210544,7 @@
           "multi_op_m_r06": {
             "roundId": "multi_op_m_r06",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -209535,6 +210562,7 @@
           "multi_op_m_r07": {
             "roundId": "multi_op_m_r07",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -209552,6 +210580,7 @@
           "multi_op_m_r08": {
             "roundId": "multi_op_m_r08",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -209569,6 +210598,7 @@
           "multi_op_m_r09": {
             "roundId": "multi_op_m_r09",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -209586,6 +210616,7 @@
           "multi_op_m_r10": {
             "roundId": "multi_op_m_r10",
             "modeId": "multiOperationMatch",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -209603,6 +210634,7 @@
           "multi_op_r_r01": {
             "roundId": "multi_op_r_r01",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 2000,
@@ -209620,6 +210652,7 @@
           "multi_op_r_r02": {
             "roundId": "multi_op_r_r02",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 2400,
@@ -209637,6 +210670,7 @@
           "multi_op_r_r03": {
             "roundId": "multi_op_r_r03",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 3000,
@@ -209654,6 +210688,7 @@
           "multi_op_r_r04": {
             "roundId": "multi_op_r_r04",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 4000,
@@ -209671,6 +210706,7 @@
           "multi_op_r_r05": {
             "roundId": "multi_op_r_r05",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 5500,
@@ -209688,6 +210724,7 @@
           "multi_op_r_r06": {
             "roundId": "multi_op_r_r06",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 8000,
@@ -209705,6 +210742,7 @@
           "multi_op_r_r07": {
             "roundId": "multi_op_r_r07",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 12000,
@@ -209722,6 +210760,7 @@
           "multi_op_r_r08": {
             "roundId": "multi_op_r_r08",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 18000,
@@ -209739,6 +210778,7 @@
           "multi_op_r_r09": {
             "roundId": "multi_op_r_r09",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 30000,
@@ -209756,6 +210796,7 @@
           "multi_op_r_r10": {
             "roundId": "multi_op_r_r10",
             "modeId": "multiOperationRoom",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 50000,
@@ -209773,6 +210814,7 @@
           "multi_st_m_r01": {
             "roundId": "multi_st_m_r01",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209790,6 +210832,7 @@
           "multi_st_m_r02": {
             "roundId": "multi_st_m_r02",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209807,6 +210850,7 @@
           "multi_st_m_r03": {
             "roundId": "multi_st_m_r03",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209824,6 +210868,7 @@
           "multi_st_m_r04": {
             "roundId": "multi_st_m_r04",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209841,6 +210886,7 @@
           "multi_st_m_r05": {
             "roundId": "multi_st_m_r05",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209858,6 +210904,7 @@
           "multi_st_m_r06": {
             "roundId": "multi_st_m_r06",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209875,6 +210922,7 @@
           "multi_st_m_r07": {
             "roundId": "multi_st_m_r07",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209892,6 +210940,7 @@
           "multi_st_m_r08": {
             "roundId": "multi_st_m_r08",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209909,6 +210958,7 @@
           "multi_st_m_r09": {
             "roundId": "multi_st_m_r09",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209926,6 +210976,7 @@
           "multi_st_m_r10": {
             "roundId": "multi_st_m_r10",
             "modeId": "multiStandMatch",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209943,6 +210994,7 @@
           "multi_st_r_r01": {
             "roundId": "multi_st_r_r01",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 1,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209960,6 +211012,7 @@
           "multi_st_r_r02": {
             "roundId": "multi_st_r_r02",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 2,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209977,6 +211030,7 @@
           "multi_st_r_r03": {
             "roundId": "multi_st_r_r03",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 3,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -209994,6 +211048,7 @@
           "multi_st_r_r04": {
             "roundId": "multi_st_r_r04",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 4,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210011,6 +211066,7 @@
           "multi_st_r_r05": {
             "roundId": "multi_st_r_r05",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 5,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210028,6 +211084,7 @@
           "multi_st_r_r06": {
             "roundId": "multi_st_r_r06",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 6,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210045,6 +211102,7 @@
           "multi_st_r_r07": {
             "roundId": "multi_st_r_r07",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 7,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210062,6 +211120,7 @@
           "multi_st_r_r08": {
             "roundId": "multi_st_r_r08",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 8,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210079,6 +211138,7 @@
           "multi_st_r_r09": {
             "roundId": "multi_st_r_r09",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 9,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210096,6 +211156,7 @@
           "multi_st_r_r10": {
             "roundId": "multi_st_r_r10",
             "modeId": "multiStandRoom",
+            "guessTime": 0,
             "round": 10,
             "enemyPredefined": false,
             "roundScore": 0,
@@ -210118,7 +211179,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5030_dqpro_3": {
             "enemyId": "enemy_5030_dqpro_3",
@@ -210126,7 +211189,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5031_dqrtar_2": {
             "enemyId": "enemy_5031_dqrtar_2",
@@ -210134,7 +211199,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5032_dqmon": {
             "enemyId": "enemy_5032_dqmon",
@@ -210142,7 +211209,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5033_dqmstr_2": {
             "enemyId": "enemy_5033_dqmstr_2",
@@ -210150,7 +211219,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5034_dqield": {
             "enemyId": "enemy_5034_dqield",
@@ -210158,7 +211229,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5035_dqveng_2": {
             "enemyId": "enemy_5035_dqveng_2",
@@ -210166,7 +211239,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5036_dqger_2": {
             "enemyId": "enemy_5036_dqger_2",
@@ -210174,7 +211249,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5037_dqdbox": {
             "enemyId": "enemy_5037_dqdbox",
@@ -210182,7 +211259,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5038_dqiprr_2": {
             "enemyId": "enemy_5038_dqiprr_2",
@@ -210190,7 +211269,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5039_dqgint": {
             "enemyId": "enemy_5039_dqgint",
@@ -210198,7 +211279,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5040_dqmage": {
             "enemyId": "enemy_5040_dqmage",
@@ -210206,7 +211289,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5041_dqkght": {
             "enemyId": "enemy_5041_dqkght",
@@ -210214,7 +211299,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5042_dqkght_2": {
             "enemyId": "enemy_5042_dqkght_2",
@@ -210222,7 +211309,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5043_dqgscr": {
             "enemyId": "enemy_5043_dqgscr",
@@ -210230,7 +211319,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5044_dqzeni": {
             "enemyId": "enemy_5044_dqzeni",
@@ -210238,7 +211329,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5045_dqjedi_2": {
             "enemyId": "enemy_5045_dqjedi_2",
@@ -210246,7 +211339,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5046_dqmir": {
             "enemyId": "enemy_5046_dqmir",
@@ -210254,7 +211349,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5047_dqripr": {
             "enemyId": "enemy_5047_dqripr",
@@ -210262,7 +211359,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5048_dqingd": {
             "enemyId": "enemy_5048_dqingd",
@@ -210270,7 +211369,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5050_dqomg": {
             "enemyId": "enemy_5050_dqomg",
@@ -210278,7 +211379,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5051_dqrwar": {
             "enemyId": "enemy_5051_dqrwar",
@@ -210286,7 +211389,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5052_dqsbr": {
             "enemyId": "enemy_5052_dqsbr",
@@ -210294,7 +211399,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5053_dqllme": {
             "enemyId": "enemy_5053_dqllme",
@@ -210302,7 +211409,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5055_dqkill": {
             "enemyId": "enemy_5055_dqkill",
@@ -210310,7 +211419,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15001_dqsmwa": {
             "enemyId": "enemy_15001_dqsmwa",
@@ -210318,7 +211429,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15002_dqwing": {
             "enemyId": "enemy_15002_dqwing",
@@ -210326,7 +211439,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15003_dqltsw": {
             "enemyId": "enemy_15003_dqltsw",
@@ -210334,7 +211449,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15004_dqdhdt": {
             "enemyId": "enemy_15004_dqdhdt",
@@ -210342,7 +211459,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15005_dqdsbs": {
             "enemyId": "enemy_15005_dqdsbs",
@@ -210350,7 +211469,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15006_dqkrgm": {
             "enemyId": "enemy_15006_dqkrgm",
@@ -210358,7 +211479,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15007_dqbear": {
             "enemyId": "enemy_15007_dqbear",
@@ -210366,7 +211489,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15008_dqspsb": {
             "enemyId": "enemy_15008_dqspsb",
@@ -210374,7 +211499,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15009_dqmgcs": {
             "enemyId": "enemy_15009_dqmgcs",
@@ -210382,7 +211509,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15010_dqcadk": {
             "enemyId": "enemy_15010_dqcadk",
@@ -210390,7 +211519,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15011_dqnhst": {
             "enemyId": "enemy_15011_dqnhst",
@@ -210398,7 +211529,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15012_dqbsli": {
             "enemyId": "enemy_15012_dqbsli",
@@ -210406,7 +211539,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15013_dqsnsl": {
             "enemyId": "enemy_15013_dqsnsl",
@@ -210414,7 +211549,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15014_dqmmka": {
             "enemyId": "enemy_15014_dqmmka",
@@ -210422,7 +211559,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15015_dqmerr": {
             "enemyId": "enemy_15015_dqmerr",
@@ -210430,7 +211569,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15016_dqdkma": {
             "enemyId": "enemy_15016_dqdkma",
@@ -210438,7 +211579,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15017_dqdwlo": {
             "enemyId": "enemy_15017_dqdwlo",
@@ -210446,7 +211589,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15018_dqskzc": {
             "enemyId": "enemy_15018_dqskzc",
@@ -210454,7 +211599,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15019_dqharc": {
             "enemyId": "enemy_15019_dqharc",
@@ -210462,7 +211609,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15020_dqplas": {
             "enemyId": "enemy_15020_dqplas",
@@ -210470,7 +211619,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15021_dqdurg": {
             "enemyId": "enemy_15021_dqdurg",
@@ -210478,7 +211629,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15022_dqhvys": {
             "enemyId": "enemy_15022_dqhvys",
@@ -210486,7 +211639,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_5054_dqxi": {
             "enemyId": "enemy_5054_dqxi",
@@ -210494,7 +211649,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 100,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15023_dqwlfm": {
             "enemyId": "enemy_15023_dqwlfm",
@@ -210502,7 +211659,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 100,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15024_dqreid": {
             "enemyId": "enemy_15024_dqreid",
@@ -210510,7 +211669,9 @@
             "poolSmallEnemy": 0,
             "poolBoss": 100,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15026_dqmtrf": {
             "enemyId": "enemy_15026_dqmtrf",
@@ -210518,7 +211679,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15027_dqmtrs": {
             "enemyId": "enemy_15027_dqmtrs",
@@ -210526,7 +211689,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15028_dqmtrb": {
             "enemyId": "enemy_15028_dqmtrb",
@@ -210534,7 +211699,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15029_dqfrtu": {
             "enemyId": "enemy_15029_dqfrtu",
@@ -210542,7 +211709,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15030_dqsgpr": {
             "enemyId": "enemy_15030_dqsgpr",
@@ -210550,7 +211719,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15031_dqhlti": {
             "enemyId": "enemy_15031_dqhlti",
@@ -210558,7 +211729,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15032_dqhrgr": {
             "enemyId": "enemy_15032_dqhrgr",
@@ -210566,7 +211739,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           },
           "enemy_15033_dqclif": {
             "enemyId": "enemy_15033_dqclif",
@@ -210574,7 +211749,9 @@
             "poolSmallEnemy": 100,
             "poolBoss": 0,
             "poolMusic": 0,
-            "poolNoSurpriseEnemy": 0
+            "poolNoSurpriseEnemy": 0,
+            "poolGiantBoss": 0,
+            "poolAntiGiantBoss": 0
           }
         },
         "npcData": {
@@ -212542,235 +213719,293 @@
         "enemyData": {
           "enemy_5028_dqlime_2": {
             "enemyId": "enemy_5028_dqlime_2",
-            "originalEnemyId": "enemy_1004_mslime_2"
+            "originalEnemyId": "enemy_1004_mslime_2",
+            "tagType": "tag_single"
           },
           "enemy_5030_dqpro_3": {
             "enemyId": "enemy_5030_dqpro_3",
-            "originalEnemyId": "enemy_1000_gopro_3"
+            "originalEnemyId": "enemy_1000_gopro_3",
+            "tagType": "tag_single"
           },
           "enemy_5031_dqrtar_2": {
             "enemyId": "enemy_5031_dqrtar_2",
-            "originalEnemyId": "enemy_1024_mortar_2"
+            "originalEnemyId": "enemy_1024_mortar_2",
+            "tagType": "tag_single"
           },
           "enemy_5032_dqmon": {
             "enemyId": "enemy_5032_dqmon",
-            "originalEnemyId": "enemy_1010_demon"
+            "originalEnemyId": "enemy_1010_demon",
+            "tagType": "tag_single"
           },
           "enemy_5033_dqmstr_2": {
             "enemyId": "enemy_5033_dqmstr_2",
-            "originalEnemyId": "enemy_1044_zomstr_2"
+            "originalEnemyId": "enemy_1044_zomstr_2",
+            "tagType": "tag_single"
           },
           "enemy_5034_dqield": {
             "enemyId": "enemy_5034_dqield",
-            "originalEnemyId": "enemy_1006_shield"
+            "originalEnemyId": "enemy_1006_shield",
+            "tagType": "tag_single"
           },
           "enemy_5035_dqveng_2": {
             "enemyId": "enemy_5035_dqveng_2",
-            "originalEnemyId": "enemy_1025_reveng_2"
+            "originalEnemyId": "enemy_1025_reveng_2",
+            "tagType": "tag_single"
           },
           "enemy_5036_dqger_2": {
             "enemyId": "enemy_5036_dqger_2",
-            "originalEnemyId": "enemy_1062_rager_2"
+            "originalEnemyId": "enemy_1062_rager_2",
+            "tagType": "tag_single"
           },
           "enemy_5037_dqdbox": {
             "enemyId": "enemy_5037_dqdbox",
-            "originalEnemyId": "enemy_1118_lidbox"
+            "originalEnemyId": "enemy_1118_lidbox",
+            "tagType": "tag_single"
           },
           "enemy_5038_dqiprr_2": {
             "enemyId": "enemy_5038_dqiprr_2",
-            "originalEnemyId": "enemy_1117_liiprr_2"
+            "originalEnemyId": "enemy_1117_liiprr_2",
+            "tagType": "tag_single"
           },
           "enemy_5039_dqgint": {
             "enemyId": "enemy_5039_dqgint",
-            "originalEnemyId": "enemy_1092_mdgint"
+            "originalEnemyId": "enemy_1092_mdgint",
+            "tagType": "tag_single"
           },
           "enemy_5040_dqmage": {
             "enemyId": "enemy_5040_dqmage",
-            "originalEnemyId": "enemy_1241_ltmage"
+            "originalEnemyId": "enemy_1241_ltmage",
+            "tagType": "tag_single"
           },
           "enemy_5041_dqkght": {
             "enemyId": "enemy_5041_dqkght",
-            "originalEnemyId": "enemy_1101_plkght"
+            "originalEnemyId": "enemy_1101_plkght",
+            "tagType": "tag_single"
           },
           "enemy_5042_dqkght_2": {
             "enemyId": "enemy_5042_dqkght_2",
-            "originalEnemyId": "enemy_1103_wdkght_2"
+            "originalEnemyId": "enemy_1103_wdkght_2",
+            "tagType": "tag_single"
           },
           "enemy_5043_dqgscr": {
             "enemyId": "enemy_5043_dqgscr",
-            "originalEnemyId": "enemy_1192_krgscr"
+            "originalEnemyId": "enemy_1192_krgscr",
+            "tagType": "tag_single"
           },
           "enemy_5044_dqzeni": {
             "enemyId": "enemy_5044_dqzeni",
-            "originalEnemyId": "enemy_2022_syzeni"
+            "originalEnemyId": "enemy_2022_syzeni",
+            "tagType": "tag_single"
           },
           "enemy_5045_dqjedi_2": {
             "enemyId": "enemy_5045_dqjedi_2",
-            "originalEnemyId": "enemy_1328_cbjedi_2"
+            "originalEnemyId": "enemy_1328_cbjedi_2",
+            "tagType": "tag_single"
           },
           "enemy_5046_dqmir": {
             "enemyId": "enemy_5046_dqmir",
-            "originalEnemyId": "enemy_1300_ymmir"
+            "originalEnemyId": "enemy_1300_ymmir",
+            "tagType": "tag_single"
           },
           "enemy_5047_dqripr": {
             "enemyId": "enemy_5047_dqripr",
-            "originalEnemyId": "enemy_1095_ccripr"
+            "originalEnemyId": "enemy_1095_ccripr",
+            "tagType": "tag_single"
           },
           "enemy_5048_dqingd": {
             "enemyId": "enemy_5048_dqingd",
-            "originalEnemyId": "enemy_7002_veingd"
+            "originalEnemyId": "enemy_7002_veingd",
+            "tagType": "tag_single"
           },
           "enemy_5050_dqomg": {
             "enemyId": "enemy_5050_dqomg",
-            "originalEnemyId": "enemy_1221_dzomg"
+            "originalEnemyId": "enemy_1221_dzomg",
+            "tagType": "tag_single"
           },
           "enemy_5051_dqrwar": {
             "enemyId": "enemy_5051_dqrwar",
-            "originalEnemyId": "enemy_1259_durwar"
+            "originalEnemyId": "enemy_1259_durwar",
+            "tagType": "tag_single"
           },
           "enemy_5052_dqsbr": {
             "enemyId": "enemy_5052_dqsbr",
-            "originalEnemyId": "enemy_2043_smsbr"
+            "originalEnemyId": "enemy_2043_smsbr",
+            "tagType": "tag_single"
           },
           "enemy_5053_dqllme": {
             "enemyId": "enemy_5053_dqllme",
-            "originalEnemyId": "enemy_1050_lslime"
+            "originalEnemyId": "enemy_1050_lslime",
+            "tagType": "tag_single"
           },
           "enemy_5055_dqkill": {
             "enemyId": "enemy_5055_dqkill",
-            "originalEnemyId": "enemy_1516_jakill"
+            "originalEnemyId": "enemy_1516_jakill",
+            "tagType": "tag_single"
           },
           "enemy_15001_dqsmwa": {
             "enemyId": "enemy_15001_dqsmwa",
-            "originalEnemyId": "enemy_2046_smwar"
+            "originalEnemyId": "enemy_2046_smwar",
+            "tagType": "tag_single"
           },
           "enemy_15002_dqwing": {
             "enemyId": "enemy_15002_dqwing",
-            "originalEnemyId": "enemy_1388_wingnt"
+            "originalEnemyId": "enemy_1388_wingnt",
+            "tagType": "tag_single"
           },
           "enemy_15003_dqltsw": {
             "enemyId": "enemy_15003_dqltsw",
-            "originalEnemyId": "enemy_1243_ltswar"
+            "originalEnemyId": "enemy_1243_ltswar",
+            "tagType": "tag_single"
           },
           "enemy_15004_dqdhdt": {
             "enemyId": "enemy_15004_dqdhdt",
-            "originalEnemyId": "enemy_1396_dhdts"
+            "originalEnemyId": "enemy_1396_dhdts",
+            "tagType": "tag_single"
           },
           "enemy_15005_dqdsbs": {
             "enemyId": "enemy_15005_dqdsbs",
-            "originalEnemyId": "enemy_1235_dsbskr"
+            "originalEnemyId": "enemy_1235_dsbskr",
+            "tagType": "tag_single"
           },
           "enemy_15006_dqkrgm": {
             "enemyId": "enemy_15006_dqkrgm",
-            "originalEnemyId": "enemy_1194_krgmtr"
+            "originalEnemyId": "enemy_1194_krgmtr",
+            "tagType": "tag_single"
           },
           "enemy_15007_dqbear": {
             "enemyId": "enemy_15007_dqbear",
-            "originalEnemyId": "enemy_2002_bearmi"
+            "originalEnemyId": "enemy_2002_bearmi",
+            "tagType": "tag_single"
           },
           "enemy_15008_dqspsb": {
             "enemyId": "enemy_15008_dqspsb",
-            "originalEnemyId": "enemy_1123_spsbr"
+            "originalEnemyId": "enemy_1123_spsbr",
+            "tagType": "tag_single"
           },
           "enemy_15009_dqmgcs": {
             "enemyId": "enemy_15009_dqmgcs",
-            "originalEnemyId": "enemy_1350_mgcshp"
+            "originalEnemyId": "enemy_1350_mgcshp",
+            "tagType": "tag_single"
           },
           "enemy_15010_dqcadk": {
             "enemyId": "enemy_15010_dqcadk",
-            "originalEnemyId": "enemy_1184_cadkgt"
+            "originalEnemyId": "enemy_1184_cadkgt",
+            "tagType": "tag_single"
           },
           "enemy_15011_dqnhst": {
             "enemyId": "enemy_15011_dqnhst",
-            "originalEnemyId": "enemy_1270_nhstlk"
+            "originalEnemyId": "enemy_1270_nhstlk",
+            "tagType": "tag_single"
           },
           "enemy_15012_dqbsli": {
             "enemyId": "enemy_15012_dqbsli",
-            "originalEnemyId": "enemy_1021_bslime"
+            "originalEnemyId": "enemy_1021_bslime",
+            "tagType": "tag_single"
           },
           "enemy_15013_dqsnsl": {
             "enemyId": "enemy_15013_dqsnsl",
-            "originalEnemyId": "enemy_1067_snslime"
+            "originalEnemyId": "enemy_1067_snslime",
+            "tagType": "tag_single"
           },
           "enemy_15014_dqmmka": {
             "enemyId": "enemy_15014_dqmmka",
-            "originalEnemyId": "enemy_1415_mmkabi"
+            "originalEnemyId": "enemy_1415_mmkabi",
+            "tagType": "tag_single"
           },
           "enemy_15015_dqmerr": {
             "enemyId": "enemy_15015_dqmerr",
-            "originalEnemyId": "enemy_1143_merrpg"
+            "originalEnemyId": "enemy_1143_merrpg",
+            "tagType": "tag_single"
           },
           "enemy_15016_dqdkma": {
             "enemyId": "enemy_15016_dqdkma",
-            "originalEnemyId": "enemy_1225_dkmage"
+            "originalEnemyId": "enemy_1225_dkmage",
+            "tagType": "tag_single"
           },
           "enemy_15017_dqdwlo": {
             "enemyId": "enemy_15017_dqdwlo",
-            "originalEnemyId": "enemy_1275_dwlock"
+            "originalEnemyId": "enemy_1275_dwlock",
+            "tagType": "tag_single"
           },
           "enemy_15018_dqskzc": {
             "enemyId": "enemy_15018_dqskzc",
-            "originalEnemyId": "enemy_2067_skzcy"
+            "originalEnemyId": "enemy_2067_skzcy",
+            "tagType": "tag_single"
           },
           "enemy_15019_dqharc": {
             "enemyId": "enemy_15019_dqharc",
-            "originalEnemyId": "enemy_1133_harchn"
+            "originalEnemyId": "enemy_1133_harchn",
+            "tagType": "tag_single"
           },
           "enemy_15020_dqplas": {
             "enemyId": "enemy_15020_dqplas",
-            "originalEnemyId": "enemy_1137_plasm"
+            "originalEnemyId": "enemy_1137_plasm",
+            "tagType": "tag_single"
           },
           "enemy_15021_dqdurg": {
             "enemyId": "enemy_15021_dqdurg",
-            "originalEnemyId": "enemy_1264_durgrd_2"
+            "originalEnemyId": "enemy_1264_durgrd_2",
+            "tagType": "tag_single"
           },
           "enemy_15022_dqhvys": {
             "enemyId": "enemy_15022_dqhvys",
-            "originalEnemyId": "enemy_1160_hvyslr"
+            "originalEnemyId": "enemy_1160_hvyslr",
+            "tagType": "tag_single"
           },
           "enemy_5054_dqxi": {
             "enemyId": "enemy_5054_dqxi",
-            "originalEnemyId": "enemy_1517_xi"
+            "originalEnemyId": "enemy_1517_xi",
+            "tagType": "tag_single"
           },
           "enemy_15023_dqwlfm": {
             "enemyId": "enemy_15023_dqwlfm",
-            "originalEnemyId": "enemy_1535_wlfmster"
+            "originalEnemyId": "enemy_1535_wlfmster",
+            "tagType": "tag_single"
           },
           "enemy_15024_dqreid": {
             "enemyId": "enemy_15024_dqreid",
-            "originalEnemyId": "enemy_1539_reid"
+            "originalEnemyId": "enemy_1539_reid",
+            "tagType": "tag_single"
           },
           "enemy_15026_dqmtrf": {
             "enemyId": "enemy_15026_dqmtrf",
-            "originalEnemyId": "enemy_1035_haxe_2"
+            "originalEnemyId": "enemy_1035_haxe_2",
+            "tagType": "tag_single"
           },
           "enemy_15027_dqmtrs": {
             "enemyId": "enemy_15027_dqmtrs",
-            "originalEnemyId": "enemy_1060_emouse_2"
+            "originalEnemyId": "enemy_1060_emouse_2",
+            "tagType": "tag_single"
           },
           "enemy_15028_dqmtrb": {
             "enemyId": "enemy_15028_dqmtrb",
-            "originalEnemyId": "enemy_1097_cclmbjk_2"
+            "originalEnemyId": "enemy_1097_cclmbjk_2",
+            "tagType": "tag_single"
           },
           "enemy_15029_dqfrtu": {
             "enemyId": "enemy_15029_dqfrtu",
-            "originalEnemyId": "enemy_1134_diamd"
+            "originalEnemyId": "enemy_1134_diamd",
+            "tagType": "tag_single"
           },
           "enemy_15030_dqsgpr": {
             "enemyId": "enemy_15030_dqsgpr",
-            "originalEnemyId": "enemy_1153_dsexcu_2"
+            "originalEnemyId": "enemy_1153_dsexcu_2",
+            "tagType": "tag_single"
           },
           "enemy_15031_dqhlti": {
             "enemyId": "enemy_15031_dqhlti",
-            "originalEnemyId": "enemy_10044_wintun_2"
+            "originalEnemyId": "enemy_10044_wintun_2",
+            "tagType": "tag_single"
           },
           "enemy_15032_dqhrgr": {
             "enemyId": "enemy_15032_dqhrgr",
-            "originalEnemyId": "enemy_4014_mugnfu"
+            "originalEnemyId": "enemy_4014_mugnfu",
+            "tagType": "tag_single"
           },
           "enemy_15033_dqclif": {
             "enemyId": "enemy_15033_dqclif",
-            "originalEnemyId": "enemy_7015_xbcrab2"
+            "originalEnemyId": "enemy_7015_xbcrab2",
+            "tagType": "tag_single"
           }
         },
         "extraScoreData": {
@@ -272171,6 +273406,9 @@
     }
   },
   "activityItems": {
+    "act48side": [
+      "act48side_token_ostracon"
+    ],
     "act6bossrush": [
       "act6bossrush_milestone_point",
       "act6bossrush_token_relic",
@@ -272694,6 +273932,10 @@
     "act11d7": [
       1623304800,
       1624219199
+    ],
+    "act48side": [
+      1784700000,
+      1785873599
     ],
     "act39sre": [
       1778648400,
@@ -277742,6 +278984,26 @@
       ],
       "picGroups": [],
       "startTs": 1779264000
+    },
+    {
+      "id": "dis_side_48",
+      "type": "ACTIVITY",
+      "funcId": "act48side",
+      "endTs": 1785873599,
+      "sortId": 137,
+      "itemId": "act48side_token_ostracon",
+      "timeNodes": [
+        {
+          "title": "<雅賽努斯復仇記>活動已開放",
+          "ts": 1784700000
+        },
+        {
+          "title": "“街頭戲劇”內關卡已開放",
+          "ts": 1785312000
+        }
+      ],
+      "picGroups": [],
+      "startTs": 1784700000
     }
   ],
   "actFunData": {
@@ -307244,6 +308506,23 @@
     }
   },
   "activityTemplateMissionStyles": {
+    "act48side": {
+      "bigRewardType": "ILLUST_CHAR_REWARD",
+      "bigRewardParamList": [
+        "char_4166_varkis",
+        "通關ME-4後可招募此幹員",
+        "bd5e23",
+        "220,0"
+      ],
+      "isMissionListCommonType": true,
+      "isMissionItemCommonType": false,
+      "isMissionItemCompleteUseMainColor": false,
+      "isMissionRewardItemCommonType": true,
+      "isClaimAllBtnCommonType": false,
+      "titleType": "COMMON",
+      "coinType": "COMMON",
+      "coinBackColor": "d66017"
+    },
     "act39sre": {
       "bigRewardType": "ILLUST_CHAR_REWARD",
       "bigRewardParamList": [
@@ -308258,5 +309537,6 @@
     "act38side": [
       "act38side_cross_day_track_1"
     ]
-  }
+  },
+  "activityStoryReadTipsDatas": []
 }
