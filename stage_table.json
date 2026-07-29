@@ -133155,7 +133155,7 @@
         }
       ],
       "stageId": "act40side_st01",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-ST-1",
       "name": "陳皮菊花茶",
       "description": "四十年的陳皮與今秋新摘的菊花同泡一杯，陳年舊味是否還經得起細品？",
@@ -133229,10 +133229,10 @@
       ],
       "stageId": "act40side_tr01",
       "levelId": "Activities/act40side/level_act40side_tr01",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-TR-1",
       "name": "翡翠墨玉",
-      "description": "爽口前菜。苦瓜與木耳，放入醬油、白砂糖、陳年烏醋，再撒一把辣椒，酸甜苦辣，滋味俱全。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "爽口前菜。苦瓜與木耳，放入醬油、白砂糖、陳年烏醋，再撒一把辣椒，酸甜苦辣，滋味俱全。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
@@ -133303,17 +133303,17 @@
       ],
       "stageId": "act40side_01",
       "levelId": "Activities/act40side/level_act40side_01",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-1",
       "name": "一清二白",
-      "description": "青蔥拌豆腐，若要口味“清清白白”，須得功底深厚。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "青蔥拌豆腐，若要口味“清清白白”，須得功底深厚。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "LV.20",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -133325,7 +133325,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -133339,12 +133339,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133387,13 +133387,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133465,17 +133465,17 @@
       ],
       "stageId": "act40side_02",
       "levelId": "Activities/act40side/level_act40side_02",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-2",
       "name": "糖瓜黏",
-      "description": "“二十三，糖瓜黏，灶君爺爺要上天。上天言好事，壞事把嘴關。”\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "“二十三，糖瓜黏，灶君爺爺要上天。上天言好事，壞事把嘴關。”\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "LV.35",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -133487,7 +133487,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -133501,12 +133501,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133549,13 +133549,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133627,17 +133627,17 @@
       ],
       "stageId": "act40side_03",
       "levelId": "Activities/act40side/level_act40side_03",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-3",
       "name": "油潑扯麵",
-      "description": "有的麵越揉越筋道，越摔打越愛反彈。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "有的麵越揉越筋道，越摔打越愛反彈。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英1 LV.1",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -133649,7 +133649,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "hilightMark": false,
@@ -133663,12 +133663,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133711,13 +133711,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133789,17 +133789,17 @@
       ],
       "stageId": "act40side_04",
       "levelId": "Activities/act40side/level_act40side_04",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-4",
       "name": "雪裡紅",
-      "description": "鮮菜入罈，壓實，封口。待時候到了，罈蓋再壓也壓不住外溢的香氣，封口再牢也總得開蓋。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "鮮菜入罈，壓實，封口。待時候到了，罈蓋再壓也壓不住外溢的香氣，封口再牢也總得開蓋。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英1 LV.20",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -133811,7 +133811,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -133825,12 +133825,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133853,13 +133853,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133907,17 +133907,17 @@
       ],
       "stageId": "act40side_05",
       "levelId": "Activities/act40side/level_act40side_05",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-5",
       "name": "醍醐湯",
-      "description": "飯後茶飲。解得了膩，解不了新愁舊憾，入口雖甘，回味卻苦澀悠遠。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "飯後茶飲。解得了膩，解不了新愁舊憾，入口雖甘，回味卻苦澀悠遠。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英1 LV.30",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -133929,7 +133929,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -133943,12 +133943,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -133971,13 +133971,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134024,7 +134024,7 @@
         }
       ],
       "stageId": "act40side_st02",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-ST-2",
       "name": "雷公栗",
       "description": "要栗子開口，用蠻力最難，且容易自傷。不如一栗沾油，一栗沾水，放入鍋內，再用剩下的栗子蓋住，置於火上炙烤，等待發出雷聲即可。",
@@ -134098,17 +134098,17 @@
       ],
       "stageId": "act40side_06",
       "levelId": "Activities/act40side/level_act40side_06",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-6",
       "name": "勝肉火方",
-      "description": "冬瓜挖空做出肉的造型，其中填入素火腿，再淋上勾芡醬汁——濃油赤醬的“紅燒肉”足以騙過眼睛，卻騙不過嘴。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "冬瓜挖空做出肉的造型，其中填入素火腿，再淋上勾芡醬汁——濃油赤醬的“紅燒肉”足以騙過眼睛，卻騙不過嘴。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英1 LV.50",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134120,7 +134120,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "hilightMark": false,
@@ -134134,12 +134134,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134162,13 +134162,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134216,17 +134216,17 @@
       ],
       "stageId": "act40side_07",
       "levelId": "Activities/act40side/level_act40side_07",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-7",
       "name": "五省盤",
-      "description": "五種牲肉所做的肉盤。“省”亦有省察之意，曾有官員於百珍宴上將其隨諫言獻給真龍。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "五種牲肉所做的肉盤。“省”亦有省察之意，曾有官員於百珍宴上將其隨諫言獻給真龍。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英1 LV.60",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134238,7 +134238,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -134252,12 +134252,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134275,13 +134275,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134323,17 +134323,17 @@
       ],
       "stageId": "act40side_08",
       "levelId": "Activities/act40side/level_act40side_08",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-8",
       "name": "金玉藏心",
-      "description": "炸至金黃的鍋巴如同一個鍋蓋將盤子罩住。待上桌時，敲開鍋巴，其中藏的是什麼菜方才真相大白。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "炸至金黃的鍋巴如同一個鍋蓋將盤子罩住。待上桌時，敲開鍋巴，其中藏的是什麼菜方才真相大白。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英2 LV.10",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownNight",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134345,7 +134345,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -134359,12 +134359,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134382,13 +134382,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134430,17 +134430,17 @@
       ],
       "stageId": "act40side_09",
       "levelId": "Activities/act40side/level_act40side_09",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-9",
       "name": "長壽麵",
-      "description": "長壽麵的好壞從來不在於口味，而在於是誰為壽星做了這碗麵，彼時內心又懷著怎樣的祝福。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "長壽麵的好壞從來不在於口味，而在於是誰為壽星做了這碗麵，彼時內心又懷著怎樣的祝福。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "精英2 LV.20",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownNight",
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134452,7 +134452,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "hilightMark": false,
@@ -134466,12 +134466,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134489,13 +134489,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -134536,7 +134536,7 @@
         }
       ],
       "stageId": "act40side_st03",
-      "zoneId": "act40side_zone1",
+      "zoneId": "act40sre_zone1",
       "code": "OR-ST-3",
       "name": "須問湯",
       "description": "一鍋濁湯，一點清明。與其問道，不如自尋。",
@@ -134610,10 +134610,10 @@
       ],
       "stageId": "act40side_ex01",
       "levelId": "Activities/act40side/level_act40side_ex01",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-1",
       "name": "酸",
-      "description": "為做團圓飯釀的一罈醋，陳釀時間越久，其中滋味越香，卻始終沒有開封的機會。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "為做團圓飯釀的一罈醋，陳釀時間越久，其中滋味越香，卻始終沒有開封的機會。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex01#f#",
       "dangerLevel": "精英1 LV.50",
       "dangerPoint": -1,
@@ -134621,7 +134621,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134633,7 +134633,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -134647,7 +134647,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -134660,7 +134660,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -134700,7 +134700,7 @@
       ],
       "stageId": "act40side_ex01#f#",
       "levelId": "Activities/act40side/level_act40side_ex01",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-1",
       "name": "酸",
       "description": "<@lv.fs>附加條件：</>\n場上出現額外的<@lv.item>“飽食”</>",
@@ -134710,7 +134710,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134722,7 +134722,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -134774,10 +134774,10 @@
       ],
       "stageId": "act40side_ex02",
       "levelId": "Activities/act40side/level_act40side_ex02",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-2",
       "name": "甜",
-      "description": "從炎國寄來的糕點，酥皮表面沾著晶瑩的糖粒。邊啃糕點，邊聽媽媽讀信，是她那些年最期待的事。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "從炎國寄來的糕點，酥皮表面附著著晶瑩的糖粒。邊啃糕點，邊聽媽媽唸出信中的內容，是她那些年最期待的事。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex02#f#",
       "dangerLevel": "精英1 LV.60",
       "dangerPoint": -1,
@@ -134785,7 +134785,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134797,7 +134797,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -134811,7 +134811,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -134824,7 +134824,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -134864,7 +134864,7 @@
       ],
       "stageId": "act40side_ex02#f#",
       "levelId": "Activities/act40side/level_act40side_ex02",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-2",
       "name": "甜",
       "description": "<@lv.fs>附加條件：</>\n場上出現額外的<@lv.item>飄香</>",
@@ -134874,7 +134874,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134886,7 +134886,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "hilightMark": false,
@@ -134938,10 +134938,10 @@
       ],
       "stageId": "act40side_ex03",
       "levelId": "Activities/act40side/level_act40side_ex03",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-3",
       "name": "苦",
-      "description": "粗劣的濃茶泡飯，便是一日的飯食。他低頭扒飯，女兒書房的方向，從不敢多望一眼。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "粗劣的濃茶泡飯，便是一日的飯食。他低頭扒飯，女兒書房的方向，從不敢多望一眼。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex03#f#",
       "dangerLevel": "精英2 LV.1",
       "dangerPoint": -1,
@@ -134949,7 +134949,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -134961,7 +134961,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -134975,7 +134975,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -134988,7 +134988,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135028,7 +135028,7 @@
       ],
       "stageId": "act40side_ex03#f#",
       "levelId": "Activities/act40side/level_act40side_ex03",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-3",
       "name": "苦",
       "description": "<@lv.fs>附加條件：</>\n可部署的箱子數量大幅減少",
@@ -135038,7 +135038,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135050,7 +135050,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135102,10 +135102,10 @@
       ],
       "stageId": "act40side_ex04",
       "levelId": "Activities/act40side/level_act40side_ex04",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-4",
       "name": "辣",
-      "description": "每到冬天，火鍋店的生意總是爆滿。麻辣鮮香的鍋底，熏人眼睛又嗆人鼻子。屋外寒風呼嘯，屋內的客人們卻吃得汗流浹背，熱鬧非凡。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "每到冬天，火鍋店的生意總是爆滿。麻辣鮮香的鍋底，熏人眼睛又嗆人鼻子。屋外寒風呼嘯，屋內的客人們卻吃得汗流浹背，熱鬧非凡。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex04#f#",
       "dangerLevel": "精英2 LV.1",
       "dangerPoint": -1,
@@ -135113,7 +135113,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135125,7 +135125,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135139,7 +135139,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135152,7 +135152,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135192,7 +135192,7 @@
       ],
       "stageId": "act40side_ex04#f#",
       "levelId": "Activities/act40side/level_act40side_ex04",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-4",
       "name": "辣",
       "description": "<@lv.fs>附加條件：</>\n戰場有3個位置無法部署",
@@ -135202,7 +135202,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135214,7 +135214,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135266,10 +135266,10 @@
       ],
       "stageId": "act40side_ex05",
       "levelId": "Activities/act40side/level_act40side_ex05",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-5",
       "name": "鹹",
-      "description": "日新月異的城中，總有他們勞作的身影。醃肉醃菜，鹹鮮適口，是揮汗後不錯的選擇。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "日新月異的城中，總有他們勞作的身影。醃肉醃菜，鹹鮮適口，是揮汗後不錯的選擇。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex05#f#",
       "dangerLevel": "精英2 LV.10",
       "dangerPoint": -1,
@@ -135277,7 +135277,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135289,7 +135289,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135303,7 +135303,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135316,7 +135316,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135356,7 +135356,7 @@
       ],
       "stageId": "act40side_ex05#f#",
       "levelId": "Activities/act40side/level_act40side_ex05",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-5",
       "name": "鹹",
       "description": "<@lv.fs>附加條件：</>\n出現額外的<@lv.item>“裡子”</>",
@@ -135366,7 +135366,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135378,7 +135378,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135430,10 +135430,10 @@
       ],
       "stageId": "act40side_ex06",
       "levelId": "Activities/act40side/level_act40side_ex06",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-6",
       "name": "鮮",
-      "description": "大廚家的孩子，最神氣活現的時候便是掏出飯盒的瞬間。一盒精美鮮香的飯食，大大方方分享給前來圍觀的同學們，自己倒是餓得肚子咕咕叫。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "大廚家的孩子，最神氣活現的時候便是掏出飯盒的瞬間。一盒精美鮮香的飯食，大大方方分享給前來圍觀的同學們，自己倒是餓得肚子咕咕叫。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex06#f#",
       "dangerLevel": "精英2 LV.20",
       "dangerPoint": -1,
@@ -135441,7 +135441,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135453,7 +135453,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135467,7 +135467,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135480,7 +135480,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135520,7 +135520,7 @@
       ],
       "stageId": "act40side_ex06#f#",
       "levelId": "Activities/act40side/level_act40side_ex06",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-6",
       "name": "鮮",
       "description": "<@lv.fs>附加條件：</>\n出現額外的<@lv.item>招財</>",
@@ -135530,7 +135530,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135542,7 +135542,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135594,10 +135594,10 @@
       ],
       "stageId": "act40side_ex07",
       "levelId": "Activities/act40side/level_act40side_ex07",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-7",
       "name": "澀",
-      "description": "院中的柿子，外觀雖好，口味卻澀。只要不去品嚐，便可對其抱有甜美的幻想。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "院中的柿子，外觀雖好，口味卻澀。只要不去品嚐，便可對其抱有甜美的幻想。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex07#f#",
       "dangerLevel": "精英2 LV.35",
       "dangerPoint": -1,
@@ -135605,7 +135605,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135617,7 +135617,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -135631,7 +135631,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135644,7 +135644,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135684,7 +135684,7 @@
       ],
       "stageId": "act40side_ex07#f#",
       "levelId": "Activities/act40side/level_act40side_ex07",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-7",
       "name": "澀",
       "description": "<@lv.fs>附加條件：</>\n<@lv.item><火灶></>和<@lv.item><廢棄火灶></>位置改變，部分敵人類型改變",
@@ -135694,7 +135694,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135706,7 +135706,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -135758,10 +135758,10 @@
       ],
       "stageId": "act40side_ex08",
       "levelId": "Activities/act40side/level_act40side_ex08",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-8",
       "name": "百味靈明",
-      "description": "火中生百味，灶內有乾坤。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "火中生百味，灶內有乾坤。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_ex08#f#",
       "dangerLevel": "精英2 LV.40",
       "dangerPoint": -1,
@@ -135769,7 +135769,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135781,7 +135781,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -135795,7 +135795,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135808,7 +135808,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135848,7 +135848,7 @@
       ],
       "stageId": "act40side_ex08#f#",
       "levelId": "Activities/act40side/level_act40side_ex08",
-      "zoneId": "act40side_zone2",
+      "zoneId": "act40sre_zone2",
       "code": "OR-EX-8",
       "name": "百味靈明",
       "description": "<@lv.fs>附加條件：</>\n<@lv.item><火灶></>所需技力增加",
@@ -135858,7 +135858,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135870,7 +135870,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -135922,10 +135922,10 @@
       ],
       "stageId": "act40side_s01",
       "levelId": "Activities/act40side/level_act40side_sub-1-1",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-1",
-      "name": "周歲宴",
-      "description": "抓周儀式上，小孩懵懂伸手，大人翹首期待。小手向右，喜笑顏開；小手向左，心急如火。茲事體大啊！\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "name": "週歲宴",
+      "description": "抓周儀式上，小孩懵懂伸手，大人翹首期待。小手向右，喜笑顏開；小手向左，心急如火。茲事體大啊！\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_s01#f#",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -135933,7 +135933,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -135945,7 +135945,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -135959,7 +135959,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -135972,7 +135972,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136012,9 +136012,9 @@
       ],
       "stageId": "act40side_s01#f#",
       "levelId": "Activities/act40side/level_act40side_sub-1-1",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-1",
-      "name": "周歲宴",
+      "name": "週歲宴",
       "description": "<@lv.fs>附加條件：</>\n<@lv.item>“廢食”</>召喚技能冷卻時間減少",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -136022,7 +136022,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136034,7 +136034,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -136086,10 +136086,10 @@
       ],
       "stageId": "act40side_s02",
       "levelId": "Activities/act40side/level_act40side_sub-1-2",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-2",
       "name": "新婚宴",
-      "description": "安撫完為禮金不歡而散的父母，應付完喋喋不休說教的遠房親戚，小倆口躲在沒有客人的角落，吃起了已經冷掉的飯菜。如釋重負，相視失笑。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "安撫完為禮金不歡而散的父母，應付完喋喋不休說教的遠房親戚，小倆口躲在沒有客人的角落，吃起了已經冷掉的飯菜。如釋重負，相視失笑。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_s02#f#",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -136097,7 +136097,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136109,7 +136109,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -136123,7 +136123,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136136,7 +136136,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136176,7 +136176,7 @@
       ],
       "stageId": "act40side_s02#f#",
       "levelId": "Activities/act40side/level_act40side_sub-1-2",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-2",
       "name": "新婚宴",
       "description": "<@lv.fs>附加條件：</>\n輔助、特種幹員部署費用提升至3倍",
@@ -136186,7 +136186,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136198,7 +136198,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "hilightMark": false,
@@ -136250,10 +136250,10 @@
       ],
       "stageId": "act40side_s03",
       "levelId": "Activities/act40side/level_act40side_sub-1-3",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-3",
       "name": "壽辰宴",
-      "description": "一年難得齊聚一次，卻還為那一點身外之物，互相攀比誰更會盡孝。不見想念，見了聒噪。然而，端上每個人兒時最愛的菜時，飯桌上緊繃的氣氛漸漸柔和了起來。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "一年難得齊聚一次，卻還為那一點身外之物，互相攀比誰更會盡孝。不見想念，見了聒噪。然而，端上每個人兒時最愛的菜時，飯桌上緊繃的氣氛漸漸柔和了起來。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_s03#f#",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -136261,7 +136261,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136273,7 +136273,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -136287,7 +136287,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136300,7 +136300,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136340,7 +136340,7 @@
       ],
       "stageId": "act40side_s03#f#",
       "levelId": "Activities/act40side/level_act40side_sub-1-3",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-3",
       "name": "壽辰宴",
       "description": "<@lv.fs>附加條件：</>\n<@lv.item>“飲露餐風”</>造成的傷害提升",
@@ -136350,7 +136350,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136362,7 +136362,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -136414,10 +136414,10 @@
       ],
       "stageId": "act40side_s04",
       "levelId": "Activities/act40side/level_act40side_sub-1-4",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-4",
       "name": "白事宴",
-      "description": "兩腿一蹬飄然去，心煩只有在世人。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "兩腿一蹬飄然去，心煩只有在世人。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "hardStagedId": "act40side_s04#f#",
       "dangerLevel": "-",
       "dangerPoint": -1,
@@ -136425,7 +136425,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136437,7 +136437,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -136451,7 +136451,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136464,7 +136464,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136504,7 +136504,7 @@
       ],
       "stageId": "act40side_s04#f#",
       "levelId": "Activities/act40side/level_act40side_sub-1-4",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-S-4",
       "name": "白事宴",
       "description": "<@lv.fs>附加條件：</>\n<@lv.item>無謂</>生命值提升",
@@ -136514,7 +136514,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etCost": -1,
       "etFailReturn": -1,
@@ -136526,7 +136526,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "hilightMark": false,
@@ -136578,10 +136578,10 @@
       ],
       "stageId": "act40side_mo01",
       "levelId": "Activities/act40side/level_act40side_mo01",
-      "zoneId": "act40side_zone3",
+      "zoneId": "act40sre_zone3",
       "code": "OR-MO-1",
       "name": "一日三餐",
-      "description": "吃給別人看的飯，只求光鮮。吃進自己肚子裡的飯，苦甜自知。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對沿途所有我方單位造成真實傷害。",
+      "description": "吃給別人看的飯，只求光鮮。吃進自己肚子裡的飯，苦甜自知。\n<@lv.item><火灶></>召喚“人間煙火”對沿途所有敵方單位造成真實傷害。\n<@lv.item><廢棄火灶></>召喚“飲露餐風”對所有沿途我方單位造成真實傷害。",
       "dangerLevel": "-",
       "dangerPoint": -1,
       "loadingPicId": "loading_OR_downtownDay",
@@ -136614,7 +136614,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -136627,7 +136627,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act40side_token_yumyum",
+            "id": "act40side_token_yumyum_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -307330,6 +307330,666 @@
       "dangerLevel": "",
       "dangerPoint": -1,
       "loadingPicId": "loading_TW_SK",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_01": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_01",
+      "levelId": "Obt/Legion/LT20/level_lt20_01",
+      "zoneId": "tower_n_20",
+      "code": "LT-1",
+      "name": "運道搶險",
+      "description": "<color=#FF4200>初始危險等級：0\n</color>修建一條纜車線路需要充足的前期準備，運輸建材的通道被野生動物和無關人員堵住可不是好事，需要加快腳步清出通道。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_02": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_02",
+      "levelId": "Obt/Legion/LT20/level_lt20_02",
+      "zoneId": "tower_n_20",
+      "code": "LT-2",
+      "name": "作業整備",
+      "description": "<color=#FF4200>初始危險等級：1\n</color>山體坍塌導致支撐塔建造停滯，被破壞的器械需要儘快回收。請小心野獸和被凍住的地面，不要讓自己成為腳滑失控的一員。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_03": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_03",
+      "levelId": "Obt/Legion/LT20/level_lt20_03",
+      "zoneId": "tower_n_20",
+      "code": "LT-3",
+      "name": "內部深入",
+      "description": "<color=#FF4200>初始危險等級：2\n</color>被“不明生物”掏空的部分山體，洞內到處是碎石。從隧道的走向來看，牠似乎已經去尋找更舒適的住處了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_04": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_04",
+      "levelId": "Obt/Legion/LT20/level_lt20_04",
+      "zoneId": "tower_n_20",
+      "code": "LT-4",
+      "name": "新穴聚居",
+      "description": "<color=#FF4200>初始危險等級：3\n</color>凍結的地面與掉落的碎石，吸引了相當多的耐寒動物來此築巢，但比你們先到來的，是偷獵者。如何在驅散動物的同時擊退偷獵者——是時候用上專業裝備了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_05": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_05",
+      "levelId": "Obt/Legion/LT20/level_lt20_05",
+      "zoneId": "tower_n_20",
+      "code": "LT-5",
+      "name": "四方湧現",
+      "description": "<color=#FF4200>初始危險等級：4\n</color>此處不只一個出口，巨型野獸似乎留下了一道選擇題，在做出選擇之前，還是先解決四處湧現的干擾者吧，靠近目的地的地方總是危機四伏。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_06": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_06",
+      "levelId": "Obt/Legion/LT20/level_lt20_06",
+      "zoneId": "tower_n_20",
+      "code": "LT-6",
+      "name": "幽邃盡頭",
+      "description": "<color=#FF4200>初始危險等級：5\n</color>“罪魁禍首”的老巢，山體輕微震動，表明牠還在賣力地挖掘住所。多大的洞穴才能住得舒適呢？好問題，但施佩爾山暫時不提供住所，是時候和牠溝通一下了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_01_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_01_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_01_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-1",
+      "name": "運道搶險",
+      "description": "<color=#FF4200>初始危險等級：2\n</color>修建一條纜車線路需要充足的前期準備，運輸建材的通道被野生動物和無關人員堵住可不是好事，需要加快腳步清出通道。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_02_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_02_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_02_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-2",
+      "name": "作業整備",
+      "description": "<color=#FF4200>初始危險等級：3\n</color>山體坍塌導致支撐塔建造停滯，被破壞的器械需要儘快回收。請小心野獸和被凍住的地面，不要讓自己成為腳滑失控的一員。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_03_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_03_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_03_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-3",
+      "name": "內部深入",
+      "description": "<color=#FF4200>初始危險等級：4\n</color>被“不明生物”掏空的部分山體，洞內到處是碎石。從隧道的走向來看，牠似乎已經去尋找更舒適的住處了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_04_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_04_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_04_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-4",
+      "name": "新穴聚居",
+      "description": "<color=#FF4200>初始危險等級：5\n</color>凍結的地面與掉落的碎石，吸引了相當多的耐寒動物來此築巢，但比你們先到來的，是偷獵者。如何在驅散動物的同時擊退偷獵者——是時候用上專業裝備了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_05_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_05_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_05_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-5",
+      "name": "四方湧現",
+      "description": "<color=#FF4200>初始危險等級：6\n</color>此處不只一個出口，巨型野獸似乎留下了一道選擇題，在做出選擇之前，還是先解決四處湧現的干擾者吧，靠近目的地的地方總是危機四伏。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etCost": 0,
+      "etFailReturn": 0,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 0,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "displayRewards": [],
+        "displayDetailRewards": []
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "isStagePatch": false,
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "lt_20_06_ex": {
+      "stageType": "CLIMB_TOWER",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [],
+      "stageId": "lt_20_06_ex",
+      "levelId": "Obt/Legion/LT20/level_lt20_06_ex",
+      "zoneId": "tower_n_20",
+      "code": "LT-6",
+      "name": "幽邃盡頭",
+      "description": "<color=#FF4200>初始危險等級：7\n</color>“罪魁禍首”的老巢，山體輕微震動，表明牠還在賣力地挖掘住所。多大的洞穴才能住得舒適呢？好問題，但施佩爾山暫時不提供住所，是時候和牠溝通一下了。",
+      "dangerLevel": "",
+      "dangerPoint": -1,
+      "loadingPicId": "loading_TW_KT",
       "canPractice": false,
       "canBattleReplay": false,
       "apCost": 0,
@@ -485917,156 +486577,156 @@
       "endTs": 1761854399
     },
     "act40side_st01": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_tr01": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_01": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_02": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_03": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_04": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_05": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_st02": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_06": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_07": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_08": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_09": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_st03": {
-      "startTs": 1758009600,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex01": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex01#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex02": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex02#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex03": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex03#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex04": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex04#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex05": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex05#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex06": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex06#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex07": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex07#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex08": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_ex08#f#": {
-      "startTs": 1758614400,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s01": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s01#f#": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s02": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s02#f#": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s03": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s03#f#": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s04": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_s04#f#": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act40side_mo01": {
-      "startTs": 1759219200,
-      "endTs": 1759780799
+      "startTs": 1786046400,
+      "endTs": 1786910399
     },
     "act18mini_01": {
       "startTs": 1756195200,
@@ -496412,6 +497072,8 @@
           "tag_13",
           "tag_15"
         ],
+        "reopenActivityId": "act40sre",
+        "retroActivityId": "permanent_sidestory_30_Such_is_the_Joy_of_Our_Reunion",
         "isRecommended": false
       }
     },
