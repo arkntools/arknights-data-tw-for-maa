@@ -464,6 +464,14 @@
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
     },
+    "camp_zone_14": {
+      "zoneID": "camp_zone_14",
+      "zoneIndex": 0,
+      "type": "CAMPAIGN",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
     "camp_zone_15": {
       "zoneID": "camp_zone_15",
       "zoneIndex": 0,
@@ -692,6 +700,33 @@
       "zoneID": "rogue_5",
       "zoneIndex": 5,
       "type": "ROGUELIKE",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act49side_zone1": {
+      "zoneID": "act49side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "霜秋實錄",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act49side_zone2": {
+      "zoneID": "act49side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "望春遺事",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act49side_zone3": {
+      "zoneID": "act49side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "待筆新篇",
       "canPreview": false,
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
@@ -3994,6 +4029,18 @@
     }
   },
   "zoneValidInfo": {
+    "act49side_zone1": {
+      "startTs": 1787040000,
+      "endTs": 1788811199
+    },
+    "act49side_zone2": {
+      "startTs": 1787644800,
+      "endTs": 1788811199
+    },
+    "act49side_zone3": {
+      "startTs": 1788249600,
+      "endTs": 1788811199
+    },
     "act40sre_zone1": {
       "startTs": 1786046400,
       "endTs": 1786910399
