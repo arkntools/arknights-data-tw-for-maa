@@ -215641,6 +215641,34 @@
       }
     ]
   },
+  "sktok_newlamp": {
+    "skillId": "sktok_newlamp",
+    "iconId": "sktok_neonlamp",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "文明的光芒",
+        "rangeId": "x-7",
+        "description": "視野範圍擴大，持續時間永久",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "sktok_newlamp",
+        "duration": 0,
+        "blackboard": {
+          "cost": 20,
+          "range_id1": 0,
+          "range_id2": 0
+        }
+      }
+    ]
+  },
   "sktok_tjgsd": {
     "skillId": "sktok_tjgsd",
     "hidden": false,

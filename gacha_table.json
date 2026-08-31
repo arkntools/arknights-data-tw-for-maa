@@ -4775,6 +4775,21 @@
       }
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_40_0_4",
+      "gachaIndex": 9933,
+      "openTime": 1788379200,
+      "endTime": 1789588799,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於9月17日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAQAAAAY2hhcl8xNzlfY2diaXJkAAJzdWI2UmFyaXR5Q2hhcklkABAAAABjaGFyXzQ3OV9zbGVhY2gABHJhcmU1Q2hhckxpc3QASAAAAAIwABAAAABjaGFyXzM3OF9hc2Jlc3QAAjEADwAAAGNoYXJfMjQyX290dGVyAAIyAA8AAABjaGFyXzE3MV9ibGRzawAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_TC_33_0_3",
       "gachaIndex": 40,
       "openTime": 1752220800,
@@ -4842,6 +4857,20 @@
       "gachaRuleType": "SPECIAL",
       "dynMeta": {
         "base64": "8wQAAANyYXJpdHlQaWNrQ2hhckRpY3QAMwEAAARUSUVSXzUAjgAAAAIwABEAAABjaGFyXzEwMjdfZ3JleXkyAAIxABEAAABjaGFyXzQwODNfY2hpbWVzAAIyAA4AAABjaGFyXzE5NF9sZXRvAAIzAA4AAABjaGFyXzQ4N19ib2JiAAI0ABEAAABjaGFyXzQwNTJfc3VyZmVyAAI1ABAAAABjaGFyXzQyMDNfa2ljaGkAAARUSUVSXzYAkAAAAAIwAA4AAABjaGFyXzQwODBfbGluAAIxABAAAABjaGFyXzQxMjFfenVvbGUAAjIAEAAAAGNoYXJfNDE0NV91bHBpYQACMwARAAAAY2hhcl80MTM4X25hcmFudAACNAARAAAAY2hhcl80MDEwX2V0bGNoaQACNQARAAAAY2hhcl8xMDQyX3BoYXRtMgAAAAJzdGFyNkNob29zZVJ1bGUAlwAAAOacrOacn+OAkOWumuWQkeeUhOmBuOOAkeWPr+W+nuS7peS4izbimIXlubnlk6Hnr4TlnI3lhafoh6rpgbg8QGdhLlNQR2FjaGE+M+WQjeW5ueWToTwvPu+8jOS9v+WFtjxAZ2EuU1BHYWNoYT7lkIjoqIjlh7rnj77mqZ/njofkvZQ24piF5Ye6546H55qEMTAwJTwvPgACc3RhcjVDaG9vc2VSdWxlAJYAAADmnKzmnJ/jgJDlrprlkJHnlITpgbjjgJHlj6/lvp7ku6XkuIs14piF5bm55ZOh56+E5ZyN5YWn6Ieq6YG4PEBnYS5TUEdhY2hhPjPlkI3lubnlk6E8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGE+5ZCI6KiI5Ye654++5qmf546H5L2UNeKYheWHuueOh+eahDYwJTwvPgACZGV0YWlsVGl0bGUAGQAAAOWumuWQkeeUhOmBuOWNoeaxoOS7i+e0uQACZGV0YWlsSW5mbwAEAQAAPEBnYS5TUEdhY2hhPuOAkOWumuWQkeeUhOmBuOOAkTwvPuacn+mWk++8jOWPr+WcqDxAZ2EuU1BHYWNoYT7mnKzmnJ/lubnlk6Hnr4TlnI3lhafoh6rnlLHpgbjmk4fkuKbpjpblrpo8Lz7mqZ/njofmj5DljYfnmoQ8QGdhLlNQR2FjaGE+M+WQjTbimIXlubnlk6E8Lz7lkow8QGdhLlNQR2FjaGE+M+WQjTXimIXlubnlk6E8Lz4KPEBnYS5TUEdhY2hhPuS4gOaXpumBuOWumuapn+eOh+aPkOWNh+W5ueWToeW+jO+8jOacrOacn+S4jeWPr+iuiuabtDwvPuOAggACaG9tZUludHJvRGVzYwD/AAAA5a6a5ZCR55SE6YG45Y+v5Zyo5pys5pyf5bm55ZOh56+E5ZyN5YWnPEBnYS5TUEdhY2hhPuiHqueUsemBuOaTh+S4pumOluWumjwvPuapn+eOh+aPkOWNh+eahDxAZ2EuU1BHYWNoYT4z5ZCNNuKYheW5ueWToeWSjDPlkI014piF5bm55ZOhPC8+77yB6YG45a6a5b6M5pys5pyf5bCL6KiqPEBnYS5TUEdhY2hhPuS4jeWPr+iuiuabtDwvPuOAguWJjTEw5qyh5bCL6Kiq5b+F5a6a542y5b6XPEBnYS5TUEdhY2hhPjXimIU8Lz7ku6XkuIrlubnlk6HvvIEAAA=="
+      }
+    },
+    {
+      "gachaPoolId": "SPECIAL_TC_40_0_6",
+      "gachaIndex": 40,
+      "openTime": 1788163200,
+      "endTime": 1789329599,
+      "gachaPoolName": "定向甄選",
+      "gachaPoolSummary": "結束於9月14日03:59",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "SPECIAL",
+      "dynMeta": {
+        "base64": "+gQAAANyYXJpdHlQaWNrQ2hhckRpY3QAOgEAAARUSUVSXzUAkwAAAAIwABAAAABjaGFyXzQ3Nl9ibGtuZ3QAAjEAEQAAAGNoYXJfNDEyMl9ncmFiZHMAAjIAEAAAAGNoYXJfMTAzNl9mYW5nMgACMwARAAAAY2hhcl80MTc4X2FsYW5uYQACNAARAAAAY2hhcl80MTk2X3JlY2twcgACNQARAAAAY2hhcl80MjA3X2JyYW5jaAAABFRJRVJfNgCSAAAAAjAAEQAAAGNoYXJfMTAxOV9zaWVnZTIAAjEAEAAAAGNoYXJfNDEzM19sb2dvcwACMgARAAAAY2hhcl80MjAyX2hhcnVrYQACMwARAAAAY2hhcl80MTc5X21vbnN0cgACNAAQAAAAY2hhcl80MTQ2X255bXBoAAI1ABAAAABjaGFyXzQwMjdfaGV5YWsAAAACc3RhcjZDaG9vc2VSdWxlAJcAAADmnKzmnJ/jgJDlrprlkJHnlITpgbjjgJHlj6/lvp7ku6XkuIs24piF5bm55ZOh56+E5ZyN5YWn6Ieq6YG4PEBnYS5TUEdhY2hhPjPlkI3lubnlk6E8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGE+5ZCI6KiI5Ye654++5qmf546H5L2UNuKYheWHuueOh+eahDEwMCU8Lz4AAnN0YXI1Q2hvb3NlUnVsZQCWAAAA5pys5pyf44CQ5a6a5ZCR55SE6YG444CR5Y+v5b6e5Lul5LiLNeKYheW5ueWToeevhOWcjeWFp+iHqumBuDxAZ2EuU1BHYWNoYT4z5ZCN5bm55ZOhPC8+77yM5L2/5YW2PEBnYS5TUEdhY2hhPuWQiOioiOWHuuePvuapn+eOh+S9lDXimIXlh7rnjofnmoQ2MCU8Lz4AAmRldGFpbFRpdGxlABkAAADlrprlkJHnlITpgbjljaHmsaDku4vntLkAAmRldGFpbEluZm8ABAEAADxAZ2EuU1BHYWNoYT7jgJDlrprlkJHnlITpgbjjgJE8Lz7mnJ/plpPvvIzlj6/lnKg8QGdhLlNQR2FjaGE+5pys5pyf5bm55ZOh56+E5ZyN5YWn6Ieq55Sx6YG45pOH5Lim6Y6W5a6aPC8+5qmf546H5o+Q5Y2H55qEPEBnYS5TUEdhY2hhPjPlkI024piF5bm55ZOhPC8+5ZKMPEBnYS5TUEdhY2hhPjPlkI014piF5bm55ZOhPC8+CjxAZ2EuU1BHYWNoYT7kuIDml6bpgbjlrprmqZ/njofmj5DljYflubnlk6HlvozvvIzmnKzmnJ/kuI3lj6/orormm7Q8Lz7jgIIAAmhvbWVJbnRyb0Rlc2MA/wAAAOWumuWQkeeUhOmBuOWPr+WcqOacrOacn+W5ueWToeevhOWcjeWFpzxAZ2EuU1BHYWNoYT7oh6rnlLHpgbjmk4fkuKbpjpblrpo8Lz7mqZ/njofmj5DljYfnmoQ8QGdhLlNQR2FjaGE+M+WQjTbimIXlubnlk6Hlkowz5ZCNNeKYheW5ueWToTwvPu+8gemBuOWumuW+jOacrOacn+Wwi+ioqjxAZ2EuU1BHYWNoYT7kuI3lj6/orormm7Q8Lz7jgILliY0xMOasoeWwi+ioquW/heWumueNsuW+lzxAZ2EuU1BHYWNoYT414piFPC8+5Lul5LiK5bm55ZOh77yBAAA="
       }
     }
   ],
