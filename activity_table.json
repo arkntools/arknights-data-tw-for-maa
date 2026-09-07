@@ -93,6 +93,24 @@
       "picGroup": [],
       "usePicGroup": false
     },
+    "act3unique": {
+      "id": "act3unique",
+      "type": "UNIQUE_ONLY",
+      "displayType": "NONE",
+      "name": "鳴羽頌新簽到活動",
+      "startTime": 1788768000,
+      "endTime": 1791403199,
+      "rewardEndTime": 1791403199,
+      "displayOnHome": false,
+      "hasStage": false,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "recType": "CAN_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false,
+      "picGroup": [],
+      "usePicGroup": false
+    },
     "act40sre": {
       "id": "act40sre",
       "type": "TYPE_ACT9D0",
@@ -5386,6 +5404,13 @@
       "showTopBarMenu": true,
       "actTopBarColor": "df462d",
       "actTopBarText": "幸運牆登入活動"
+    },
+    "act3unique": {
+      "actId": "act3unique",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "2241e8",
+      "actTopBarText": "鳴羽頌新簽到活動"
     },
     "act7collection": {
       "actId": "act7collection",
@@ -279588,6 +279613,9 @@
     },
     "act1flip": {
       "base64": "4QEAAAJydWxlRGVzYwCFAAAA5q+P5pel55m75YWl5Y+v6YCy6KGM5LiA5qyh56WI6aGY77yM5Zyo56WI6aGY5Lit5pyJ5qmf546H542y5b6X5LiA5qyh6aGN5aSW55qE56WI6aGY5qmf5pyD44CC56WI6aGY5qmf5pyD5q+P5pel5Yi35paw5LiN5Y+v57Sv6KiI44CCAAJncmFuZFByaXplRGVzYwAuAAAA57+76ZaL5YWo6YOo56WI6aGY54mM5b6M5Y+v542y5b6X56WI6aGY5aSn542OAARpZ25vcmVQb3MAMQAAABIwAA4AAAAAAAAAEjEADwAAAAAAAAASMgATAAAAAAAAABIzABQAAAAAAAAAABJncmlkQW1vdW50ABQAAAAAAAAABHNob3dQcml6ZUlkACUAAAACMAAJAAAAcHJpemVfMTYAAjEACQAAAHByaXplXzE1AAADZ3JhbmRSZXdhcmRzAEEAAAACaWQAEQAAAGl0ZW1wYWNrX2dhY2hhXzEAEmNvdW50AAEAAAAAAAAAAnR5cGUACgAAAElURU1fUEFDSwAAA2FwU3VwcGx5T3V0T2ZEYXRlRGljdAAfAAAAEmFwX3N1cHBseV9sdF8xMjAAP8iRZQAAAAAAAA=="
+    },
+    "act3unique": {
+      "base64": "JQEAAARpdGVtTGlzdAAWAQAAAzAAewAAAANyZXdhcmRJdGVtADUAAAACaWQABQAAADcwMDMAEmNvdW50AAEAAAAAAAAAAnR5cGUACgAAAFRLVF9HQUNIQQAACG5lZWRTdG9yYWdlQ2hlY2sAAAh1c2VJdGVtTmFtZUljb24AAAppdGVtTmFtZUljb25JZAAAAzEAkAAAAANyZXdhcmRJdGVtAEoAAAACaWQAFgAAAGF2YXRhcl9hY3Rpdml0eV9wY0FjdAASY291bnQAAQAAAAAAAAACdHlwZQAOAAAAUExBWUVSX0FWQVRBUgAACG5lZWRTdG9yYWdlQ2hlY2sAAAh1c2VJdGVtTmFtZUljb24AAAppdGVtTmFtZUljb25JZAAAAAA="
     },
     "act2unique": {
       "base64": "NAEAAARpdGVtTGlzdAAlAQAAAzAAlAAAAANyZXdhcmRJdGVtAE4AAAACaWQAGwAAAHZvdWNoZXJfcmVjcnVpdFI2X3BpY2s2NDAxABJjb3VudAABAAAAAAAAAAJ0eXBlAA0AAABWT1VDSEVSX1BJQ0sAAAhuZWVkU3RvcmFnZUNoZWNrAAAIdXNlSXRlbU5hbWVJY29uAAAKaXRlbU5hbWVJY29uSWQAAAMxAIYAAAADcmV3YXJkSXRlbQBAAAAAAmlkAA0AAAB2b3VjaGVyX3NraW4AEmNvdW50AAEAAAAAAAAAAnR5cGUADQAAAFZPVUNIRVJfU0tJTgAACG5lZWRTdG9yYWdlQ2hlY2sAAAh1c2VJdGVtTmFtZUljb24AAAppdGVtTmFtZUljb25JZAAAAAA="
