@@ -58798,6 +58798,408 @@
       }
     ]
   },
+  "skchr_liesel_1": {
+    "skillId": "skchr_liesel_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.2
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.3
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.4
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.5
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.6
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能1次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.7
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能2次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.8
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能2次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.9
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能2次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2
+        }
+      },
+      {
+        "name": "合奏起拍",
+        "description": "下一次攻擊濺射範圍<@ba.vup>擴大</>，造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害\n<@ba.rem>可充能2次</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 2,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_1",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 2.1
+        }
+      }
+    ]
+  },
+  "skchr_liesel_2": {
+    "skillId": "skchr_liesel_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.05,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.1
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.1,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.1
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.2,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.1
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.3,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.15
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.4,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.2
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.5,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.25
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.6,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.3
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.7,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.3
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.75,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.35
+        }
+      },
+      {
+        "name": "直到終曲",
+        "description": "濺射範圍<@ba.vup>擴大</>且立即對攻擊範圍內<@ba.vup>3</>個目標造成相當於攻擊力<@ba.vup>{atk_scale:0%}</>的法術傷害，並使攻擊到的所有敵人在6秒內每秒受到相當於復奏攻擊力<@ba.vup>{liesel_s_2[dot].atk_scale:0%}</>的法術傷害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_liesel_2",
+        "duration": -1,
+        "blackboard": {
+          "atk_scale": 1.8,
+          "max_target_cnt": 3,
+          "liesel_s_2[dot].duration": 6,
+          "liesel_s_2[dot].atk_scale": 0.35
+        }
+      }
+    ]
+  },
   "skchr_tecno_1": {
     "skillId": "skchr_tecno_1",
     "hidden": false,
@@ -182635,6 +183037,654 @@
       }
     ]
   },
+  "skchr_demetr_1": {
+    "skillId": "skchr_demetr_1",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1.5
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1.6
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1.7
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1.8
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 1.9
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 2
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 2.1
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 2.2
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 2.3
+        }
+      },
+      {
+        "name": "家主的餘裕",
+        "description": "下次攻擊對目標造成兩次相當於攻擊力<@ba.vup>{atk_scale:0%}</>的物理傷害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_1",
+        "duration": 0,
+        "blackboard": {
+          "atk_scale": 2.5
+        }
+      }
+    ]
+  },
+  "skchr_demetr_2": {
+    "skillId": "skchr_demetr_2",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk_scale": 1.4,
+          "attack@max_target": 2,
+          "attack_speed": 30
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk_scale": 1.45,
+          "attack@max_target": 2,
+          "attack_speed": 30
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 12,
+        "blackboard": {
+          "attack@atk_scale": 1.5,
+          "attack@max_target": 2,
+          "attack_speed": 40
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 1.55,
+          "attack@max_target": 3,
+          "attack_speed": 40
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 1.6,
+          "attack@max_target": 3,
+          "attack_speed": 50
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 15,
+        "blackboard": {
+          "attack@atk_scale": 1.65,
+          "attack@max_target": 3,
+          "attack_speed": 50
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 18,
+        "blackboard": {
+          "attack@atk_scale": 1.7,
+          "attack@max_target": 3,
+          "attack_speed": 60
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 19,
+        "blackboard": {
+          "attack@atk_scale": 1.8,
+          "attack@max_target": 3,
+          "attack_speed": 70
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 20,
+        "blackboard": {
+          "attack@atk_scale": 1.9,
+          "attack@max_target": 3,
+          "attack_speed": 70
+        }
+      },
+      {
+        "name": "軍師的手段",
+        "rangeId": "3-13",
+        "description": "攻擊範圍擴大，攻擊速度<@ba.vup>+{attack_speed}</>，每次攻擊對<@ba.vup>{attack@max_target}</>名目標造成相當於攻擊力<@ba.vup>{attack@atk_scale:0%}</>的物理傷害；技能期間第一天賦使目標防禦力降低的效果改為最多疊加<@ba.vup>8</>次，並且疊滿後對目標造成持續的<$ba.sluggish>停頓</>效果",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 14,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_2",
+        "duration": 22,
+        "blackboard": {
+          "attack@atk_scale": 2,
+          "attack@max_target": 3,
+          "attack_speed": 80
+        }
+      }
+    ]
+  },
+  "skchr_demetr_3": {
+    "skillId": "skchr_demetr_3",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 17,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 20,
+          "attack@demetr_s3[bonus].atk": 0.8,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.3,
+          "attack@demetr_s3[bonus].prob": 0.3,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 18,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 20,
+          "attack@demetr_s3[bonus].atk": 0.9,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.3,
+          "attack@demetr_s3[bonus].prob": 0.3,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 19,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 20,
+          "attack@demetr_s3[bonus].atk": 1,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.3,
+          "attack@demetr_s3[bonus].prob": 0.3,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 20,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 30,
+          "attack@demetr_s3[bonus].atk": 1.1,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.4,
+          "attack@demetr_s3[bonus].prob": 0.35,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 21,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 30,
+          "attack@demetr_s3[bonus].atk": 1.2,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.4,
+          "attack@demetr_s3[bonus].prob": 0.35,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 22,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 30,
+          "attack@demetr_s3[bonus].atk": 1.3,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.4,
+          "attack@demetr_s3[bonus].prob": 0.35,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 39,
+          "initSp": 23,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 40,
+          "attack@demetr_s3[bonus].atk": 1.4,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.5,
+          "attack@demetr_s3[bonus].prob": 0.4,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 24,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 40,
+          "attack@demetr_s3[bonus].atk": 1.5,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.6,
+          "attack@demetr_s3[bonus].prob": 0.45,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 25,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 40,
+          "attack@demetr_s3[bonus].atk": 1.6,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.7,
+          "attack@demetr_s3[bonus].prob": 0.45,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      },
+      {
+        "name": "清算",
+        "description": "攻擊力<@ba.vup>+{attack@demetr_s3[bonus].atk:0%}</>，攻擊速度<@ba.vup>+{attack@demetr_s3[bonus].attack_speed}</>，攻擊時有<@ba.vup>{attack@demetr_s3[bonus].prob:0%}</>的機率造成相當於攻擊力<@ba.vup>{attack@demetr_s3[bonus].prob_atk_scale:0%}</>的物理傷害；技能開啟後立即選取自身周圍一定範圍內的一名地面目標，若其所在位置可部署，自身會<$ba.addash>移動</>至目標所在位置進行攻擊；自身攻擊的精英、領袖敵人被擊倒，或自身持續<@ba.vup>1</>秒未進行攻擊時，會立即重新選取目標\n<@ba.rem>受到致命傷害時不撤退但會結束技能，技能結束後返回初始位置</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 27,
+          "increment": 1
+        },
+        "prefabId": "skchr_demetr_3",
+        "duration": 30,
+        "blackboard": {
+          "attack@demetr_s3[bonus].attack_speed": 50,
+          "attack@demetr_s3[bonus].atk": 1.7,
+          "attack@demetr_s3[bonus].prob_atk_scale": 1.85,
+          "attack@demetr_s3[bonus].prob": 0.5,
+          "attack@demetr_s3[target_timer].time_stack": 2,
+          "attack@finish_listener_duration": 3,
+          "attack@demetr_s3[target_timer].interval": 0.5
+        }
+      }
+    ]
+  },
   "skchr_svrash_1": {
     "skillId": "skchr_svrash_1",
     "iconId": "skcom_powerstrike[3]",
@@ -197957,6 +199007,28 @@
           "blower_s_character[vertical].atk": 0,
           "blower_s_character[opposite].atk": -0.3,
           "blower_s_enemy[equal].move_speed": 0.8,
+          "blower_s_enemy[opposite].move_speed": -0.5
+        }
+      },
+      {
+        "name": "氣流",
+        "description": "向前方3格吹出氣流；與氣流<@ba.vup>同向</>/<@ba.vdown>逆向</>部署的幹員攻擊<@ba.vup>提升</>/<@ba.vdown>降低</>；<@ba.vdown>同向</>/<@ba.vup>逆向</>移動的敵人移速<@ba.vdown>提升</>/<@ba.vup>降低</>",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0
+        },
+        "prefabId": "sktok_blower",
+        "duration": 0,
+        "blackboard": {
+          "blower_s_character[equal].atk": 0.3,
+          "blower_s_character[vertical].atk": 0,
+          "blower_s_character[opposite].atk": -0.3,
+          "blower_s_enemy[equal].move_speed": 0.5,
           "blower_s_enemy[opposite].move_speed": -0.5
         }
       }
@@ -213362,7 +214434,7 @@
     "levels": [
       {
         "name": "炎國短刀",
-        "description": "每開啟一次技能，獲得5%的攻擊力加成（最多疊加10次）",
+        "description": "每開啟一次技能，獲得<@ba.vup>5%</>的攻擊力加成（最多疊加10次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213384,7 +214456,7 @@
     "levels": [
       {
         "name": "炎國短刀",
-        "description": "每開啟一次技能，獲得8%的攻擊力加成（最多疊加10次）",
+        "description": "每開啟一次技能，獲得<@ba.vup>8%</>的攻擊力加成（最多疊加10次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213406,7 +214478,7 @@
     "levels": [
       {
         "name": "維式重鎚",
-        "description": "攻擊力+10%",
+        "description": "攻擊力<@ba.vup>+15%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213428,7 +214500,7 @@
     "levels": [
       {
         "name": "維式重鎚",
-        "description": "攻擊力+20%",
+        "description": "攻擊力<@ba.vup>+25%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213450,7 +214522,7 @@
     "levels": [
       {
         "name": "灼燃維式重鎚",
-        "description": "攻擊力+25%；造成法術傷害附帶相當於10%傷害的<$ba.dt.burning2>灼燃損傷</>",
+        "description": "攻擊力<@ba.vup>+30%</>；造成法術傷害附帶相當於<@ba.vup>10%</>傷害的<$ba.dt.burning2>灼燃損傷</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213472,7 +214544,7 @@
     "levels": [
       {
         "name": "灼燃維式重鎚",
-        "description": "攻擊力+40%；造成法術傷害附帶相當於10%傷害的<$ba.dt.burning2>灼燃損傷</>",
+        "description": "攻擊力<@ba.vup>+50%</>；造成法術傷害附帶相當於<@ba.vup>10%</>傷害的<$ba.dt.burning2>灼燃損傷</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213494,7 +214566,7 @@
     "levels": [
       {
         "name": "堅固維式重鎚",
-        "description": "攻擊力+25%；首次受到致命傷害時生命值不低於1，持續15秒",
+        "description": "攻擊力<@ba.vup>+25%</>；首次受到致命傷害時生命值不低於<@ba.vup>1</>，持續8秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213516,7 +214588,7 @@
     "levels": [
       {
         "name": "堅固維式重鎚",
-        "description": "攻擊力+40%；首次受到致命傷害時生命值不低於1，持續15秒",
+        "description": "攻擊力<@ba.vup>+45%</>；首次受到致命傷害時生命值不低於<@ba.vup>1</>，持續8秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213538,7 +214610,7 @@
     "levels": [
       {
         "name": "加速維式重鎚",
-        "description": "攻擊力+25%；攻擊速度+30",
+        "description": "攻擊力<@ba.vup>+25%</>；攻擊速度<@ba.vup>+30</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213560,7 +214632,7 @@
     "levels": [
       {
         "name": "加速維式重鎚",
-        "description": "攻擊力+40%；攻擊速度+30",
+        "description": "攻擊力<@ba.vup>+45%</>；攻擊速度<@ba.vup>+30</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213582,7 +214654,7 @@
     "levels": [
       {
         "name": "戰慄維式重鎚",
-        "description": "攻擊力+25%；若攜帶者是地面幹員，則攻擊時有8%機率使目標<$ba.tremble>戰慄</>2秒",
+        "description": "攻擊力<@ba.vup>+20%</>；若攜帶者是地面幹員則攻擊時有10%機率使目標<$ba.tremble>戰慄</>2秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213604,7 +214676,7 @@
     "levels": [
       {
         "name": "戰慄維式重鎚",
-        "description": "攻擊力+40%；若攜帶者是地面幹員，則攻擊時有8%機率使目標<$ba.tremble>戰慄</>2秒",
+        "description": "攻擊力<@ba.vup>+35%</>；若攜帶者是地面幹員則攻擊時有10%機率使目標<$ba.tremble>戰慄</>2秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213626,7 +214698,7 @@
     "levels": [
       {
         "name": "阿戈爾重刃",
-        "description": "攻擊力+35%，攻擊速度-10",
+        "description": "攻擊力<@ba.vup>+40%</>，攻擊速度<@ba.vdown>-10</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213648,7 +214720,7 @@
     "levels": [
       {
         "name": "阿戈爾重刃",
-        "description": "攻擊力+60%，攻擊速度-10",
+        "description": "攻擊力<@ba.vup>+60%</>，攻擊速度<@ba.vdown>-10</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213670,7 +214742,7 @@
     "levels": [
       {
         "name": "堅守盾牌",
-        "description": "防禦力+35%",
+        "description": "防禦力<@ba.vup>+20%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213692,7 +214764,7 @@
     "levels": [
       {
         "name": "堅守盾牌",
-        "description": "防禦力+60%",
+        "description": "防禦力<@ba.vup>+35%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213713,8 +214785,8 @@
     "hidden": false,
     "levels": [
       {
-        "name": "口袋法陣",
-        "description": "法術抗性+20",
+        "name": "奧術法陣",
+        "description": "法術抗性<@ba.vup>+20</>，攻擊使目標失去特殊能力<@ba.vup>5</>秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213735,8 +214807,8 @@
     "hidden": false,
     "levels": [
       {
-        "name": "口袋法陣",
-        "description": "法術抗性+35",
+        "name": "奧術法陣",
+        "description": "法術抗性<@ba.vup>+30</>，攻擊使目標失去特殊能力<@ba.vup>5</>秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213758,7 +214830,7 @@
     "levels": [
       {
         "name": "歌利亞頭盔",
-        "description": "生命值+35%；部署時若身前一格沒有其他幹員，生命值額外+25%",
+        "description": "生命值<@ba.vup>+25%</>；部署時若身前一格沒有其他幹員，生命值額外<@ba.vup>+15%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213780,7 +214852,7 @@
     "levels": [
       {
         "name": "歌利亞頭盔",
-        "description": "生命值+60%；部署時若身前一格沒有其他幹員，生命值額外+40%",
+        "description": "生命值<@ba.vup>+45%</>；部署時若身前一格沒有其他幹員，生命值額外<@ba.vup>+25%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213802,7 +214874,7 @@
     "levels": [
       {
         "name": "薩爾貢濃茶",
-        "description": "技力自然回復速度+0.15/秒",
+        "description": "技力自然回復速度<@ba.vup>+0.15</>/秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213824,7 +214896,7 @@
     "levels": [
       {
         "name": "薩爾貢濃茶",
-        "description": "技力自然回復速度+0.25/秒",
+        "description": "技力自然回復速度<@ba.vup>+0.25</>/秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213846,7 +214918,7 @@
     "levels": [
       {
         "name": "迅捷作戰糧",
-        "description": "部署時，獲得3點技力；每有一個同盟約的其他幹員，額外獲得3點技力",
+        "description": "部署時，獲得<@ba.vup>3</>點技力；每有一個同盟約的其他幹員，額外獲得<@ba.vup>3</>點技力",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213868,7 +214940,7 @@
     "levels": [
       {
         "name": "迅捷作戰糧",
-        "description": "部署時，獲得6點技力；每有一個同盟約的其他幹員，額外獲得6點技力",
+        "description": "部署時，獲得<@ba.vup>6</>點技力；每有一個同盟約的其他幹員，額外獲得<@ba.vup>6</>點技力",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213890,7 +214962,7 @@
     "levels": [
       {
         "name": "有限加速器",
-        "description": "每次攻擊或治療後，本場戰鬥中攻擊速度+1，最高60層",
+        "description": "每次攻擊或治療後，本場戰鬥中攻擊速度<@ba.vup>+1</>，最高60層",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213912,7 +214984,7 @@
     "levels": [
       {
         "name": "有限加速器",
-        "description": "每次攻擊或治療後，本場戰鬥中攻擊速度+2，最高60層",
+        "description": "每次攻擊或治療後，本場戰鬥中攻擊速度<@ba.vup>+2</>，最高60層",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213934,7 +215006,7 @@
     "levels": [
       {
         "name": "鐳射發射器",
-        "description": "攻擊無視目標25%法術抗性",
+        "description": "攻擊無視目標<@ba.vup>25%</>法術抗性",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213956,7 +215028,7 @@
     "levels": [
       {
         "name": "鐳射發射器",
-        "description": "攻擊無視目標40%法術抗性",
+        "description": "攻擊無視目標<@ba.vup>45%</>法術抗性",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -213978,7 +215050,7 @@
     "levels": [
       {
         "name": "蜂鳴器",
-        "description": "更容易受到攻擊",
+        "description": "更容易受到攻擊，生命值<@ba.vup>+40%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214000,7 +215072,7 @@
     "levels": [
       {
         "name": "蜂鳴器",
-        "description": "更容易受到攻擊，生命值+30%",
+        "description": "更容易受到攻擊，生命值<@ba.vup>+60%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214022,7 +215094,7 @@
     "levels": [
       {
         "name": "偽裝服",
-        "description": "部署後25秒內獲得<$ba.camou>迷彩</>",
+        "description": "首次受到傷害後獲得<$ba.invisible>隱匿</>，持續15秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214044,7 +215116,7 @@
     "levels": [
       {
         "name": "偽裝服",
-        "description": "部署後50秒內獲得<$ba.camou>迷彩</>",
+        "description": "首次受到傷害後獲得<$ba.invisible>隱匿</>，持續25秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214066,7 +215138,7 @@
     "levels": [
       {
         "name": "不屈彈射器",
-        "description": "再部署時間-30%，生命值-30%",
+        "description": "再部署時間<@ba.vup>-30%</>，生命值<@ba.vdown>-30%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214088,7 +215160,7 @@
     "levels": [
       {
         "name": "不屈彈射器",
-        "description": "再部署時間-50%，生命值-30%",
+        "description": "再部署時間<@ba.vup>-50%</>，生命值<@ba.vdown>-30%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214110,7 +215182,7 @@
     "levels": [
       {
         "name": "拉特蘭橋夾",
-        "description": "子彈類技能首次剩餘一發子彈時有40%機率恢復40%的子彈",
+        "description": "子彈類技能剩餘一發子彈時有50%機率恢復40%的子彈（每次部署最多觸發3次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214132,7 +215204,7 @@
     "levels": [
       {
         "name": "拉特蘭橋夾",
-        "description": "子彈類技能首次剩餘一發子彈時有70%機率恢復40%的子彈",
+        "description": "子彈類技能剩餘一發子彈時有60%機率恢復60%的子彈（每次部署最多觸發3次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214198,7 +215270,7 @@
     "levels": [
       {
         "name": "濃縮嗅鹽",
-        "description": "生命值大於80%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
+        "description": "生命值大於70%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214220,7 +215292,7 @@
     "levels": [
       {
         "name": "濃縮嗅鹽",
-        "description": "生命值大於50%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
+        "description": "生命值大於40%時，免疫<$ba.stun>暈眩</>、<$ba.frozen>凍結</>等特殊狀態",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214242,7 +215314,7 @@
     "levels": [
       {
         "name": "防暴盾",
-        "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低40%",
+        "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低<@ba.vup>40%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214264,7 +215336,7 @@
     "levels": [
       {
         "name": "防暴盾",
-        "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低70%",
+        "description": "阻擋敵人時，受到來自非自身阻擋單位的傷害降低<@ba.vup>70%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214330,7 +215402,7 @@
     "levels": [
       {
         "name": "謝拉格不融冰",
-        "description": "攻擊時有18%機率對目標施加1秒的<$ba.cold>寒冷</>",
+        "description": "攻擊時有12%機率對目標施加1.5秒的<$ba.cold>寒冷</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214352,7 +215424,7 @@
     "levels": [
       {
         "name": "謝拉格不融冰",
-        "description": "攻擊時有30%機率對目標施加1秒的<$ba.cold>寒冷</>",
+        "description": "攻擊時有20%機率對目標施加1.5秒的<$ba.cold>寒冷</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214374,7 +215446,7 @@
     "levels": [
       {
         "name": "精準狙擊鏡",
-        "description": "攻擊距離自身3格及以上的目標時，傷害提高25%",
+        "description": "攻擊距離自身3格以上的目標時，傷害提高<@ba.vup>30%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214396,7 +215468,7 @@
     "levels": [
       {
         "name": "精準狙擊鏡",
-        "description": "攻擊距離自身3格及以上的目標時，傷害提高40%",
+        "description": "攻擊距離自身3格以上的目標時，傷害提高<@ba.vup>50%</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214418,7 +215490,7 @@
     "levels": [
       {
         "name": "突襲手榴彈",
-        "description": "每次部署後的8秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
+        "description": "每次部署後的10秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214440,7 +215512,7 @@
     "levels": [
       {
         "name": "突襲手榴彈",
-        "description": "每次部署後的12秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
+        "description": "每次部署後的15秒內，攻擊時使目標<$ba.stun>暈眩</>2秒",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214462,7 +215534,7 @@
     "levels": [
       {
         "name": "休眠子裔",
-        "description": "每攻擊1個目標，回復自身2%最大生命值",
+        "description": "每攻擊1個目標，回復自身<@ba.vup>2%</>最大生命值",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214484,7 +215556,7 @@
     "levels": [
       {
         "name": "休眠子裔",
-        "description": "每攻擊1個目標，回復自身4%最大生命值",
+        "description": "每攻擊1個目標，回復自身<@ba.vup>4%</>最大生命值",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214505,8 +215577,8 @@
     "hidden": false,
     "levels": [
       {
-        "name": "幸運硬幣",
-        "description": "裝備時銷毀，並隨機獲得1~6資金",
+        "name": "盟約之幣",
+        "description": "裝備時銷毀，並獲得<@ba.vup>1</>資金",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214527,8 +215599,8 @@
     "hidden": false,
     "levels": [
       {
-        "name": "幸運硬幣",
-        "description": "裝備時銷毀，並隨機獲得2~12資金",
+        "name": "盟約之幣",
+        "description": "裝備時銷毀，並獲得<@ba.vup>2</>資金",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214550,7 +215622,7 @@
     "levels": [
       {
         "name": "雙模機械臂",
-        "description": "攻擊力+10%，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
+        "description": "攻擊力<@ba.vup>+30%</>，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214572,7 +215644,7 @@
     "levels": [
       {
         "name": "雙模機械臂",
-        "description": "攻擊力+20%，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
+        "description": "攻擊力<@ba.vup>+50%</>，自身造成物理和法術傷害時，傷害類型轉化為<$ba.weaknessatk>弱點傷害</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214594,7 +215666,7 @@
     "levels": [
       {
         "name": "M3繭甲",
-        "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅1次）",
+        "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅<@ba.vup>1</>次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214616,7 +215688,7 @@
     "levels": [
       {
         "name": "M3繭甲",
-        "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅2次）",
+        "description": "戰鬥階段被擊倒時立刻復活（一場戰鬥僅<@ba.vup>2</>次）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214858,7 +215930,7 @@
     "levels": [
       {
         "name": "商業包裝方案",
-        "description": "每出售8名幹員，額外獲得一個此裝備攜帶者的初始同名幹員",
+        "description": "每出售8名幹員，額外獲得一個與此裝備攜帶者的同盟約初始幹員（不高於目前調度中心等級）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214880,7 +215952,7 @@
     "levels": [
       {
         "name": "商業包裝方案",
-        "description": "每出售6名幹員，額外獲得一個此裝備攜帶者的初始同名幹員",
+        "description": "每出售7名幹員，額外獲得一個與此裝備攜帶者的同盟約初始幹員（不高於目前調度中心等級）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214902,7 +215974,7 @@
     "levels": [
       {
         "name": "傳呼模組",
-        "description": "裝備時銷毀，立即特殊更新一次商店，僅出現與該幹員有相同盟約的幹員",
+        "description": "裝備時銷毀，立即特殊更新一次調度中心，出現三名與該幹員有相同盟約的幹員，免費獲得其中一名！（不高於目前調度中心等級）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214924,7 +215996,7 @@
     "levels": [
       {
         "name": "傳呼模組",
-        "description": "裝備時銷毀，立即特殊更新一次商店，僅出現與該幹員有相同盟約的幹員",
+        "description": "裝備時銷毀，立即特殊更新一次調度中心，出現三名與該幹員有相同盟約的幹員，免費獲得其中一名！（不高於目前調度中心等級）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214946,7 +216018,7 @@
     "levels": [
       {
         "name": "銃騎之威",
-        "description": "攻擊力+35%；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成150%攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時攜帶“拉特蘭橋夾”，子彈傷害改為300%攻擊力</>",
+        "description": "攻擊力<@ba.vup>+40%</>；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成<@ba.vup>150%</>攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時裝備“拉特蘭橋夾”，子彈傷害改為<@ba.vup>300%</>攻擊力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214968,7 +216040,7 @@
     "levels": [
       {
         "name": "銃騎之威",
-        "description": "攻擊力+60%；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成150%攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時攜帶“拉特蘭橋夾”，子彈傷害改為300%攻擊力</>",
+        "description": "攻擊力<@ba.vup>+60%</>；若攜帶者為【拉特蘭】盟約幹員，該幹員每次攻擊時，有35%機率額外對攻擊範圍內一名敵人發射子彈造成<@ba.vup>150%</>攻擊力的物理傷害\n<@ba.acrem>若該【拉特蘭】盟約幹員同時裝備“拉特蘭橋夾”，子彈傷害改為<@ba.vup>300%</>攻擊力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -214990,7 +216062,7 @@
     "levels": [
       {
         "name": "天師古鼎",
-        "description": "生命值+45%；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員，戰鬥開始後攻擊速度+25（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時攜帶“炎國短刀”，每次獲得幹員時獲得2資金（每回合最多3次）</>",
+        "description": "生命值<@ba.vup>+45%</>；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員戰鬥開始後攻擊速度<@ba.vup>+25</>（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時裝備“炎國短刀”，每次獲得幹員時獲得<@ba.vup>2</>資金（每回合最多3次）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215012,7 +216084,7 @@
     "levels": [
       {
         "name": "天師古鼎",
-        "description": "生命值+70%；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員，戰鬥開始後攻擊速度+25（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時攜帶“炎國短刀”，每次獲得幹員時獲得2資金（每回合最多3次）</>",
+        "description": "生命值<@ba.vup>+70%</>；若攜帶者為【炎】盟約幹員，本回合每獲得過1名幹員戰鬥開始後攻擊速度<@ba.vup>+25</>（最多3層）\n<@ba.acrem>若該【炎】盟約幹員同時裝備“炎國短刀”，每次獲得幹員時獲得<@ba.vup>2</>資金（每回合最多3次）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215034,7 +216106,7 @@
     "levels": [
       {
         "name": "海溝實驗體",
-        "description": "受到的傷害-180點；若攜帶者為【阿戈爾】盟約幹員，該幹員觸發【阿戈爾】盟約<@ba.vup>吞噬</>效果的範圍改為周圍四格，並讓【阿戈爾】盟約獲得對應層數\n<@ba.acrem>若該【阿戈爾】盟約幹員同時攜帶“阿戈爾重刃”，<@ba.vup>吞噬</>周圍四格幹員時額外獲得其等量生命值</>",
+        "description": "獲得<@ba.vup>180</>點<$ba.dmgresistance>傷害減免</>；若攜帶者為【阿戈爾】盟約幹員，自身受到傷害時對傷害來源造成自身攻擊力<@ba.vup>50%</>的法術傷害（每0.5秒最多觸發一次）\n<@ba.acrem>若該【阿戈爾】盟約幹員同時裝備“阿戈爾重刃”，則自身受到傷害時額外造成一次<@ba.vup>50%</>攻擊力的法術傷害（每0.5秒最多觸發一次）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215056,7 +216128,7 @@
     "levels": [
       {
         "name": "海溝實驗體",
-        "description": "受到的傷害-300點；若攜帶者為【阿戈爾】盟約幹員，該幹員觸發【阿戈爾】盟約<@ba.vup>吞噬</>效果的範圍改為周圍四格，並讓【阿戈爾】盟約獲得對應層數\n<@ba.acrem>若該【阿戈爾】盟約幹員同時攜帶“阿戈爾重刃”，<@ba.vup>吞噬</>周圍四格幹員時額外獲得其等量生命值</>",
+        "description": "獲得<@ba.vup>300</>點<$ba.dmgresistance>傷害減免</>；若攜帶者為【阿戈爾】盟約幹員，自身受到傷害時對傷害來源造成自身攻擊力<@ba.vup>50%</>的法術傷害（每0.5秒最多觸發一次）\n<@ba.acrem>若該【阿戈爾】盟約幹員同時裝備“阿戈爾重刃”，則自身受到傷害時額外造成一次<@ba.vup>50%</>的攻擊力的法術傷害（每0.5秒最多觸發一次）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215078,7 +216150,7 @@
     "levels": [
       {
         "name": "蒸汽之心",
-        "description": "攻擊速度+35；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時攜帶“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
+        "description": "攻擊速度<@ba.vup>+35</>；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時裝備“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215100,7 +216172,7 @@
     "levels": [
       {
         "name": "蒸汽之心",
-        "description": "攻擊速度+60；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時攜帶“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
+        "description": "攻擊速度<@ba.vup>+55</>；若攜帶者為【維多利亞】盟約幹員，該幹員獲得目前場上所有維式重鎚特殊效果\n<@ba.acrem>若該【維多利亞】盟約幹員同時裝備“維式重鎚”系列裝備，該“維式重鎚”裝備特殊效果獲得強化（效果變為2倍）</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215122,7 +216194,7 @@
     "levels": [
       {
         "name": "耶拉岡德之淚",
-        "description": "法術抗性+30；若攜帶者為【謝拉格】盟約幹員，該幹員擊倒敵人時使周圍一定範圍內的其他敵人受到2秒<$ba.cold>寒冷</>\n<@ba.acrem>若該【謝拉格】盟約幹員同時攜帶“謝拉格不融冰”，擊倒敵人時使周圍一定範圍內的其他敵人額外受到一次2秒<$ba.cold>寒冷</></>",
+        "description": "法術抗性<@ba.vup>+30</>；若攜帶者為【謝拉格】盟約幹員，該幹員攻擊範圍內被<$ba.cold>寒冷</>或<$ba.frozen>凍結</>的敵人每秒受到一次自身攻擊力<@ba.vup>30%</>的法術傷害\n<@ba.acrem>若該【謝拉格】盟約幹員同時裝備“謝拉格不融冰”，則使自身攻擊範圍內<$ba.cold>寒冷</>或<$ba.frozen>凍結</>的敵人每秒受到的法術傷害提升至<@ba.vup>100%</>攻擊力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215144,7 +216216,7 @@
     "levels": [
       {
         "name": "耶拉岡德之淚",
-        "description": "法術抗性+50；若攜帶者為【謝拉格】盟約幹員，該幹員擊倒敵人時使周圍一定範圍內的其他敵人受到2秒<$ba.cold>寒冷</>\n<@ba.acrem>若該【謝拉格】盟約幹員同時攜帶“謝拉格不融冰”，擊倒敵人時使周圍一定範圍內的其他敵人額外受到一次2秒寒冷<$ba.cold></></>",
+        "description": "法術抗性<@ba.vup>+50</>；若攜帶者為【謝拉格】盟約幹員，該幹員攻擊範圍內被<$ba.cold>寒冷</>或<$ba.frozen>凍結</>的敵人每秒受到一次自身攻擊力<@ba.vup>30%</>的法術傷害\n<@ba.acrem>若該【謝拉格】盟約幹員同時裝備“謝拉格不融冰”，則使自身攻擊範圍內<$ba.cold>寒冷</>或<$ba.frozen>凍結</>的敵人每秒受到的法術傷害提升至<@ba.vup>100%</>攻擊力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215166,7 +216238,7 @@
     "levels": [
       {
         "name": "黃沙羅盤",
-        "description": "初始技力+25；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復30點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時攜帶“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復3點技力</>",
+        "description": "初始技力<@ba.vup>+30</>；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復<@ba.vup>30</>點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時裝備“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復<@ba.vup>3</>點技力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215188,7 +216260,7 @@
     "levels": [
       {
         "name": "黃沙羅盤",
-        "description": "初始技力+40；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復30點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時攜帶“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復5點技力</>",
+        "description": "初始技力<@ba.vup>+50</>；若攜帶者為【薩爾貢】盟約幹員，該幹員首次技能結束時立刻回復<@ba.vup>30</>點技力\n<@ba.acrem>若該【薩爾貢】盟約幹員同時裝備“薩爾貢濃茶”，每次開啟技能時為全部【薩爾貢】幹員回復<@ba.vup>3</>點技力</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215210,7 +216282,7 @@
     "levels": [
       {
         "name": "信標",
-        "description": "裝備時，目標幹員和本裝備銷毀並自動選擇1位在場相應盟約人數最多的隊友，下個休整期向其<@ba.vup>發送</>1個同品質的同名幹員\n<@ba.acrem>若無符合條件者則返還該幹員</>\n<@ba.acrem>無法裝備給自選幹員</>",
+        "description": "裝備時，目標幹員和本裝備銷毀並進行一次特殊更新，出現兩名與攜帶者同等階的幹員，免費獲得其中一名\n<@ba.rem>若在同盟模擬中且存在其他隊友，下個休整期向相應盟約人數最多的隊友發送1個原幹員</>\n<@ba.acrem>相應盟約人數相同則隨機發送</>\n<@ba.acrem>無法裝備給自編幹員</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215232,7 +216304,7 @@
     "levels": [
       {
         "name": "信標",
-        "description": "裝備時，目標幹員和本裝備銷毀並自動選擇1位在場相應盟約人數最多的隊友，下個休整期向其<@ba.vup>發送</>1個同品質的同名幹員\n<@ba.acrem>若無符合條件者則返還該幹員</>\n<@ba.acrem>無法裝備給自選幹員</>",
+        "description": "裝備時，目標幹員和本裝備銷毀並進行一次特殊更新，出現兩名與攜帶者同等階的幹員，免費獲得其中一名\n<@ba.rem>若在同盟模擬中且存在其他隊友，下個休整期向相應盟約人數最多的隊友發送1個原幹員</>\n<@ba.acrem>相應盟約人數相同則隨機發送</>\n<@ba.acrem>無法裝備給自編幹員</>",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {
@@ -215254,7 +216326,7 @@
     "levels": [
       {
         "name": "“雙眼皮”",
-        "description": "根據目前層數最高的盟約獲得強化：每層盟約層數使自身攻擊速度+1，攻擊額外附帶造成0.1%<$ba.fragile>脆弱</>，持續2秒（最多300層）",
+        "description": "根據目前層數最高的盟約獲得強化：每層盟約層數使自身攻擊速度<@ba.vup>+1</>，攻擊額外附帶造成<@ba.vup>0.1%</><$ba.fragile>脆弱</>，持續2秒（最多300層）",
         "skillType": "PASSIVE",
         "durationType": "NONE",
         "spData": {

@@ -250,7 +250,7 @@
       "hasAdditionalPanel": false,
       "sixStarMilestoneGroupId": "main_15",
       "bindMainlineRetroZoneId": "permanent_main_1_zone1",
-      "diamondRewardCount": 0
+      "diamondRewardCount": 42
     },
     "act3mainss_zone1": {
       "zoneID": "act3mainss_zone1",
@@ -268,7 +268,7 @@
       "hasAdditionalPanel": false,
       "sixStarMilestoneGroupId": "main_16",
       "bindMainlineRetroZoneId": "permanent_main_2_zone1",
-      "diamondRewardCount": 0
+      "diamondRewardCount": 39
     },
     "weekly_1": {
       "zoneID": "weekly_1",
@@ -700,6 +700,15 @@
       "zoneID": "rogue_5",
       "zoneIndex": 5,
       "type": "ROGUELIKE",
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "diamondRewardCount": 0
+    },
+    "act20mini_zone1": {
+      "zoneID": "act20mini_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameSecond": "暗帳",
       "canPreview": false,
       "hasAdditionalPanel": false,
       "diamondRewardCount": 0
@@ -4056,6 +4065,10 @@
     }
   },
   "zoneValidInfo": {
+    "act20mini_zone1": {
+      "startTs": 1789365600,
+      "endTs": 1789934399
+    },
     "act2break_zone1": {
       "startTs": 1788163200,
       "endTs": 1789934399

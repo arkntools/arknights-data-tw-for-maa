@@ -3271,6 +3271,32 @@
       "gachaRuleType": "DOUBLE"
     },
     {
+      "gachaPoolId": "SINGLE_TC_41_0_1",
+      "gachaIndex": 39,
+      "openTime": 1789365600,
+      "endTime": 1790539199,
+      "gachaPoolName": "以我的方式",
+      "gachaPoolSummary": "結束於9月28日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "定向選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "SINGLE"
+    },
+    {
+      "gachaPoolId": "DOUBLE_TC_41_0_2",
+      "gachaIndex": 862,
+      "openTime": 1790020800,
+      "endTime": 1791230399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於10月6日 03:59",
+      "gachaPoolDetail": "-",
+      "guaranteeName": "標準選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "DOUBLE"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 10,
       "openTime": 1622100600,
@@ -4803,6 +4829,21 @@
       }
     },
     {
+      "gachaPoolId": "CLASSIC_DOUBLE_TC_41_0_1",
+      "gachaIndex": 9932,
+      "openTime": 1789588800,
+      "endTime": 1790798399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於10月1日 03:59",
+      "guaranteeName": "中堅選調",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "CLASSIC_DOUBLE",
+      "dynMeta": {
+        "base64": "vgAAAAJtYWluNlJhcml0eUNoYXJJZAAPAAAAY2hhcl8zNDBfc2h3YXoAAnN1YjZSYXJpdHlDaGFySWQAEAAAAGNoYXJfNDM3X21penVraQAEcmFyZTVDaGFyTGlzdABJAAAAAjAAEAAAAGNoYXJfMjAxX21vZXNoZAACMQAPAAAAY2hhcl8xMjlfYmx1ZXAAAjIAEAAAAGNoYXJfNDIyX2F1cm9yYQAAEnNjcm9sbEluZGV4AAgAAAAAAAAAAA=="
+      }
+    },
+    {
       "gachaPoolId": "SPECIAL_TC_33_0_3",
       "gachaIndex": 40,
       "openTime": 1752220800,
@@ -4884,6 +4925,20 @@
       "gachaRuleType": "SPECIAL",
       "dynMeta": {
         "base64": "+gQAAANyYXJpdHlQaWNrQ2hhckRpY3QAOgEAAARUSUVSXzUAkwAAAAIwABAAAABjaGFyXzQ3Nl9ibGtuZ3QAAjEAEQAAAGNoYXJfNDEyMl9ncmFiZHMAAjIAEAAAAGNoYXJfMTAzNl9mYW5nMgACMwARAAAAY2hhcl80MTc4X2FsYW5uYQACNAARAAAAY2hhcl80MTk2X3JlY2twcgACNQARAAAAY2hhcl80MjA3X2JyYW5jaAAABFRJRVJfNgCSAAAAAjAAEQAAAGNoYXJfMTAxOV9zaWVnZTIAAjEAEAAAAGNoYXJfNDEzM19sb2dvcwACMgARAAAAY2hhcl80MjAyX2hhcnVrYQACMwARAAAAY2hhcl80MTc5X21vbnN0cgACNAAQAAAAY2hhcl80MTQ2X255bXBoAAI1ABAAAABjaGFyXzQwMjdfaGV5YWsAAAACc3RhcjZDaG9vc2VSdWxlAJcAAADmnKzmnJ/jgJDlrprlkJHnlITpgbjjgJHlj6/lvp7ku6XkuIs24piF5bm55ZOh56+E5ZyN5YWn6Ieq6YG4PEBnYS5TUEdhY2hhPjPlkI3lubnlk6E8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGE+5ZCI6KiI5Ye654++5qmf546H5L2UNuKYheWHuueOh+eahDEwMCU8Lz4AAnN0YXI1Q2hvb3NlUnVsZQCWAAAA5pys5pyf44CQ5a6a5ZCR55SE6YG444CR5Y+v5b6e5Lul5LiLNeKYheW5ueWToeevhOWcjeWFp+iHqumBuDxAZ2EuU1BHYWNoYT4z5ZCN5bm55ZOhPC8+77yM5L2/5YW2PEBnYS5TUEdhY2hhPuWQiOioiOWHuuePvuapn+eOh+S9lDXimIXlh7rnjofnmoQ2MCU8Lz4AAmRldGFpbFRpdGxlABkAAADlrprlkJHnlITpgbjljaHmsaDku4vntLkAAmRldGFpbEluZm8ABAEAADxAZ2EuU1BHYWNoYT7jgJDlrprlkJHnlITpgbjjgJE8Lz7mnJ/plpPvvIzlj6/lnKg8QGdhLlNQR2FjaGE+5pys5pyf5bm55ZOh56+E5ZyN5YWn6Ieq55Sx6YG45pOH5Lim6Y6W5a6aPC8+5qmf546H5o+Q5Y2H55qEPEBnYS5TUEdhY2hhPjPlkI024piF5bm55ZOhPC8+5ZKMPEBnYS5TUEdhY2hhPjPlkI014piF5bm55ZOhPC8+CjxAZ2EuU1BHYWNoYT7kuIDml6bpgbjlrprmqZ/njofmj5DljYflubnlk6HlvozvvIzmnKzmnJ/kuI3lj6/orormm7Q8Lz7jgIIAAmhvbWVJbnRyb0Rlc2MA/wAAAOWumuWQkeeUhOmBuOWPr+WcqOacrOacn+W5ueWToeevhOWcjeWFpzxAZ2EuU1BHYWNoYT7oh6rnlLHpgbjmk4fkuKbpjpblrpo8Lz7mqZ/njofmj5DljYfnmoQ8QGdhLlNQR2FjaGE+M+WQjTbimIXlubnlk6Hlkowz5ZCNNeKYheW5ueWToTwvPu+8gemBuOWumuW+jOacrOacn+Wwi+ioqjxAZ2EuU1BHYWNoYT7kuI3lj6/orormm7Q8Lz7jgILliY0xMOasoeWwi+ioquW/heWumueNsuW+lzxAZ2EuU1BHYWNoYT414piFPC8+5Lul5LiK5bm55ZOh77yBAAA="
+      }
+    },
+    {
+      "gachaPoolId": "RETURN_TC_41_0_1",
+      "gachaIndex": 41,
+      "openTime": 1789365600,
+      "endTime": 1920916799,
+      "gachaPoolName": "歸航尋訪",
+      "gachaPoolSummary": "結束於{0}",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "gachaRuleType": "BACKFLOW",
+      "dynMeta": {
+        "base64": "TgUAAANyYXJpdHlQaWNrQ2hhckRpY3QAMwEAAARUSUVSXzUAjwAAAAIwABAAAABjaGFyXzQ5N19jdGFibGUAAjEAEAAAAGNoYXJfNDAzMl9wcm92cwACMgAQAAAAY2hhcl80MDcxX3BlcGVyAAIzABEAAABjaGFyXzQwMTRfbHVuYWN1AAI0ABAAAABjaGFyXzQ5M19maXJ3aGwAAjUADwAAAGNoYXJfNDQ2X2Fyb21hAAAEVElFUl82AI8AAAACMAAQAAAAY2hhcl8xMDIwX3JlZWQyAAIxABEAAABjaGFyXzQwODJfcWl1YmFpAAIyABEAAABjaGFyXzIwMTJfdHlwaG9uAAIzABAAAABjaGFyXzEwMzJfZXhjdTIAAjQADgAAAGNoYXJfNDExN19yYXkAAjUAEAAAAGNoYXJfNDEzMl9hc2NsbgAAAAJzdGFyNkNob29zZVJ1bGUApQAAAOacrOacn+OAkOatuOiIquWwi+ioquOAkeWPr+W+nuS7peS4izbimIXlubnlk6Hnr4TlnI3lhafoh6rpgbg8QGdhLlNQR2FjaGEuUmV0dXJuPjPlkI3lubnlk6E8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGEuUmV0dXJuPuWQiOioiOWHuuePvuapn+eOh+WNoDbimIXlh7rnjofnmoQxMDAlPC8+AAJzdGFyNUNob29zZVJ1bGUApAAAAOacrOacn+OAkOatuOiIquWwi+ioquOAkeWPr+W+nuS7peS4izXimIXlubnlk6Hnr4TlnI3lhafoh6rpgbg8QGdhLlNQR2FjaGEuUmV0dXJuPjPlkI3lubnlk6E8Lz7vvIzkvb/lhbY8QGdhLlNQR2FjaGEuUmV0dXJuPuWQiOioiOWHuuePvuapn+eOh+WNoDXimIXlh7rnjofnmoQ2MCU8Lz4AAmRldGFpbFRpdGxlABkAAADmrbjoiKrlsIvoqKrljaHmsaDku4vntLkAAmRldGFpbEluZm8AJwEAADxAZ2EuU1BHYWNoYS5SZXR1cm4+44CQ5q246Iiq5bCL6Kiq44CRPC8+5pyf6ZaT77yM5Y+v5ZyoPEBnYS5TUEdhY2hhLlJldHVybj7mnKzmnJ/lubnlk6Hnr4TlnI3lhafoh6rnlLHpgbjmk4fkuKbpjpblrpo8Lz7mqZ/njofmj5DljYfnmoQ8QGdhLlNQR2FjaGEuUmV0dXJuPjPlkI024piF5bm55ZOhPC8+5ZKMPEBnYS5TUEdhY2hhLlJldHVybj4z5ZCNNeKYheW5ueWToTwvPgo8QGdhLlNQR2FjaGEuUmV0dXJuPuS4gOaXpumBuOWumuapn+eOh+aPkOWNh+W5ueWToeW+jO+8jOacrOacn+S4jeWPr+iuiuabtDwvPuOAggACaG9tZUludHJvRGVzYwAbAQAA5q246Iiq5bCL6Kiq5Y+v5Zyo5pys5pyf5bm55ZOh56+E5ZyN5YWnPEBnYS5TUEdhY2hhLlJldHVybj7oh6rnlLHpgbjmk4fkuKbpjpblrpo8Lz7mqZ/njofmj5DljYfnmoQ8QGdhLlNQR2FjaGEuUmV0dXJuPjPlkI024piF5bm55ZOh5ZKMM+WQjTXimIXlubnlk6E8Lz7vvIHpgbjlrprlvozmnKzmnJ/lsIvoqKo8QGdhLlNQR2FjaGEuUmV0dXJuPuS4jeWPr+iuiuabtDwvPuOAguWJjTEw5qyh5bCL6Kiq5b+F5a6a542y5b6XPEBnYS5TUEdhY2hhLlJldHVybj414piFPC8+5Lul5LiK5bm55ZOh77yBAAA="
       }
     }
   ],
@@ -7731,6 +7786,27 @@
       "startTime": 1788811200,
       "endTime": 1790020799,
       "spriteId": "picDouble_tc_40_0_7"
+    },
+    {
+      "poolId": "RETURN_TC_41_0_1",
+      "index": 41,
+      "startTime": 1789365600,
+      "endTime": 1920916799,
+      "spriteId": "picReturn_tc_41_0_1"
+    },
+    {
+      "poolId": "SINGLE_TC_41_0_1",
+      "index": 39,
+      "startTime": 1789365600,
+      "endTime": 1790539199,
+      "spriteId": "picSingle_tc_41_0_1"
+    },
+    {
+      "poolId": "DOUBLE_TC_41_0_2",
+      "index": 862,
+      "startTime": 1790020800,
+      "endTime": 1791230399,
+      "spriteId": "picDouble_tc_41_0_2"
     },
     {
       "poolId": "FESCLASSIC_TC_23_0_4",
